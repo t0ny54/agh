@@ -1,0 +1,9 @@
+{
+  "name": "test list",
+  "sources": [
+    {
+      "source": "blocklist.txt",
+      "transformations": ["RemoveComments", "Compress"]
+    }
+  ]
+}
