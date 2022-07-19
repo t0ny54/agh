@@ -1,11 +1,11 @@
-name: Update Blacklist
+name: Update Blacklist AGH
 on:
   push:
     paths-ignore:
     - '.github/**'
     - 'README.md'
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
 
 jobs:
   build-blocklist:
@@ -20,12 +20,12 @@ jobs:
       - name: Build blocklist
         uses: actions/checkout@v3
       - run: |
-          chmod +x ./blocklist-aggregator.sh
-          ./blocklist-aggregator.sh -o blocklist.txt
-          chmod +x ./whitelist-aggregator.sh
-          ./whitelist-aggregator.sh -o whitelist.txt
-          chmod +x ./adultfilter-aggregator.sh
-          ./adultfilter-aggregator.sh -o adultfilter.txt
+          yarn add @adguard/hostlist-compiler
+          hostlist-compiler -c configuration1.json -o blocklist-agh.txt
+          yarn add @adguard/hostlist-compiler
+          hostlist-compiler -c configuration2.json -o whitelist-agh.txt
+          yarn add @adguard/hostlist-compiler
+          hostlist-compiler -c configuration3.json -o adultfilter-agh.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
