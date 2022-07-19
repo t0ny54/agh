@@ -5,7 +5,7 @@ on:
     - '.github/**'
     - 'README.md'
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 13 * * *'
 
 jobs:
   build-blocklist:
@@ -29,5 +29,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "update blacklist"
+          git commit -m "Blacklist"
           git push
