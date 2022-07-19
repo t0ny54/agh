@@ -2,8 +2,8 @@
   "name": "test list",
   "sources": [
     {
-      source: 'https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt',
-      transformations: ['"RemoveComments", "Compress"'],
+      "source": "adultfilter.txt",
+      "transformations": ["RemoveComments", "Compress"]
     }
   ]
 }
