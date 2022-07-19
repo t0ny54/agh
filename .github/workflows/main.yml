@@ -5,7 +5,7 @@ on:
     - '.github/**'
     - 'README.md'
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build-blocklist:
@@ -22,6 +22,10 @@ jobs:
       - run: |
           chmod +x ./blocklist-aggregator.sh
           ./blocklist-aggregator.sh -o blocklist.txt
+          chmod +x ./whitelist-aggregator.sh
+          ./whitelist-aggregator.sh -o whitelist.txt
+          chmod +x ./adultfilter-aggregator.sh
+          ./adultfilter-aggregator.sh -o adultfilter.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
