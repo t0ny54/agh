@@ -1,0 +1,33 @@
+name: Update Blacklist AGH
+on:
+  push:
+    paths-ignore:
+    - '.github/**'
+    - 'README.md'
+  schedule:
+    - cron: '0 12 * * *'
+
+jobs:
+  build-blocklist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+
+      - name: Build blocklist
+        uses: actions/checkout@v3
+      - run: |
+          chmod +x ./blocklist-aggregator.sh
+          ./blocklist-aggregator.sh -o blocklist.txt
+          chmod +x ./whitelist-aggregator.sh
+          ./whitelist-aggregator.sh -o whitelist.txt
+          chmod +x ./adultfilter-aggregator.sh
+          ./adultfilter-aggregator.sh -o adultfilter.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update blacklist"
+          git push
