@@ -21,15 +21,15 @@ jobs:
         uses: actions/checkout@v3
       - rame: Install dependencies
         run: |
-        pip install --pre PyFunceble-dev
+        sudo pip3 install PyFunceble
 
     - name: Get PyFunceble version
         run: |
-        PyFunceble --version
+        sudo PyFunceble --version
 
     - name: Run PyFunceble
         run: |
-        PyFunceble -a --ci -dns 9.9.9.10:53 149.112.112.10:53 -f blocklist.txt --plain
+        sudo PyFunceble -a --ci -dns 9.9.9.10:53 149.112.112.10:53 -f blocklist.txt --plain
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
