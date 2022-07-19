@@ -21,7 +21,8 @@ jobs:
         uses: actions/checkout@v3
       - rame: Install dependencies
         run: |
-        sudo pip3 install PyFunceble
+        sudo python -m pip install --upgrade pip
+	sudo pip install PyFunceble
 
     - name: Get PyFunceble version
         run: |
@@ -35,4 +36,3 @@ jobs:
           git add .
           git commit -m "update blacklist"
           git push
-	  
