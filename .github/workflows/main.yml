@@ -20,7 +20,7 @@ jobs:
       - name: Build blocklist
         uses: actions/checkout@v3
       - run: |
-          sudo domain-aggregator.sh -o blocklist.txt
+          sh domain-aggregator.sh -o blocklist.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
