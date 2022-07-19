@@ -3,7 +3,7 @@
   "sources": [
     {
       source: 'https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt',
-      transformations: ['"RemoveComments", "Compress"'],
+      transformations: "Compress"
     }
   ]
 }
