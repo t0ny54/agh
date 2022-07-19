@@ -19,9 +19,7 @@ jobs:
 
       - name: Build blocklist
         uses: actions/checkout@v3
-      
-      - name: Run PyFunceble
-        run: |
+      - run: |
 	pip3 install PyFunceble
 	PyFunceble -a --ci -dns 9.9.9.10:53 149.112.112.10:53 -f blocklist.txt --plain
           git config user.name github-actions
