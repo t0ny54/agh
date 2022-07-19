@@ -3,7 +3,7 @@
   "sources": [
     {
       "source": "adultfilter.txt",
-      "transformations": ["transformations": ["RemoveComments", "Compress", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+      "transformations": ["RemoveComments", "Compress"]
     }
   ]
 }
