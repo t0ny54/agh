@@ -20,17 +20,11 @@ jobs:
       - name: Build blocklist
         uses: actions/checkout@v3
       - rame: Install dependencies
+        
+	- name: Run PyFunceble
         run: |
-        python3 -m pip install --upgrade pip
-	pip install PyFunceble
-
-    - name: Get PyFunceble version
-        run: |
-        sudo PyFunceble --version
-
-    - name: Run PyFunceble
-        run: |
-        PyFunceble -a --ci -dns 9.9.9.10:53 149.112.112.10:53 -f blocklist.txt --plain
+	pip3 install PyFunceble
+	PyFunceble -a --ci -dns 9.9.9.10:53 149.112.112.10:53 -f blocklist.txt --plain
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
