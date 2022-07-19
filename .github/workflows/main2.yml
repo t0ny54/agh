@@ -5,7 +5,7 @@ on:
     - '.github/**'
     - 'README.md'
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build-blocklist:
@@ -20,11 +20,11 @@ jobs:
       - name: Build blocklist
         uses: actions/checkout@v3
       - run: |
-          yarn add @adguard/hostlist-compiler
+          npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c configuration1.json -o blocklist-agh.txt
-          yarn add @adguard/hostlist-compiler
+          npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c configuration2.json -o whitelist-agh.txt
-          yarn add @adguard/hostlist-compiler
+          npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c configuration3.json -o adultfilter-agh.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
