@@ -1,4 +1,4 @@
-name: Update Blacklist AGH
+name: Update Blacklist
 on:
   push:
     paths-ignore:
