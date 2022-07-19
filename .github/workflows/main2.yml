@@ -23,9 +23,7 @@ jobs:
           npm i -g @adguard/hostlist-compiler
           hostlist-compiler -c configuration1.json -o blocklist-agh.txt
           npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -c configuration2.json -o whitelist-agh.txt
-          npm i -g @adguard/hostlist-compiler
-          hostlist-compiler -c configuration3.json -o adultfilter-agh.txt
+          hostlist-compiler -c configuration2.json -o adultfilter-agh.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
