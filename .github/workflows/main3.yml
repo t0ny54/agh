@@ -1,77 +1,25 @@
-name: PyFunceble CI tests
+name: PyFunceble
 on:
-push:
-    branches:
-    - "master"
-pull_request:
-    branches:
-    - "master"
-schedule:
-    - cron: "0 * * * *"
+  push:
+    paths-ignore:
+    - '.github/**'
 
-env:
-PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
-GIT_NAME: "${{ secrets.GIT_BOT_NAME }}"
-GIT_EMAIL: "${{ secrets.GIT_BOT_EMAIL }}"
-PYFUNCEBLE_CONFIG_DIR: "${{ github.workspace }}/.pyfunceble"
-GITHUB_TOKEN: "${{ secrets.BOT_REPO_PAT }}"
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-single:
-    name: Run PyFunceble with a single domain
-    runs-on: "${{ matrix.os }}"
-
-    strategy:
-    fail-fast: false
-    matrix:
-        python_version:
-        - "3.9.1"
-        os:
-        - ubuntu-latest
-
+  build-blocklist:
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-        name: Set up Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v2
-        with:
-        python-version: ${{ matrix.python_version }}
+      - name: Checkout
+        uses: actions/checkout@v3
 
-    - name: Install dependencies
-        run: |
-        pip install --pre PyFunceble-dev
+      - name: Setup Python
+        uses: actions/setup-python@v3
 
-    - name: Get PyFunceble version
-        run: |
-        PyFunceble --version
-
-    - name: Run PyFunceble
-        run: |
-        PyFunceble -a --logging-level critical -d github.com
-
-file_and_push:
-    name: Run PyFunceble against a file and push result to repository
-    runs-on: "${{ matrix.os }}"
-
-    strategy:
-    fail-fast: false
-    matrix:
-        python_version:
-        - "3.9.1"
-        os:
-        - ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v2
-        name: Clone repository
-        with:
-        token: "${{ secrets.BOT_REPO_PAT }}"
-
-    - name: Set up Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v2
-        with:
-        python-version: ${{ matrix.python_version }}
-
-    - name: Install dependencies
+      - name: Build blocklist
+        uses: actions/checkout@v3
+      - rame: Install dependencies
         run: |
         pip install --pre PyFunceble
 
@@ -82,4 +30,9 @@ file_and_push:
     - name: Run PyFunceble
         run: |
         PyFunceble -a --ci -dns 9.9.9.10:53 149.112.112.10:53 -f blocklist.txt --plain
-		
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "update blacklist"
+          git push
+	  
