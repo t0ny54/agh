@@ -1,9 +1,16 @@
 {
-  "name": "test list",
+  "name": "List name",
+  "description": "List description",
+  "homepage": "https://example.org/",
+  "license": "GPLv3",
   "sources": [
     {
-      source: 'https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt',
-      transformations: "Compress"
-    }
-  ]
+      "name": "Local rules",
+      "source": "blocklist.txt",
+      "type": "hosts",
+      "exclusions": ["excluded rule 1"]
+    },
+  ],
+  "transformations": ["Deduplicate", "Compress"],
+  "exclusions": ["excluded rule 1", "excluded rule 2"]
 }
