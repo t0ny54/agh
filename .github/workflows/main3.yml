@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v3
       - rame: Install dependencies
         run: |
-        pip install PyFunceble
+        pip install --pre PyFunceble-dev
 
     - name: Get PyFunceble version
         run: |
