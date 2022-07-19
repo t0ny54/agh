@@ -2,8 +2,8 @@
   "name": "test list",
   "sources": [
     {
-      "source": "whitelist.txt",
-      "transformations": ["RemoveComments", "Compress"]
+      "source": "blocklist.txt",
+      "transformations": ["RemoveComments", "Compress", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
     }
   ]
 }
