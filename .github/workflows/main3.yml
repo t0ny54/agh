@@ -21,4 +21,4 @@ jobs:
       - run: |
           python -m pip install --upgrade pip
           pip install --upgrade --pre pyfunceble-dev
-          PyFunceble -a --ci --logging-level critical -uf https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt
+          PyFunceble -uf https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt
