@@ -1,1 +1,1 @@
-# My Filterlist for blocklist & whitelist
+# My Filterlist
