@@ -1,14 +1,16 @@
 name: Update Blacklist AGH
-on:
-  push:
-    paths-ignore:
-    - '.github/**'
-    - 'README.md'
-  schedule:
-    - cron: '0 16 * * *'
 
+       # Controls when the workflow will run
+on:
+  # Triggers the workflow every 5 minutes
+  schedule:
+    - cron: "0 16 * * *"
+
+     # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  build-blocklist:
+  # This workflow contains a single job called "cron"
+  cron:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
