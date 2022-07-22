@@ -370,7 +370,7 @@ sanitize_domain_list() {
     # remove invalid domain names
     grep '\.' |\
     # filter out IDNA non-conforming domains
-    python_idna_encoder |\
+    #python_idna_encoder |\
     # sort (and remove duplicates) entries
     sort -u |\
     # remove all white-listed domains
