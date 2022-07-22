@@ -377,6 +377,12 @@ sanitize_domain_list() {
     grep -Evxf "$WHITELIST"
 }
 
+# remove the left-over temporary files
+clean_temporary_files() {
+    # remove the temporary files
+    rm -rf "$TEMP_DIR"/*.temporary
+}
+
 # helper - warn if something is missing
 verify_dependencies() {
     while test $# -gt 0
@@ -464,8 +470,9 @@ fetch_hostss \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_cruzit_web_attacks.netset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_commenters.ipset" \
-                "https://cinsscore.com/list/ci-badguys.txt' 
+                "https://cinsscore.com/list/ci-badguys.txt" 
 
 
 sanitize_domain_list > "$OUT_FILE"
 
+clean_temporary_files
