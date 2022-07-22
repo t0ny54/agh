@@ -377,12 +377,6 @@ sanitize_domain_list() {
     grep -Evxf "$WHITELIST"
 }
 
-# remove the left-over temporary files
-clean_temporary_files() {
-    # remove the temporary files
-    rm -rf "$TEMP_DIR"/*.temporary
-}
-
 # helper - warn if something is missing
 verify_dependencies() {
     while test $# -gt 0
@@ -475,4 +469,3 @@ fetch_hostss \
 
 sanitize_domain_list > "$OUT_FILE"
 
-clean_temporary_files
