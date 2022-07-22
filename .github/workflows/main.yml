@@ -26,8 +26,6 @@ jobs:
           ./whitelist-aggregator.sh -o whitelist.txt
           chmod +x ./adultfilter-aggregator.sh
           ./adultfilter-aggregator.sh -o adultfilter.txt
-          chmod +x ./ipblocklist-aggregator.sh
-          ./ipblocklist-aggregator.sh -o ipblocklist.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
