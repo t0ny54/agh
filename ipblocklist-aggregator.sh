@@ -438,7 +438,7 @@ fi
 mkdir -p "$TEMP_DIR/sources"
 
 echo "[*] updating domain list..."
-fetch_hostss \
+fetch_hosts \
                 "https://www.binarydefense.com/banlist.txt" \
                 "https://lists.blocklist.de/lists/all.txt" \
                 "https://blocklist.greensnow.co/greensnow.txt" \
