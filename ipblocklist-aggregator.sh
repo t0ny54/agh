@@ -24,9 +24,7 @@ alias grep='grep --text'
 
 # description / options for this script
 HELP_TXT="$(basename "$0") [-h] [-o /<path>] [-t /<path>] [-b /<path>] [-w /<path>]
-
 fetch and concatenate/clean a list of potentially unwanted domains
-
 options:
     -h  show this help text
     -o  path for the output file
@@ -34,7 +32,6 @@ options:
         default: /tmp
     -b  path to a list of domains to block
     -w  path to a list of domains to whitelist
-
 This program requires: awk, coreutils, curl, grep, gzip, jq, python3 and sed to be installed and accessible."
 
 
@@ -345,7 +342,6 @@ fetch_viriback_feed() {
 python_idna_encoder() {
     python3 -c "
 import sys;
-
 for line in sys.stdin:
     try:
         print(line.strip().encode('idna').decode('ascii'))
@@ -372,9 +368,9 @@ sanitize_domain_list() {
     # remove ips
     # grep -v '[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}$' |\
     # remove invalid domain names
-    # grep '\.' |\
+    grep '\.' |\
     # filter out IDNA non-conforming domains
-    # python_idna_encoder |\
+    python_idna_encoder |\
     # sort (and remove duplicates) entries
     sort -u |\
     # remove all white-listed domains
@@ -442,7 +438,7 @@ fi
 mkdir -p "$TEMP_DIR/sources"
 
 echo "[*] updating domain list..."
-fetch_domains_comments \
+fetch_hostss \
                 "https://www.binarydefense.com/banlist.txt" \
                 "https://lists.blocklist.de/lists/all.txt" \
                 "https://blocklist.greensnow.co/greensnow.txt" \
@@ -479,4 +475,4 @@ fetch_domains_comments \
 
 sanitize_domain_list > "$OUT_FILE"
 
-# clean_temporary_files
+clean_temporary_files
