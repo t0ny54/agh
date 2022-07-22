@@ -194,10 +194,6 @@ fetch_hosts() {
             # remove all ipv6 addresses in format:
             # - ::1<SPACE>
             sed -e 's/\:\:1\s//g'
-			# remove line comments and preserve the domains
-            sed -e 's/#.*$//' -e '/^$/d' < "$TARGET" |\
-            # remove all comments
-            grep -v '#'
         )
 
         # save the contents to a temporary file
