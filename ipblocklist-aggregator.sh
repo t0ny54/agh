@@ -479,4 +479,4 @@ fetch_domains_comments \
 
 sanitize_domain_list > "$OUT_FILE"
 
-clean_temporary_files
+# clean_temporary_files
