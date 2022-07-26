@@ -2,12 +2,11 @@ name: Update Blacklist AGH
 
        # Controls when the workflow will run
 on:
-  push:
-    paths-ignore:
-    - '.github/**'
+  # Triggers the workflow every 5 minutes
   schedule:
-    - cron: '0 16 * * *'
+    - cron: "0 16 * * *"
 
+     # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "cron"
   cron:
