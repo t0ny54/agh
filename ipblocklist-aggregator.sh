@@ -444,7 +444,6 @@ fetch_hosts \
                 "https://blocklist.greensnow.co/greensnow.txt" \
                 "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt" \
                 "https://bl.isx.fr/raw" \
-                "https://kriskintel.com/feeds/ktip_malicious_Ips.txt" \
                 "https://malware-filter.gitlab.io/malware-filter/phishing-filter-dnscrypt-blocked-ips.txt" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_30d.ipset" \
                 "https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=1&mimetype=plaintext" \
