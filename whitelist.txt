@@ -4038,6 +4038,7 @@ gov.in
 gov.pl
 gov.tw
 gov.uk
+govdelivery.com
 governmentjobs.com
 govtrack.us
 gowat.ch
