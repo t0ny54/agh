@@ -1,9 +1,0 @@
-{
-  "name": "test list",
-  "sources": [
-    {
-      "source": "adultfilter.txt",
-      "transformations": ["Compress"]
-    }
-  ]
-}
