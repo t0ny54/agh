@@ -3,7 +3,7 @@
   "sources": [
     {
       "source": "blocklist.txt",
-      "transformations": "Compress"
+      "transformations": ["Compress"]
     }
   ]
 }
