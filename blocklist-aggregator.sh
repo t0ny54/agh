@@ -443,10 +443,8 @@ mkdir -p "$TEMP_DIR/sources"
 
 echo "[*] updating domain list..."
 fetch_domains_comments \
-    "https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt"
-
-fetch_hosts \
-    "https://raw.githubusercontent.com/anT0ny54/blocklist/main/lists/hosts"
+    "https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt" \
+    "https://raw.githubusercontent.com/anT0ny54/blocklist/main/blocklist.txt"
 
 sanitize_domain_list > "$OUT_FILE"
 
