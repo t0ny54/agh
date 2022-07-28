@@ -3,7 +3,7 @@
   "sources": [
     {
       "source": "adultfilter.txt",
-      "transformations": "Compress"
+      "transformations": ["Compress"]
     }
   ]
 }
