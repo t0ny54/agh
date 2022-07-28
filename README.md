@@ -1,1 +1,1 @@
-# My Filterlist for AGH and DNSCrypt
+# My Filterlist
