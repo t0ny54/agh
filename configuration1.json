@@ -3,7 +3,7 @@
   "sources": [
     {
       "source": "blocklist.txt",
-      "transformations": ["RemoveComments", "Compress"]
+      "transformations": ["Deduplicate", "Compress"]
     }
   ]
 }
