@@ -1,12 +1,17 @@
 name: Update Blacklist
-
-       # Controls when the workflow will run
 on:
-  # Triggers the workflow every 5 minutes
+  push:
+    paths-ignore:
+    - '.github/**'
+    - 'lists/**'
+    - '*.txt'
+    - '*.yaml'
+    - '*.conf'
+    - '*.txt'
+    - '*.sh'
   schedule:
-    - cron: "0 13 * * *"
+    - cron: '0 13 * * *'
 
-     # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build-blocklist:
     runs-on: ubuntu-latest
