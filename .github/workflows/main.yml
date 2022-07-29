@@ -1,4 +1,4 @@
-name: Update Blacklist
+name: Update List
 on:
   push:
     paths-ignore:
@@ -9,6 +9,7 @@ on:
     - '*.conf'
     - '*.txt'
     - '*.sh'
+    - 'README.md'
   schedule:
     - cron: '0 13 * * *'
 
@@ -36,5 +37,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Blacklist"
+          git commit -m "List"
           git push
