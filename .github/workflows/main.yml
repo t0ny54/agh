@@ -1,4 +1,4 @@
-name: Update List
+name: Update Whitelist
 on:
   push:
     paths-ignore:
@@ -28,16 +28,8 @@ jobs:
       - run: |
           chmod +x ./whitelist-aggregator.sh
           ./whitelist-aggregator.sh -o whitelist.txt
-          chmod +x ./nxdomainlist-aggregator.sh
-          ./nxdomainlist-aggregator.sh -o nxdomainlist.txt
-          chmod +x ./blocklist-aggregator.sh
-          ./blocklist-aggregator.sh -o blocklist.txt -w nxdomainlist.txt
-          chmod +x ./adultfilter-aggregator.sh
-          ./adultfilter-aggregator.sh -o adultfilter.txt -w nxdomainlist.txt
-          chmod +x ./ipblocklist-aggregator.sh
-          ./ipblocklist-aggregator.sh -o ipblocklist.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "List"
+          git commit -m "whitelist"
           git push
