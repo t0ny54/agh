@@ -8,7 +8,6 @@ on:
     - '*.yaml'
     - '*.conf'
     - '*.txt'
-    - '*.sh'
     - 'README.md'
   schedule:
     - cron: '0 13 * * *'
