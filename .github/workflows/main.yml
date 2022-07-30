@@ -9,7 +9,6 @@ on:
     - '*.conf'
     - '*.txt'
     - '*.sh'
-    - 'README.md'
   schedule:
     - cron: '0 13 * * *'
 
@@ -27,7 +26,7 @@ jobs:
         uses: actions/checkout@v3
       - run: |
           chmod +x ./whitelist-aggregator.sh
-          ./whitelist-aggregator.sh -o white.list
+          ./whitelist-aggregator.sh -o whitelist.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
