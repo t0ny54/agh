@@ -9,7 +9,6 @@ on:
     - '*.conf'
     - '*.txt'
     - '*.sh'
-    - 'README.md'
   schedule:
     - cron: '30 13 * * *'
 
@@ -27,7 +26,7 @@ jobs:
         uses: actions/checkout@v3
       - run: |
           chmod +x ./blocklist-aggregator.sh
-          ./blocklist-aggregator.sh -o blocklist.txt -w nxdomainlist.txt
+          ./blocklist-aggregator.sh -w nxdomainlist.txt -o blocklist.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
