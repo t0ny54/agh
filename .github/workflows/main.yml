@@ -8,7 +8,6 @@ on:
     - '*.yaml'
     - '*.conf'
     - '*.txt'
-    - 'README.md'
   schedule:
     - cron: '0 13 * * *'
 
@@ -30,9 +29,9 @@ jobs:
           chmod +x ./nxdomainlist-aggregator.sh
           ./nxdomainlist-aggregator.sh -o nxdomainlist.txt
           chmod +x ./blocklist-aggregator.sh
-          ./blocklist-aggregator.sh -o blocklist.txt -w whitelist.txt
+          ./blocklist-aggregator.sh -o blocklist.txt -w nxdomainlist.txt
           chmod +x ./adultfilter-aggregator.sh
-          ./adultfilter-aggregator.sh -o adultfilter.txt -w whitelist.txt
+          ./adultfilter-aggregator.sh -o adultfilter.txt -w nxdomainlist.txt
           chmod +x ./ipblocklist-aggregator.sh
           ./ipblocklist-aggregator.sh -o ipblocklist.txt
           git config user.name github-actions
