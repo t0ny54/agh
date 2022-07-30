@@ -17,16 +17,14 @@ export LC_ALL="C"
 # don't print out anything (silent)
 # add user-agent
 # - some websites refuse the connection if the UA is cURL
-alias curl='curl --compressed --location --no-keepalive --remote-time --retry 3 --retry-delay 10 --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"'
+alias curl='curl --compressed --location --no-keepalive --remote-time --retry 3 --retry-delay 30 --fail --silent --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"'
 
 # force grep to work with text in order to avoid some files being treated as binaries
 alias grep='grep --text'
 
 # description / options for this script
 HELP_TXT="$(basename "$0") [-h] [-o /<path>] [-t /<path>] [-b /<path>] [-w /<path>]
-
 fetch and concatenate/clean a list of potentially unwanted domains
-
 options:
     -h  show this help text
     -o  path for the output file
@@ -34,7 +32,6 @@ options:
         default: /tmp
     -b  path to a list of domains to block
     -w  path to a list of domains to whitelist
-
 This program requires: awk, coreutils, curl, grep, gzip, jq, python3 and sed to be installed and accessible."
 
 
@@ -345,7 +342,6 @@ fetch_viriback_feed() {
 python_idna_encoder() {
     python3 -c "
 import sys;
-
 for line in sys.stdin:
     try:
         print(line.strip().encode('idna').decode('ascii'))
