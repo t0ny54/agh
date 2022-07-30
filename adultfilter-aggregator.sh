@@ -17,7 +17,7 @@ export LC_ALL="C"
 # don't print out anything (silent)
 # add user-agent
 # - some websites refuse the connection if the UA is cURL
-alias curl='curl --compressed --location --no-keepalive --remote-time --retry 3 --retry-delay 30 --fail --silent --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"'
+alias curl='curl --compressed --location --no-keepalive --remote-time --retry 3 --retry-delay 10 --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"'
 
 # force grep to work with text in order to avoid some files being treated as binaries
 alias grep='grep --text'
