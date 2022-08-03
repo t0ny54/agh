@@ -4873,6 +4873,7 @@ inmoment.com
 innovationresearch.huawei.com
 inputdirector.com
 inq.com
+inquisitr.com
 inreply.to
 inscname.net
 insight.rapid7.com
@@ -7931,6 +7932,7 @@ s.sc-cdn.net
 s.sc-jpl.com
 s.to
 s.w-x.co
+s.yam.com
 s.zkcdn.net
 s0.ipstatp.com
 s0.net
