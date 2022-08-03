@@ -24,9 +24,7 @@ alias grep='grep --text'
 
 # description / options for this script
 HELP_TXT="$(basename "$0") [-h] [-o /<path>] [-t /<path>] [-b /<path>] [-w /<path>]
-
 fetch and concatenate/clean a list of potentially unwanted domains
-
 options:
     -h  show this help text
     -o  path for the output file
@@ -34,7 +32,6 @@ options:
         default: /tmp
     -b  path to a list of domains to block
     -w  path to a list of domains to whitelist
-
 This program requires: awk, coreutils, curl, grep, gzip, jq, python3 and sed to be installed and accessible."
 
 
@@ -345,7 +342,6 @@ fetch_viriback_feed() {
 python_idna_encoder() {
     python3 -c "
 import sys;
-
 for line in sys.stdin:
     try:
         print(line.strip().encode('idna').decode('ascii'))
