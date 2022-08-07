@@ -21,12 +21,12 @@ Different formats for various devices.
 
 | PACKAGE | HOSTS | DOMAINS | DOMAINS with Wildcard (recommended) |
 |---------|:-------:|:---------:|:----------:|
-Blocklist | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) |
-Adult Filter | [TXT](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) |
-Blocklist+Adult Filter | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) |  | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) |
-Whitelist |  | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
-IPS Blocklist |  | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
+Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) |
+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) |
+Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) |  | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) |
+Whitelist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
+IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
 
 <div align="right">
-  <sub>Project with full of ❤
+  <sub>Project with full of ❤ from antonyitunamaku
 </div>
