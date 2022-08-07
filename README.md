@@ -19,7 +19,7 @@ Different formats for various devices.
 
 ### Packs
 
-| PACKAGE | HOSTS TXT | DOMAINS | DOMAINS with Wildcard |
+| PACKAGE | HOSTS | DOMAINS | DOMAINS with Wildcard (recommended) |
 |---------|:-------:|:---------:|:----------:|
 Blocklist | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) |
 Adult Filter | [TXT](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt) | [TXT](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) |
