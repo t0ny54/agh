@@ -12,7 +12,7 @@ on:
     - '*.py'
     - 'README.md'
   schedule:
-    - cron: '30 13 * * *'
+    - cron: '30 10 * * *'
 
 jobs:
   build-blocklist:
