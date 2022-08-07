@@ -1,14 +1,7 @@
-<div align="center">
-![Cover](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AdGuard.svg/80px-AdGuard.svg.png)
-</div>
-  
-<div align="center">
+<div align="Center">
   <h1>My Blocklist</h1>
 </div>
 
-<div align="center">
-  <sub>Project with ❤.
-</div>
 
 ## Notice
 
@@ -33,3 +26,7 @@ Adult Filter | [TXT](https://raw.githubusercontent.com/t0ny54/adultfilterwithreg
 Blocklist+Adult Filter | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) |  | [TXT](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) |
 Whitelist |  | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
 IPS Blocklist |  | [TXT](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
+
+<div align="right">
+  <sub>Project with full of ❤
+</div>
