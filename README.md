@@ -35,10 +35,6 @@ Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blockli
 Whitelist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
 IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
 
-<div align="right">
-  <sub>Project with full of ❤ from antonyitunamaku
-</div>
-
 ## Supporting My Filter List
 If you are intrested in supporting the project you can:
  - Donate Bitcoin: 1HN34B34i4BifoHJaM9JCqTFf2KpeYxsrq
@@ -49,3 +45,7 @@ If you are intrested in supporting the project you can:
  - Donate Litecoin: MQsbaz15wn24sd4fyUCDvHbAQpbe5KfF2Q
  - Donate Dash: Xbn144txmSiHBFxsJm86quxnQ2ovZdg86a
  - Donate Tron: TCQhCKDZmHY8ngtyAfH854UssDJTxyTqTc
+
+<div align="right">
+  <sub>Project with full of ❤ from antonyitunamaku
+</div>
