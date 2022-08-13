@@ -459,13 +459,11 @@ fetch_hosts \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botvrij_dst.ipset" \
                 "https://block.energized.pro/extensions/ips/formats/list.txt" \
                 "https://sblam.com/blacklist.txt" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/gpf_comics.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/haley_ssh.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dyndns_ponmocup.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_30d.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/nixspam.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_cruzit_web_attacks.netset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_commenters.ipset" \
