@@ -27,7 +27,7 @@ Different formats for various devices.
 
 ### Packs
 
-| PACKAGE | HOSTS | DOMAINS with Wildcard (recommended) |
+| PACKAGE | HOSTS | DOMAINS (recommended) |
 |---------|:-------:|:----------:|
 Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) |
 Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) |
