@@ -439,35 +439,35 @@ mkdir -p "$TEMP_DIR/sources"
 
 echo "[*] updating domain list..."
 fetch_hosts \
-                "https://www.binarydefense.com/banlist.txt" \
-                "https://lists.blocklist.de/lists/all.txt" \
-                "https://blocklist.greensnow.co/greensnow.txt" \
-                "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt" \
+                "http://www.botvrij.eu/data/ioclist.ip-dst.raw" \
                 "https://bl.isx.fr/raw" \
-                "https://malware-filter.gitlab.io/malware-filter/phishing-filter-dnscrypt-blocked-ips.txt" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_30d.ipset" \
-                "https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=1&mimetype=plaintext" \
+                "https://block.energized.pro/extensions/ips/formats/list.txt" \
+                "https://blocklist.greensnow.co/greensnow.txt" \
+                "https://cinsscore.com/list/ci-badguys.txt" \
                 "https://danger.rulez.sk/projects/bruteforceblocker/blist.php" \
-                "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset" \
+                "https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt" \
+                "https://lists.blocklist.de/lists/all.txt" \
+                "https://malware-filter.gitlab.io/malware-filter/phishing-filter-dnscrypt-blocked-ips.txt" \
                 "https://mirai.security.gives/data/ip_list.txt" \
                 "https://myip.ms/files/blacklist/general/latest_blacklist.txt" \
-                "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" \
-                "https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt" \
-                "https://reputation.alienvault.com/reputation.generic" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_30d.ipset" \
-                "http://www.botvrij.eu/data/ioclist.ip-dst.raw" \
-                "https://block.energized.pro/extensions/ips/formats/list.txt" \
-                "https://sblam.com/blacklist.txt" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/haley_ssh.ipset" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dyndns_ponmocup.ipset" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_30d.ipset" \
-                "https://www.darklist.de/raw.php" \
+                "https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=1&mimetype=plaintext" \
+                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_1d.ipset" \
+                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_top20.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset" \
+                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dyndns_ponmocup.ipset" \
+                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset" \
+                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/haley_ssh.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_cruzit_web_attacks.netset" \
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/php_commenters.ipset" \
-                "https://cinsscore.com/list/ci-badguys.txt" 
+                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_1d.ipset" \
+                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset" \
+                "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt" \
+                "https://reputation.alienvault.com/reputation.generic" \
+                "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt" \
+                "https://sblam.com/blacklist.txt" \
+                "https://sslbl.abuse.ch/blacklist/sslipblacklist.txt" \
+                "https://www.binarydefense.com/banlist.txt" \
+                "https://www.darklist.de/raw.php" 
 
 
 sanitize_domain_list > "$OUT_FILE"
