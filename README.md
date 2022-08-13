@@ -39,7 +39,7 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
   <sub>Project with full of ❤ from antonyitunamaku
 </div>
 
-## Supporting Notracking blocklist
+## Supporting My Filter List
 If you are intrested in supporting the project you can:
  - Donate Bitcoin: 1HN34B34i4BifoHJaM9JCqTFf2KpeYxsrq
  - Donate Dogecoin: DPiQcmGMBRFudJ6x9ifAf63qxHsEGo71Ho
