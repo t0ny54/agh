@@ -31,7 +31,7 @@ Different formats for various devices.
 |---------|:-------:|:----------:|
 Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) |
 Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) |
-Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) |  | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) |
+Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) |
 Whitelist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
 IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
 
