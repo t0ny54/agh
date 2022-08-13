@@ -2,11 +2,12 @@
   <h1>My Filter List</h1>
 </div>
 
-# Usage:
+# Usage
 
 Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>, etc
 
 ## Features
+
 - remove comments
 - sort and remove duplicates entries
 - occasionally remove dead domains (except whitelist and ips blocklist)
@@ -36,6 +37,7 @@ Whitelist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelis
 IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
 
 ## Supporting My Filter List
+
 If you are intrested in supporting the project you can:
  - Donate Bitcoin: 1HN34B34i4BifoHJaM9JCqTFf2KpeYxsrq
  - Donate Dogecoin: DPiQcmGMBRFudJ6x9ifAf63qxHsEGo71Ho
