@@ -48,6 +48,6 @@ If you are intrested in supporting the project you can:
  - Donate Dash: Xbn144txmSiHBFxsJm86quxnQ2ovZdg86a
  - Donate Tron: TCQhCKDZmHY8ngtyAfH854UssDJTxyTqTc
 
-<div align="right">
-  <sub>Project with full of ❤ from antonyitunamaku
+<div align="center">
+  <sub>Project with full of ❤ by <a href=https://bearhero.tk target=_blank style=color:#f6f6f6><b>antonyitunamaku</b>
 </div>
