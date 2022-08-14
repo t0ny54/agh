@@ -4,7 +4,7 @@
 
 # Usage
 
-Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>, <a href="https://dnscrypt.info">DNSCrypt v2</a>, etc
+Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>, <a href="https://dnscrypt.info">DNSCrypt</a>, etc
 
 ## Features
 
@@ -24,17 +24,17 @@ Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="h
 
 ## Formats
 
-Different formats for various devices.
+Different formats for various softwareor apps.
 
 ### Packs
 
-| PACKAGE | HOSTS | DOMAINS | AdGuard Home |
-|---------|:----------:|:----------:|:----------:|
-Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist-agh.txt) |
-Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/adultfilter-agh.txt) |
-Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/familyfilter-agh.txt) |
-Whitelist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
-IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
+| PACKAGE | HOSTS | Wildcard DOMAINS | DOMAINS | AdGuard Home |
+|---------|:----------:|:----------:|:----------:|:----------:|
+Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist-agh.txt) |
+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/adultfilter-agh.txt) |
+Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/familyfilter-agh.txt) |
+Whitelist |  |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
+IPS Blocklist |  |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
 
 ## Supporting My Filter List
 
