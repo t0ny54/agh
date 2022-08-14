@@ -4,7 +4,7 @@
 
 # Usage
 
-Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>, etc
+Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>, <a href="https://dnscrypt.info">DNSCrypt v2</a>, etc
 
 ## Features
 
@@ -28,11 +28,11 @@ Different formats for various devices.
 
 ### Packs
 
-| PACKAGE | HOSTS | DOMAINS (recommended) |
-|---------|:-------:|:----------:|
-Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) |
-Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) |
-Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) |
+| PACKAGE | HOSTS | DOMAINS | AdGuard Home |
+|---------|:----------:|:----------:|:----------:|
+Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist-agh.txt) |
+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/adultfilter-agh.txt) |
+Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/familyfilter-agh.txt) |
 Whitelist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
 IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
 
