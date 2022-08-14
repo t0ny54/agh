@@ -24,11 +24,7 @@ Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="h
 
 ## Formats
 
-Different formats for various softwareor apps.
-
-### Packs
-
-| PACKAGE | HOSTS | Wildcard DOMAINS | DOMAINS | AdGuard Home |
+| FORMATS | HOSTS | Wildcard DOMAINS | DOMAINS | AdGuard Home |
 |---------|:----------:|:----------:|:----------:|:----------:|
 Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist-agh.txt) |
 Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/adultfilter-agh.txt) |
@@ -47,6 +43,7 @@ If you are intrested in supporting the project you can:
  - Donate Litecoin: MQsbaz15wn24sd4fyUCDvHbAQpbe5KfF2Q
  - Donate Dash: Xbn144txmSiHBFxsJm86quxnQ2ovZdg86a
  - Donate Tron: TCQhCKDZmHY8ngtyAfH854UssDJTxyTqTc
+
 
 <div align="center">
   <sub>Project with full of ❤ by <a href=https://bearhero.tk target=_blank style=color:#f6f6f6><b>antonyitunamaku</b>
