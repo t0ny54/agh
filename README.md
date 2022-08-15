@@ -24,7 +24,7 @@ Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="h
 
 ## Formats
 
-| FORMATS | HOSTS | Wildcard DOMAINS | DOMAINS | AdGuard Home |
+| FORMATS | HOSTS | DOMAINS | DOMAINS (Full Version) | AdGuard Home |
 |---------|:----------:|:----------:|:----------:|:----------:|
 Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist-agh.txt) |
 Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/adultfilter-agh.txt) |
