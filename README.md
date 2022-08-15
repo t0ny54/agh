@@ -2,7 +2,7 @@
   <h1>My Filter List</h1>
 </div>
 
-# Usage
+## Usage
 
 Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>, <a href="https://dnscrypt.info">DNSCrypt</a>, etc
 
@@ -24,13 +24,52 @@ Using with <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>, <a href="h
 
 ## Formats
 
-| FORMATS | HOSTS | DOMAINS | DOMAINS (Full Version) | AdGuard Home |
+| FORMATS | HOSTS | DOMAINS (Basic) | DOMAINS (Full) | AdGuard Home |
 |---------|:----------:|:----------:|:----------:|:----------:|
 Blocklist | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist-agh.txt) |
 Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/adultfilter.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/adultfilter-agh.txt) |
 Blocklist+Adult Filter | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt) | [Link](https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist.txt) | [Link](https://raw.githubusercontent.com/anT0ny54/adguard/main/familyfilter-agh.txt) |
 Whitelist |  |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/whitelist.txt) |  |
 IPS Blocklist |  |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipblocklist.txt) |  |
+
+### Regex list (use with Domains Basic)
+#### Regex list Pi-hole from [mmotti/pihole-regex](https://github.com/mmotti/pihole-regex)
+```
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]	
+^(.+[_.-])?telemetry[_.-]	
+^adim(age|g)s?[0-9]*[_.-]	
+^adtrack(er|ing)?[0-9]*[_.-]	
+^advert(s|is(ing|ements?))?[0-9]*[_.-]	
+^aff(iliat(es?|ion))?[_.-]	
+^analytics?[_.-]	
+^banners?[_.-]	
+^beacons?[0-9]*[_.-]	
+^count(ers?)?[0-9]*[_.-]	
+^mads\.	
+^pixels?[-.]	
+^stat(s|istics)?[0-9]*[_.-]	
+^track(ing)?[0-9]*[_.-]	
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]	
+```
+And
+#### Regex list Adguard Home from [mmotti/adguard-home-filters](https://github.com/mmotti/adguard-home-filters)
+```
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^aff(iliat(es?|ion))?[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/	
+```
+
 
 ## Supporting My Filter List
 
