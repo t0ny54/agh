@@ -441,7 +441,6 @@ echo "[*] updating domain list..."
 fetch_hosts \
                 "http://www.botvrij.eu/data/ioclist.ip-dst.raw" \
                 "https://bl.isx.fr/raw" \
-                "https://block.energized.pro/extensions/ips/formats/list.txt" \
                 "https://blocklist.greensnow.co/greensnow.txt" \
                 "https://cinsscore.com/list/ci-badguys.txt" \
                 "https://danger.rulez.sk/projects/bruteforceblocker/blist.php" \
@@ -450,7 +449,6 @@ fetch_hosts \
                 "https://malware-filter.gitlab.io/malware-filter/phishing-filter-dnscrypt-blocked-ips.txt" \
                 "https://mirai.security.gives/data/ip_list.txt" \
                 "https://myip.ms/files/blacklist/general/latest_blacklist.txt" \
-                "https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=1&mimetype=plaintext" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_1d.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cleantalk_top20.ipset" \
                 "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset" \
