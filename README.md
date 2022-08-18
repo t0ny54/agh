@@ -70,6 +70,11 @@ And
 /^stat(s|istics)?[0-9]*[_.-]/	
 ```
 
+## My Public DNS Server
+* ### Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
+  * #### DNS-over-HTTPS: 
+     *  https://euroresolver.herokuapp.com/dns-query
+  
 
 ## Supporting My Filter List
 
