@@ -74,7 +74,11 @@ And
 * ### Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS: 
      *  https://euroresolver.herokuapp.com/dns-query
-  
+     
+* ### Safesearch and adult content blocking, blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
+  * #### DNS-over-HTTPS: 
+     *  https://familyprotect.herokuapp.com//dns-query
+
 
 ## Supporting My Filter List
 
