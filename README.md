@@ -73,11 +73,13 @@ And
 ## My Public DNS Server
 * ### Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS: 
-     *  https://euroresolver.herokuapp.com/dns-query
+     *  https://euroresolver.herokuapp.com/dns-query (Euro)
+     *  https://sg-doh.fly.dev/dns-query (Singapore)
      
 * ### Safe search, adult content blocking, blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS: 
-     *  https://familyprotect.herokuapp.com//dns-query
+     *  https://familyprotect.herokuapp.com/dns-query (Euro)
+     *  https://sg-family.fly.dev/dns-query (Singapore)
 
 
 ## Supporting My Filter List
