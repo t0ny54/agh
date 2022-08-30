@@ -28928,6 +28928,7 @@ kurumsal.aktifbank.com.tr
 kurumsal.param.com.tr
 kurumsal.turkishbank.com
 kurumsalinternetsubesi.ing.com.tr
+kutt.comodo.com
 kutt.it
 kutxa.es
 kuzbank.ru
