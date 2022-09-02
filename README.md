@@ -1,5 +1,5 @@
 <div align="Center">
-  <h1>My Filter List</h1>
+  <h1>My Filter List & My Public DNS Server</h1>
 </div>
 
 ## Usage
@@ -36,26 +36,31 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
 ## My Public DNS Server
 * ### Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS: 
-     *  https://blocker-ant0ny54.koyeb.app/dns-query (France)
-     *  https://euroresolver.herokuapp.com/dns-query (Euro)
+     *  https://blocker-ant0ny54.koyeb.app/dns-query (France) => Secure use TLS_AES_128_GCM_SHA256
+     *  https://blockdns.fly.dev/dns-query (Singapore) => Secure use TLS_AES_128_GCM_SHA256
+     *  https://euroresolver.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+     *  https://p01--block--blockdns--d7rx-k8n8.code.run/dns-query (US) => Secure use TLS_AES_128_GCM_SHA256
+*  This is a HOBBY service, please do not use for abuse & Use it wisely
      
 * ### Safe search, adult content blocking, blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS: 
-     *  https://family-ant0ny54.koyeb.app/dns-query (France)
-     *  https://familyprotect.herokuapp.com/dns-query (Euro)
+     *  https://family-ant0ny54.koyeb.app/dns-query (France) => Secure use TLS_AES_128_GCM_SHA256
+     *  https://dnsfamily.fly.dev/dns-query (Singapore) => Secure use TLS_AES_128_GCM_SHA256
+     *  https://euroresolver.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+     *  https://p01--family--blockdns--d7rx-k8n8.code.run/dns-query (US) => Secure use TLS_AES_128_GCM_SHA256
+*  This is a HOBBY service, please do not use for abuse & Use it wisely
 
+## Supporting My Project
 
-## Supporting My Filter List
-
-If you are intrested in supporting the project you can:
- - Donate Bitcoin: 1HN34B34i4BifoHJaM9JCqTFf2KpeYxsrq
- - Donate Dogecoin: DPiQcmGMBRFudJ6x9ifAf63qxHsEGo71Ho
- - Donate DigiByte: DUGHdN1e7UDZv9Mhv9C9DGSJD9poQBotyF
- - Donate Zcash: t1c9Gnf3SM2tPuU7DGjBBQiKKmvxmMHV6kZ
- - Donate Solana: G4RbhfKkSmypWuLAiaAZCaMjJwtE3SkDQJGwk2M1dyhd
- - Donate Litecoin: MQsbaz15wn24sd4fyUCDvHbAQpbe5KfF2Q
- - Donate Dash: Xbn144txmSiHBFxsJm86quxnQ2ovZdg86a
- - Donate Tron: TCQhCKDZmHY8ngtyAfH854UssDJTxyTqTc
+If you are intrested in supporting the project you can donate :
+ - Bitcoin: 1HN34B34i4BifoHJaM9JCqTFf2KpeYxsrq
+ - Dogecoin: DPiQcmGMBRFudJ6x9ifAf63qxHsEGo71Ho
+ - DigiByte: DUGHdN1e7UDZv9Mhv9C9DGSJD9poQBotyF
+ - Zcash: t1c9Gnf3SM2tPuU7DGjBBQiKKmvxmMHV6kZ
+ - Solana: G4RbhfKkSmypWuLAiaAZCaMjJwtE3SkDQJGwk2M1dyhd
+ - Litecoin: MQsbaz15wn24sd4fyUCDvHbAQpbe5KfF2Q
+ - Dash: Xbn144txmSiHBFxsJm86quxnQ2ovZdg86a
+ - Tron: TCQhCKDZmHY8ngtyAfH854UssDJTxyTqTc
 
 
 <div align="center">
