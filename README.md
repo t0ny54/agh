@@ -40,7 +40,7 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
      *  https://blockdns.fly.dev/dns-query (Singapore) => Secure use TLS_AES_128_GCM_SHA256
      *  https://euroresolver.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
      *  https://p01--block--blockdns--d7rx-k8n8.code.run/dns-query (US) => Secure use TLS_AES_128_GCM_SHA256
-*  This is a HOBBY service, please do not use for abuse & Use it wisely
+*  This is a HOBBY service, please do not use for abuse & use it wisely
      
 * ### Safe search, adult content blocking, blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS: 
@@ -48,11 +48,11 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
      *  https://dnsfamily.fly.dev/dns-query (Singapore) => Secure use TLS_AES_128_GCM_SHA256
      *  https://euroresolver.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
      *  https://p01--family--blockdns--d7rx-k8n8.code.run/dns-query (US) => Secure use TLS_AES_128_GCM_SHA256
-*  This is a HOBBY service, please do not use for abuse & Use it wisely
+*  This is a HOBBY service, please do not use for abuse & use it wisely
 
 ## Supporting My Project
 
-If you are intrested in supporting the project you can donate :
+If you are interested in supporting the project you can donate :
  - Bitcoin: 1HN34B34i4BifoHJaM9JCqTFf2KpeYxsrq
  - Dogecoin: DPiQcmGMBRFudJ6x9ifAf63qxHsEGo71Ho
  - DigiByte: DUGHdN1e7UDZv9Mhv9C9DGSJD9poQBotyF
