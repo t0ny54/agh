@@ -46,7 +46,7 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
   * #### DNS-over-HTTPS: 
      *  https://family-ant0ny54.koyeb.app/dns-query (France) => Secure use TLS_AES_128_GCM_SHA256
      *  https://dnsfamily.fly.dev/dns-query (Singapore) => Secure use TLS_AES_128_GCM_SHA256
-     *  https://euroresolver.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+     *  https://familyprotect.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
      *  https://p01--family--blockdns--d7rx-k8n8.code.run/dns-query (US) => Secure use TLS_AES_128_GCM_SHA256
 *  This is a HOBBY service, please do not use for abuse & use it wisely
 
