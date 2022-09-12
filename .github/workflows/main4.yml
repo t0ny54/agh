@@ -1,5 +1,7 @@
 name: Update ipblocklist
 on:
+  repository_dispatch:
+  workflow_dispatch:
   push:
     paths-ignore:
     - '.github/**'
