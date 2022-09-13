@@ -4253,6 +4253,7 @@ assets.gadgets360cdn.com
 assets.getpocket.com
 assets.gumroad.com
 assets.jassets.com
+assets.minutemediacdn.com
 assets.nflxext.com
 assets.pinterest.com
 assets.ubuntu.com
@@ -25952,6 +25953,7 @@ images.theconversation.com
 images.unsplash.com
 images02.adrise.tv
 images2.imgbox.com
+images2.minutemediacdn.com
 images2015.cnblogs.com
 imagesak.secureserver.net
 imagesdeprovence.co.uk
