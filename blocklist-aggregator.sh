@@ -441,8 +441,7 @@ echo "[*] updating domain list..."
 fetch_domains_comments \
     "https://raw.githubusercontent.com/t0ny54/blocklist/main/blocklist.txt" \
     "https://raw.githubusercontent.com/anT0ny54/blocklist/main/blocklist.txt" \
-    "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods" \
-    "https://dbl.oisd.nl/basic/"
+    "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods"
 
 sanitize_domain_list > "$OUT_FILE"
 
