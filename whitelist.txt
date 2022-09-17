@@ -14134,6 +14134,7 @@ dedalus-libros.com
 dedicatedaudio.com
 dedierenwinkel.nl
 dedo.pl
+dedyn.io
 deecom.de
 deep3.net
 deepdiscountdvd.com
@@ -50023,6 +50024,7 @@ upd.faronicslabs.com
 update.avg.com
 update.avlyun.sec.miui.com
 update.code.visualstudio.com
+update.dedyn.io
 update.drp.su
 update.eset.com
 update.intervideo.com
@@ -50041,6 +50043,7 @@ update.utorrent.com
 update.videolan.org
 update30.services.openoffice.org
 update38.services.openoffice.org
+update6.dedyn.io
 updatecenter.norton.com
 updateext.services.openoffice.org
 updateexte.services.openoffice.org
