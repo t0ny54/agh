@@ -3394,6 +3394,7 @@ api-glb.smoot.apple.com
 api-global.netflix.com
 api-godaddy.nd.nudatasecurity.com
 api.account.xiaomi.com
+api.accuweather.com
 api.ad.xiaomi.com
 api.adguard.com
 api.adguard.org
@@ -14630,6 +14631,7 @@ dickwicks.com.au
 dict.leo.org
 dictionary.cambridge.org
 dicts.mobisystems.com
+did.li
 diddlandfriends.com
 didns.ru
 didymos.de
