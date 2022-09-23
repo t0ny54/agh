@@ -36,16 +36,16 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
 ## My Public DNS Server
 * ### Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS:
-     *  https://euro--block--dns--d7rx-k8n8.code.run/dns-query (Europe West) => Secure use TLS_AES_128_GCM_SHA256
-     *  https://blocker-ant0ny54.koyeb.app/dns-query (France) => Secure use TLS_AES_128_GCM_SHA256
-     *  https://euroresolver.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+     *  https://euro--block--dns--d7rx-k8n8.code.run/dns-query (Europe West)
+     *  https://blocker-ant0ny54.koyeb.app/dns-query (France)
+     *  https://mosdns01-production.up.railway.app/dns-query
 *  This is a HOBBY service, please do not use for abuse & use it wisely
      
 * ### Safe search, adult content blocking, blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS:
-     *  https://euro--family--dns--d7rx-k8n8.code.run/dns-query (Europe West) => Secure use TLS_AES_128_GCM_SHA256
-     *  https://family-ant0ny54.koyeb.app/dns-query (France) => Secure use TLS_AES_128_GCM_SHA256
-     *  https://familyprotect.herokuapp.com/dns-query (Euro) => Not secure TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+     *  https://euro--family--dns--d7rx-k8n8.code.run/dns-query (Europe West)
+     *  https://family-ant0ny54.koyeb.app/dns-query (France)
+     *  https://mosdns02-production.up.railway.app/dns-query
 *  This is a HOBBY service, please do not use for abuse & use it wisely
 
 ## Supporting My Project
