@@ -13072,9 +13072,7 @@ connectingthreads.com
 connections.members.microsoft.com
 connectivity-check.ubuntu.com
 connectivitycheck.android.com
-connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
-connectivitycheck.platform.hicloud.com
 connectu.com
 connectviabooks.com
 conniebennett.com
@@ -27346,6 +27344,7 @@ ie-go.kelkoogroup.net
 ie.components.microsoft.com
 ie66ers.com
 ieak.microsoft.com
+ieji.de
 ieonline.microsoft.com
 ieonlinews.microsoft.com
 iesnare.com
