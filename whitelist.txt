@@ -10957,6 +10957,7 @@ cdn.voscast.com
 cdn.w3schools.com
 cdn.yams-pro.schibsted.com
 cdn1.digitaltrends.com
+cdn1.hubspot.net
 cdn1.smartadserver.com
 cdn2.digitaltrends.com
 cdn2.hubspot.net
@@ -31875,6 +31876,7 @@ login.sebbank.ru
 login.sparebank1.no
 login.wikimedia.org
 login.yahoo.com
+logincdn.msauth.net
 loginfra.com
 loginto.me
 logisyscomputer.com
