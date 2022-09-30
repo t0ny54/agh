@@ -1472,6 +1472,7 @@ ad-cycle.com
 ad-elektro.cz
 ad-mats.com
 ad-med.cz
+ad-shield.io
 ad.ag
 ad.atdmt.com
 ad.dep.no
@@ -44496,6 +44497,7 @@ salemsaddlery.com
 salera.com.au
 salerussia.com
 salesforce.com
+salesmanago.pl
 salesone.org
 sallyanncorsetshop.com
 sallyrocks.com
