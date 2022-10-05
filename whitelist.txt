@@ -16047,6 +16047,7 @@ dlawlesshardware.com
 dlazdrowia.abc24.pl
 dlb.homepage.dk
 dlbmodigital.microsoft.com
+dlc-shim.trafficmanager.net
 dld.bz
 dldir1.qq.com
 dlied6.qq.com
@@ -47725,6 +47726,8 @@ softrugs.com
 softsculpturedolls.com
 softsurroundings.com
 softtech.m.facebook.com
+software.download.prss.microsoft.com
+software.download.prss.trafficmanager.net
 softworld.es
 sog.co.nz
 soga.co.uk
