@@ -3156,6 +3156,7 @@ amosandy.com
 amour.pl
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
+amp-api-search-edge.apps.apple.com
 amp.businessinsider.com
 amp.com.au
 amp.usatoday.com
