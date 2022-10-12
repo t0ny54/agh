@@ -31436,6 +31436,7 @@ le-jardin-de-catherine.com
 le10sport.com
 leaguelineup.com
 leagueoflegends.com
+learn-public.trafficmanager.net
 learn.elephantjournal.com
 learn.microsoft.com
 learn.to
@@ -31600,6 +31601,7 @@ lifelock.com
 lifesagem.com
 lifespanfitness.com.au
 lifetimegazebo.com
+liffsdk.line-scdn.net
 liftoff.io
 lifutsal.com
 ligabank.de
@@ -37173,6 +37175,7 @@ objectsofenvy.com
 obook.ru
 oboom.com
 oboy.de
+obs.line-scdn.net
 observer.com
 obsessive.com
 obstbrand-shop.de
