@@ -440,7 +440,8 @@ mkdir -p "$TEMP_DIR/sources"
 echo "[*] updating domain list..."
 fetch_domains_comments \
     "https://raw.githubusercontent.com/t0ny54/adultfilter/main/blocklist.txt" \
-    "https://raw.githubusercontent.com/anT0ny54/adultfilter/main/blocklist.txt"
+    "https://raw.githubusercontent.com/anT0ny54/adultfilter/main/blocklist.txt" \
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt"
 
 sanitize_domain_list > "$OUT_FILE"
 
