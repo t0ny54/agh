@@ -54,6 +54,7 @@
 *.gstaticadssl.l.google.com
 *.heads*spotify-com.akamaized.net
 *.images-amazon.com
+*.ims.vodafone.com
 *.intercom.io
 *.jtvnw.net
 *.kiwibrowser.com
@@ -14737,6 +14738,7 @@ d1afootball.com
 d1z2jf7jlzjs58.cloudfront.net
 d231vab146qzfb.cloudfront.net
 d25xi40x97liuc.cloudfront.net
+d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
@@ -16154,6 +16156,7 @@ discusmadness.com
 discuss.microsoft.com
 discussions.apple.com
 discussions.connect.microsoft.com
+disguised.nl
 dishnchips.com
 disk-group.com
 diskbooks.org
@@ -54231,6 +54234,7 @@ w8.web.whatsapp.com
 w88.espn.com
 waa.ai
 wabankers.com
+wabetainfo.com
 wac.edgecastcdn.net
 wachovia.com
 wacom.com
