@@ -17,6 +17,7 @@
 *.cdn-noc.net
 *.cdn.optimizely.com
 *.ceros.com
+*.cloud.answerhub.com
 *.custom-domain.publitas.com
 *.damoh.*.de
 *.dds.microsoft.com
@@ -51,14 +52,17 @@
 *.githubassets.com
 *.githubusercontent.com
 *.googlevideo.com
+*.gov
 *.gstaticadssl.l.google.com
 *.heads*spotify-com.akamaized.net
 *.images-amazon.com
 *.ims.vodafone.com
+*.inc.com
 *.intercom.io
 *.jtvnw.net
 *.kiwibrowser.com
 *.lencr.org
+*.lenta.ru
 *.live-video.net
 *.mdhcdn.com
 *.mediatek.com
@@ -105,6 +109,7 @@
 *.searchnode.net
 *.services.microsoft.com
 *.sheerid.com
+*.smartsheet.com
 *.smoot.apple.com
 *.sonycoment.loris-e.llnwd.net
 *.sonyentertainmentnetwork.com
@@ -1003,6 +1008,7 @@ a.espncdn.com
 a.fsdn.com
 a.gg
 a.ip-api.com
+a.klaviyo.com
 a.microsoft.com
 a.nf
 a.nonstoppartner.net
@@ -2624,6 +2630,7 @@ align-drive.com
 aliiflowers.com
 alil.in
 alilbitoeurope.com
+alimama.com
 alimentacion.carrefour.es
 alincocostumes.com
 alincolnbookshop.com
@@ -22756,6 +22763,7 @@ geo.ngtv.io
 geo.paypalobjects.com.akadns.net
 geo.prod.dodsp.mp.microsoft.com.nsatc.net
 geo1.presslabs.net
+geo2.adobe.com
 geo3.ggpht.com
 geoauth.google.com
 geoclassics.com
@@ -34047,6 +34055,7 @@ mini-modell.de
 mini-toys.fr
 mini-vogue.de
 mini.eastday.com
+mini2015.qq.com
 minianzeigen.de
 miniature-books.com
 miniature-mall.com
@@ -51249,6 +51258,7 @@ tesco.com
 tescobank.com
 tescolotus.net
 tescoma-shop.ru
+teslarati-com-edge.ntv.io
 tesora.com.au
 tessandwinter.com
 tessutivenezia.com
@@ -54545,6 +54555,7 @@ whiterockgymnastics.com
 whitesoxinteractive.com
 whnews.cn
 who.is
+whoami.akamai.net
 whoissick.org
 wholelattelove.com
 wholepack.com
