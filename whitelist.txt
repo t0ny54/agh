@@ -11,11 +11,9 @@
 *.atv-ext-*.amazon.com
 *.atv-ext.amazon.com
 *.atv-ps.amazon.com
-*.audio*spotify-com.akamaized.net
 *.awstrack.me
 *.cas.ms
 *.cdn-noc.net
-*.cdn.optimizely.com
 *.ceros.com
 *.cloud.answerhub.com
 *.custom-domain.publitas.com
@@ -54,7 +52,6 @@
 *.googlevideo.com
 *.gov
 *.gstaticadssl.l.google.com
-*.heads*spotify-com.akamaized.net
 *.images-amazon.com
 *.ims.vodafone.com
 *.inc.com
@@ -99,6 +96,7 @@
 *.pv-cdn.net
 *.qprod2.net
 *.qualtrics.com
+*.registerdisney.go.com
 *.s.team
 *.safebrowsing.apple
 *.scdn.co
@@ -175,6 +173,7 @@
 *ichnaea-*.elb.amazonaws.com
 *microsoft.online-metrix.net
 *paypalxm.siteintercept.qualtrics.com
+*spotify-com.akamaized.net
 -rotation.de
 -sso.anbtr.com
 -traffic.com
@@ -12583,6 +12582,7 @@ clippersstore.com
 clipsal500.com.au
 clipstar.com
 cliptomania.com
+clk*.tradedoubler.com
 clk.boulanger.com
 clk.tradedoubler.com
 clkit.co
@@ -27846,6 +27846,7 @@ incarelectrics.co.uk
 incargadgets.co.uk
 incarvision.com
 incenseguru.com
+includes.ccdc02.com
 incoming.telemetry.mozilla.org
 increasingshoes.com
 incrediblegifts.com
@@ -35788,6 +35789,7 @@ nandaoils.com
 nangokutosa.com
 nanninigoggles.com
 nanopool.org
+nanourl.org
 nanovertrieb.ch
 nantucketbaskets.com
 nantucketbasketworks.com
@@ -39407,6 +39409,7 @@ perfumeshopping.com
 perifericospc.com
 perilcane.it
 periodfeatures.net
+periscope.tv
 periwinklesonmarcoisland.com
 perlejewelersinc.com
 perlen-shop.ch
@@ -41430,6 +41433,7 @@ psbindia.com
 psbnetbank.com
 psbst.ru
 pscb.ru
+pscp.tv
 psd-berlin-brandenburg.de
 psd-braunschweig.de
 psd-hannover.de
@@ -49150,6 +49154,7 @@ stathat.com
 static-ak.facebook.com
 static-asm.secure.skypeassets.com
 static-cl.xhcdn.com
+static-ite.paytmbank.com
 static-pepper.dealabs.com
 static-xl9-ssl.xunlei.com
 static.127777.com
@@ -51167,6 +51172,7 @@ telephonesonline.co.uk
 telephonyspamprotect-pa.googleapis.com
 telesales360.partners.extranet.microsoft.com
 teleschmuck.de
+telesco.pe
 telescopes.net
 teleshopping.fr
 teleska.de
@@ -51360,6 +51366,7 @@ tflinks.com
 tfmonline.de
 tfp.com
 tfujiiantiques.com
+tg.dev
 tg.pe
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
@@ -52556,6 +52563,7 @@ tracker.marinsm.com
 tracker.opentrackr.org
 tracker.scoober.com
 tracking-protection.cdn.mozilla.net
+tracking.dpd.de
 tracking.i2w.io
 tracking.magnetmail.net
 tracking.publicidees.com
@@ -52757,6 +52765,7 @@ tw03a159.sandai.net
 twc.trafficmanager.net
 tweako.com
 tweetburner.com
+tweetdeck.com
 twenga.com
 twenga.fr
 twet.fr
@@ -52776,8 +52785,13 @@ twitch.tv
 twitchcdn.net
 twitchsvc.net
 twitchy.com
+twitpic.com
+twitter.co
 twitter.com
+twitterinc.com
+twitteroauth.com
 twitterpan.com
+twitterstat.us
 twitthis.com
 twiturl.de
 twlr.me
@@ -54264,6 +54278,7 @@ w7.web.whatsapp.com
 w8.com.cn
 w8.web.whatsapp.com
 w88.espn.com
+wa.me
 waa.ai
 wabankers.com
 wabetainfo.com
@@ -54554,8 +54569,16 @@ whatismyipaddress.com
 whatsapp-chatd-edge-shv-01-dfw5.facebook.com
 whatsapp-chatd-edge-shv-01-lhr3.facebook.com
 whatsapp-chatd-edge-shv-02-frt3.facebook.com
+whatsapp-plus.info
+whatsapp-plus.me
+whatsapp-plus.net
+whatsapp.cc
 whatsapp.com
+whatsapp.info
 whatsapp.net
+whatsapp.org
+whatsapp.tv
+whatsappbrand.com
 whatsthebest-mattress.com
 whdc.microsoft.com
 wheelingnailers.com
@@ -54568,6 +54591,7 @@ whipperleys.co.uk
 whir.li
 whirl.li
 whirlpool.net.au
+whispersystems.org
 whistlerblackcomb.com
 whitebarngifts.com
 whiteclaybicycleclub.org
