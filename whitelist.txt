@@ -14,6 +14,7 @@
 *.awstrack.me
 *.cas.ms
 *.cdn-noc.net
+*.cdninstagram.com
 *.ceros.com
 *.cloud.answerhub.com
 *.custom-domain.publitas.com
@@ -11219,6 +11220,7 @@ cdnapisec.kaltura.com
 cdnbakmi.kaltura.com
 cdnbunny.org
 cdninstagram.com
+cdnjs.cloudflare.co
 cdnjs.cloudflare.com
 cdns.gigya.com
 cdnsecakmi.kaltura.com
@@ -19672,12 +19674,18 @@ f.kinja-static.com
 f.youku.com
 f1-gpt.com
 f1-photo.com
+f1-prod-production.apigee.net
+f1-prod-production.dn.apigee.net
 f1.g.mi.com
 f1.media.brightcove.com
 f100.com
 f1global.org
 f1nutter.com
 f1page.com
+f1tv-cdn-cent-east.formula1.com.c.footprint.net
+f1tv-cdn-cent-live.formula1.com.c.footprint.net
+f1tv-cdn-cent-west.formula1.com.c.footprint.net
+f1tv-livedata.formula1.com
 f2dance.co.uk
 fa-ir.facebook.com
 fa.by
@@ -21456,6 +21464,7 @@ forms.convertkit.com
 forms.gle
 formspree.io
 formstack.com
+formula1.com
 formulaoneworld.co.uk
 formularbox.de
 formy.upriver.ru
@@ -27941,6 +27950,7 @@ info.com
 info.cyberplat.ru
 info.deltacredit.ru
 info.evidon.com
+info.hyperproof.io
 info.internet.org
 info.izatcloud.net
 info.metib.ru
@@ -52887,6 +52897,7 @@ ucansing2.com
 ucbankmn.com
 ucbnd.com
 ucdcrew.org
+uceprotect.net
 uci.ch
 uckz.com
 ucnb.com
