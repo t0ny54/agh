@@ -167,7 +167,6 @@
 *apiproxy-*.elb.amazonaws.com
 *beaconserver-*.elb.amazonaws.com
 *events-data.trafficmanager.net
-*events.apple.com
 *graph-video.facebook.com
 *graph.facebook.com
 *graph.instagram.com
@@ -8831,8 +8830,6 @@ bookpassage.com
 bookpeople.com
 bookplus.fi
 bookrepair.us
-books-analytics-events.apple.com
-books-analytics-events.news.apple-dns.net
 books-for-cooks.com
 books-on-art.com
 books.bg
@@ -11120,7 +11117,6 @@ cdn.arstechnica.net
 cdn.auth0.com
 cdn.betrad.com
 cdn.bitmovin.com
-cdn.braze.eu
 cdn.chocolatey.org
 cdn.cloudflare.net
 cdn.cnbj1.fds.api.mi-img.com
@@ -14635,7 +14631,6 @@ cwebdirect.com
 cwimedical.com
 cwoodcrafts.com
 cwoodshop.com
-cws-*.conviva.com
 cws.conviva.com
 cwshop.ru
 cwt.ca
@@ -27950,7 +27945,6 @@ info.com
 info.cyberplat.ru
 info.deltacredit.ru
 info.evidon.com
-info.hyperproof.io
 info.internet.org
 info.izatcloud.net
 info.metib.ru
@@ -36853,8 +36847,6 @@ notasinc.com
 notebookakkus.de
 notebookinside.com
 notebookshop.sk
-notes-analytics-events.apple.com
-notes-analytics-events.news.apple-dns.net
 noteworthy.medium.com
 noteworthynotes.com
 nothingbuttennis.com
@@ -49467,8 +49459,6 @@ stockflaggen.de
 stockingsforyou.de
 stockmanbank.com
 stockroomsupply.com
-stocks-analytics-events.apple.com
-stocks-analytics-events.news.apple-dns.net
 stockseed.com
 stocktondupres.com
 stocktonmodeller.co.uk
@@ -54424,8 +54414,6 @@ wealthbar.com
 wealthfront.com
 wealthsimple.com
 wearbuy.com
-weather-analytics-events.apple.com
-weather-analytics-events.news.apple-dns.net
 weather.com
 weatherapi.market.xiaomi.com
 weathertech.com
