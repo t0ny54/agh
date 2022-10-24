@@ -49049,6 +49049,7 @@ stansracegear.com
 stanssewingsupplies.com
 staples.co.uk
 star*.facebook.com
+star-azurefd-prod.trafficmanager.net
 star-books.com
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
