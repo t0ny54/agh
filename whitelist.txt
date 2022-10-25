@@ -87,7 +87,6 @@
 *.paypal.com
 *.paypal.map.fastly.net
 *.paypalobjects.com
-*.perimeterx.net
 *.pipe.aria.microsoft.com
 *.playstation.com
 *.playstation.com.edgekey.net
@@ -256,7 +255,6 @@
 1.bp.blogspot.com
 1.centos.pool.ntp.org
 1.ch.pool.ntp.org
-1.chipde.damoh.schneevonmorgen.com
 1.cn.pool.ntp.org
 1.coreos.pool.ntp.org
 1.de.pool.ntp.org
@@ -265,7 +263,6 @@
 1.drive.google.com
 1.elecsnet.ru
 1.europe.pool.ntp.org
-1.gmxnet.damoh.schneevonmorgen.com
 1.gravatar.com
 1.jp.pool.ntp.org
 1.lede.pool.ntp.org
@@ -537,7 +534,6 @@
 2.asia.pool.ntp.org
 2.centos.pool.ntp.org
 2.ch.pool.ntp.org
-2.chipde.damoh.schneevonmorgen.com
 2.cn.pool.ntp.org
 2.coreos.pool.ntp.org
 2.datadog.pool.ntp.org
@@ -11091,12 +11087,10 @@ cdm.microsoft.com
 cdm24.pl
 cdmdownload.adobe.com
 cdmsports.com
-cdn*.dynamicyield.com
 cdn-audio-1.medium.com
 cdn-content.ampproject.org
 cdn-customers.nanorep.com
 cdn-eb.syndication.twitter.com
-cdn-eu.dynamicyield.com
 cdn-gl.imrworldwide.com
 cdn-images-1.medium.com
 cdn-images-2.medium.com
@@ -11104,7 +11098,6 @@ cdn-images.mailchimp.com
 cdn-kaltura-dscd.edgekey.net
 cdn-mobile.api.pluto.tv
 cdn-origin01.techrepublic.com
-cdn-settings.appsflyersdk.com
 cdn-static-1.medium.com
 cdn-thumb.fds.api.xiaomi.com
 cdn-us-ec.yottaa.net
@@ -11177,11 +11170,9 @@ cdn.sstatic.net
 cdn.statically.io
 cdn.staticaly.com
 cdn.stream.schibsted.media
-cdn.stroeerdigitalgroup.de
 cdn.svp.schibsted.io
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
-cdn.tagcommander.com
 cdn.transifex.com
 cdn.ttgtmedia.com
 cdn.unpkg.com
@@ -16391,6 +16382,7 @@ dnl-us4.kaspersky-labs.com
 dnl-us5.kaspersky-labs.com
 dnl-us6.kaspersky-labs.com
 dnmelectronics.com
+dns.dnswarden.com
 dns.facebook.com
 dns.msftncsi.com
 dns03.facebook.com
@@ -46785,7 +46777,6 @@ simaenterprises.com
 simage.gshifen.com
 simagestatic.gshifen.com
 simetani.com
-similarweb.com
 simindia.com
 simizushoukai.com
 simmonsfinejewelry.com
@@ -49164,13 +49155,11 @@ static.127777.com
 static.3001.net
 static.ada.support
 static.adguard.com
-static.adsafeprotected.com
 static.adtidy.org
 static.ak.connect.facebook.com
 static.ak.facebook.com
 static.appsumo.com
 static.cloud.coveo.com
-static.cloudflareinsights.com
 static.coinbase.com
 static.dingtalk.com
 static.facebook.com
@@ -51032,6 +51021,7 @@ teamlollipop.co.uk
 teamontop.com
 teams-events-data.trafficmanager.net
 teams.events.data.microsoft.com
+teams.nel.measure.office.net
 teamsantafe.org
 teamspiritcheer.com
 teamsportswear.co.uk
@@ -55279,7 +55269,6 @@ www.googleadservices.com
 www.googleapis.com
 www.googlehosted.l.googleusercontent.com
 www.googletagmanager.com
-www.googletagservices.com
 www.gopjn.com
 www.graph.facebook.com
 www.gravatar.com
