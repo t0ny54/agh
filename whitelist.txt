@@ -144,6 +144,7 @@
 *.twitchcdn.net
 *.twitchsvc.net
 *.ultimedia.com
+*.update.microsoft.com
 *.valvesoftware.com
 *.vercel-dns.com
 *.verisign.net
@@ -868,6 +869,7 @@
 6-edge-chat.facebook.com
 6.docs.google.com
 6.drive.google.com
+6008.xg4ken.com
 60sfurther.com
 64teams.com
 6677.info
@@ -18939,6 +18941,7 @@ ernest-charles.com
 ernest.fr
 ernestjones.co.uk
 ernstlicht.com
+ero-labs.online
 erogenos.com
 eroterest.net
 erowery.pl
@@ -23323,6 +23326,7 @@ glitzykidz.com
 glitzysecrets.com
 glizda.pl
 glkb.ch
+glnk.io
 global-investor.com
 global-nutrition.de
 global-source-mkt.com
@@ -27635,9 +27639,7 @@ iluvmags.com
 ilva.dk
 ilyasoglu.com
 ima-usa.com
-image-ard-de-cddc.at-o.net
 image-on-it.co.uk
-image.ard.de
 image.box.xiaomi.com
 image.ccg.nintendo.net
 image.crisp.chat
@@ -33386,6 +33388,7 @@ media.itsfogo.com
 media.licdn.com
 media.sbs.com.au
 media.wired.com
+media01.eu
 media365.fr
 mediadl.microsoft.com
 mediaexpert.pl
@@ -37756,6 +37759,7 @@ online.oschadbank.ua
 online.osmanlimenkul.com.tr
 online.pabcbank.com
 online.pchrb.ru
+online.peple.com.tr
 online.piraeusbank.ua
 online.pocztowy.pl
 online.pro
@@ -49199,6 +49203,7 @@ static.xx.fbcdn.net
 static.zdassets.com
 static1.squarespace.com
 static2cdn.hubspot.com
+statics-marketingsites-neu-ms-com.akamaized.net
 staticweb.bankofamerica.com
 staticweb.ecglb.bac.com
 staticxx.facebook.com
