@@ -8029,6 +8029,7 @@ birdsupplies.com
 birdtoyman.com
 birdtoyoutlet.com
 birdyboredombusters.com
+bireysel.payfix.com.tr
 bireysel.turkishbank.com
 birkascandinavian.com
 birkdale-trophies.co.uk
@@ -12981,6 +12982,7 @@ collectiques.co.uk
 collecto-mania.com
 collectomania.be
 collector.githubapp.com
+collector.lightstep.com
 collector.schibsted.io
 collectorbooks.com
 collectoronline.com
@@ -27972,6 +27974,7 @@ ingdirect.com.au
 ingdirect.es
 ingdirect.fr
 ingdirect.it
+ingest.lightstep.com
 ingest.sentry.io
 inglisflorists.com
 ingonline.com
@@ -38426,6 +38429,7 @@ p.facebook.com
 p.imgci.com
 p.imgur.com
 p.jwpcdn.com
+p.nfltags.com
 p.pw
 p.runcloud.link
 p.shure.com
@@ -38724,6 +38728,7 @@ paralibros.com
 paralympic.ca
 paralympic.org
 paralympic.org.au
+param.com.tr
 paramountzone.com
 paranabanco.com.br
 parapenteshop.com
@@ -40121,6 +40126,7 @@ piurl.com
 pivotworks.com
 piwa.info
 piwik.nic.cz
+pix.sueddeutsche.de
 pix3l.com
 pixclinic.com
 pixel.everesttech.net
@@ -40928,6 +40934,7 @@ prazsports.com
 prbkbr-ibank2.ru
 prbm.com
 prcoins.com
+prd.jwpltx.com
 prd2.immedia-semi.com
 prde.immedia-semi.com
 pre.su
@@ -49784,6 +49791,7 @@ sube.halkyatirim.com.tr
 sube.iktisatbank.com
 sube.oyakyatirim.com.tr
 sube.sekerbank.com.tr
+subesiz.vakifbank.com.tr
 subesizbankacilik.vakifbank.com.tr
 subito.it
 sublimestitching.com
