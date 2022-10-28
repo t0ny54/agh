@@ -28595,6 +28595,7 @@ itau.co
 itau.com.br
 iteminfo.com
 itemsabout.com
+iterable.com
 iterasi.net
 iteye.com
 ithacahemp.com
@@ -55683,7 +55684,6 @@ xbox.com
 xbox.ipv6.microsoft.com
 xbox.retail.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
-xboxlive.com
 xboxlive.xom
 xc.io
 xci.us
