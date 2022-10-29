@@ -1717,6 +1717,7 @@ addressesofdistinction.com
 addressplaques.net
 addressstamp.com
 addthis.com
+addthisevent.com
 adecoration.com
 adecoratorstouch.com
 adeejewellery.co.uk
@@ -40130,6 +40131,7 @@ piwik.nic.cz
 pix.sueddeutsche.de
 pix3l.com
 pixclinic.com
+pixel.disco.skyshowtime.com
 pixel.everesttech.net
 pixel.facebook.com
 pixel.google.com
