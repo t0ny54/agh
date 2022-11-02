@@ -8307,7 +8307,6 @@ blogengage.com
 blogg-buzz.com
 blogger.com
 blogger.l.google.com
-bloggerei.de
 bloggerphotos.l.google.com
 bloggingzoom.com
 blogmarks.net
@@ -53804,6 +53803,7 @@ viecokitchen.com
 vietcombank.com.vn
 vietinbank.vn
 view.email.nzz.ch
+view.genial.ly
 view.virt.s7.exacttarget.com
 viewer.content.glympse.com
 viglink.com
