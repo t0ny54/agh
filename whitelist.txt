@@ -12,6 +12,7 @@
 *.atv-ext.amazon.com
 *.atv-ps.amazon.com
 *.awstrack.me
+*.azure.com
 *.cas.ms
 *.cdn-noc.net
 *.cdninstagram.com
@@ -80,7 +81,12 @@
 *.nintendo.com
 *.nintendo.net
 *.nintendowifi.net
+*.office.com
+*.office.net
+*.office365.com
 *.officeapps.live.com
+*.outlook.com
+*.outlookmobile.com
 *.paypal-dynamic-*.map.fastly.net
 *.paypal.ca
 *.paypal.co.uk
@@ -99,6 +105,7 @@
 *.qprod2.net
 *.qualtrics.com
 *.registerdisney.go.com
+*.rewardsplatform.microsoft.com
 *.s.team
 *.safebrowsing.apple
 *.scdn.co
@@ -109,6 +116,7 @@
 *.searchnode.net
 *.services.microsoft.com
 *.sheerid.com
+*.smartscreen-prod.microsoft.com
 *.smartsheet.com
 *.smoot.apple.com
 *.sonycoment.loris-e.llnwd.net
@@ -155,6 +163,7 @@
 *.videorolls.row.aiv-cdn.net
 *.vortex.data.microsoft.com
 *.wdtinc.com
+*.windows.com
 *.xbox.com
 *.xboxab.com
 *.xboxab.net
@@ -169,6 +178,8 @@
 *apiproxy-*.elb.amazonaws.com
 *beaconserver-*.elb.amazonaws.com
 *events-data.trafficmanager.net
+*events.apple.com
+*events.news.apple-dns.net
 *graph-video.facebook.com
 *graph.facebook.com
 *graph.instagram.com
@@ -4134,7 +4145,6 @@ appledanceshoes.com
 appledraperies.com
 applefuturamama.com
 applegatesgiftbasket.com
-appleglobal.*.2o7.net
 appleid.apple.com
 appleid.cdn-apple.com
 applerise.com
@@ -26676,6 +26686,7 @@ hpshop.cnsys.bg
 hpshopping.com
 hpt.com
 hqextreme.com
+hqq.tv
 hr-hr.facebook.com
 hr.com
 hr.facebook.com
