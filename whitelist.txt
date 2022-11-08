@@ -12,7 +12,6 @@
 *.atv-ext.amazon.com
 *.atv-ps.amazon.com
 *.awstrack.me
-*.azure.com
 *.cas.ms
 *.cdn-noc.net
 *.cdninstagram.com
@@ -36,8 +35,6 @@
 *.dssott.com.akamaized.net
 *.entrust.net
 *.epicgames.com
-*.events.data.microsoft.com
-*.events.data.trafficmanager.net
 *.ext-twitch.tv
 *.fbcdn.net
 *.forester.a2z.com
@@ -67,7 +64,6 @@
 *.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
-*.msedge.net
 *.netflix.com
 *.netflix.net
 *.news.apple-dns.net
@@ -81,12 +77,6 @@
 *.nintendo.com
 *.nintendo.net
 *.nintendowifi.net
-*.office.com
-*.office.net
-*.office365.com
-*.officeapps.live.com
-*.outlook.com
-*.outlookmobile.com
 *.paypal-dynamic-*.map.fastly.net
 *.paypal.ca
 *.paypal.co.uk
@@ -94,7 +84,6 @@
 *.paypal.map.fastly.net
 *.paypalobjects.com
 *.perimeterx.net
-*.pipe.aria.microsoft.com
 *.playstation.com
 *.playstation.com.edgekey.net
 *.playstation.com.ssl.d1.sc.omtrdc.net
@@ -105,7 +94,6 @@
 *.qprod2.net
 *.qualtrics.com
 *.registerdisney.go.com
-*.rewardsplatform.microsoft.com
 *.s.team
 *.safebrowsing.apple
 *.scdn.co
@@ -161,9 +149,7 @@
 *.video-api.arcpublishing.com
 *.video.a2z.com
 *.videorolls.row.aiv-cdn.net
-*.vortex.data.microsoft.com
 *.wdtinc.com
-*.windows.com
 *.xbox.com
 *.xboxab.com
 *.xboxab.net
@@ -177,9 +163,6 @@
 *api.*.microsoft.com
 *apiproxy-*.elb.amazonaws.com
 *beaconserver-*.elb.amazonaws.com
-*events-data.trafficmanager.net
-*events.apple.com
-*events.news.apple-dns.net
 *graph-video.facebook.com
 *graph.facebook.com
 *graph.instagram.com
@@ -5422,6 +5405,7 @@ aviglatt.com
 avinos-wein.de
 avionic.dk
 avira-update.net
+avis-verifies.com
 avisca.com
 avisionforyou.com
 avitela.lt
@@ -9468,7 +9452,6 @@ brownsfashion.com
 brownsflowershop.com
 browntrout.com
 browser.events.data.microsoft.com
-browser.events.data.trafficmanager.net
 browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
@@ -12463,6 +12446,7 @@ click-n-order.net
 click.appcast.io
 click.cptrack.de
 click.dji.com
+click.e.change.org
 click.em.blizzard.com
 click.email.microsoftemail.com
 click.email.microsoftrewards.com
@@ -27339,7 +27323,6 @@ ic.united.ru
 ic.venets-bank.ru
 ic.vitabank.spb.ru
 ic.zhilcredit.ru
-ic3.events.data.microsoft.com
 icabanken.se
 icallabroad.com
 icanhaz.com
@@ -27512,6 +27495,7 @@ ifobs.bankcenter.com.ua
 ifobs.dvbank.ua
 ifobs.kredobank.com.ua
 ifracing.com
+iframely.net
 ifranks.com
 ifriends.net
 ifrontiers.stores.yahoo.net
@@ -32263,10 +32247,6 @@ madregal.com
 madrid-tickets.net
 madridskateboards.com
 madriverglen.com
-mads-*.amazon.com
-mads-eu.amazon.com
-mads.amazon-adsystem.com
-mads.amazon.com
 madsack-prod-cdn.video-api.arcpublishing.com
 madsheep.pl
 madstar.com.br
@@ -34393,7 +34373,6 @@ mobile.beta.facebook.com
 mobile.directory.google.com
 mobile.drive.google.com
 mobile.events.data.microsoft.com
-mobile.events.data.trafficmanager.net
 mobile.exlook.microsoft.com
 mobile.facebook.com
 mobile.itsmy.com
@@ -51053,9 +51032,6 @@ teamgonads.com
 teamkiwiracing.co.nz
 teamlollipop.co.uk
 teamontop.com
-teams-events-data.trafficmanager.net
-teams.events.data.microsoft.com
-teams.nel.measure.office.net
 teamsantafe.org
 teamspiritcheer.com
 teamsportswear.co.uk
@@ -55093,6 +55069,7 @@ www.cdn.ravenjs.com
 www.cdn.w3schools.com
 www.cdn77.com
 www.cdp.rapidssl.com
+www.change.org.cdn.cloudflare.net
 www.channel9.msdn.com
 www.chocolatey.org
 www.choice.microsoft.com
