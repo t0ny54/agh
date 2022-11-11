@@ -1,6 +1,7 @@
 *.*-msedge.net
 *.adguard.com
 *.admin-mcas.ms
+*.aimon.applicationinsights.io
 *.api.brightcove.com
 *.api.iris.microsoft.com
 *.apps.apple.com
@@ -30,7 +31,13 @@
 *.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
+*.netflix.net
 *.nextdns.io
+*.nflxext.com
+*.nflximg.com
+*.nflximg.net
+*.nflxso.net
+*.nflxvideo.net
 *.perimeterx.net
 *.px-cloud.net
 *.registerdisney.go.com
@@ -988,6 +995,7 @@ a148.ms.a.microsoft.com
 a149.ms.a.microsoft.com
 a1500.ms.a.microsoft.com
 a180.co.uk
+a1843.g.akamai.net
 a1camping.com
 a1clockman.com
 a1ebooksonline.com
@@ -1495,6 +1503,7 @@ activate.wip3.adobe.com
 activation-v2.sls.microsoft.com.nsatc.net
 activation.adobedtm.com
 activation.easeus.com
+activation.gfe.nvidia.com
 activation.phaseone.com
 activation.playready.microsoft.com
 activation.sls.microsoft.com
@@ -2034,6 +2043,7 @@ affaridielettronica.it
 affectionately-yours.com
 affekt.cz
 affiliatefuture.com
+affiliatly.com
 affinbank.com.my
 affinity-diamond-engagement-rings.com
 affinityoflondon.com
@@ -2264,6 +2274,9 @@ aiseet.atianqi.com
 aisle9.com
 aitatennis.com
 aitkenwines.com
+aiv-cdn.net
+aiv-cdn.net.c.footprint.net
+aiv-delivery.net
 aiyafitness.com
 aizawashoten.com
 aizhigu.com.cn
@@ -4041,6 +4054,7 @@ appliances.co.uk
 appliances.com
 appliancesonline.co.uk
 applianceworldonline.com
+applicationinsights.io
 applicationinsights.microsoft.com
 appliedrace.com
 appliquequilt.com
@@ -4948,6 +4962,9 @@ attribution.google.com
 atu.ca
 atv-24.de
 atv-eu.amazon.com
+atv-ext-*.amazon.com
+atv-ext.amazon.com
+atv-ps.amazon.com
 atv24.de
 atvbazar.ru
 atvprice.com
@@ -8181,6 +8198,7 @@ bloeiend.nl
 blog.appsumo.com
 blog.coinbase.com
 blog.csdn.net
+blog.disqus.com
 blog.facebook.com
 blog.gravatar.com
 blog.hubspot.com
@@ -10948,6 +10966,7 @@ ccvideo.com
 ccwbotanicals.com
 ccwclothing.com
 ccwsupply.com
+cd-dmgz.bamgrid.com
 cd-rahmen.de
 cd-v.net
 cd.bendibao.com
@@ -14619,6 +14638,7 @@ d16g-cornerstone-bes.integ.amazon.com
 d1a62freaxhn7x.cloudfront.net
 d1afootball.com
 d1z2jf7jlzjs58.cloudfront.net
+d231vab146qzfb.cloudfront.net
 d25xi40x97liuc.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
@@ -14632,6 +14652,7 @@ d3football.com
 d3hoops.com
 d3l3lkinz3f56t.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
+d3tracking.rbc.com
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
 da-dk.facebook.com
@@ -14669,6 +14690,7 @@ dai.ly
 daiichi-engei.co.jp
 daikage.com
 dailybooth.com
+dailycaller.com
 dailycandy.com
 dailygrind.com
 dailymotion.com
@@ -15571,6 +15593,7 @@ developers.prod.facebook.com
 developersniche.com
 development.facebook.com
 deviantart.com
+device-api.urbanairship.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us-ud.amazon.com
@@ -15956,6 +15979,7 @@ discord.gg
 discord.media
 discordapp.com
 discordapp.net
+discordstatus.com
 discount-appliances.co.uk
 discount-books.com
 discount-clothing-catalog.com
@@ -16048,6 +16072,7 @@ disney-plus.net
 disney.my.sentry.io
 disneyphotopass.eu
 disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
 disneyplus.disney.co.jp
 dispenser.com
 display.ugc.bazaarvoice.com
@@ -16403,8 +16428,6 @@ dogtree.co.jp
 dogvanes.com
 dogwise.com
 doh.asia.dnswarden.com
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnswarden.com
 doh.eu.dnswarden.com
@@ -16974,7 +16997,9 @@ dsp.brand.sogou.com
 dspopensearchstg.search.microsoft.com
 dsquilts.com
 dsrmbuyerschoice.com
+dss.map.fastly.net
 dssott.com
+dssott.com.akamaized.net
 dssott.com.c.footprint.net
 dsstoybox.com
 dssurl.com
@@ -17147,6 +17172,7 @@ dvdvideoplanet.com
 dvdwarehouse.com.au
 dvdworld.co.uk
 dve.pl
+dvf2rc3rx4ypk.cloudfront.net
 dvgolfclubs.com
 dvorsons.com
 dvrb.de
@@ -20373,6 +20399,7 @@ finebeads.jp
 finebike.cz
 finecharms.com
 fineco.it
+finecobank.com
 finecraftsimports.com
 finecrystalgifts.com
 finedovetailboxes.net
@@ -27244,6 +27271,8 @@ ichimonji.co.jp
 ichirocollectables.com
 ichiroya.com
 ichnaea-web.netflix.com
+ichnaea.*.origin.prodaa.netflix.com
+ichnaea.dradis.netflix.com
 ichnaea.netflix.com
 icicibank.ca
 icicibank.com
@@ -27562,6 +27591,7 @@ images.financialexpress.com.edgekey.net
 images.google.com
 images.gounlimited.to
 images.netdirector.co.uk
+images.nvidiagrid.net
 images.parsely.com
 images.pluto.tv
 images.salsify.com
@@ -28170,6 +28200,7 @@ inzercezdarma.cz
 iob-butiken.se
 iob.in
 iobnet.co.in
+ioc.exchange
 ioffer.com
 ioffice.kz
 ionashop.co.uk
@@ -29389,6 +29420,7 @@ js-technology.com
 js.gleam.io
 js.hsforms.net
 js.indexww.com
+js.klevu.com
 js.maxmind.com
 js.media-lab.ai
 js.mmtcdn.com
@@ -31665,6 +31697,7 @@ littlewonders.co.uk
 littmanbros.com
 liurl.cn
 live-trace.bilibili.com
+live-video.net
 live.adyen.com
 live.com
 live.github.com
@@ -32802,11 +32835,7 @@ mashreqbank.com
 mashumashu.com
 masik.ru
 masimes.co.uk
-mask-api.icloud.com
-mask-h2.icloud.com
-mask.apple-dns.net
 mask.co.jp
-mask.icloud.com
 maskedexpressions.com
 maskerville.com
 maskitalia.com
@@ -36261,6 +36290,7 @@ newsheat.com
 newskates.com
 newsletters.microsoft.com
 newsletters.nationalgeographic.com
+newslink.reuters.com
 newsmax.com
 newsmktg.com
 newsouthfederal.com
@@ -36451,6 +36481,9 @@ ninewine.com
 ning.com
 ningyoushi.com
 ninimomo.com
+nintendo.com
+nintendo.net
+nintendowifi.net
 niokabears.com
 nipbank.ru
 nipponimports.com
@@ -36786,6 +36819,9 @@ nq.st
 nqdesigns.com
 nrarities.com
 nrcsports.com
+nrdp.nccp.*.origin.prodaa.netflix.com
+nrdp.nccp.dradis.netflix.com
+nrdp.nccp.netflix.com
 nrgball.com
 nrgsaver.com
 nrgsports.co.uk
@@ -38945,11 +38981,15 @@ payments.thepayup.ru
 paymo.ru
 paymylink.com
 payonlinesystem.com
+paypal-dynamic-map.fastly.net
 paypal-nakit.com
 paypal-topup.ee
+paypal.ca
+paypal.co.uk
 paypal.com
 paypal.com.edgekey.net
 paypal.de
+paypal.map.fastly.net
 paypalobjects.com
 paypalobjects.com-a.edgekey.net
 payproglobal.com
@@ -40259,6 +40299,8 @@ playpen9.facebook.com
 playrecord.net
 playscapes.com
 playstation.com
+playstation.com.edgekey.net
+playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
 playstationrepair.co.uk
 playsystem-italy.com
@@ -41535,6 +41577,7 @@ puzzlenet.de
 puzzleshop.cz
 puzzlesplus.net
 puzzlewarehouse.com
+pv-cdn.net
 pv.sohu.com
 pvgc2.co.uk
 pvn.saturn.de
@@ -44097,6 +44140,7 @@ s.sdacdn.com
 s.shopify.com
 s.skimresources.com
 s.ss2.us
+s.team
 s.w-x.co
 s.w.org
 s.windows.microsoft.com
@@ -45642,6 +45686,7 @@ services.apps.microsoft.com
 services.apps.microsoft.com.nsatc.net
 services.brid.tv
 services.connect.microsoft.com
+services.gfe.nvidia.com
 services.learningbeta.microsoft.com
 services.medium.com
 services.mtps.microsoft.com
@@ -47714,7 +47759,10 @@ sonos.dk
 sonrisechristianwear.com
 sonteez.com
 sonyaltd.com
+sonycoment.loris-e.llnwd.net
 sonycyprus.com
+sonyentertainmentnetwork.com
+sonyjpnpsg-1.hs.llnwd.net
 sonystyle.ca
 sonystyle.com
 soo.gd
@@ -49128,18 +49176,26 @@ stealth.to
 stealthclubcovers.com
 steam-chat.com
 steambrite.com
+steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
+steamchina.com
 steamcloud-eu-ams.storage.googleapis.com
 steamcloud-finland.storage.googleapis.com
 steamcommunity-a.akamaihd.net
 steamcommunity-a.akamaihd.net.edgesuite.net
 steamcommunity.com
+steamcontent.com
 steamgames.com
 steamgames.net
 steampowered.com
+steampowered.com.8686c.com
 steamstatic.com
+steamstatic.com.8686c.com
 steamstore-a.akamaihd.net
 steamusercontent-a.akamaihd.net
+steamusercontent.com
+steamuserimages-a.akamaihd.net
+steamvideo-a.akamaihd.net
 steamwheelers.com
 stearns-bank.com
 stearnsybears.com
@@ -49656,6 +49712,7 @@ stylishlife.co.uk
 stylishstork.com
 stylishtots.com
 stylism.com
+stylitics.com
 styloweprezenty.pl
 styluscentral.com
 su.ff.avast.com
@@ -50518,6 +50575,7 @@ tafford.com
 tafthill.com
 tag-company.de
 tag.aticdn.net
+tag.dickssportinggoods.com
 tag.getdrip.com
 tag.shopping-feed.com
 tagart.com.pl
@@ -52659,6 +52717,7 @@ twint.ch
 twirl.at
 twit.ac
 twitch.map.fastly.net
+twitch.okta.com
 twitch.tv
 twitchcdn.net
 twitchsvc.net
@@ -53291,6 +53350,7 @@ valueinvestingnews.com
 valuemusic.com
 valuewatcher.com
 valv.im
+valvesoftware.com
 vampirefreaks.com
 vancouver-canada.com
 vancouver2010.com
@@ -54295,6 +54355,8 @@ wearbuy.com
 weather.com
 weatherapi.market.xiaomi.com
 weathertech.com
+web-assets.stylitics.com
+web-assets.stylitics.com.cdn.cloudflare.net
 web-blinds.com
 web-ngram.research.microsoft.com
 web-watch.de
@@ -55553,8 +55615,15 @@ xav.cc
 xbox.com
 xbox.ipv6.microsoft.com
 xbox.retail.microsoft.com
+xboxab.com
+xboxab.net
 xboxexperiencesprod.experimentation.xboxlive.com
+xboxlive.com
+xboxlive.com.akadns.net
+xboxlive.com.c.footprint.net
+xboxlive.com.edgekey.net
 xboxlive.xom
+xboxservices.com
 xc.io
 xci.us
 xcitybank.com.ua
