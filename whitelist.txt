@@ -45685,6 +45685,7 @@ services.addons.mozilla.org
 services.apps.microsoft.com
 services.apps.microsoft.com.nsatc.net
 services.brid.tv
+services.chipotle.com
 services.connect.microsoft.com
 services.gfe.nvidia.com
 services.learningbeta.microsoft.com
@@ -55339,6 +55340,7 @@ www.noteworthy.medium.com
 www.notifications-pa.googleapis.com
 www.notifications.googleapis.com
 www.npmjs.com
+www.npttech.com
 www.ns-cdn.neustar.biz
 www.ns1.com
 www.nsfw.reddit.com
