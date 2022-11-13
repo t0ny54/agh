@@ -1182,6 +1182,7 @@ abe-online.com
 abe.org
 abe.org.ar
 abeadabove.com
+abeagle-public.buzzfeed.com
 abeanbag.com
 abeautifulcalflorist.com
 abebooks.com
@@ -4017,6 +4018,7 @@ applab-sdk.amazon.com
 applam.com
 applauseformalwear.com
 appldnld.apple.com
+apple-dns.net
 apple.com
 apple.facebook.com
 appleappliances.com
@@ -16428,6 +16430,8 @@ dogtree.co.jp
 dogvanes.com
 dogwise.com
 doh.asia.dnswarden.com
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnswarden.com
 doh.eu.dnswarden.com
@@ -23100,6 +23104,7 @@ gitcdn.link
 gitcdn.xyz
 gitee.com
 github.com
+github.dev
 github.hubspot.com
 github.io
 github.map.fastly.net
@@ -32835,7 +32840,11 @@ mashreqbank.com
 mashumashu.com
 masik.ru
 masimes.co.uk
+mask-api.icloud.com
+mask-h2.icloud.com
+mask.apple-dns.net
 mask.co.jp
+mask.icloud.com
 maskedexpressions.com
 maskerville.com
 maskitalia.com
@@ -45230,6 +45239,7 @@ sdk-stockhausen.de
 sdk.accountkit.com
 sdk.privacy-center.org
 sdk.pulse.schibsted.com
+sdk.split.io
 sdkconfig.pulse.schibsted.com
 sdkinlamstedt.de
 sdksupplies.netfirms.com
