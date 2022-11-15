@@ -43,6 +43,7 @@
 *.registerdisney.go.com
 *.safebrowsing.apple
 *.scdn.co
+*.sch.gr
 *.schneevonmorgen.com
 *.schneevonmorgen.com.s3.amazonaws.com
 *.searchnode.io
@@ -36667,6 +36668,7 @@ nordea.lt
 nordea.ru
 nordea.se
 nordeanetbank.dk
+norden.social
 nordfynsbank.dk
 nordhjem.dk
 nordian.de
@@ -52380,6 +52382,7 @@ title.mgt.xboxlive.com
 title9sports.com
 titleboxing.com
 titubb.titck.gov.tr
+tivan.naver.com
 tixsu.com
 tk.downloads.microsoft.com
 tk2.us
@@ -55947,6 +55950,7 @@ z.cn
 z.facebook.com
 z.tochka.com
 z9.fr
+za.zdn.vn
 zaadz.com
 zaba.hr
 zaim.com
