@@ -14,6 +14,7 @@
 *.dds.microsoft.com
 *.digicert.com
 *.entrust.net
+*.ext-twitch.tv
 *.fbcdn.net
 *.forester.a2z.com
 *.gc.apple.com
@@ -25,8 +26,10 @@
 *.images-amazon.com
 *.ims.vodafone.com
 *.intercom.io
+*.jtvnw.net
 *.kiwibrowser.com
 *.lencr.org
+*.live-video.net
 *.mdhcdn.com
 *.mediatek.com
 *.messengerpeople.com
@@ -56,9 +59,17 @@
 *.spartoo.co.uk
 *.spartoo.de
 *.spartoo.it
+*.spotify.com.akahost.net
+*.spotify.com.edgesuite.net
 *.teams.live.com
 *.teams.microsoft.com
 *.tipico.de
+*.ttvnw.net
+*.twitch.map.fastly.net
+*.twitch.okta.com
+*.twitch.tv
+*.twitchcdn.net
+*.twitchsvc.net
 *.ultimedia.com
 *.update.microsoft.com
 *.vercel-dns.com
@@ -5008,6 +5019,7 @@ audible.de
 audid-api.taobao.com
 audiencecenter.google.com
 audimated.com
+audio*.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio-ake.spotify.com.edgesuite.net
 audio-akp-spotify-com.akamaized.net
@@ -17045,6 +17057,7 @@ dtworld.com
 du.163.com
 du.cx
 dualelectronics.com
+dualstack.brightcove.map.fastly.net
 duanemaktima.com
 duapps-photos-adv.gshifen.com
 dubaidesertclassic.com
@@ -18011,6 +18024,7 @@ edge-star-shv-01-bom1.facebook.com
 edge-star-shv-12-frc3.facebook.com
 edge-stun.facebook.com
 edge-turnservice-shv-01-lht6.facebook.com
+edge-weighted.api.brightcove.com
 edge-z-p3-shv-01-arn2.facebook.com
 edge.api.brightcove.com
 edge.quantserve.com
@@ -31671,6 +31685,7 @@ linkprotect.in
 linkr.uk
 linkroll.com
 links-protect.com
+links.da.slickdeals.net
 links.iterable.com
 links.mkt41.net
 links.mkt51.net
@@ -31731,7 +31746,6 @@ littlewonders.co.uk
 littmanbros.com
 liurl.cn
 live-trace.bilibili.com
-live-video.net
 live.adyen.com
 live.com
 live.github.com
@@ -32520,6 +32534,7 @@ manhuachi.com
 manicpanic.com
 manifest.auditude.com
 manifest.googlevideo.com
+manifest.prod.boltdns.net
 manifestdesign.qc.ca
 manifestjewelry.com
 manifests.microsoft.com
@@ -38216,6 +38231,7 @@ oui.cdn.optimizely.com
 oulpans.org
 oumi-jizake.com
 ouo.io
+oup.silverchair-cdn.com
 oupress.com
 oupsmodel.com
 our.intern.facebook.com
@@ -52790,9 +52806,9 @@ twinriverbank.com
 twinsisters.com
 twint.ch
 twirl.at
+twirl.otee.dev
 twit.ac
 twitch.map.fastly.net
-twitch.okta.com
 twitch.tv
 twitchcdn.net
 twitchsvc.net
