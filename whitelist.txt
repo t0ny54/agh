@@ -1,3 +1,4 @@
+*-discord.gg
 *.*-msedge.net
 *.adguard.com
 *.admin-mcas.ms
@@ -6,6 +7,7 @@
 *.api.iris.microsoft.com
 *.apps.apple.com
 *.cas.ms
+*.cdn-apple.com
 *.cdn-noc.net
 *.cdninstagram.com
 *.ceros.com
@@ -14,7 +16,13 @@
 *.damoh.*.de
 *.dds.microsoft.com
 *.digicert.com
+*.discord.com
+*.discord.media
+*.discordapp.com
+*.discordapp.net
+*.discordstatus.com
 *.entrust.net
+*.export.yandex.ru
 *.ext-twitch.tv
 *.fbcdn.net
 *.forester.a2z.com
@@ -26,6 +34,7 @@
 *.gstaticadssl.l.google.com
 *.images-amazon.com
 *.ims.vodafone.com
+*.informer.yandex.ru
 *.intercom.io
 *.jtvnw.net
 *.kiwibrowser.com
@@ -35,6 +44,7 @@
 *.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
+*.msedge.net
 *.netflix.net
 *.nextdns.io
 *.nflxext.com
@@ -42,6 +52,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.passport.yandex.ru
 *.perimeterx.net
 *.px-cloud.net
 *.registerdisney.go.com
@@ -53,6 +64,7 @@
 *.searchnode.io
 *.searchnode.net
 *.services.microsoft.com
+*.share.yandex.ru
 *.sheerid.com
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
@@ -86,6 +98,7 @@
 *graph.facebook.com
 *graph.instagram.com
 *microsoft.online-metrix.net
+*ocsp.microsoft.com
 *spotify-com.akamaized.net
 *v10.events.data.microsoft.com
 *v10.vortex-win.data.microsoft.com
@@ -2334,6 +2347,7 @@ akadns.net
 akaisilks.com
 akakce.com
 akam.no
+akamai-images-content.com
 akamai.net
 akamaiedge.net
 akamaihd.net
@@ -12810,6 +12824,7 @@ coconuttrader.com
 cocopari.com
 coda-music.co.uk
 coda.ru
+code-examples.net
 code.bildstatic.de
 code.createjs.com
 code.facebook.com
@@ -20242,6 +20257,11 @@ feuerwerke-online.de
 feuerwerksvitrine.de
 feuvert.fr
 fevervintage.com
+ff-01.com
+ff-02.com
+ff-03.com
+ff-04.com
+ff-05.com
 ff-handball.org
 ff.im
 ffandf.com
@@ -21602,7 +21622,6 @@ foxyhorseandhound.com
 foyles.co.uk
 fp-db.ds.microsoft.com
 fp.ip-api.com
-fp.msedge.net
 fp.tongdun.net
 fp1-kaw.ds.microsoft.com
 fp1-tk2-upl.ds.microsoft.com
@@ -35063,6 +35082,7 @@ msftncsi.com
 msftopenus.partners.extranet.microsoft.com
 msg.douyu.com
 msg.edit.yahoo.com
+msg.ettoday.net
 msg.facebook.com
 msg.video.qiyi.com
 msg.yahoo.com
@@ -35354,6 +35374,7 @@ mwf.com
 mwur.in
 mx-go.kelkoogroup.net
 mx-out.facebook.com
+mx.yandex.ru
 mx01.facebook.com
 mx02.facebook.com
 mx2.com
@@ -38355,6 +38376,7 @@ ovc2-ustokyyneikyfasnm.stackpathdns.com
 ovca.com
 ovcsports.com
 over-size.de
+overclockers.co.uk
 overhillflowers.com
 overland.com
 overlandsheepskinco.com
