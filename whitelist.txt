@@ -26,6 +26,7 @@
 *.ext-twitch.tv
 *.fbcdn.net
 *.forester.a2z.com
+*.forms.office.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
 *.geotrust.com
@@ -24716,6 +24717,7 @@ guyharveyshirts.com
 guyshop.com
 gvt1.com
 gvt2.com
+gvt3.com
 gw.alicdn.com
 gw.alipayobjects.com
 gw.line.naver.jp
