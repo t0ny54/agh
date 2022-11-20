@@ -1,5 +1,4 @@
-*-discord.gg
-*.*-msedge.net
+*-msedge.net
 *.adguard.com
 *.admin-mcas.ms
 *.aimon.applicationinsights.io
@@ -17,6 +16,7 @@
 *.dds.microsoft.com
 *.digicert.com
 *.discord.com
+*.discord.gg
 *.discord.media
 *.discordapp.com
 *.discordapp.net
@@ -23453,6 +23453,7 @@ go.microsoft.com
 go.nextiva.com
 go.nordlocker.net
 go.nordvpn.net
+go.oaktreecapital.com
 go.onelink.me
 go.pardot.com
 go.qb.by
@@ -32144,11 +32145,9 @@ m.weeklyad.target.com
 m.youtube.com
 m00.me
 m1.daumcdn.net
-m1.fwmrm.net
 m1finance.com
 m1p.fr
 m2.facebook.com
-m2.fwmrm.net
 m24.comertbank.md
 m2lcollection.com
 m2mbank.ru
@@ -35131,8 +35130,6 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
-mssl.fwmrm.net
-mssl.fwmrm.net.edgesuite.net
 msuc02.manage.microsoft.com
 msw-modelle.de
 msysa.org
