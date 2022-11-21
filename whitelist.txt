@@ -1,7 +1,10 @@
 *-msedge.net
+*.adguard-dns.com
+*.adguard-dns.io
 *.adguard.com
 *.admin-mcas.ms
 *.aimon.applicationinsights.io
+*.android.pool.ntp.org
 *.api.brightcove.com
 *.api.iris.microsoft.com
 *.apps.apple.com
@@ -11,6 +14,8 @@
 *.cdninstagram.com
 *.ceros.com
 *.change.org.cdn.cloudflare.net
+*.client-channel.google.com
+*.cloud.axiadids.net
 *.custom-domain.publitas.com
 *.damoh.*.de
 *.dds.microsoft.com
@@ -30,7 +35,14 @@
 *.gc.apple.com
 *.gc.fe.apple-dns.net
 *.geotrust.com
+*.ghcr.io
 *.gigya.com
+*.github.com
+*.github.io
+*.github.map.fastly.net
+*.githubapp.com
+*.githubassets.com
+*.gitlab.com
 *.googlevideo.com
 *.gstaticadssl.l.google.com
 *.images-amazon.com
@@ -46,6 +58,7 @@
 *.messengerpeople.com
 *.metric.gstatic.com
 *.msedge.net
+*.msftconnecttest.com
 *.netflix.net
 *.nextdns.io
 *.nflxext.com
@@ -53,6 +66,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nintendowifi.net
 *.passport.yandex.ru
 *.perimeterx.net
 *.px-cloud.net
@@ -77,7 +91,6 @@
 *.spotify.com.edgesuite.net
 *.teams.live.com
 *.teams.microsoft.com
-*.tipico.de
 *.ttvnw.net
 *.twibbonize.com.cdn.ezoic.net
 *.twitch.map.fastly.net
@@ -101,6 +114,7 @@
 *microsoft.online-metrix.net
 *ocsp.microsoft.com
 *spotify-com.akamaized.net
+*telemetry.*oraclecloud.com
 *v10.events.data.microsoft.com
 *v10.vortex-win.data.microsoft.com
 *v20.events.data.microsoft.com
@@ -3852,6 +3866,7 @@ apexresort.com
 apfelsina.de
 apflowers.com
 aphrodisiacs.com.au
+api*.intercom.io
 api-02.moengage.com
 api-05-01-sf2p.facebook.com
 api-game.meizu.com
@@ -3860,7 +3875,6 @@ api-global.netflix.com
 api-godaddy.nd.nudatasecurity.com
 api-hphp-05-01-ash1.facebook.com
 api-hphp-05-01-sf2p.facebook.com
-api-iam.intercom.io
 api-read.facebook.com
 api-tv.spotify.com
 api-unionid.meituan.com
@@ -3905,7 +3919,6 @@ api.giphy.com
 api.glympse.com
 api.gravatar.com
 api.hh.ru
-api.intercom.io
 api.intsig.net
 api.io.mi.com
 api.ipgeolocation.io
@@ -4998,8 +5011,7 @@ attribution.google.com
 atu.ca
 atv-24.de
 atv-eu.amazon.com
-atv-ext-*.amazon.com
-atv-ext.amazon.com
+atv-ext*.amazon.com
 atv-ps.amazon.com
 atv24.de
 atvbazar.ru
@@ -12493,6 +12505,7 @@ clientauthconfig.googleapis.com
 clientconfig.passport.net
 clientis.ch
 clientmetrics-pa.googleapis.com
+clients*.google.com
 clients-cctld.l.google.com
 clients.l.google.com
 clients1.google.com
@@ -12599,7 +12612,6 @@ clothingwarehouse.com
 clothpeddler.com
 clothworks.com
 cloud-news.ionos.com
-cloud.axiadids.net
 cloud.google.com
 cloudclusters.net
 cloudconfig.clients6.google.com
@@ -14118,7 +14130,6 @@ crittercouch.com
 crittergear.com
 critterwearscrubs.com
 crl.microsoft.com
-crl.moog.cloud.axiadids.net
 crl.verisign.net
 crl3.digicert.com
 crloo.com
@@ -16496,7 +16507,6 @@ dogtree.co.jp
 dogvanes.com
 dogwise.com
 doh.asia.dnswarden.com
-doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnswarden.com
@@ -17733,6 +17743,7 @@ ecclestonanglingcentre.co.uk
 eccoamager.dk
 eccoshop.de
 eccycles.com
+ecdinterface.philips.com
 echahockey.com
 echantillonsclub.com
 echecsvariables.over-blog.com
@@ -19527,7 +19538,7 @@ exteradirect.co.uk
 exterior-accents.com
 extern.c10r.facebook.com
 extern.facebook.com
-external-ber1-1.xx.fbcdn.net
+external-*.xx.fbcdn.net
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
@@ -20540,9 +20551,7 @@ fireantzhockey.com
 fireballsports.com
 firebase.google.com
 firebasedurablelinks-pa.clients6.google.com
-firebasedynamiclinks-ipv4.googleapis.com
-firebasedynamiclinks-ipv6.googleapis.com
-firebasedynamiclinks.googleapis.com
+firebasedynamiclinks*.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com
@@ -29506,6 +29515,7 @@ js-agent.newrelic.com
 js-cd.mmtcdn.com
 js-sec.indexww.com
 js-technology.com
+js.captcha-display.com
 js.gleam.io
 js.hsforms.net
 js.indexww.com
@@ -31942,6 +31952,7 @@ logotime.com
 logrocket.com
 logs.datadoghq.com
 logs.heroku.com
+logsink.devices.nest.com
 loki.network
 lol.riotgames.com
 lollilops.fr
@@ -32926,11 +32937,7 @@ mashreqbank.com
 mashumashu.com
 masik.ru
 masimes.co.uk
-mask-api.icloud.com
-mask-h2.icloud.com
-mask.apple-dns.net
 mask.co.jp
-mask.icloud.com
 maskedexpressions.com
 maskerville.com
 maskitalia.com
@@ -33795,6 +33802,7 @@ mgcpuzzles.com
 mgjshop.co.jp
 mgs4u.com
 mgz.com.ua
+mhc-*.myhomescreen.tv
 mhc-ajax-eu-s2.myhomescreen.tv
 mhc-ajax-eu.myhomescreen.tv
 mhc-ajax-us.myhomescreen.tv
@@ -34699,7 +34707,6 @@ montysprovincetown.com
 monzo.com
 moodjewelry.com
 moodswingstudio.com
-moog.cloud.axiadids.net
 moon-walker.com
 moonbabies.com
 moonboot.com
@@ -36926,8 +36933,8 @@ nq.st
 nqdesigns.com
 nrarities.com
 nrcsports.com
-nrdp.nccp.*.netflix.com
-nrdp.prod.*.netflix.com
+nrdp.nccp*.netflix.com
+nrdp.prod*.netflix.com
 nrgball.com
 nrgsaver.com
 nrgsports.co.uk
@@ -38222,6 +38229,7 @@ otflorist.com
 otherlandtoys.co.uk
 otkritie.rapida.ru
 otn.samsungcloudcdn.com
+otnprd*.samsungcloudsolution.net
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
 otnprd8.samsungcloudsolution.net
@@ -42538,6 +42546,7 @@ ravennathirdplace.com
 ravenokeefe.com
 ravenroostbooks.com
 ravens24x7.com
+ravm.tv
 raw.githack.com
 raw.github.com
 raw.githubusercontent.com
@@ -45170,7 +45179,7 @@ scoins.com
 scollon.com
 scone-pa.clients6.google.com
 sconex.com
-scontent-ber1-1.xx.fbcdn.net
+scontent-*.xx.fbcdn.net
 scontent-iad3-1.cdninstagram.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
@@ -48941,6 +48950,7 @@ sslgen-tidal.datadome.co
 sslproxy-prod.adobedtm.com
 sslshare.gshifen.com
 sslvideo-upload.l.google.com
+ssm*.internet.sony.tv
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
@@ -52419,6 +52429,7 @@ tinyurlalternative.com
 tinyvid.io
 tip.office.microsoft.com
 tipd.com
+tipico.de
 tipstrs.com
 tirings.com
 tisco.co.th
@@ -55554,7 +55565,6 @@ www.safaribooksonline.com
 www.safelinkconverter.com
 www.safetynet.googleapis.com
 www.samsung.com
-www.samsungotn.net
 www.sbs.com.au
 www.sdad.guru
 www.sdk.accountkit.com
