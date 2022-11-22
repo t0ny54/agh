@@ -12422,6 +12422,7 @@ click.em.blizzard.com
 click.em.samsclub.com
 click.email.jcpenney.com
 click.email.microsoftemail.com
+click.email.microsoftonline.com
 click.email.microsoftrewards.com
 click.email.newegg.com
 click.email.office.com
