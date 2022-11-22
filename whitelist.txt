@@ -1677,6 +1677,9 @@ adflags.com
 adfly.fr
 adfoc.us
 adfox.ru
+adguard-dns.com
+adguard-dns.io
+adguard.com
 adidas.com
 adini.com
 adintennis.com
@@ -1700,6 +1703,7 @@ adlersframing.com
 adli.pw
 adm.10jqka.com.cn
 admeira.ch
+admin-mcas.ms
 admin.brightcove.com
 admin.messaging.microsoft.com
 admin.tagppe.microsoft.com
@@ -3895,6 +3899,7 @@ api.b.hatena.ne.jp
 api.bam-x.com
 api.bazaarvoice.com
 api.bountysource.com
+api.brightcove.com
 api.bufferapp.com
 api.chat.xiaomi.net
 api.chip-secured-download.de
@@ -10746,6 +10751,7 @@ carvedgraphics.com
 caryfuk.cz
 carynsartworks.com
 carynsbridals.com
+cas.ms
 casa21.com
 casabella.com
 casablancaflorist.com
@@ -11047,6 +11053,7 @@ cdm.microsoft.com
 cdm24.pl
 cdmdownload.adobe.com
 cdmsports.com
+cdn-apple.com
 cdn-audio-1.medium.com
 cdn-content.ampproject.org
 cdn-customers.nanorep.com
@@ -11057,6 +11064,7 @@ cdn-images-2.medium.com
 cdn-images.mailchimp.com
 cdn-kaltura-dscd.edgekey.net
 cdn-mobile.api.pluto.tv
+cdn-noc.net
 cdn-origin01.techrepublic.com
 cdn-static-1.medium.com
 cdn-thumb.fds.api.xiaomi.com
@@ -11385,6 +11393,7 @@ ceramicscrafts.com
 cerart.it
 ceratec.com
 cerebro.com
+ceros.com
 cerrone.com.au
 cert-test.sandbox.google.com
 cert.learningservices.microsoft.com
@@ -15876,6 +15885,7 @@ digg.com
 digglicious.com
 digi-akku.de
 digiatlas.com
+digicert.com
 digid.nl
 digidip.net
 digilife.pl
@@ -18772,6 +18782,7 @@ entitycube.research.microsoft.com
 entosupplies.com.au
 entpsz.alipay.com
 entrixsports.com
+entrust.net
 enttec.com
 enucuzbul.org
 enuri.com
@@ -19489,6 +19500,7 @@ exploroo.com
 expobank.ru
 expobrazil.com
 expobusiness.com
+export.yandex.ru
 exporthai.com
 exposedenvy.com
 exposuresonline.com
@@ -23113,6 +23125,7 @@ gigcases.com
 giggear.co.uk
 gigis.ecrater.com
 gigisdolls.de
+gigya.com
 gijoesradioelectronics.com
 gijoualecole.eklablog.com
 gilbert-baitson.co.uk
@@ -27671,6 +27684,7 @@ imagein-hk.com
 imagemakersart.com
 imagerylab.com
 imageryproducts.com
+images-amazon.com
 images-cn.ssl-images-amazon.com
 images-ea.weather.microsoft.com
 images-eu.ssl-images-amazon.com
@@ -27808,6 +27822,7 @@ impulsefree.com
 imrankhanno1.20m.com
 imrworldwide.com
 ims-na1-prprod.adobelogin.com
+ims.vodafone.com
 imsorry.com
 imsplus.com
 imstillme.bizhosting.com
@@ -27953,6 +27968,7 @@ infoa.biz
 infohealth.co.uk
 infolink.pavv.co.kr
 information.microsoft.com
+informer.yandex.ru
 informz.net
 infotype.jp
 infowars.com
@@ -30700,6 +30716,7 @@ kivatrading.com
 kiwi-sheepskins.com
 kiwibank.co.nz
 kiwibox.com
+kiwibrowser.com
 kiwijewels.com
 kiwitreats.com
 kixxonline.com
@@ -31549,6 +31566,7 @@ leisureliving.com
 leisurelylivingstore.mywebhome.ca
 leithpetwerks.com
 lemeilleurdupsg.com
+lencr.org
 lens.com
 lensesbymail.com
 lensois.com
@@ -31799,6 +31817,7 @@ littlewonders.co.uk
 littmanbros.com
 liurl.cn
 live-trace.bilibili.com
+live-video.net
 live.adyen.com
 live.com
 live.github.com
@@ -33271,6 +33290,7 @@ mdap.alipay.com
 mdappliance.com
 mdbankers.com
 mdflames.com
+mdhcdn.com
 mdiecast.com
 mdk-arbat.ru
 mdl29.net
@@ -33417,6 +33437,7 @@ mediamarkt.nl
 mediamarkt.pl
 mediametrics.ru
 mediashelves.com
+mediatek.com
 mediatheque-coral.fr
 mediaweaver.jp
 mediaworld.it
@@ -33711,6 +33732,7 @@ messenger.hotmail.com
 messenger.live.com
 messenger.msn.com
 messenger.yahoo.com
+messengerpeople.com
 messer-zentrum.de
 messerdepot.de
 messerhandel.com
@@ -39452,6 +39474,7 @@ perfumesdirect.net
 perfumeshopping.com
 perifericospc.com
 perilcane.it
+perimeterx.net
 periodfeatures.net
 periscope.tv
 periwinklesonmarcoisland.com
@@ -41720,6 +41743,7 @@ pwit.com
 pwponline.com
 pwr-sports.com
 pwrfc.org
+px-cloud.net
 px.a8.net
 pxlme.me
 py6.ru
@@ -43084,6 +43108,7 @@ register-13-01-snc1.facebook.com
 register.com
 register.facebook.com
 register.one.microsoft.com
+registerdisney.go.com
 registermsdn.one.microsoft.com
 regton.com
 rehaboutlet.com
@@ -44462,6 +44487,7 @@ safe.mn
 safe.txmblr.com
 safealbum.se
 safebrowsing-cache.google.com
+safebrowsing.apple
 safebrowsing.cache.l.google.com
 safebrowsing.clients.google.com
 safebrowsing.google.com
@@ -45010,6 +45036,7 @@ scentrepoint.co.uk
 scentsandsprays.com
 scentsationalshoppe.com
 scgraph.facebook.com
+sch.gr
 schaapjeschaapje.nl
 schaapskleren.com
 schach-shop.de
@@ -45073,6 +45100,7 @@ schnarwiler.ch
 schnaubelt.com
 schnecksvillesports.com
 schnees.com
+schneevonmorgen.com
 schneiderbanger.com
 schneidermans.com
 schneidwaren-solingen.de
@@ -45415,6 +45443,8 @@ searchappliance.co.uk
 searchg2.crownpeak.net
 searchlab.eu
 searchles.com
+searchnode.io
+searchnode.net
 searchorigin4.microsoft.com
 searchservice.support.microsoft.com
 searchservice32.support.microsoft.com
@@ -46003,6 +46033,7 @@ shar.es
 share-links.biz
 share-online.biz
 share.cdn.viber.com
+share.yandex.ru
 shareaholic.com
 shareasale-analytics.com
 shareasale.com
@@ -46069,6 +46100,7 @@ sheepskinhut.com.au
 sheepskinstuff.com
 sheepskinsusa.com
 sheer-bliss.co.uk
+sheerid.com
 sheerimagesphotography.com
 sheerseductionslingerie.com
 sheesha24.de
@@ -48356,7 +48388,10 @@ sparrows.com
 sparta.qb.mig.tencent-cloud.net
 spartanbook.com
 spartancheerleading.com
+spartoo.co.uk
 spartoo.com
+spartoo.de
+spartoo.it
 spasandmore.com
 spasmodica.com
 spastuff.com
@@ -48774,6 +48809,7 @@ sportznutz.com
 spot-on-sundials.co.uk
 spotfree.net
 spotify.com
+spotify.com.akahost.net
 spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
@@ -52859,6 +52895,7 @@ twirl.at
 twirl.otee.dev
 twit.ac
 twitch.map.fastly.net
+twitch.okta.com
 twitch.tv
 twitchcdn.net
 twitchsvc.net
@@ -53023,6 +53060,7 @@ ultimatefutons.com
 ultimatemets.com
 ultimatenzsoccer.com
 ultimatesack.com
+ultimedia.com
 ultrad.com
 ultradiamonds.com
 ultraiso.net
@@ -53689,12 +53727,14 @@ vepcontentstage.microsoft.com
 vepexpstage.microsoft.com
 verabattemarco.com
 verbaudet.fr
+vercel-dns.com
 verd.in
 vereinigte-sparkassen.de
 vereinigtevolksbankeg.de
 vereinte-volksbank.de
 verify.facebook.com
 verisign.com
+verisign.net
 verkkopalkka.maventa.fi
 verkkopankki2.danskebank.fi
 vermetal-basket.fr
@@ -53834,6 +53874,7 @@ vid.connatix.com
 viddler.com
 video-ak-sf2p.facebook.com
 video-api-cdn.bostonglobe.arcpublishing.com
+video-api.arcpublishing.com
 video-api.bostonglobe.arcpublishing.com
 video-api.wsj.com
 video-fa.scdn.co
@@ -54043,6 +54084,7 @@ voe.sx
 voguestrap.com
 void.gr
 voiloo.net
+voipnx-saturn.line-apps.com
 vol.venezolano.com
 volcanoesbaseball.com
 voler.com
@@ -54491,6 +54533,7 @@ wdcp.microsoft.com
 wdcpalt.microsoft.com
 wdig.vo.llnwd.net
 wdp.dlws.microsoft.com
+wdtinc.com
 we.ly
 wealthbar.com
 wealthfront.com
@@ -56151,6 +56194,7 @@ zootsuitstore.com
 zoovillage.com
 zoozakupy.pl
 zoozoo2.com
+zopim.com
 zora.pl
 zoso.ro
 zoughaib.com
