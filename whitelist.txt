@@ -11154,9 +11154,6 @@ cdn.webclicks24.com
 cdn.yams-pro.schibsted.com
 cdn1-images.nutaku.com
 cdn1-images.nutaku.net
-cdn1-s-ha-e15.mdhcdn.com
-cdn1-s-ha-e17t.mdhcdn.com
-cdn1-s-ha-e18.mdhcdn.com
 cdn1.digitaltrends.com
 cdn1.hubspot.net
 cdn1.smartadserver.com
@@ -12719,7 +12716,6 @@ cn.pool.ntp.org
 cn.wswebcdn.com
 cn86.org
 cname.tradepub.com
-cname.vercel-dns.com
 cnave.com
 cnb-brownwood.com
 cnb.com
@@ -16518,8 +16514,6 @@ dogtree.co.jp
 dogvanes.com
 dogwise.com
 doh.asia.dnswarden.com
-doh.dns.apple.com.v.aaplimg.com
-doh.dns.sb
 doh.dnswarden.com
 doh.eu.dnswarden.com
 doh.us.dnswarden.com
@@ -20573,7 +20567,6 @@ firebaserules.clients6.google.com
 firebasestorage.clients6.google.com
 firebasestorage.googleapis.com
 firebirdraceway.com
-firebog.net
 firebox.com
 firecatalog.com
 firecatpottery.com
@@ -23204,7 +23197,6 @@ gitcdn.link
 gitcdn.xyz
 gitee.com
 github.com
-github.dev
 github.hubspot.com
 github.io
 github.map.fastly.net
@@ -26529,7 +26521,6 @@ hostahosta.com
 hostaparadise.com
 hostapatch.com
 hosted.where2getit.com
-hostfiles.frogeye.fr
 hostfree.pw
 hosting24.com
 hostingbookmarks.com
@@ -33826,14 +33817,6 @@ mgjshop.co.jp
 mgs4u.com
 mgz.com.ua
 mhc-*.myhomescreen.tv
-mhc-ajax-eu-s2.myhomescreen.tv
-mhc-ajax-eu.myhomescreen.tv
-mhc-ajax-us.myhomescreen.tv
-mhc-eu.myhomescreen.tv
-mhc-us.myhomescreen.tv
-mhc-xpana-eu-s2.myhomescreen.tv
-mhc-xpana-eu.myhomescreen.tv
-mhc-xpana-us.myhomescreen.tv
 mhinstruments.com
 mhpb.org
 mhsaa.com
@@ -37736,7 +37719,6 @@ online-funeral.com
 online-geschenk.de
 online-kinderwelt.de
 online-mc.no
-online-metrix.net
 online-proshop.com
 online-shop.de
 online-trader.ch
@@ -38253,10 +38235,6 @@ otherlandtoys.co.uk
 otkritie.rapida.ru
 otn.samsungcloudcdn.com
 otnprd*.samsungcloudsolution.net
-otnprd10.samsungcloudsolution.net
-otnprd11.samsungcloudsolution.net
-otnprd8.samsungcloudsolution.net
-otnprd9.samsungcloudsolution.net
 otoalsat.com
 otodom.pl
 otokonokimonoichi.com
@@ -40338,7 +40316,6 @@ plategka.com
 plates4less.co.uk
 platewarmer.com
 platezh.ru
-platform.cid.samba.tv
 platform.facebook.com
 platform.instagram.com
 platform.linkedin.com
@@ -48988,9 +48965,6 @@ sslproxy-prod.adobedtm.com
 sslshare.gshifen.com
 sslvideo-upload.l.google.com
 ssm*.internet.sony.tv
-ssm1.internet.sony.tv
-ssm2.internet.sony.tv
-ssm3.internet.sony.tv
 ssnb.com
 sso.hrz.tu-darmstadt.de
 sss.co.jp
@@ -50752,7 +50726,6 @@ tag.shopping-feed.com
 tagart.com.pl
 tagdesigns.com
 tagged.com
-tagger.opecloud.com
 taghavirugs.com
 tagilbank.ru
 tagiturl.com
@@ -55247,7 +55220,6 @@ www.duck.co
 www.dw.techrepublic.com
 www.e16973.a.akamaiedge.net
 www.ebank.peoplesbank.lk
-www.ecdinterface.philips.com
 www.eff.org
 www.elephantjournal.com
 www.emercoin.com
