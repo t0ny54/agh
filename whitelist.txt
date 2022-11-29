@@ -1612,7 +1612,6 @@ activeupdate.trendmicro.com
 activevideos.com
 activewatches.com
 activewear4u.com
-activex.microsoft.com
 activity.windows.com
 activitysuperstore.com
 activitysupply.com
@@ -15266,7 +15265,6 @@ de.ign.com
 de.ioam.de
 de.lirio.us
 de.pool.ntp.org
-de1.orsp.f-secure.com
 deacons-jewellers.com
 deadlynightshades.com
 deadstroke.com
@@ -16330,7 +16328,6 @@ dl-client.dropbox.com
 dl-debug.dropbox.com
 dl-protect.com
 dl-protect.info
-dl-ssl.google.com
 dl-ssl.l.google.com
 dl-web.dropbox.com
 dl.360safe.com
@@ -22014,7 +22011,6 @@ fsbwabasha.com
 fsbwaupaca.com
 fsbwc.com
 fsbweb.com
-fsbwserver.f-secure.com
 fscb.com
 fsioffice.com
 fslocks.com
@@ -37674,7 +37670,6 @@ oms2.one.microsoft.com
 omtrdc.net
 on-sitewireless.com
 on-the-italian-riviera.com
-on.cnn.com
 on.cx
 on.fleek.co
 on.mktw.net
@@ -41536,7 +41531,6 @@ pryl.se
 prylbanken.se
 ps-af.facebook.com
 psaplano.org
-psb1-bw.sp.f-secure.com
 psbank.ru
 psbindia.com
 psbnetbank.com
@@ -45563,7 +45557,6 @@ secretsoftheorient.com
 secrivalsstore.com
 secsports.com
 section219.com
-secure-appldnld.apple.com
 secure-au.imrworldwide.com
 secure-banking.de
 secure-cert.imrworldwide.com
@@ -45668,7 +45661,6 @@ securetoken.googleapis.com
 securitas.facebook.com
 security-banks.com
 security-discount.de
-security.debian.org
 security.ubuntu.com
 securitybank-albany.com
 securitybank.com
@@ -50479,7 +50471,6 @@ swcdn.g.aaplimg.com
 swcreations.net
 swdecoratives.com
 swdgems.com
-swdlp.apple.com
 swdpotteryworks.com
 swdsilverornaments.com
 sweatband.com
@@ -50620,7 +50611,6 @@ swrubberstamp.com
 swtest.ru
 swupdl.adobe.com
 swupmf.adobe.com
-swupmf.wip3.adobe.com
 swwhitewater.com
 sxp.microsoft.com
 sy.pe
@@ -50638,7 +50628,6 @@ sylmasta.com
 sylter-bank.de
 sylvane.com
 sylviaantiques.com
-symantec.georedirector.akadns.net
 symantecliveupdate.com
 sympathy-gifts.org
 symsrv.vip.facebook.com
@@ -53258,17 +53247,13 @@ update.facebook.com
 update.intervideo.com
 update.intl.miui.com
 update.iobit.com
-update.microsoft.com
 update.miui.com
 update.mozilla.org
 update.nai.com
 update.pdfcomplete.com
-update.playstation.net
 update.services.openoffice.org
-update.toolbar.yahoo.com
 update.tutnedorogo.ru
 update.utorrent.com
-update.videolan.org
 update30.services.openoffice.org
 update38.services.openoffice.org
 updatecenter.norton.com
@@ -54564,7 +54549,6 @@ wcuhockey.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 wdig.vo.llnwd.net
-wdp.dlws.microsoft.com
 wdtinc.com
 we.ly
 wealthbar.com
@@ -54847,7 +54831,6 @@ windowsmedia.microsoft.com
 windowsphone.live.conx.glbdns.microsoft.com
 windowssdk.msdn.microsoft.com
 windowsupdate.com
-windowsupdate.microsoft.com
 windowsupdate.nsatc.net
 windowsupdate.s.llnwi.net
 windowtoppers.com
