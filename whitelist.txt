@@ -6,7 +6,6 @@
 *.admin-mcas.ms
 *.aimon.applicationinsights.io
 *.android.pool.ntp.org
-*.api.brightcove.com
 *.api.iris.microsoft.com
 *.apps.apple.com
 *.cas.ms
@@ -156,6 +155,7 @@
 *graph.instagram.com
 *microsoft.online-metrix.net
 *ocsp.microsoft.com
+*paypal*.siteintercept.qualtrics.com
 *spotify-com.akamaized.net
 *telemetry.*oraclecloud.com
 *v10.events.data.microsoft.com
@@ -27733,6 +27733,7 @@ images-neu.weather.microsoft.com
 images-of-asia.com
 images-wus.weather.microsoft.com
 images.adrise.tv
+images.cdn.scarabresearch.com
 images.dmca.com
 images.dwell.com
 images.financialexpress.com.edgekey.net
@@ -34487,7 +34488,6 @@ mobileplace.co.uk
 mobileplaza.nl
 mobilepower.com.au
 mobiles.co.uk
-mobilesdk-*.kampyle.com
 mobilesdk-pa.clients6.google.com
 mobilesdot.co.uk
 mobilestunter.com
@@ -42936,6 +42936,7 @@ reco-public.rec.mp.microsoft.com
 recoimports.com
 recollections.biz
 recommendationengine.googleapis.com
+recommender.scarabresearch.com
 recordsbymail.com
 recoveryexpressions.com
 recreonics.com
@@ -44135,6 +44136,7 @@ rugweb.de
 rugzone.co.uk
 ruiterwebshop.nl
 rukminim1.flixcart.com
+rules*.clearurls.xyz
 rules2.clearurls.xyz
 rumasfruit.com
 rumble.com
@@ -49249,6 +49251,7 @@ stashrugby.com
 stat-dv.mtsbank.ru
 stat.10jqka.com.cn
 stat.download.xunlei.com
+stat.ethz.ch
 stat.moneycontrol.com
 stat1.moneycontrol.com
 stat100.ameba.jp
