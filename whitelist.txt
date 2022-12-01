@@ -147,6 +147,7 @@
 *.xboxlive.com.c.footprint.net
 *.xboxlive.com.edgekey.net
 *.xboxservices.com
+*.xp.apple.com
 *.ytimg.com
 *.zopim.com
 *api.*.microsoft.com
@@ -27669,6 +27670,7 @@ illusionglass.com
 illusionglassworks.com
 illusionjewels.com
 ilmi-johanna.com
+ilog-sea-aliyun.alipayplus.com
 iloma.de
 ilottrading.com
 ilovebody.jp
@@ -50779,6 +50781,7 @@ tagged.com
 taghavirugs.com
 tagilbank.ru
 tagiturl.com
+tagm.tchibo.de
 tagme-engraving.com
 tagmee.com
 tags.adsafety.net
