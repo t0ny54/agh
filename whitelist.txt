@@ -3968,6 +3968,7 @@ api.giphy.com
 api.glympse.com
 api.gravatar.com
 api.hh.ru
+api.immomo.com
 api.intsig.net
 api.io.mi.com
 api.ipgeolocation.io
@@ -38057,6 +38058,7 @@ operationparts.com
 operaza.com
 operbank.hu
 opinion.latimes.com
+opinions.research-interactive.com
 opisopshop.nl
 opitzhess.de
 oplata.beeline.ru
@@ -45654,7 +45656,6 @@ secured.in
 secureinternetbank.com
 secureir.ebaystatic.com
 securel.longtailvideo.com
-securemvt.apple.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
@@ -50292,6 +50293,7 @@ survey.foreseeresults.com
 survey.forseeresults.com
 survey.watson.microsoft.com
 surveymonkey.com
+surveymyopinion.researchnow.com
 surveys.twilio.com
 surving.com
 survival-pack.com
@@ -50951,6 +50953,7 @@ tanpopostore.jp
 tanshop.com
 tansu.net
 tantan.ch
+tantanapp.com
 tanthony.com
 tantor.com
 tantra-shop.ch
