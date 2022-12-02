@@ -37,14 +37,12 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
 * ### Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS:
      *  https://euro--block--dns--d7rx-k8n8.code.run/dns-query (Europe West)
-     *  https://blocker-ant0ny54.koyeb.app/dns-query (France)
      *  https://blocker.up.railway.app/dns-query (US West)
 *  This is a HOBBY service, please do not use for abuse & use it wisely
      
 * ### Safe search, adult content blocking, blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC.
   * #### DNS-over-HTTPS:
      *  https://euro--family--dns--d7rx-k8n8.code.run/dns-query (Europe West)
-     *  https://family-ant0ny54.koyeb.app/dns-query (France)
      *  https://family.up.railway.app/dns-query (US West)
 *  This is a HOBBY service, please do not use for abuse & use it wisely
 
