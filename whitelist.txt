@@ -1,5 +1,6 @@
 *-msedge.net
 *.a.klaviyo.com
+*.acdsystems.com
 *.adguard-dns.com
 *.adguard-dns.io
 *.adguard.com
@@ -4077,6 +4078,7 @@ app-analytics.snapchat.com
 app-api.ted.com
 app.aave.com
 app.adjust.com
+app.adjust.net.in
 app.alipay.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
@@ -12616,6 +12618,7 @@ clk.boulanger.com
 clk.tradedoubler.com
 clkit.co
 clkpl.tradedoubler.com
+clkuk.tradedoubler.com
 cloakedlink.com
 clobberleather.com.au
 clockdials.com
@@ -23004,6 +23007,7 @@ gghealth.com
 ggmedia.pl
 ggmgroundscare.com
 ggmusic.com
+ggopjn.com
 ggsmark.com
 ggtake.com
 ggtc.org
