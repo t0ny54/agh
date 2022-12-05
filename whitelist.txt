@@ -21,6 +21,13 @@
 *.damoh.*.de
 *.dds.microsoft.com
 *.digicert.com
+*.email*.office.com
+*.email.microsoftemail.com
+*.email.microsoftonline.com
+*.email.microsoftrewards.com
+*.engage.surface.com
+*.engage.windows.com
+*.engage.xbox.com
 *.entrust.net
 *.export.yandex.ru
 *.fbcdn.net
@@ -39,12 +46,14 @@
 *.kajabi-cdn.com
 *.kiwibrowser.com
 *.lencr.org
+*.mail.onedrive.com
 *.mdhcdn.com
 *.mediatek.com
 *.meituan.com
 *.meituan.net
 *.messengerpeople.com
 *.metric.gstatic.com
+*.microsoftstoreemail.com
 *.msedge.net
 *.msftconnecttest.com
 *.nextdns.io
@@ -3887,6 +3896,7 @@ api.bazaarvoice.com
 api.bountysource.com
 api.brightcove.com
 api.bufferapp.com
+api.c99.nl
 api.chat.xiaomi.net
 api.chip-secured-download.de
 api.choice.microsoft.com
@@ -4466,6 +4476,7 @@ aroundthebendwillowfurniture.com
 arpabook.com
 arpclock.com
 arpinphilately.com
+arqbackup.com
 arredoufficio.com
 arrowgiftshop.com
 arrowheadtradingpost.com
@@ -23327,6 +23338,7 @@ glnk.io
 global-investor.com
 global-nutrition.de
 global-source-mkt.com
+global.cdn.survey.medallia.com
 global.fncstatic.com
 global.market.xiaomi.com
 global.moneygram.com
@@ -27649,11 +27661,7 @@ image.crisp.chat
 image.elephantjournal.com
 image.email.microsoftemail.com
 image.email.microsoftrewards.com
-image.email.office.com
-image.email2.office.com
 image.engage.surface.com
-image.engage.windows.com
-image.engage.xbox.com
 image.ibb.co
 image.jeuxvideo.com
 image.jimcdn.com
@@ -27690,6 +27698,7 @@ images.netdirector.co.uk
 images.nvidiagrid.net
 images.parsely.com
 images.pluto.tv
+images.s*.exacttarget.com.edgesuite.net
 images.salsify.com
 images.theconversation.com
 images.unsplash.com
@@ -50240,6 +50249,7 @@ surroundings.com
 surroundsolutions.com
 surugaya.co.jp
 surveillance-video.com
+survey*.medallia.eu
 survey.foreseeresults.com
 survey.forseeresults.com
 survey.watson.microsoft.com
@@ -52654,6 +52664,7 @@ tracker.marinsm.com
 tracker.opentrackr.org
 tracker.scoober.com
 tracking-protection.cdn.mozilla.net
+tracking-protection.prod.mozaws.net
 tracking.dpd.de
 tracking.i2w.io
 tracking.magnetmail.net
