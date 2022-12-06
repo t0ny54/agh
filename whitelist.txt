@@ -29,6 +29,7 @@
 *.engage.windows.com
 *.engage.xbox.com
 *.entrust.net
+*.exacttarget.com.edgekey.net
 *.export.yandex.ru
 *.fbcdn.net
 *.forester.a2z.com
@@ -1122,14 +1123,6 @@ aatva.com
 aaubaseball.org
 aauboysbasketball.org
 aaugirlsbasketball.org
-aax*.amazon-adsystem.com
-aax*.amazon.co.uk
-aax*.amazon.com
-aax*.amazon.de
-aax*.amazon.es
-aax*.amazon.fr
-aax*.amazon.in
-aax*.amazon.it
 aax-beta.integ.amazon.com
 aax-us-east-test4.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -2361,7 +2354,6 @@ akaisilks.com
 akakce.com
 akam.no
 akamai-images-content.com
-akamai-san*.exacttarget.com.edgekey.net
 akamai.net
 akamaiedge.net
 akamaihd.net
@@ -8459,6 +8451,7 @@ bmxonline.com
 bn-in.facebook.com
 bn.aliorbank.pl
 bn.gravatar.com
+bnamic.com
 bnb.gov.br
 bnc.ca
 bnc.lt
@@ -9956,6 +9949,7 @@ c-dtags.com
 c-o.in
 c-p-p.co.uk
 c-und-d.de
+c.amazon-adsystem.com
 c.apple.com
 c.betrad.com
 c.bing.com
@@ -19398,7 +19392,6 @@ ewssetup.ws.microsoft.com
 ex.qq.com
 ex9.co
 exacttarget.com.edgekey.net
-exacttarget.com.edgesuite.net
 example-sports.com
 example.com
 example.org
@@ -27698,7 +27691,6 @@ images.netdirector.co.uk
 images.nvidiagrid.net
 images.parsely.com
 images.pluto.tv
-images.s*.exacttarget.com.edgesuite.net
 images.salsify.com
 images.theconversation.com
 images.unsplash.com
@@ -44237,7 +44229,6 @@ ryze.com
 rzd pulsar.ebay
 rzd.ru
 rzeszow.tvp.pl
-s*.exacttarget.com.edgesuite.net
 s-35.hiimps.com
 s-41.predictvideo.com
 s-46.hiimps.com
@@ -55539,7 +55530,6 @@ www.package.chocolatey.org
 www.packages.chocolatey.org
 www.paperoak.com
 www.partner-ads.com
-www.partner-ads.com7eer.net
 www.payeasy.lk
 www.paypal.com
 www.paypal.com.edgekey.net
