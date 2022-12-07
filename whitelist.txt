@@ -1123,6 +1123,8 @@ aatva.com
 aaubaseball.org
 aauboysbasketball.org
 aaugirlsbasketball.org
+aax-*-retail-direct.amazon-adsystem.com
+aax-*-retail-direct.amazon.com
 aax-beta.integ.amazon.com
 aax-us-east-test4.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -45371,6 +45373,7 @@ sdk-stockhausen.de
 sdk.accountkit.com
 sdk.privacy-center.org
 sdk.pulse.schibsted.com
+sdk.qikify.com
 sdk.split.io
 sdkconfig.pulse.schibsted.com
 sdkinlamstedt.de
@@ -47776,6 +47779,7 @@ softcrab.net
 softexpressions.com
 softflexcompany.com
 softgun.ch
+softonic.com
 softouchconcepts.com
 softplayforkids.com
 softride.com
@@ -50728,6 +50732,7 @@ tag-company.de
 tag.aticdn.net
 tag.dickssportinggoods.com
 tag.getdrip.com
+tag.search.sensefuel.live
 tag.shopping-feed.com
 tagart.com.pl
 tagdesigns.com
