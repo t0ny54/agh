@@ -13,6 +13,7 @@
 *.android.pool.ntp.org
 *.api.iris.microsoft.com
 *.apps.apple.com
+*.arc.epoq.de
 *.atv-ext-*.amazon.com
 *.atv-ext.amazon.com
 *.atv-ps.amazon.com
@@ -15202,6 +15203,9 @@ db.tt
 db5-dspcdn.tlu.dl.delivery.mp.microsoft.com
 dba.dk
 dbaj.pl
+dbankcloud.cn
+dbankcloud.com
+dbankcloud.ru
 dbo.agroros.ru
 dbo.assotsiatsiyabank.ru
 dbo.bank-mscb.ru
@@ -15756,6 +15760,7 @@ device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 device.auth.xboxlive.com
 device.maxmind.com
+deviceatlas.com
 devicemessaging.us-east-1.amazon.com
 deviceportal.nettvservices.com
 devices.carnivalmobile.com
@@ -20013,6 +20018,7 @@ fantazya.ca
 fanwear.com
 fanzam.com
 faoschwarz.com
+fapcat.com
 faq.whatsapp.com
 faqqly.com
 farale.com
@@ -31898,6 +31904,7 @@ livefoot.fr
 livejournal.com
 livemocha.com
 livepassdl.conviva.com
+liveperson.com
 livepsg.com
 liverail.c10r.facebook.com
 livere.com
