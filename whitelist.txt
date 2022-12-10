@@ -11828,6 +11828,7 @@ cheyenneskiclub.tripod.com
 chezbebedogcoats.com
 cheznono.com
 chgsa.com
+chia.net
 chiahats.com
 chiangmaicraft.com
 chiasso.com
@@ -55944,6 +55945,7 @@ xtra1.gpsonextra.net
 xtra2.gpsonextra.net
 xtra3.gpsonextra.net
 xtra4.gpsonextra.net
+xtrapath*.izatcloud.net
 xtrapath1.izatcloud.net
 xtrapath11.izatcloud.net
 xtrapath2.izatcloud.net
