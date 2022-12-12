@@ -1,6 +1,7 @@
 *-msedge.net
 *.a.klaviyo.com
 *.acdsystems.com
+*.acsechocaptiveportal.com
 *.adguard-dns.com
 *.adguard-dns.io
 *.adguard.com
@@ -13200,6 +13201,7 @@ completion.amazon.co.uk
 complex.facebook.com
 compman.co.uk
 component-ota-in.allawnos.com
+component-ota-sg.allawnos.com
 componentesart.com
 compostumbler.com
 compound.finance
@@ -19442,6 +19444,8 @@ ezybanking.com.au
 ezyclimb.com
 ezydvd.com.au
 ezyglass.com
+f*.market.mi-img.com
+f*.market.xiaomi.com
 f-j.dk
 f-keepers.com
 f-secure.com
@@ -37817,6 +37821,7 @@ osuuspankki.fi
 osysa.com
 ot-bogenshop.com
 ota-downloads.nvidia.com
+ota-recruit-sg.allawnos.com
 otaku.com
 otaru-merry-go-round.com
 otaru1.jp
@@ -42421,6 +42426,7 @@ reco-public.rec.mp.microsoft.com
 recoimports.com
 recollections.biz
 recommendationengine.googleapis.com
+recommender*.scarabresearch.com
 recommender.scarabresearch.com
 recordsbymail.com
 recoveryexpressions.com
@@ -42494,6 +42500,8 @@ redir.fr
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
 redir.windows.microsoft.com
+redirect.appmetrica.yandex.com
+redirect.appmetrica.yandex.ru
 redirect.at
 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.viglink.com
@@ -52350,6 +52358,7 @@ uba.org
 ubankal.com
 ubdp.com.ua
 uber.m.facebook.com
+uber.space
 ubmich.com
 uboc.com
 ubot.com.tw
