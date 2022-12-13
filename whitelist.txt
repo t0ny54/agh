@@ -60,7 +60,6 @@
 *.ghcr.io
 *.gigya.com
 *.github.com
-*.github.io
 *.github.map.fastly.net
 *.githubapp.com
 *.githubassets.com
@@ -11061,6 +11060,7 @@ cdn-images-1.medium.com
 cdn-images-2.medium.com
 cdn-images.mailchimp.com
 cdn-kaltura-dscd.edgekey.net
+cdn-magiclinks.trackonomics.net
 cdn-mobile.api.pluto.tv
 cdn-noc.net
 cdn-origin01.techrepublic.com
@@ -28049,6 +28049,7 @@ ipc.facebook.com
 ipcheck.tmgrup.com.tr
 ipdata.co
 ipdusa.com
+ipe-pmt.prod.sabre.com
 iperstore.net
 ipfs.dweb.link
 ipfs.infura-ipfs.io
@@ -42427,7 +42428,6 @@ recoimports.com
 recollections.biz
 recommendationengine.googleapis.com
 recommender*.scarabresearch.com
-recommender.scarabresearch.com
 recordsbymail.com
 recoveryexpressions.com
 recreonics.com
