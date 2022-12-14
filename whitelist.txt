@@ -85,6 +85,10 @@
 *.msedge.net
 *.msftconnecttest.com
 *.nextdns.io
+*.nexus.officeapps.live.com
+*.nexusrules.live.com
+*.nexusrules.live.com.akadns.net
+*.nexusrules.officeapps.live.com
 *.nflxext.com
 *.nflximg.com
 *.nflximg.net
@@ -176,6 +180,8 @@
 *paypal*.siteintercept.qualtrics.com
 *spotify-com.akamaized.net
 *telemetry.*oraclecloud.com
+*v10-win.vortex.data.microsoft.com.akadns.net
+*v10-win.vortex.data.trafficmanager.net
 *v10.events.data.microsoft.com
 *v10.vortex-win.data.microsoft.com
 *v20.events.data.microsoft.com
@@ -9422,6 +9428,7 @@ brownsfashion.com
 brownsflowershop.com
 browntrout.com
 browser.events.data.microsoft.com
+browser.events.data.trafficmanager.net
 browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
@@ -23091,6 +23098,7 @@ glnk.io
 global-investor.com
 global-nutrition.de
 global-source-mkt.com
+global.asimov.events.data.trafficmanager.net
 global.cdn.survey.medallia.com
 global.fncstatic.com
 global.market.xiaomi.com
@@ -30819,7 +30827,6 @@ kruumpiepoppenmode.nl
 krzesla-sklep.pl
 ks-bank.ru
 ks-versand.de
-ks.cn
 ksbankers.com
 kschweizer.com
 kscottonwoodquilts.com
@@ -31407,6 +31414,7 @@ linkinn.com
 linkn.co
 linkr.uk
 linkroll.com
+links.*.slickdeals.net
 links.da.slickdeals.net
 links.iterable.com
 links.mkt41.net
@@ -32665,6 +32673,7 @@ mathismusic.com
 matierepremiere.fr
 matlockminiatures.com
 matmanwrestling.com
+matomo.org
 matrassen.nl
 matrioshka-gift-shop.com
 mats-systems.com.au
@@ -33831,6 +33840,7 @@ mirror.facebook.com
 mirror1.malwaredomains.com
 mirrorkbranch.com
 mirrormirror.uk.com
+mirrors.aliyun.com
 mirrorx2.com
 mis.migc.xiaomi.com
 misc.home.mindspring.com
@@ -34647,6 +34657,7 @@ mr-bingo.com
 mr-collection.com
 mr-roses.com
 mr-versand.com
+mradx.net
 mrassist.com
 mrbaseball.com
 mrbasketball.net
@@ -35857,6 +35868,7 @@ netbk.co.jp
 netbokhandeln.se
 netbsd.org
 netc.members.microsoft.com
+netcoresmartech.com
 netdepo.hu
 netdirector.co.uk
 netdna.bootstrapcdn.com
@@ -36071,8 +36083,6 @@ nexus.ensighten.com
 nexus.passport.com
 nexusamerica.com
 nexusflorist.com
-nexusrules.live.com
-nexusrules.live.com.akadns.net
 nexusrules.officeapps.live.com
 nexxia.co.uk
 nfbc.us
@@ -37251,7 +37261,7 @@ onecollector.cloudapp.aria.akadns.net
 onecount.net
 onederwear.com
 onedrive.live.com
-onedscolprd*.*.cloudapp.azure.com
+onedscolprd*.cloudapp.azure.com
 onefineyarn.com
 onefootball.com
 oneglow.com
@@ -40841,7 +40851,6 @@ prod.disqus.map.fastlylb.net
 prod.dodsp.mp.microsoft.com.nsatc.net
 prod.facebook.com
 prod.media.jio.com
-prod.nexusrules.live.com.akadns.net
 prod.scgraph.facebook.com
 prod.telemetry.ros.rockstargames.com
 prodejher.cz
@@ -41541,6 +41550,7 @@ r-volksbank.de
 r.browser.miui.com
 r.email.microsoft.com
 r.mail.ru
+r.mradx.net
 r.officeint.microsoft.com
 r.orange.fr
 r.sg.sec.miui.com
@@ -45368,6 +45378,7 @@ setantasandiegogfc.com
 setbook.ru
 setfreeinternational.com
 settings-ppe.data.microsoft.com
+settings-prod-*.cloudapp.azure.com
 settings-sandbox.data.glbdns2.microsoft.com
 settings-sandbox.data.microsoft.com
 settings-win-ppe.data.microsoft.com
@@ -52758,6 +52769,7 @@ v10-win.vortex.data.microsoft.com.akadns.net
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v10c.events.data.microsoft.com
+v20-asimov-win.vortex.data.trafficmanager.net
 v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v3.cache1.c.docs.google.com
@@ -54708,7 +54720,6 @@ www.khms3.googleapis.com
 www.kickasstorrents.ee
 www.kopimi.com
 www.kqzyfj.com
-www.ks.cn
 www.labs-mqtt.xda-developers.com
 www.legal.medium.com
 www.lh3.googleusercontent.com
