@@ -1162,6 +1162,7 @@ aaugirlsbasketball.org
 aax*.amazon-adsystem.com
 aax*.amazon.co.uk
 aax*.amazon.com
+aax*.amazon.com.be
 aax*.amazon.de
 aax*.amazon.es
 aax*.amazon.fr
@@ -20953,6 +20954,7 @@ fls-*.amazon.co.jp
 fls-*.amazon.co.uk
 fls-*.amazon.com
 fls-*.amazon.com.au
+fls-*.amazon.com.be
 fls-*.amazon.com.br
 fls-*.amazon.com.mx
 fls-*.amazon.de
@@ -25847,6 +25849,7 @@ hobuk.co.uk
 hochbettnetz.de
 hochzeits-shop.com
 hochzeitsschrank.de
+hockerty.de
 hockey-cricket.co.uk
 hockey-fights.com
 hockey.at
@@ -52456,6 +52459,7 @@ unagi.amazon.co.jp
 unagi.amazon.co.uk
 unagi.amazon.com
 unagi.amazon.com.au
+unagi.amazon.com.be
 unagi.amazon.com.br
 unagi.amazon.de
 unagi.amazon.es
@@ -54974,6 +54978,7 @@ www.zooqle.com
 www1.buyoffice.microsoft.com
 www1.microsoft.com
 www1.royalbank.com
+www12.0zz0.com
 www17.wixdns.net
 www2.asiajam.com
 www2.buyoffice.microsoft.com
@@ -54990,6 +54995,7 @@ www4.handelsbanken.fi
 www5c.facebook.com
 www7.buyoffice.microsoft.com
 www7.downloadoffice2010.microsoft.com
+www8.0zz0.com
 wwwbaytest01.microsoft.com
 wwwbaytest02.microsoft.com
 wwwbaytest03.microsoft.com
