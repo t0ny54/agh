@@ -65,6 +65,7 @@
 *.githubassets.com
 *.gitlab.com
 *.googlemail.com
+*.googletagmanager.com
 *.googlevideo.com
 *.gstaticadssl.l.google.com
 *.images-amazon.com
@@ -161,6 +162,7 @@
 *.video-api.arcpublishing.com
 *.videorolls.row.aiv-cdn.net
 *.wdtinc.com
+*.www-googletagmanager.l.google.com
 *.xboxab.com
 *.xboxab.net
 *.xboxlive.com
@@ -3448,9 +3450,13 @@ andrewsformals.com
 andrewsgallery.com
 andrewsstarspage.com
 android-china.l.google.com
+android-context-data.googleapis.com
 android-market.l.google.com
+android-safebrowsing.google.com
 android-safebrowsing.googleapis.com
+android.apis.google.com
 android.clients.google.com
+android.googleapis.com
 android.l.google.com
 androidapi.mxplay.com
 androidc.mxplay.com
@@ -3458,6 +3464,7 @@ androidforums.com
 androidpartner.googleapis.com
 androidpay-users-pa.googleapis.com
 androidsuggesthub-pa.googleapis.com
+androidwearcloudsync-pa.googleapis.com
 androv-medical.com
 androzone.marfeel.com
 andyawtry.homestead.com
@@ -10174,6 +10181,7 @@ caledonianbears.com
 calendar.google.com
 calendarcastle.com
 calendarexpress.com
+calendarsync-pa.googleapis.com
 calevo.com
 calgary-florists.com
 calgarybmx.com
@@ -11607,6 +11615,7 @@ chashki-tarelki.ru
 chasseur.co.uk
 chassisshop.com
 chassoprix.com
+chat-*.facebook.com
 chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
 chat.facebook.com
@@ -12633,6 +12642,7 @@ cloudns.ph
 cloudpersonalization-pa.clients6.google.com
 cloudprint.google.com
 cloudresourcemanager.googleapis.com
+cloudsearch.googleapis.com
 cloudshovellers.com
 cloudsofwoodstock.com
 cloudsporcelain.com
@@ -13379,6 +13389,7 @@ contempojewelry.net
 contemporarycandles.com
 contemporarycloth.com
 contemporaryposters.com
+content-autofill.googleapis.com
 content-icc.pulselive.com
 content-media.bonial.biz
 content-partnersbadge-pa.googleapis.com
@@ -14223,6 +14234,7 @@ crutchfield.com
 crwoodcrafters.com
 crybabyranch.com
 cryoflesh.com
+cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
 cryptedudragon.com
 cryptonator.com
@@ -15668,6 +15680,7 @@ device-provisioning.googleapis.com
 device.auth.xboxlive.com
 device.maxmind.com
 deviceatlas.com
+deviceintegritytokens-pa.googleapis.com
 devicemessaging.us-east-1.amazon.com
 deviceportal.nettvservices.com
 devices.carnivalmobile.com
@@ -16112,6 +16125,7 @@ discountvac.com
 discountvegetarian.com
 discountwatchstore.com
 discountyarnsale.com
+discover-pa.googleapis.com
 discover.com
 discovermagazine.com
 discoverthis.com
@@ -17730,7 +17744,6 @@ edge-atlas-shv-13-frc1.facebook.com
 edge-atlas-shv-17-prn1.facebook.com
 edge-atlas-shv-18-prn1.facebook.com
 edge-chat.facebook.com
-edge-irl1.demdex.net
 edge-liverail-shv-01-ams2.facebook.com
 edge-liverail-shv-01-ams3.facebook.com
 edge-liverail-shv-01-ash5.facebook.com
@@ -18495,7 +18508,9 @@ encinoll.com
 encoretickets.com
 encre-hermane.fr
 encre.com
+encrypted-tbn*.gstatic.com
 encrypted-tbn0.gstatic.com
+encrypted-vtbn*.gstatic.com
 endlesscreations-laser.com
 endlesspurseabilities.com
 endlesssummerlifestyles.com
@@ -23218,6 +23233,7 @@ gnbsudameris.com.co
 gnchobbies.com
 gnoc.gm
 gnpcb.org
+gnpfesdk-pa.googleapis.com
 gnty.com
 go-armynavy.com
 go-baskets.com
@@ -24331,6 +24347,7 @@ gryplanszowe.pl
 gs-home.jp
 gs.apple.com
 gs.statcounter.com
+gsacollections-pa.googleapis.com
 gsacsports.org
 gsb.or.th
 gsc.de
@@ -24341,7 +24358,6 @@ gsdecornmore.com
 gseshop.jp
 gsgold.com
 gslamps.com
-gslb-2.demdex.net
 gslb.spotify.com
 gsm-tools.de
 gsm.no
@@ -27143,6 +27159,7 @@ id.cryptonator.com
 id.google.co.in
 id.google.com
 id.google.com.tr
+id.google.de
 id.gravatar.com
 id.pilet.ee
 id.santanderconsumer.no
@@ -27255,6 +27272,7 @@ ifurn.com
 ifurnishings.co.uk
 ifurnitureshop.com
 ifweb.org
+igapromomanager-pa.googleapis.com
 igcusa.com
 igi.ybay.co.il
 igia.com
@@ -27659,6 +27677,7 @@ inference.location.live.net
 infield-drag.com
 infieldadvantage.com
 infiniepassion.com
+infinitedata-pa.googleapis.com
 infiniteillusions.com
 infinitelights.com
 infiniteyarns.com
@@ -29024,6 +29043,7 @@ jnadesigns.com
 jnbsilver.com
 jncb.com
 jnjtools.biz
+jnn-pa.googleapis.com
 jnutra.com
 joa-toa.com
 joanallen.co.uk
@@ -31558,6 +31578,7 @@ localsports.com
 location-api.hdhomerun.com
 location-inference-westus.cloudapp.net
 location.services.mozilla.com
+locationhistoryaggregates-pa.googleapis.com
 locationsound.com
 locazil.eklablog.com
 loccitane.com
@@ -33122,6 +33143,7 @@ meet.google.com
 meetandplay.com
 meethall.com
 meetin.org
+meetings.googleapis.com
 meetme.com
 meettheboss.tv
 meetu.ps
@@ -34073,7 +34095,9 @@ mobilegw.alipay.cn
 mobilegw.alipay.com
 mobilelog.kugou.com
 mobilemania.ch
+mobilemaps-pa-gz.googleapis.com
 mobilemaps.clients.google.com
+mobilemaps.googleapis.com
 mobilemoms.com
 mobilenetworkscoring-pa.googleapis.com
 mobileocean.ru
@@ -34649,6 +34673,7 @@ mptoner.cz
 mpva.com
 mql5.com
 mqrx.com
+mqtt*.facebook.com
 mqtt-ig-p4.facebook.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
@@ -34749,6 +34774,7 @@ msgin-regional-shv-01-rprn0.facebook.com
 msgin-regional.vvv.facebook.com
 msgin.t.facebook.com
 msgin.vvv.facebook.com
+msgr*.facebook.com
 msgs.jp
 msh-tablet.amazon.com
 msh-tablet.amazon.in
@@ -34792,6 +34818,7 @@ msysa.org
 mt.saservices.microsoft.com
 mt2.googleapis.com
 mt3.googleapis.com
+mtalk.google.com
 mtalk4.google.com
 mtb.dk
 mtb24.de
@@ -35242,6 +35269,7 @@ mypersonalizedbears.com
 mypetoutlet.com
 mypetspecialties.com
 mypharmanote.com
+myphonenumbers-pa.googleapis.com
 mypip.com
 mypoints.com
 mypoolpal.com
@@ -36331,6 +36359,7 @@ nokss.ru
 nolieblades.com
 nolimitmotorsport.com
 noll.net
+nolo.com
 nolp.dhl.de
 noma.wroc.pl
 nomadrugs.com
@@ -36793,6 +36822,7 @@ oasisplace.com
 oatesspecialties.com
 oatmealsavage.com
 oauth.reddit.com
+oauth2.googleapis.com
 oaxacafinecarvings.com
 oaxacanwoodcarving.com
 oba.com
@@ -38526,6 +38556,7 @@ passbanca.it
 passepasse.com
 passiflora-uk.co.uk
 passing-shots.co.uk
+passion.io
 passionflower.us
 passionforlife.com
 passionforpurple.com
@@ -38975,6 +39006,7 @@ peoplesexchangebk.com
 peoplesflowers.com
 peoplesgraceville.com
 peoplesnationalbank.com
+peoplestack-pa.googleapis.com
 pepegarden.co.uk
 pepourlavie.eklablog.com
 pepper-passion.com
@@ -39354,6 +39386,7 @@ phonecallapi.micloud.xiaomi.net
 phonecards.se
 phonecardspin.com
 phonedeviceverification-pa-prod.samdbox.googleapis.com
+phonedeviceverification-pa.googleapis.com
 phonehouse.de
 phonemerchants.com
 phones2udirect.co.uk
@@ -39797,6 +39830,7 @@ pjtra.com
 pkb24.ru
 pkcheadquarters.org
 pkdesignsonline.com
+pki-goog.l.google.com
 pkobp.pl
 pksqcamera.com
 pkw.pl
@@ -39933,6 +39967,7 @@ plauenerspitze-shop.de
 plausible.io
 plavniki.com.ua
 plaxo.com
+play-fe.googleapis.com
 play-houses.com
 play-sport.com
 play.aniview.com
@@ -39951,6 +39986,7 @@ play5.flashx.pw
 playaboule.com
 playactionproducts.com
 playahead.se
+playatoms-pa.googleapis.com
 playback.ru
 playbooks-pa.googleapis.com
 playengine.co.uk
@@ -42374,6 +42410,7 @@ rdwngshoestore.com
 rdz.me
 re-make-re-model.com
 re-nukitchens.co.uk
+reach-pa.googleapis.com
 read.amazon.com
 readdle.cmail20.com
 readicut.co.uk
@@ -44398,6 +44435,7 @@ savannahstreasures.com
 savapoint.com
 save-it-smart.de
 save-on-crafts.com
+save-pa.googleapis.com
 save.tv
 savealot.facebook.com
 saveandmakemoola.com
@@ -44458,6 +44496,7 @@ sbearstradingpost.com
 sber-bank.by
 sberatelstvi.cz
 sberbank-ast.ru
+sberbank.com
 sberbank.hu
 sberbank.kz
 sberbank.ru
@@ -45142,6 +45181,7 @@ security-banks.com
 security-discount.de
 securitybank-albany.com
 securitybank.com
+securitydomain-pa.googleapis.com
 securityedition.com
 securityfederal.net
 securityideas.com
@@ -48532,6 +48572,7 @@ stagenscreen.com
 stagestopcandy.com
 stageswest.com
 staging-chromecontentsuggestions-pa.googleapis.com
+staging-locationhistory-pa.sandbox.googleapis.com
 staging-www.sandbox.googleapis.com
 staging.plex.tv
 stainedglass.on.ca
@@ -49423,6 +49464,7 @@ sugarriveroutfitters.com
 sugartots.com
 suggestqueries.google.com
 suggestqueries.googleapis.com
+suggestqueries.l.google.com
 suggies.com
 suiso.jp
 suissewatchservice.com
@@ -49633,6 +49675,7 @@ supertrapp.com
 superu-audincourt.com
 supervaluevitamins.com
 superyelper.com
+supl.google.com
 suplay.com
 supplement-warehouse.co.uk
 supplementstogo.com
@@ -50448,6 +50491,7 @@ taschenversand.de
 tashinc.com
 task-intl.com
 tasketbasket.ca
+tasks-pa.googleapis.com
 tassimo.fr
 tasteofbritain.com
 tasteofeurope.net
@@ -52002,6 +52046,7 @@ toolprice.com
 tools-china.l.google.com
 tools-plus.com
 tools.facebook.com
+tools.google.com
 tools.l.google.com
 tools.pingdom.com
 toolspot.co.uk
@@ -52429,6 +52474,7 @@ ul.royal-bank.ru
 ulhockey.com
 ullapopken.com
 ulmt.in
+ulp1p-pa.googleapis.com
 ultilinks.com
 ultimabank.com
 ultimatebackstore.com
@@ -52564,6 +52610,7 @@ update.avlyun.sec.miui.com
 update.biv.sony.tv
 update.code.visualstudio.com
 update.facebook.com
+update.googleapis.com
 update.intl.miui.com
 update.miui.com
 update.utorrent.com
@@ -53368,10 +53415,12 @@ voddownload.ndtv.com.edgekey.net
 voe.sx
 voguestrap.com
 void.gr
+voilatile-pa.googleapis.com
 voiloo.net
 voipnx-saturn.line-apps.com
 vol.venezolano.com
 volcanoesbaseball.com
+voledevice-pa.googleapis.com
 voler.com
 volksbank-adelebsen.de
 volksbank-aktiv.de
@@ -55078,6 +55127,7 @@ xero.com
 xfinity.com
 xflight.xboxlive.com
 xg4ken.com
+xgapromomanager-pa.googleapis.com
 xgd.in
 xhamster.com
 xianz.com
