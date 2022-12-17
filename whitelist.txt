@@ -18,6 +18,7 @@
 *.atv-ext-*.amazon.com
 *.atv-ext.amazon.com
 *.atv-ps.amazon.com
+*.bonialconnect.com
 *.cas.ms
 *.cd-dmgz.bamgrid.com
 *.cdn*.optimizely.com
@@ -51,6 +52,7 @@
 *.entrust.net
 *.exacttarget.com.edgekey.net
 *.export.yandex.ru
+*.ext-twitch.tv
 *.fbcdn.net
 *.forester.a2z.com
 *.forms.office.com
@@ -72,9 +74,11 @@
 *.ims.vodafone.com
 *.informer.yandex.ru
 *.intercom.io
+*.jtvnw.net
 *.kajabi-cdn.com
 *.kiwibrowser.com
 *.lencr.org
+*.live-video.net
 *.mail.onedrive.com
 *.mdhcdn.com
 *.mediatek.com
@@ -152,7 +156,13 @@
 *.teams.microsoft.com
 *.tivan.naver.com
 *.tmetrix.my.chick-fil-a.com
+*.ttvnw.net
 *.twibbonize.com.cdn.ezoic.net
+*.twitch.map.fastly.net
+*.twitch.okta.com
+*.twitch.tv
+*.twitchcdn.net
+*.twitchsvc.net
 *.ultimedia.com
 *.update.intl.miui.com
 *.update.microsoft.com
@@ -163,6 +173,7 @@
 *.videorolls.row.aiv-cdn.net
 *.wdtinc.com
 *.www-googletagmanager.l.google.com
+*.xbox.com
 *.xboxab.com
 *.xboxab.net
 *.xboxlive.com
@@ -8729,6 +8740,7 @@ bongshop.de
 bonheurdesdames.com
 bonhote.ch
 bonial.fr
+bonialconnect.com
 bonidos.pl
 bonkersfiber.com
 bonnebell.com
@@ -27467,6 +27479,7 @@ imagineiftoys.com.au
 imaginetoys.com
 imaginewedding.co.uk
 imaishoten.com
+imap.gmail.com
 imasdk.googleapis.com
 imaternity.com
 imaxinternational.com
@@ -27907,6 +27920,7 @@ intermcr.facebook.com
 interminerales.com
 intermountaintraders.com
 intern.facebook.com
+internal.cloud.remarkable.com
 international-auto.com
 internationalathletic.com
 internationalbike.com
@@ -34316,6 +34330,7 @@ monicavinader.com
 moninshopping.com
 monitor.azure.com
 monitor.clickcease.com
+monitor.ppcprotect.com
 monitorbank.com
 monitoring.googleapis.com
 monitoring.sls.microsoft.com
@@ -36532,6 +36547,7 @@ nothingbuttennis.com
 nothingbuttoys.net
 nothrow.com
 notifications-pa.googleapis.com
+notifications-prod.cloud.remarkable.engineering
 notifications.google.com
 notifications.googleapis.com
 notify.xboxlive.com
@@ -39648,6 +39664,7 @@ ping-pong.com
 ping-pong.ru
 ping.*.adguard.io
 ping.fm
+ping.remarkable.com
 ping.taplytics.com
 pingdom.net
 pingpoint.net
@@ -40559,6 +40576,7 @@ pozdravim.ru
 pp.ua
 pp.userapi.com
 ppa.launchpad.net
+ppcprotect.com
 ppda.co.kr
 ppe.applicationinsights.microsoft.com
 ppe.examservices.microsoft.com
@@ -52617,6 +52635,7 @@ update.utorrent.com
 updatefaker.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
+updates.cloud.remarkable.engineering
 updates.push.services.mozilla.com
 updating.me
 upgrade.scdn.co
@@ -53888,6 +53907,7 @@ web99.eu
 webaccelerator.google.com
 webadvisorc.rest.gti.mcafee.com
 webank.bank-45.ru
+webapp-prod.cloud.remarkable.engineering
 webapp.sebgroup.com
 webapps.microsoft.com
 webball.com
