@@ -3960,6 +3960,7 @@ api.cryptonator.com
 api.dds.microsoft.com
 api.device.xiaomi.net
 api.ebay-kleinanzeigen.de
+api.eu-west-1.aiv-delivery.net
 api.facebook.com
 api.fast.com
 api.flexpool.io
@@ -12873,6 +12874,7 @@ code.prod.facebook.com
 code.responsivevoice.org
 code3.net
 code3jewelry.com
+codeberg.org
 codecanyon.net
 codefreedvd.com
 codelabs.developers.google.com
@@ -34119,6 +34121,7 @@ mobileplace.co.uk
 mobileplaza.nl
 mobilepower.com.au
 mobiles.co.uk
+mobilesdk-*.kampyle.com
 mobilesdk-pa.clients6.google.com
 mobilesdot.co.uk
 mobilestunter.com
@@ -36366,6 +36369,7 @@ nofriends.com
 noggintops.com
 nohoprideandjoy.com
 noideer.com.au
+noip.at
 nok.de
 nokia.m.facebook.com
 nokomiscollectibles.com
@@ -54535,6 +54539,7 @@ www.cloudflare.com
 www.cls.s7.exct.net
 www.cms.techrepublic.com
 www.cnn.com
+www.codeberg.org
 www.codepen.io
 www.coinbase.com
 www.collateral.medium.com
