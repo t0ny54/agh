@@ -3924,6 +3924,7 @@ api-global.netflix.com
 api-godaddy.nd.nudatasecurity.com
 api-hphp-05-01-ash1.facebook.com
 api-hphp-05-01-sf2p.facebook.com
+api-mainnet.pool.space
 api-read.facebook.com
 api-tv.spotify.com
 api-unionid.meituan.com
@@ -11084,6 +11085,7 @@ cdn-audio-1.medium.com
 cdn-content.ampproject.org
 cdn-customers.nanorep.com
 cdn-eb.syndication.twitter.com
+cdn-eu.dynamicyield.com
 cdn-gl.imrworldwide.com
 cdn-images-1.medium.com
 cdn-images-2.medium.com
@@ -11174,6 +11176,7 @@ cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 cdn.tagcommander.com
 cdn.transifex.com
+cdn.trustcommander.net
 cdn.ttgtmedia.com
 cdn.unpkg.com
 cdn.viblast.com
@@ -27180,6 +27183,12 @@ id.santanderconsumer.no
 id.sin.cb3.glbdns.microsoft.com
 id.smt.docomo.ne.jp
 id.sonyentertainmentnetwork.com
+id.yandex.by
+id.yandex.com
+id.yandex.com.tr
+id.yandex.kz
+id.yandex.ru
+id.yandex.ua
 ida.facebook.com
 ida3d.com
 idahoantlerart.biz
@@ -33451,6 +33460,7 @@ metok.sys.miui.com
 metricmechanic.com
 metricool.com
 metrics.foxnews.com
+metrics.lidl.com
 metrics.plex.tv
 metrics.torproject.org
 metrics.webapps.microsoft.com
@@ -40580,7 +40590,6 @@ pozdravim.ru
 pp.ua
 pp.userapi.com
 ppa.launchpad.net
-ppcprotect.com
 ppda.co.kr
 ppe.applicationinsights.microsoft.com
 ppe.examservices.microsoft.com
