@@ -21,9 +21,9 @@
 *.bonialconnect.com
 *.cas.ms
 *.cd-dmgz.bamgrid.com
-*.cdn*.optimizely.com
 *.cdn-apple.com
 *.cdn-noc.net
+*.cdn.optimizely.com
 *.cdninstagram.com
 *.ceros.com
 *.change.org.cdn.cloudflare.net
@@ -4184,6 +4184,7 @@ appsumo.com
 apptimize.com
 apptrav.com
 appurl.io
+appx.transient.amazon.co.uk
 appx.transient.amazon.com
 appx.transient.amazon.in
 appyleague.com
@@ -48846,7 +48847,7 @@ static.xx.fbcdn.net
 static.zdassets.com
 static1.squarespace.com
 static2cdn.hubspot.com
-statics-marketingsites-neu-ms-com.akamaized.net
+statics-marketingsites-*-ms-com.akamaized.net
 staticweb.bankofamerica.com
 staticweb.ecglb.bac.com
 staticxx.facebook.com
