@@ -8064,6 +8064,7 @@ bitbucket.io
 bitbucket.org
 bitebuzzer.com
 bitfinex.com
+bitget.com
 biti-media.de
 bitly.com
 bitnbridletackshop.com
@@ -9949,6 +9950,7 @@ by2profiletest04.microsoft.com
 by2profiletest05.microsoft.com
 bybecca.com
 bybest.de
+bybit.com
 byblosbank.com.lb
 bydgoszcz.tvp.pl
 bydom.com
@@ -27051,6 +27053,7 @@ ibank24.kz
 ibank2r.vfbank.ru
 ibanka.seb.lv
 ibanking-services.com
+ibanking.bankofmelbourne.com.au
 ibanking.vtb.am
 ibankr.ricbank.com
 ibankretail.nbg.gr
@@ -42814,6 +42817,7 @@ renaissancepress.com
 renaissancerose.homestead.com
 renaissanceurns.com
 renathe.com
+renault-bank-direkt.at
 renault-bank-direkt.de
 rendezvousstyle.com
 reneesclothing.com
@@ -55420,6 +55424,8 @@ zeelool.com
 zeelver.com
 zena.net
 zenaps.com
+zencdn.net
+zephr.com
 zephyrsbaseball.com
 zero.beta.facebook.com
 zero.facebook.com
