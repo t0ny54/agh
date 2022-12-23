@@ -87,6 +87,7 @@
 *.messengerpeople.com
 *.metric.gstatic.com
 *.microsoftstoreemail.com
+*.msdp1.com
 *.msedge.net
 *.msftconnecttest.com
 *.nextdns.io
@@ -1008,6 +1009,7 @@ a.ooyala.com
 a.run.app
 a.s.monaco.free.fr
 a.slashdotmedia.com
+a.top4top.net
 a.trellocdn.com
 a.uguu.se
 a0.fr
@@ -34784,6 +34786,7 @@ msdnasia.one.microsoft.com
 msdnisv.microsoft.com
 msdnwiki.microsoft.com
 msdownload.microsoft.com
+msdp1.com
 mse.dlservice.microsoft.com
 msedge.net
 msevents-as.microsoft.com
@@ -52638,6 +52641,7 @@ uob.sc.omtrdc.net
 uobgroup.com
 uol.com.br
 uongjowo.gravatar.com
+up.top4top.net
 upa.org
 upalmit.com
 upay.megafon.ru
