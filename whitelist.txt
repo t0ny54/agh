@@ -103,6 +103,7 @@
 *.nintendowifi.net
 *.nvgs.nvidia.cn
 *.passport.yandex.ru
+*.performfeeds.com
 *.perimeterx.net
 *.playstation.com.edgekey.net
 *.playstation.net.edgekey88.net
@@ -4886,6 +4887,7 @@ assets.mmsrg.com
 assets.nflxext.com
 assets.pinterest.com
 assets.realclear.com
+assets.sitescdn.net
 assets.ubuntu.com
 assets.zendesk.com
 assetsuat2.tataunistore.com.edgekey.net
@@ -10045,6 +10047,7 @@ ca-gard.fr
 ca-guadeloupe.fr
 ca-illeetvilaine.fr
 ca-languedoc.fr
+ca-lb.ultimedia.com
 ca-loirehauteloire.fr
 ca-martinique.fr
 ca-midi.fr
@@ -11085,6 +11088,7 @@ cdkenterprises.com
 cdm.microsoft.com
 cdm24.pl
 cdmsports.com
+cdn-116.anonfiles.com
 cdn-apple.com
 cdn-audio-1.medium.com
 cdn-content.ampproject.org
@@ -12519,6 +12523,7 @@ clickufficio.it
 client-bank.itbank.ru
 client-event-reporter.twitch.tv
 client-s.gateway.messenger.live.com
+client-uc.heytapmobi.com
 client.cdn77.com
 client.crisp.chat
 client.dropbox.com
@@ -27523,6 +27528,7 @@ img.onesignal.com
 img.over-blog-kiwi.com
 img.purch.com
 img.shouji.sogou.com
+img.ultimedia.com
 img.vidible.tv
 img.yana.asideas.de
 img.zuoyebang.cc
@@ -33121,6 +33127,7 @@ mediaexpert.pl
 mediafire.com
 mediahome.pl
 mediahomeservice.nl
+medialb.ultimedia.com
 medialibrairie.com
 mediamarkt.at
 mediamarkt.de
@@ -48816,6 +48823,7 @@ static.adtidy.org
 static.ak.connect.facebook.com
 static.ak.facebook.com
 static.appsumo.com
+static.cdn.responsys.net
 static.cloud.coveo.com
 static.coinbase.com
 static.dingtalk.com
@@ -55030,6 +55038,7 @@ www.trak.in
 www.tu-darmstadt.de
 www.tube8.com
 www.tv.media.jio.com
+www.ultimedia.com
 www.unagi-eu.amazon.com
 www.uni-arch.bg
 www.uni-giessen.de
