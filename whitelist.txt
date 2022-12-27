@@ -12,6 +12,7 @@
 *.aiv-delivery.net
 *.amazonvideo.com
 *.android.pool.ntp.org
+*.api.brightcove.com
 *.api.iris.microsoft.com
 *.apps.apple.com
 *.arc.epoq.de
@@ -25,6 +26,7 @@
 *.cdn-noc.net
 *.cdn.optimizely.com
 *.cdninstagram.com
+*.cdx.cedexis.net
 *.ceros.com
 *.change.org.cdn.cloudflare.net
 *.client-channel.google.com
@@ -3948,6 +3950,7 @@ api.b.hatena.ne.jp
 api.bam-x.com
 api.bazaarvoice.com
 api.bountysource.com
+api.brightcove.com
 api.bufferapp.com
 api.c99.nl
 api.chat.xiaomi.net
@@ -11682,6 +11685,7 @@ cheapskategifts.co.uk
 cheaptents.com
 check.ddos-guard.net
 check.svyaznoy.ru
+check2.tsb.co.uk
 check4.facebook.com
 check6.facebook.com
 checkerberries.com
@@ -15146,6 +15150,7 @@ db-ip.com
 db-pbc.pl
 db.com
 db.local.clamav.net
+db.tt
 db5-dspcdn.tlu.dl.delivery.mp.microsoft.com
 dba.dk
 dbaj.pl
@@ -16893,8 +16898,22 @@ droid.ws
 droomboeket.nl
 drop.ndtv.com.edgekey.net
 dropacar.com
+dropbox-dns.com
 dropbox.com
 dropbox.comdl.dropbox.com
+dropbox.tech
+dropboxapi.com
+dropboxbusiness.com
+dropboxcaptcha.com
+dropboxforum.com
+dropboxforums.com
+dropboxinsiders.com
+dropboxmail.com
+dropboxpartners.com
+dropboxpayments.com
+dropboxstatic.com
+dropboxteam.com
+dropboxusercontent.com
 dropsweb.com
 dropzonearmynavy.com
 drostes.com
@@ -22708,6 +22727,7 @@ getcrafty.ca
 getcreativeshow.com
 getdigital.de
 getdrip.com
+getdropbox.com
 getdyes.com
 getflocked.com
 getforless.com
@@ -24357,6 +24377,7 @@ growerssolution.com
 growersupply.com
 growingkidssale.com
 growingtulips.com
+growth-pa.googleapis.com
 grubco.com
 gruberphotographers.com
 gruenemarketdays.com
@@ -24584,6 +24605,7 @@ h-fidelity.online-metrix.net
 h-haider.de
 h-sdk.online-metrix.net
 h-sport.no
+h-tsb.online-metrix.net
 h-ue.de
 h.beta.facebook.com
 h.facebook.com
@@ -48835,6 +48857,7 @@ static.fontawesome.com
 static.gmlinteractive.com
 static.hotjar.com
 static.hubspot.com
+static.iterable.com
 static.jvc.gg
 static.kickstarter.com
 static.klaviyo.com
@@ -52199,6 +52222,7 @@ tracking-protection.prod.mozaws.net
 tracking.dpd.de
 tracking.i2w.io
 tracking.magnetmail.net
+tracking.post.japanpost.jp
 tracking.publicidees.com
 tracking.s24.com
 tracking.truthfinder.com
