@@ -53,10 +53,12 @@
 *.engage.xbox.com
 *.entrust.net
 *.exacttarget.com.edgekey.net
+*.execute-api.*.amazonaws.com
 *.export.yandex.ru
 *.ext-twitch.tv
 *.fbcdn.net
 *.forms.office.com
+*.gateway.devices.a2z.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
 *.geotrust.com
@@ -95,6 +97,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nintendowifi.net
+*.ntp-fireos.com
 *.nvgs.nvidia.cn
 *.passport.yandex.ru
 *.performfeeds.com
@@ -180,6 +183,7 @@
 *api.*.microsoft.com
 *graph-video.facebook.com
 *graph.facebook.com
+*graph.fbpigeon.com
 *graph.instagram.com
 *microsoft.online-metrix.net
 *ocsp.microsoft.com
@@ -1171,6 +1175,7 @@ aax-*-retail-direct.amazon.com
 aax-beta.integ.amazon.com
 aax-eu.amazon.ae
 aax-eu.amazon.co.uk
+aax-eu.amazon.com
 aax-eu.amazon.com.tr
 aax-eu.amazon.de
 aax-eu.amazon.es
@@ -1181,6 +1186,7 @@ aax-eu.amazon.nl
 aax-eu.amazon.sa
 aax-eu.amazon.se
 aax-fe.amazon.co.jp
+aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
 aax-us-east-test4.amazon-adsystem.com
@@ -3913,6 +3919,7 @@ apexresort.com
 apfelsina.de
 apflowers.com
 aphrodisiacs.com.au
+api*.amazonalexa.com
 api*.intercom.io
 api-02.moengage.com
 api-05-01-sf2p.facebook.com
@@ -4351,6 +4358,7 @@ arcolafeed.com
 arcopedicoshoes.com
 arcticravengallery.com
 arctophilia.com
+arcus-*.amazon.com
 arcus-uswest.amazon.com
 arcvolftp.facebook.com
 ardcotemplates.com
@@ -15182,6 +15190,7 @@ dc-battery.co.uk
 dc-ppe.trafficmanager.net
 dc.applicationinsights.microsoft.com
 dc.tmtest.glbdns.microsoft.com
+dcape-*.amazon.com
 dcape-na.amazon.com
 dcapsproxy-na.amazon.com
 dcbl.com
@@ -16720,6 +16729,7 @@ doylebaseball.com
 doylesflorist.com
 dozensofgames.com
 dp-enterprises.com
+dp-gw-*.amazon.com
 dp.msnmessenger.akadns.com
 dpbolvw.net
 dpcauto.com
@@ -32631,6 +32641,7 @@ marythefairy.at
 marywardbooks.com
 marywheelerdesigns.com
 marzipanworld.com
+mas-ext*.amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 mas-ssr.amazon.com
@@ -36670,6 +36681,7 @@ nswga.com.au
 nt3.ggpht.com
 ntalker.com
 ntjsa.org.au
+ntp-fireos.com
 ntp.facebook.com
 ntp.org
 ntra.com
@@ -40926,6 +40938,7 @@ procreditbank.de
 proctorjones.com
 procutlery.com
 procyclegear.com
+prod.amazoncrl.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
 prod.dodsp.mp.microsoft.com.nsatc.net
@@ -48566,6 +48579,7 @@ stackpath.com
 stackpathdns.com
 stacks.com
 stacksandstacks.com
+stacksocial.com
 stacyadams.com
 stacyslockerroom.com
 stacysshabbyshoppe.com
