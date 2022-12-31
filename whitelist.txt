@@ -16,10 +16,12 @@
 *.api.iris.microsoft.com
 *.apps.apple.com
 *.arc.epoq.de
+*.asynchronousmessaging.dashboard.co.uk
 *.atv-ext-*.amazon.com
 *.atv-ext.amazon.com
 *.atv-ps.amazon.com
 *.bonialconnect.com
+*.c10r.facebook.com
 *.cas.ms
 *.cd-dmgz.bamgrid.com
 *.cdn-apple.com
@@ -30,6 +32,7 @@
 *.ceros.com
 *.change.org.cdn.cloudflare.net
 *.client-channel.google.com
+*.clients*.google.com
 *.cloud.axiadids.net
 *.custom-domain.publitas.com
 *.damoh.*.de
@@ -1757,6 +1760,7 @@ admin.messaging.microsoft.com
 admin.tagppe.microsoft.com
 admin.tagtst.microsoft.com
 admin.training.partner.microsoft.com
+adminlogin.liveperson.net
 admirable-tea-boutique.com
 admiralflagpoles.com
 admission.com
@@ -3115,6 +3119,7 @@ amazon.sa
 amazon.se
 amazon.sg
 amazonaws.com
+amazonforum.com
 amazonmoosey.com
 amazonvideo.com
 amazzzingcards.com
@@ -4934,6 +4939,7 @@ aswebsales.com
 aswexpress.com
 asylum-anime.com
 async-api.kaltura.com
+asynchronousmessaging.dashboard.co.uk
 asyouwish.org
 at-config.sensic.net
 at-go.kelkoogroup.net
@@ -9995,6 +10001,7 @@ c-dtags.com
 c-o.in
 c-p-p.co.uk
 c-und-d.de
+c.amazon-adsystem.com
 c.apple.com
 c.betrad.com
 c.bing.com
@@ -11645,6 +11652,7 @@ chasseur.co.uk
 chassisshop.com
 chassoprix.com
 chat-*.facebook.com
+chat-dl.google.com
 chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
 chat.facebook.com
@@ -12552,7 +12560,6 @@ clientauthconfig.googleapis.com
 clientconfig.passport.net
 clientis.ch
 clientmetrics-pa.googleapis.com
-clients*.google.com
 clients-cctld.l.google.com
 clients.l.google.com
 clients1.google.com
@@ -13374,6 +13381,7 @@ consciouschaos.com
 consent.cmp.oath.com
 consent.dk
 consent.faz.net
+consent.google.com
 consent.trustarc.com
 consent.truste.com
 consentmanager.mgr.consensu.org
@@ -13412,6 +13420,7 @@ contactlens.com.au
 contactlensavers.co.uk
 contactlensesusa.com
 contactlenssource.com
+contacts.google.com
 contacts.msn.com
 contactscount.com
 container.googleapis.com
@@ -14747,6 +14756,7 @@ d13itkw33a7sus.cloudfront.net
 d16g-cornerstone-bes.integ.amazon.com
 d1a62freaxhn7x.cloudfront.net
 d1afootball.com
+d1bd3wxsyuz0t7.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d231vab146qzfb.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
@@ -18805,7 +18815,6 @@ ernest-charles.com
 ernest.fr
 ernestjones.co.uk
 ernstlicht.com
-ero-labs.online
 erogenos.com
 eroterest.net
 erowery.pl
@@ -23841,6 +23850,7 @@ googlemail-imap.l.google.com
 googlemail-pop.l.google.com
 googlemail-smtp.l.google.com
 googlemail.com
+googlemail.l.google.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -27614,6 +27624,7 @@ in-bank.ru
 in-excess.com
 in-shopping.com
 in.agri-bank.com
+in.appcenter.ms
 in.chan.kaw.cb3.glbdns.microsoft.com
 in.hotjar.com
 in.kaw.cb3.glbdns.microsoft.com
@@ -46612,6 +46623,7 @@ sitecheck4.opera.com
 sitecheck5.opera.com
 sitecheck6.opera.com
 sitecheck7.opera.com
+siteintercept.qualtrics.com
 sitejot.com
 sitel.m.facebook.com
 sitepoint.com
@@ -52185,6 +52197,7 @@ track.adform.net
 track.aliexpress.com
 track.customer.io
 track.effiliation.com
+track.goshippo.com
 track.nzz.ch
 track.productsup.io
 track.seadform.net
@@ -53809,6 +53822,7 @@ wallet.advcash.com
 wallet.best
 wallet.bitcoin.com
 wallet.btc.com
+wallet.google.com
 wallet.rapida.ru
 wallisworld.com
 wallpaper.pandora.xiaomi.com
