@@ -125,6 +125,7 @@
 *.seu*.cleverreach.com
 *.share.yandex.ru
 *.sheerid.com
+*.sheerid.net
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
 *.sonycoment.loris-e.llnwd.net
@@ -45712,6 +45713,7 @@ sheepskinstuff.com
 sheepskinsusa.com
 sheer-bliss.co.uk
 sheerid.com
+sheerid.net
 sheerimagesphotography.com
 sheerseductionslingerie.com
 sheesha24.de
