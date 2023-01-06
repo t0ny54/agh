@@ -70,6 +70,7 @@
 *.googletagmanager.com
 *.googlevideo.com
 *.gstaticadssl.l.google.com
+*.images-amazon.com
 *.ims.vodafone.com
 *.informer.yandex.ru
 *.intercom.io
@@ -11140,6 +11141,7 @@ cdn.arstechnica.net
 cdn.auth0.com
 cdn.betrad.com
 cdn.bitmovin.com
+cdn.brid.tv
 cdn.chocolatey.org
 cdn.cloudflare.net
 cdn.cnbj1.fds.api.mi-img.com
@@ -11208,6 +11210,7 @@ cdn.svp.schibsted.io
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
 cdn.tagcommander.com
+cdn.tpdads.com
 cdn.transifex.com
 cdn.trustcommander.net
 cdn.ttgtmedia.com
@@ -15062,6 +15065,7 @@ data.sec.miui.com
 data.tvdownload.microsoft.com
 data.video.iqiyi.com
 datadoghq-browser-agent.com
+datadoghq.eu
 datadome.co
 datafilehost.com
 dataflow.clients6.google.com
@@ -27482,6 +27486,7 @@ imagein-hk.com
 imagemakersart.com
 imagerylab.com
 imageryproducts.com
+images-amazon.com
 images-cn.ssl-images-amazon.com
 images-ea.weather.microsoft.com
 images-eu.ssl-images-amazon.com
@@ -52730,6 +52735,7 @@ uploads.code.google.com
 uploadsj.clients.google.com
 upma.org
 upmtb.com
+upoint.id
 uppercutsports.com
 upperdeckstore.com
 ups.ksmobile.net
