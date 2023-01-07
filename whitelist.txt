@@ -6,6 +6,7 @@
 *.adguard-dns.io
 *.adguard.com
 *.admin-mcas.ms
+*.aerisapi.com
 *.aimon.applicationinsights.io
 *.aiv-cdn.net
 *.aiv-cdn.net.c.footprint.net
@@ -161,6 +162,7 @@
 *.teams.microsoft.com
 *.tivan.naver.com
 *.tmetrix.my.chick-fil-a.com
+*.tnt-ea.com
 *.ttvnw.net
 *.twibbonize.com.cdn.ezoic.net
 *.twitch.map.fastly.net
@@ -2109,6 +2111,7 @@ aeotec.com
 aer-conditionat.com.ro
 aerc.org
 aerik1.tripod.com
+aerisapi.com
 aeroballsports.com
 aerobie.com.pl
 aeroemblem.com
@@ -4114,6 +4117,7 @@ app.facebook.com
 app.getresponse.com
 app.gitbook.com
 app.link
+app.link.nba.com
 app.migc.xiaomi.com
 app.onetrust.com
 app.plex.tv
@@ -9845,6 +9849,7 @@ butterflysilver.com.au
 butterick.com
 buttermilklane.com
 butterworthjewellers.co.uk
+button.like.co
 buttonemporium.com
 buttons4u.com
 buttonsgaloreandmore.com
@@ -10030,6 +10035,7 @@ c.office.com
 c.orange.fr
 c.s-microsoft.com
 c.trello.com
+c.youdao.com
 c.youtube.com
 c0.ifengimg.com
 c0.wp.com
@@ -22852,6 +22858,7 @@ gift-lab.com
 gift-malaysia.com
 gift-mart.net
 gift-only.com
+gift.douyucdn.cn
 gift4one.nl
 giftandwrap.co.uk
 giftaroo.com
@@ -46920,6 +46927,7 @@ sl.gravatar.com
 sl57.ru
 slaapcomfort-center.be
 slack.com
+slackb.com
 slacktime.com
 sladkiy-son.ru
 slalomskateboarder.com
@@ -52769,6 +52777,7 @@ urlao.com
 urlbrief.com
 urlcover.com
 urlcut.com
+urldefense.com
 urlenco.de
 urlf.ly
 urlgo.fr
