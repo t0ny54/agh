@@ -11139,6 +11139,7 @@ cdn-static-1.medium.com
 cdn-thumb.fds.api.xiaomi.com
 cdn-us-ec.yottaa.net
 cdn-yams.schibsted.com
+cdn.adf.ly
 cdn.adrise.tv
 cdn.agilebits.com
 cdn.apple-mapkit.com
@@ -11907,6 +11908,7 @@ chileroastersonline.com
 chilhowee.net
 chillcheater.com
 chillicothecraftmall.com
+chillx.top
 chillydog.com
 chillyshop.ru
 chillystuff.com
@@ -34129,6 +34131,7 @@ mncdn.com
 mnjhl.com
 mnretail.org
 mnswarm.com
+mntzrlt.net
 mnworkwear.com
 mo.res.wpscdn.cn
 moananuidesigns.com
@@ -52120,6 +52123,7 @@ tnmba.org
 tnmbonline.com
 tns-sifo.se
 tnscbank.com
+tnt-ea.com
 tntcichlids.com
 tnurl.net
 tny.cz
