@@ -22099,6 +22099,7 @@ g-domain.com
 g-hits.com
 g-knapp.se
 g-l.co.uk
+g-msn-com-nsatc.trafficmanager.net
 g-unitclothing.com
 g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
@@ -22107,6 +22108,7 @@ g.download.windowsupdate.com.c.footprint.net
 g.ezoic.net
 g.live.com
 g.msn.com
+g.msn.com.nsatc.net
 g.skimresources.com
 g.whatsapp.net
 g00.me
