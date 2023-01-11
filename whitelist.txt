@@ -34,6 +34,7 @@
 *.client-channel.google.com
 *.clients*.google.com
 *.cloud.axiadids.net
+*.controld.com
 *.custom-domain.publitas.com
 *.damoh.*.de
 *.dds.microsoft.com
@@ -13480,6 +13481,7 @@ contractorsav.com
 contractorsclothing.com
 contribros.com
 control.phone.com
+controld.com
 controls.account.microsoft.com
 controls.cp.microsoft.com
 controls.platform.account.www.microsoft.com
@@ -16217,6 +16219,7 @@ disney-plus.net
 disney.my.sentry.io
 disneyphotopass.eu
 disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
 disneyplus.disney.co.jp
 dispenser.com
 display.ugc.bazaarvoice.com
@@ -36866,6 +36869,7 @@ o-kiniya.com
 o-lorenzi.it
 o-x.fr
 o.aolcdn.com
+o.auspost.com.au.ssl.d2.sc.omtrdc.net
 o.beta.facebook.com
 o.data.mistat.xiaomi.com
 o.facebook.com
@@ -40146,6 +40150,7 @@ playpen9.facebook.com
 playrecord.net
 playscapes.com
 playstation.com
+playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
 playstation.net.edgekey88.net
 playstationrepair.co.uk
@@ -48589,6 +48594,7 @@ ssl.gpsonextra.net
 ssl.gs
 ssl.gstatic.com
 ssl.marfeelcdn.com
+ssl.o.auspost.com.au
 ssl.p.jwpcdn.com
 ssl.reddit.com
 ssl.vrbanknet.de
