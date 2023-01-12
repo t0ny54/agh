@@ -37,6 +37,7 @@
 *.controld.com
 *.custom-domain.publitas.com
 *.damoh.*.de
+*.data-*.rtl.de
 *.dds.microsoft.com
 *.digicert.com
 *.discord.com
@@ -111,6 +112,8 @@
 *.push.apple.com
 *.pv-cdn.net
 *.registerdisney.go.com
+*.relay-client-c03.iocnt.net
+*.rtl-relay.iocnt.net
 *.s.team
 *.safebrowsing.apple
 *.scarf.sh
@@ -11202,6 +11205,7 @@ cdn.reamaze.com
 cdn.rebuyengine.com
 cdn.refersion.com
 cdn.samsungcloudsolution.com
+cdn.segment.com
 cdn.segmentify.com
 cdn.sgmntfy.com
 cdn.shopifycloud.com
@@ -15059,7 +15063,6 @@ dasspiel.ch
 dassprechendebuch.de
 dastv.co.uk
 daswaniclothiers.com
-data-191b2429e8.rtl.de
 data-supplies.com
 data.alexa.com
 data.bilibili.com
@@ -20302,6 +20305,7 @@ file-extensions.org
 file.dingtalk.com
 file.market.xiaomi.com
 file2fxm.azureedge.net
+filedropper.com
 filefactory.com
 filenesbasement.com
 files.alicdn.com
@@ -43932,6 +43936,7 @@ s.blogsmithmedia.com
 s.cdn.turner.com
 s.click.aliexpress.com
 s.click.taobao.com
+s.deepl.com
 s.free.fr
 s.gateway.messenger.live.com
 s.ggwp.be
@@ -45663,6 +45668,7 @@ shaktiweb.com
 shakya-store.eigensite.nl
 shalas.com
 shalltry.com
+shalom.it
 shamansmarket.com
 shampooman.de
 shamrockgardenflorist.com
@@ -48079,6 +48085,7 @@ speed-detectors.co.uk
 speed-lm.com
 speed-model.com
 speedandstyle.com
+speedcheck.org
 speeddate.com
 speedgear.com
 speedgraphics.net
@@ -52749,6 +52756,7 @@ uploaded.to
 uploads.clients.google.com
 uploads.code.google.com
 uploadsj.clients.google.com
+uplynk.com
 upma.org
 upmtb.com
 upoint.id
