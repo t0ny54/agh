@@ -34,6 +34,7 @@
 *.engage.surface.com
 *.engage.windows.com
 *.engage.xbox.com
+*.etrality.com
 *.exacttarget.com.edgekey.net
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
@@ -111,6 +112,8 @@
 *.xp.apple.com
 *.zopim.com
 *api.*.microsoft.com
+*graph-fallback.facebook.com
+*graph-fallback.instagram.com
 *graph-video.facebook.com
 *graph.facebook.com
 *graph.fbpigeon.com
@@ -3942,6 +3945,7 @@ api.sec.miui.com
 api.sibboventures.mgr.consensu.org
 api.simplisafe.com
 api.skimlinks.mgr.consensu.org
+api.speedspot.org
 api.sunrise-sunset.org
 api.surfeasy.com
 api.t-mobile.com
@@ -18904,6 +18908,7 @@ etracker.com
 etracker.de
 etrade.com
 etrailer.com
+etrality.com
 etravelergear.com
 etreasures.co.uk
 etreasuresgifts.com
@@ -33663,6 +33668,7 @@ mindlogic.com
 mindmodulations.com
 minds.com
 mindstormphotos.com
+mindvalley.com
 minebilder.no
 minecraft.net
 minecraftservices.com
