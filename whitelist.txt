@@ -9921,7 +9921,6 @@ c-dtags.com
 c-o.in
 c-p-p.co.uk
 c-und-d.de
-c.amazon-adsystem.com
 c.apple.com
 c.betrad.com
 c.bing.com
@@ -16291,6 +16290,7 @@ dobrakoupe.cz
 dobryebook.pl
 dobryupominek.pl
 doc.facebook.com
+docdro.id
 docfcu.org
 docksideimports.com
 docksideradio.com
@@ -48660,6 +48660,7 @@ static-asm.secure.skypeassets.com
 static-cl.xhcdn.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
+static-tracking.klaviyo.com
 static-xl9-ssl.xunlei.com
 static.127777.com
 static.3001.net
