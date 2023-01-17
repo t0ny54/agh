@@ -9,11 +9,13 @@
 *.aimon.applicationinsights.io
 *.api.brightcove.com
 *.api.iris.microsoft.com
+*.app.link
 *.apps.apple.com
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
 *.bonialconnect.com
 *.cas.ms
+*.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
 *.cdn.optimizely.com
@@ -58,6 +60,7 @@
 *.meituan.net
 *.messengerpeople.com
 *.metric.gstatic.com
+*.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
 *.msdp1.com
 *.msftconnecttest.com
@@ -68,7 +71,9 @@
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
 *.passport.yandex.ru
+*.pdc.micloud.xiaomi.net
 *.performfeeds.com
+*.phonecallapi.micloud.xiaomi.net
 *.push.apple.com
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
@@ -87,6 +92,7 @@
 *.sheerid.net
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
+*.smsapi.micloud.xiaomi.net
 *.sp-prod.net
 *.spartoo.co.uk
 *.spartoo.com
@@ -9941,6 +9947,7 @@ c.youdao.com
 c.youtube.com
 c0.ifengimg.com
 c0.wp.com
+c00.adobe.com
 c1.biz
 c1.ch1.adcenterapi.microsoft.com
 c1.microsoft.com
@@ -10953,6 +10960,7 @@ cbtks.com
 cbtwaco.com
 cbug.cc
 cbwc.com
+cc-api-data.adobe.io
 cc-dt.com
 cc.cc
 cc.sys.miui.com
@@ -27042,6 +27050,7 @@ icha.org
 ichimonji.co.jp
 ichirocollectables.com
 ichiroya.com
+ichnaea*.netflix.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icicibank.ca
@@ -52356,6 +52365,7 @@ uksouth.cloudapp.azure.com
 ukwest.cloudapp.azure.com
 ul.royal-bank.ru
 ulhockey.com
+ulink.adjust.com
 ullapopken.com
 ulmt.in
 ultilinks.com
