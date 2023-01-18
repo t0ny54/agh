@@ -928,6 +928,7 @@ a-x.pl
 a-z-decor.istore.pl
 a-z-onlineshop.de
 a-zdarts.com
+a.apkpure.com
 a.espncdn.com
 a.fsdn.com
 a.gg
@@ -1056,6 +1057,8 @@ a5.ms.a.microsoft.com
 a592.ms.a.microsoft.com
 a790.w16.akamai.net
 a90.g.akamai.net
+aa.tweakers.net
+aa.tweakers.nl
 aaaauto.cz
 aaacandlesupply.com
 aaadir.com
@@ -1139,6 +1142,8 @@ ab-cds.com
 ab-foods.de
 ab-tiendas.com
 ab-z-toys.com
+ab.tweakers.net
+ab.tweakers.nl
 ab13.mktossl.com
 abaa.org
 ababeinarms.com
@@ -20548,6 +20553,7 @@ five-starbasketball.com
 fiveanimalkenpo.com
 fiverr.com
 fivetone.com
+fixedfloat.com
 fixedgearfever.com
 fixit-stg.support.microsoft.com
 fixit.support.microsoft.com
@@ -30189,6 +30195,7 @@ kinderwebwinkel.nl
 kinderwindel.de
 kinderwinkel-online.nl
 kindundkegel-shop.de
+kinesis.*.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kineticfountains.com
 kinfolkcrafts.com
@@ -52117,6 +52124,7 @@ treeclassics.com
 trekcafe.com
 trends.facebook.com
 trendytummymaternity.com
+trezor.io
 trial.api.huangye.miui.com
 triath.com
 triathlon.org
@@ -54990,6 +54998,7 @@ xero.com
 xfinity.com
 xflight.xboxlive.com
 xg4ken.com
+xg4ken.com7eer.net
 xgd.in
 xhamster.com
 xianz.com
