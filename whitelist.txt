@@ -7,6 +7,7 @@
 *.admin-mcas.ms
 *.aerisapi.com
 *.aimon.applicationinsights.io
+*.api.b.hatena.ne.jp
 *.api.brightcove.com
 *.api.iris.microsoft.com
 *.app.link
@@ -2389,6 +2390,7 @@ akkuline.de
 akkunaut.de
 akkuonlineshop.de
 akkustadl.de
+akm-img-a-in.tosshub.com
 akmswim.org
 akoladcc.com
 akolajanatabank.com
@@ -3879,6 +3881,7 @@ api.accuweather.com
 api.ad.xiaomi.com
 api.adguard.com
 api.adguard.org
+api.agoda.com.edgekey.net
 api.ak.facebook.com
 api.amazon.com
 api.amazon.in
@@ -44897,6 +44900,7 @@ search.support.microsoft.com
 search.twitter.com
 search.video.iqiyi.com
 search.windows.microsoft.com
+searchapi.agoda.com
 searchappliance.co.uk
 searchg2.crownpeak.net
 searchlab.eu
@@ -54947,6 +54951,7 @@ wwwbaytest29.microsoft.com
 wwwco1test34.microsoft.com
 wwwco1test35.microsoft.com
 wwwcptest8.microsoft.com
+wwwimage-tve.cbsstatic.com
 wwwppe.microsoft.com
 wwwstatic.megaupload.com
 wwwtk2beta4.microsoft.com
