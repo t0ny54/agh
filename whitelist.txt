@@ -31459,6 +31459,7 @@ livestream-edgetee-upload-shv-01-any2.facebook.com
 livestream.com
 livetex.ru
 lividleather.com
+living-sun.com
 livingincomfort.com
 livreval.fr
 lk.bcsb.ru
@@ -52047,6 +52048,7 @@ track.webgains.com
 track24.ru
 trackcmp.net
 trackenterprises.com
+tracker*.scoober.com
 tracker.alpharatio.cc
 tracker.animebytes.tv
 tracker.avistaz.to
@@ -52054,7 +52056,6 @@ tracker.beyond-hd.me
 tracker.gg
 tracker.marinsm.com
 tracker.opentrackr.org
-tracker.scoober.com
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking.dpd.de
