@@ -55,6 +55,7 @@
 *.kajabi-cdn.com
 *.kiwibrowser.com
 *.mail.onedrive.com
+*.maxmind.com
 *.mdhcdn.com
 *.mediatek.com
 *.meituan.com
@@ -94,6 +95,7 @@
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
 *.smsapi.micloud.xiaomi.net
+*.snap.com
 *.sp-prod.net
 *.spartoo.co.uk
 *.spartoo.com
@@ -171,7 +173,6 @@
 0.ubuntu.pool.ntp.org
 0.uk.pool.ntp.org
 0.us.pool.ntp.org
-000webhostapp.com
 001-amulette.de
 001shop.cz
 003.ru
@@ -894,7 +895,6 @@
 9monthsandmore.co.uk
 9rules.com
 9to5google.com
-_spotify-connect._tcp.local
 a-1beerprints.com
 a-1net.com
 a-1uniform.com
@@ -1626,7 +1626,6 @@ adblockdot.eu.dnswarden.com
 adblockdot.us.dnswarden.com
 adc.api.nine.com.au
 adcb.com
-adclick.g.doubleclick.net
 adcolo.com
 adcr.naver.com
 adcrun.ch
@@ -2210,6 +2209,7 @@ aguagu.ru
 agueybana.net
 ah-moda.com
 aha-ltd.co.uk
+ahacdn.me
 aharvesthouse.com
 ahava.com
 ahd.ruten.com.tw
@@ -3293,7 +3293,6 @@ amphora-aromatics.com
 amphoracoins.com
 amplechoice.com
 amplehamper.com
-amplifyapp.com
 amplitude.com
 ampproject.marfeel.com
 ampproject.marfeelrev.com
@@ -5017,7 +5016,6 @@ atv24.de
 atvbazar.ru
 atvprice.com
 atvworks.com
-atwebpages.com
 au.download.windowsupdate.com
 au.download.windowsupdate.com.edgesuite.net
 au.facebook.com
@@ -5057,7 +5055,6 @@ audio-moebel.de
 audio-n-more.com
 audio-t.co.uk
 audio-warehouse.com
-audio4-ak-spotify-com.akamaized.net
 audioallies.com
 audioblowouts.com
 audiobook.pl
@@ -5166,9 +5163,6 @@ austinwheatgrass.com
 austinwholesaledecking.com
 australia-in-europe.de
 australia.aldi.com
-australiacentral.cloudapp.azure.com
-australiacentral2.cloudapp.azure.com
-australiaeast.cloudapp.azure.com
 australian-food.com
 australianactivewear.co.uk
 australianairbrushedtattoos.com
@@ -5183,7 +5177,6 @@ australianoriginals.com
 australianrulerco.com.au
 australianschooloftantra.com.au
 australiansilkworm.com
-australiasoutheast.cloudapp.azure.com
 australien-versand.de
 australienshop.de
 autemashop.com
@@ -9024,7 +9017,6 @@ boxingphotographs.com
 boxingshoes.com
 boxingstuff.com
 boxmaster.de
-boxmode.io
 boxofporcelain.com
 boxrec.com
 boxtreegallery.co.uk
@@ -9139,7 +9131,6 @@ bravissimo.com
 brayhondacenter.com
 braysfurniture.co.uk
 brazilianlingerie.co.uk
-brazilsouth.cloudapp.azure.com
 brbest.nl
 brbijoux.com
 brcactionfigures.com
@@ -9903,7 +9894,6 @@ bybit.com
 byblosbank.com.lb
 bydgoszcz.tvp.pl
 bydom.com
-byethost32.com
 bygonenews.com
 byjove.net
 bymarisa.com
@@ -9956,7 +9946,6 @@ c.youtube.com
 c0.ifengimg.com
 c0.wp.com
 c00.adobe.com
-c1.biz
 c1.ch1.adcenterapi.microsoft.com
 c1.microsoft.com
 c2-migration.car.jp.chan.kaw.cb3.glbdns.microsoft.com
@@ -10289,8 +10278,6 @@ can-safe.net
 can.es
 canablog.com
 canad-a-merica.com
-canadacentral.cloudapp.azure.com
-canadaeast.cloudapp.azure.com
 canadaflorists.com
 canadagps.com
 canadamounts.com
@@ -11346,14 +11333,11 @@ centralbnk.com
 centrale.ro
 centralhobbies.com
 centralhockeyleague.com
-centralindia.cloudapp.azure.com
 centralmainewreath.com
 centralmassauctions.com
 centralnational.com
 centralpolice.com
 centralsatellite.com
-centralus.cloudapp.azure.com
-centraluseuap.cloudapp.azure.com
 centralvalleybank.com
 centreimmo.com
 centreville-nat-bank.com
@@ -11589,7 +11573,6 @@ chashki-tarelki.ru
 chasseur.co.uk
 chassisshop.com
 chassoprix.com
-chat-e2ee-mini.facebook.com
 chat.cdn.whatsapp.net
 chat.facebook.com
 chateau-de-fleurs.com
@@ -11843,14 +11826,10 @@ chinabank.com.ph
 chinabank.ph
 chinabi.com
 chinaboutique.de
-chinaeast.cloudapp.chinacloudapi.cn
-chinaeast2.cloudapp.chinacloudapi.cn
 chinaetc.co.uk
 chinakiteonline.com
 chinalane.com
 chinamist.com
-chinanorth.cloudapp.chinacloudapi.cn
-chinanorth2.cloudapp.chinacloudapi.cn
 chinaoutletbazaar.com
 chinasprout.com
 chinatrust.com
@@ -12601,7 +12580,6 @@ clothpeddler.com
 clothworks.com
 cloud-news.ionos.com
 cloud.google.com
-cloudclusters.net
 cloudconfig.clients6.google.com
 cloudconfig.googleapis.com
 cloudconsole-pa.clients6.google.com
@@ -12613,7 +12591,6 @@ cloudfront.net
 cloudmail17.netcore.co.in
 cloudmountainfarm.com
 cloudninehi.com
-cloudns.ph
 cloudpersonalization-pa.clients6.google.com
 cloudprint.google.com
 cloudresourcemanager.googleapis.com
@@ -12626,7 +12603,6 @@ cloudtops.com
 cloudtrace.googleapis.com
 cloudusersettings-pa.clients6.google.com
 cloudwalkers.com
-cloudwaysapps.com
 cloudwine.com.au
 clouthub.com
 clownantics.com
@@ -13761,6 +13737,7 @@ couponsanddeals.com
 couponsfromtheheart.com
 couragecards.org
 courbette.com
+courier.com
 courtcompany.com
 courtiestown.co.uk
 courtmasters.org
@@ -17076,7 +17053,6 @@ dynabee.de
 dynabody.com
 dynacraftgolf.com
 dynadirect.com
-dynadot.com
 dynaflexstore.com
 dynaimage.cdn.turner.com
 dynamicbusiness.microsoft.com
@@ -17345,7 +17321,6 @@ easelstudio.com
 easiergolfing.com
 easleys.com
 east.co.uk
-eastasia.cloudapp.azure.com
 eastbay.com
 eastcoastconfections.com
 eastcoastskates.com
@@ -17368,9 +17343,6 @@ eastofindia.com
 eastontowncenter.com
 eastsideteamsports.com
 easttroybasketry.com
-eastus.cloudapp.azure.com
-eastus2.cloudapp.azure.com
-eastus2euap.cloudapp.azure.com
 eastwestbanker.com
 eastwestfutons.com
 eastwestintl.com
@@ -17859,6 +17831,7 @@ edge-z-p3-shv-01-arn2.facebook.com
 edge.api.brightcove.com
 edge.quantserve.com
 edge.yunjiasu.com
+edgeme.sh
 edgeracingconverters.com
 edgeray-origin-shv-05-prn2.facebook.com
 edgeray-origin-shv-07-lla1.facebook.com
@@ -18946,7 +18919,6 @@ eu-west-1.target.aws.amazon.com
 eu-west-2.target.aws.amazon.com
 eu-west-3.target.aws.amazon.com
 eu.vortex-win.data.microsoft.com
-eu5.net
 eubecos.de
 eucalypta.com
 eucproducts.com
@@ -20188,7 +20160,6 @@ files.msal.ru
 files.overclock.net
 files.slack.com
 filesmonster.com
-filesusr.com
 filetransfer.microsoft.com
 filetransfer.support.microsoft.com
 filetransferenabled.mail.google.com
@@ -21429,12 +21400,10 @@ framinghamcoop.com
 framinghamwarehouse.com
 framirrors.com
 france-modelisme.com
-francecentral.cloudapp.azure.com
 francefootball.fr
 francesc-fabregas.com
 francescainternational.com
 franceskellybridles.co.uk
-francesouth.cloudapp.azure.com
 francetv.fr
 francewineonline.com
 francezuki-de.com
@@ -22301,7 +22270,6 @@ gate.ariuspay.ru
 gate.hockeyapp.net
 gate.io
 gate.vseplatezhi.ru
-gateway.facebook.com
 gateway.fe.apple-dns.net
 gatewaybank.com
 gatewayflorist.us
@@ -22573,10 +22541,6 @@ germanhandcraftimports.com
 germanimporthaus.com
 germanpet.com
 germanplaza.com
-germanycentral.cloudapp.microsoftazure.de
-germanynorth.cloudapp.azure.com
-germanynortheast.cloudapp.microsoftazure.de
-germanywestcentral.cloudapp.azure.com
 gerphagnon.com
 gerriscrystals.com
 gerry-handel.de
@@ -23233,7 +23197,6 @@ gocoins.ch
 gocollect.com
 gocybershop.ca
 godaddy.com
-godaddysites.com
 goddess-dreams.com
 goddessgear.net
 goddessgift.net
@@ -23581,7 +23544,6 @@ google.co.ck
 google.co.cr
 google.co.id
 google.co.il
-google.co.in
 google.co.jp
 google.co.ke
 google.co.kr
@@ -25165,9 +25127,7 @@ headphoneheaven.com
 headphones.com
 headpieceheaven.com
 headrazor.com
-heads-ak-spotify-com.akamaized.net
 heads-fa.scdn.co
-heads4-ak-spotify-com.akamaized.net
 headscarves.com
 headsethouse.com
 headsetplus.com
@@ -26212,7 +26172,6 @@ hostahosta.com
 hostaparadise.com
 hostapatch.com
 hosted.where2getit.com
-hostfree.pw
 hosting24.com
 hostingbookmarks.com
 hostinger.com
@@ -26602,7 +26561,6 @@ hyperaccents.com
 hyperfur.com
 hyperinzerce.cz
 hyperlinkomatic.com
-hyperphp.com
 hyperreality.com.au
 hypersport.ro
 hypertech-inc.com
@@ -27014,7 +26972,6 @@ ibukiham.com
 ibuycc.com
 ibuycoins.com
 ic.facebook.com
-ic.fleek.co
 ic.nw1ab.ru
 ic.united.ru
 ic.venets-bank.ru
@@ -27719,7 +27676,6 @@ inlineskating.about.com
 inmcrystal.com
 inmint.com
 inmoment.com
-inmotionhosting.com
 innatia.com
 inner-desire.com
 innersoul.com.au
@@ -28025,8 +27981,6 @@ ipdata.co
 ipdusa.com
 ipe-pmt.prod.sabre.com
 iperstore.net
-ipfs.dweb.link
-ipfs.infura-ipfs.io
 ipfs.io
 ipgeolocation.io
 iphone-ld.apple.com
@@ -28543,7 +28497,6 @@ japan-disneyana.com
 japan-eshop.com
 japan.techrepublic.com
 japancollection.com
-japaneast.cloudapp.azure.com
 japanese-doll.biz
 japanese-maple.com
 japanese-swords.com
@@ -28568,7 +28521,6 @@ japanphoto.no
 japanshoji.com
 japanshop.ch
 japanshoppingservice.com
-japanwest.cloudapp.azure.com
 japanwoodworker.com
 jaquesamerica.com
 jardinpuzzles.com
@@ -30252,7 +30204,6 @@ kinovdom.ru
 kinoya.com
 kinsalecrystal.ie
 kinsleyco.com
-kinsta.cloud
 kinzin.com
 kioooe.com
 kiosk24.pl
@@ -30624,11 +30575,9 @@ kopalniaprezentow.pl
 kopimi.com
 koraliki.pl
 korallenkeller.ch
-koreacentral.cloudapp.azure.com
 koreaexim.go.kr
 korean-arts.com
 korean.bookstore21.net
-koreasouth.cloudapp.azure.com
 koreni.cz
 korfball.com
 korfballworld.com
@@ -31443,7 +31392,6 @@ live.simcitybuildit.com
 live800.com
 liveandlearn.com
 liveaquaria.com
-liveblog365.com
 livefilestore.com
 livefoods.co.uk
 livefoot.fr
@@ -31606,7 +31554,6 @@ louisianasportnets.com
 loveandfriends.com
 lovelyspree.com
 lovento.com
-lovestoblog.com
 lovetoparty.co.nz
 loveweddingbands.com
 lovizaim.ru
@@ -33980,7 +33927,6 @@ mmwatersports.com
 mmxpress.com
 mn-car-tuning.de
 mnb1.com
-mncdn.com
 mnjhl.com
 mnretail.org
 mnswarm.com
@@ -34893,7 +34839,6 @@ murrayscheese.com
 murraysinteriors.com
 muscara.com
 muscdn.com
-muscdn.com.akamaized.net
 muscle-line.de
 muscle-zone.pl
 muscleandfitness.com
@@ -35032,7 +34977,6 @@ my.sjpbank.co.uk
 my.smartbank.kz
 my.softbank.jp
 my.tochka.com
-my03.com
 my09.com
 myabandonware.com
 myacce.com
@@ -35211,7 +35155,6 @@ mypharmanote.com
 mypip.com
 mypoints.com
 mypoolpal.com
-myportfolio.com
 mypostcardshop.com
 mypostcardshop.de
 mypreciousbaby.com
@@ -35273,7 +35216,6 @@ mysticwoodworks.com
 mystiqueasia.net
 mystiquegems.com
 mystiquegifts.co.uk
-mystrikingly.com
 mystrollers.com
 mysunrisebank.com
 mysuperdeals.com.au
@@ -36367,7 +36309,6 @@ north.pl
 northatlanticbooks.com
 northbynorthwest.net
 northcarolinafurnitureguide.com
-northcentralus.cloudapp.azure.com
 northcoastbank.com
 northcoastbeadmakers.com
 northcoastvolleyball.com
@@ -36397,7 +36338,6 @@ northernsystems.com
 northerntapestries.com
 northernthunder.com
 northerntool.com
-northeurope.cloudapp.azure.com
 northforkbank.com
 northgallery.com
 northhoustonbank.com
@@ -36433,11 +36373,9 @@ northwoodsguides.com
 nortonarmouries.com
 norulak.com
 norwalkfurnitureidea.com
-norwayeast.cloudapp.azure.com
 norwayshop.com
 norwaysports.com
 norwaysweaters.com
-norwaywest.cloudapp.azure.com
 norwegen-fishing.de
 norweger-shop.de
 norwegian-family.com
@@ -36872,6 +36810,7 @@ odtwarzaczemp3.pl
 odyssey3d.com
 odysseyprosound.com
 oeb.se
+oecherdeal.de
 oekocare.de
 oekovino.de
 oemuat.microsoft.com
@@ -37197,7 +37136,6 @@ oms2.one.microsoft.com
 omtrdc.net
 on-sitewireless.com
 on-the-italian-riviera.com
-on.fleek.co
 on24.fi
 ona.com
 onamaeseal.com
@@ -37373,7 +37311,6 @@ online.pchrb.ru
 online.peple.com.tr
 online.piraeusbank.ua
 online.pocztowy.pl
-online.pro
 online.procreditbank.am
 online.procreditbank.ge
 online.ptclick.com.ua
@@ -38033,7 +37970,6 @@ p.imgur.com
 p.jwpcdn.com
 p.nfltags.com
 p.pw
-p.runcloud.link
 p.shure.com
 p.skimresources.com
 p.typekit.net
@@ -39617,7 +39553,6 @@ pinterest.ch
 pinterest.cl
 pinterest.co
 pinterest.co.at
-pinterest.co.in
 pinterest.co.kr
 pinterest.co.nz
 pinterest.co.uk
@@ -40635,7 +40570,6 @@ prettyprincess.us
 prettyrock.com
 prettyzoo.com
 prev.windows.microsoft.com
-preview-domain.com
 preview-ws.msdn2.microsoft.com
 preview.data.tvdownload.microsoft.com
 preview.epg.tvdownload.microsoft.com
@@ -40875,7 +40809,6 @@ progressive-growth.com
 progressivehealth.com
 prohitch.com
 prohorns.com
-prohosts.org
 proicehockey.about.com
 proidee.de
 projacks.com
@@ -43792,99 +43725,17 @@ s2b.standardchartered.com
 s2k7tnzlhrpw.statuspage.io
 s2s.izatcloud.net
 s3-1.amazonaws.com
-s3-af-south-1.amazonaws.com
-s3-ap-east-1.amazonaws.com
-s3-ap-northeast-1.amazonaws.com
-s3-ap-northeast-2.amazonaws.com
-s3-ap-northeast-3.amazonaws.com
-s3-ap-south-1.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
-s3-ap-southeast-2.amazonaws.com
-s3-ca-central-1.amazonaws.com
-s3-cn-north-1.amazonaws.com
-s3-cn-northwest-1.amazonaws.com
 s3-console-us-standard.console.aws.amazon.com
-s3-eu-central-1.amazonaws.com
-s3-eu-north-1.amazonaws.com
-s3-eu-south-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
-s3-eu-west-2.amazonaws.com
-s3-eu-west-3.amazonaws.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
-s3-sa-east-1.amazonaws.com
-s3-us-east-1.amazonaws.com
-s3-us-east-2.amazonaws.com
-s3-us-west-1.amazonaws.com
 s3-us-west-2.amazonaws.com
-s3-website-ap-northeast-1.amazonaws.com
-s3-website-ap-southeast-1.amazonaws.com
-s3-website-ap-southeast-2.amazonaws.com
-s3-website-eu-west-1.amazonaws.com
-s3-website-sa-east-1.amazonaws.com
-s3-website-us-east-1.amazonaws.com
-s3-website-us-west-1.amazonaws.com
-s3-website-us-west-2.amazonaws.com
-s3-website.af-south-1.amazonaws.com
-s3-website.ap-east-1.amazonaws.com
-s3-website.ap-northeast-2.amazonaws.com
-s3-website.ap-northeast-3.amazonaws.com
-s3-website.ap-south-1.amazonaws.com
-s3-website.ca-central-1.amazonaws.com
-s3-website.cn-northwest-1.amazonaws.com.cn
-s3-website.eu-central-1.amazonaws.com
-s3-website.eu-north-1.amazonaws.com
-s3-website.eu-south-1.amazonaws.com
-s3-website.eu-west-2.amazonaws.com
-s3-website.eu-west-3.amazonaws.com
-s3-website.us-east-2.amazonaws.com
-s3.af-south-1.amazonaws.com
 s3.amazonaws.com
-s3.ap-east-1.amazonaws.com
-s3.ap-northeast-1.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
-s3.ap-northeast-3.amazonaws.com
 s3.ap-south-1.amazonaws.com
-s3.ap-southeast-1.amazonaws.com
-s3.ap-southeast-2.amazonaws.com
-s3.ca-central-1.amazonaws.com
-s3.cn-north-1.amazonaws.com
-s3.cn-northwest-1.amazonaws.com
-s3.dualstack.af-south-1.amazonaws.com
-s3.dualstack.ap-east-1.amazonaws.com
-s3.dualstack.ap-northeast-1.amazonaws.com
-s3.dualstack.ap-northeast-2.amazonaws.com
-s3.dualstack.ap-northeast-3.amazonaws.com
-s3.dualstack.ap-south-1.amazonaws.com
-s3.dualstack.ap-southeast-1.amazonaws.com
-s3.dualstack.ap-southeast-2.amazonaws.com
-s3.dualstack.ca-central-1.amazonaws.com
-s3.dualstack.cn-north-1.amazonaws.com
-s3.dualstack.cn-northwest-1.amazonaws.com
-s3.dualstack.eu-central-1.amazonaws.com
-s3.dualstack.eu-north-1.amazonaws.com
-s3.dualstack.eu-south-1.amazonaws.com
-s3.dualstack.eu-west-1.amazonaws.com
-s3.dualstack.eu-west-2.amazonaws.com
-s3.dualstack.eu-west-3.amazonaws.com
-s3.dualstack.sa-east-1.amazonaws.com
-s3.dualstack.us-east-1.amazonaws.com
-s3.dualstack.us-east-2.amazonaws.com
-s3.dualstack.us-west-1.amazonaws.com
-s3.dualstack.us-west-2.amazonaws.com
-s3.eu-central-1.amazonaws.com
-s3.eu-north-1.amazonaws.com
-s3.eu-south-1.amazonaws.com
-s3.eu-west-1.amazonaws.com
-s3.eu-west-2.amazonaws.com
-s3.eu-west-3.amazonaws.com
-s3.sa-east-1.amazonaws.com
 s3.symcb.com
-s3.us-east-1.amazonaws.com
-s3.us-east-2.amazonaws.com
-s3.us-west-1.amazonaws.com
 s3.us-west-1.wasabisys.com
-s3.us-west-2.amazonaws.com
 s3products.com
 s3r.io
 s4.symcb.com
@@ -44652,7 +44503,6 @@ science-city.com
 sciencecompany.com
 sciencehobby.com
 scienceline.net
-scienceontheweb.net
 sciencestage.com
 scififantasybooks.com
 scifihobby.com
@@ -44892,7 +44742,6 @@ seamstobe.com
 seanjames.com
 seaotterclassic.com
 seapets.co.uk
-search-api-disney.bamgrid.com
 search-for-antiques.co.uk
 search-ppe.microsoft.com
 search.msdn.microsoft.com
@@ -46719,10 +46568,8 @@ skylinenw.com
 skylines.com.au
 skymall.com
 skynetblogs.be
-skype-edf.akadns.net
 skype.com
 skypeassets.com
-skypedata.akadns.net
 skyriverranch.com
 skyrock.com
 skyscraperny.com
@@ -47443,8 +47290,6 @@ sourpussclothing.com
 sousterandhicks.com
 south-america.pool.ntp.org
 southafrica2010.org
-southafricanorth.cloudapp.azure.com
-southafricawest.cloudapp.azure.com
 southamptonflorists.com
 southasiabooks.com
 southatlanticleague.com
@@ -47452,14 +47297,12 @@ southbaygallery.com
 southbaytrail.com
 southbeachproductscompany.com
 southcarolinamemories.com
-southcentralus.cloudapp.azure.com
 southcoast.com
 southcoastbank.com
 southcoastexotics.com
 southcountybank.com
 southdakotagold.com
 southdowns.co.uk
-southeastasia.cloudapp.azure.com
 southeasternfurniture.com
 southendzone.com
 southern-charmz.com
@@ -47475,7 +47318,6 @@ southernski.com
 southerntack.com
 southforestflowers.com
 southhilltrading.com
-southindia.cloudapp.azure.com
 southindianbank.com
 southlakebaseball.org
 southland.collegesports.com
@@ -48240,7 +48082,6 @@ sportznutz.com
 spot-on-sundials.co.uk
 spotfree.net
 spotify.com
-spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
 spotifycdn.net
@@ -48319,7 +48160,6 @@ sqs.us-east-1.amazonaws.com
 squadron.com
 squadrontoys.com
 square-designs.com
-square.site
 square1.com
 squarebooks.com
 squaredanceplus.com
@@ -48709,7 +48549,6 @@ static.kickstarter.com
 static.klaviyo.com
 static.licdn.com
 static.matterport.com
-static.maxmind.com
 static.medium.com
 static.messaging.schibsted.io
 static.mmtcdn.com
@@ -48775,18 +48614,13 @@ stdl.qq.com
 stealthclubcovers.com
 steam-chat.com
 steambrite.com
-steamcdn-a.akamaihd.net
 steamcloud-eu-ams.storage.googleapis.com
 steamcloud-finland.storage.googleapis.com
-steamcommunity-a.akamaihd.net
-steamcommunity-a.akamaihd.net.edgesuite.net
 steamcommunity.com
 steamgames.com
 steamgames.net
 steampowered.com
 steamstatic.com
-steamstore-a.akamaihd.net
-steamusercontent-a.akamaihd.net
 steamwheelers.com
 stearns-bank.com
 stearnsybears.com
@@ -49050,7 +48884,6 @@ storables.com
 storacingproducts.com
 storage-download.googleapis.com
 storage.cloud.google.com
-storage.fleek.co
 storage.googleapis.com
 storage.live.com
 storage.mds.yandex.net
@@ -49247,6 +49080,7 @@ stuckonyou.com.au
 student.com
 student.facebook.com
 studentbookworld.com
+studenti.it
 studentlistings.com
 studentloftbed.com
 studentmarket.com
@@ -49981,8 +49815,6 @@ switchhits.com
 switchplategallery.com
 switchplates.com
 switsport.com
-switzerlandnorth.cloudapp.azure.com
-switzerlandwest.cloudapp.azure.com
 swkbank.de
 swoggi.fr
 swopper-shop.de
@@ -49996,7 +49828,6 @@ swordstore.com
 swotbooks.com
 swrt.com
 swrubberstamp.com
-swtest.ru
 swwhitewater.com
 sxp.microsoft.com
 sy.pe
@@ -50372,6 +50203,7 @@ tarafinejewelry.com
 taraschoice.co.uk
 tarawa.com
 target.aws.amazon.com
+target.clickfunnels.com
 target.com
 target.facebook.com
 target.georiot.com
@@ -50705,7 +50537,6 @@ templechecks.com
 templeforkflyrods.com
 templesflorist.com
 tempo-sport.ch
-temporary.link
 temptationalley.com
 temptats.net
 temptatts4u.com
@@ -51792,16 +51623,12 @@ tik.lat
 tikiripolynesianinstruments.com
 tikker.emta.ee
 tiktok.com
-tiktok.com.edgesuite.net
 tiktokcdn.com
-tiktokcdn.com.akamaized.net
 tiktokcdn.com.c.worldfcdn.com
-tiktokcdn.com.edgesuite.net
 tiktokcdn.com.wsdvs.com
 tiktokcdn.liveplay.myqcloud.com
 tiktokv.com
 tiktokv.com.edgekey.net
-tiktokv.com.edgesuite.net
 tile-service.weather.microsoft.com
 tiles.mapbox.com
 tilonia.com
@@ -51909,7 +51736,6 @@ tmetrix.my.chick-fil-a.com
 tmicheal.com
 tmrrfc.qc.ca
 tms.airtelbroadband.in
-tmweb.ru
 tmz.com
 tmz.vo.llnwd.net
 tnb.ru
@@ -52310,8 +52136,6 @@ u.nu
 u.to
 u6e.de
 uabonline.org
-uaecentral.cloudapp.azure.com
-uaenorth.cloudapp.azure.com
 uapi.adrise.tv
 uat.expression.microsoft.com
 uat.subscriptions.msdn.microsoft.com
@@ -52370,12 +52194,9 @@ uk.pool.ntp.org
 uk.vortex-win.data.microsoft.com
 uk2group.m.facebook.com
 ukdjshop.com
-ukit.me
 ukmotorsport.com
 ukrgasbank.com
 ukrsibbank.com
-uksouth.cloudapp.azure.com
-ukwest.cloudapp.azure.com
 ul.royal-bank.ru
 ulhockey.com
 ulink.adjust.com
@@ -52640,8 +52461,6 @@ usbl.com
 usc.rivals.com
 uscho.com
 usdf.org
-usdodcentral.cloudapp.usgovcloudapi.net
-usdodeast.cloudapp.usgovcloudapi.net
 use.fontawesome.com
 use.typekit.com
 use.typekit.net
@@ -52664,10 +52483,6 @@ usfieldhockey.com
 usfooty.com
 usfsa.org
 usftl.com
-usgovarizona.cloudapp.usgovcloudapi.net
-usgoviowa.cloudapp.usgovcloudapi.net
-usgovtexas.cloudapp.usgovcloudapi.net
-usgovvirginia.cloudapp.usgovcloudapi.net
 ush.de
 ushandball.org
 ushf.org
@@ -53801,8 +53616,6 @@ webmd.com
 webmhsc.com
 webmoney.ru
 webnews.microsoft.com
-webnode.co.uk
-webnode.page
 weboffice-static.docs.dingtalk.com
 webresponse.one.microsoft.com
 webscores.com
@@ -53812,7 +53625,6 @@ webto.salesforce.com
 webtrading.onvista-bank.de
 webtrends.com
 webundies.com
-webydo.com
 wed.li
 wedding-veil.com
 weddingaccents.com
@@ -53830,8 +53642,6 @@ weddingsbydezign.com
 weddingsweddings.com
 wedigsports.com
 weeatt.com
-weebly.com
-weeblysite.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 weeksroses.com
@@ -53866,7 +53676,6 @@ wesbanco.com
 wesley-barrell.co.uk
 wespa.de
 westbysouthwestdecor.com
-westcentralus.cloudapp.azure.com
 westchestercycleclub.org
 westcoastbancorp.com
 westcoastgolfonline.com
@@ -53875,17 +53684,13 @@ westernbedding.com
 westernsaddle.com
 westernsecuritybank.com
 westerwaldbank.de
-westeurope.cloudapp.azure.com
 westfieldfc.org.uk
 westfurnishings.com
-westindia.cloudapp.azure.com
 westkreis.de
 westlandutrecht.nl
 westpac.co.nz
 westpac.com.au
 westportsoccer.org
-westus.cloudapp.azure.com
-westus2.cloudapp.azure.com
 wetheteachers.com
 wetpetsusa.com
 wetransfer.com
@@ -54090,7 +53895,6 @@ womensoccer.com
 wonderbox.fr
 wonderlandwigs.co.uk
 woniu.com
-wonstasite.com
 woodbrass.com
 woodburningpens.com
 woodchucks.com
@@ -54451,7 +54255,6 @@ www.evyy.net
 www.example.com
 www.exploresites-pa.googleapis.com
 www.expressvpn.com
-www.facebook.com
 www.fbcdn.net
 www.fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 www.federatedml-pa.googleapis.com
@@ -55155,7 +54958,6 @@ youtube.co.uk
 youtube.com
 youtube.de
 youtube.fr
-youtube.googleapis.com
 youtube.imrworldwide.com
 youtube.nl
 youtube.pl
