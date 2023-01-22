@@ -472,6 +472,7 @@
 1url.com
 1url.cz
 1wb2.net
+1weather.onelouder.com
 1worldgift.com
 1worldsarongs.com
 1wrd.org
@@ -15123,6 +15124,7 @@ dcode.support.microsoft.com
 dcodews.partners.extranet.microsoft.com
 dcothai.com
 dcprodirect.com
+dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com
 dcs-vod.apis.anvato.net
 dcs.ccp.microsoft.com
 dcsat.com
@@ -17679,6 +17681,7 @@ edge-atlas-shv-13-frc1.facebook.com
 edge-atlas-shv-17-prn1.facebook.com
 edge-atlas-shv-18-prn1.facebook.com
 edge-chat.facebook.com
+edge-irl1.demdex.net
 edge-liverail-shv-01-ams2.facebook.com
 edge-liverail-shv-01-ams3.facebook.com
 edge-liverail-shv-01-ash5.facebook.com
@@ -23158,6 +23161,7 @@ go.nordvpn.net
 go.oaktreecapital.com
 go.onelink.me
 go.pardot.com
+go.powunity.com
 go.redirectingat.com
 go.skimresources.com
 go.trafficrouter.io
@@ -24259,6 +24263,7 @@ gsdecornmore.com
 gseshop.jp
 gsgold.com
 gslamps.com
+gslb-2.demdex.net
 gslb.spotify.com
 gsm-tools.de
 gsm.no
@@ -27053,7 +27058,6 @@ id.cryptonator.com
 id.google.co.in
 id.google.com
 id.google.com.tr
-id.google.de
 id.gravatar.com
 id.pilet.ee
 id.santanderconsumer.no
@@ -32484,7 +32488,7 @@ marythefairy.at
 marywardbooks.com
 marywheelerdesigns.com
 marzipanworld.com
-mas-ext*.amazon.com
+mas-*.amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 mas-ssr.amazon.com
@@ -34980,6 +34984,7 @@ my.tochka.com
 my09.com
 myabandonware.com
 myacce.com
+myaccount.nytimes.com
 myaccount.payoneer.com
 myactivity.google.com
 myad.vn
@@ -40433,6 +40438,7 @@ ppst.me
 ppt.cc
 ppt.li
 ppurifier.game.xiaomi.com
+ppurl.io
 pr-youhin.co.jp
 pr0gramm.com
 practical-plastics.com
@@ -49138,6 +49144,7 @@ styloweprezenty.pl
 styluscentral.com
 su.pr
 suavecito.com
+subarumysubaruappproduction.112.2o7.net
 subastacr.com
 sube.garantibbva.com.tr
 sube.halkbank.com.tr
@@ -49755,6 +49762,7 @@ swiatwloczki.pl
 swiatzegarkow.pl
 swiftcourrier.com
 swik.net
+swile.co
 swim-n-fit.com
 swim.bc.ca
 swimandsports.com
@@ -55014,6 +55022,7 @@ z-p42-instagram.c10r.facebook.com
 z-upload.facebook.com
 z.c10r.facebook.com
 z.cdn.turner.com
+z.cdp-dev.cnn.com
 z.facebook.com
 z.tochka.com
 z9.fr
