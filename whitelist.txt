@@ -14,6 +14,7 @@
 *.apps.apple.com
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
+*.aylanetworks.com
 *.bonialconnect.com
 *.cas.ms
 *.cc-api-data.adobe.io
@@ -105,7 +106,6 @@
 *.spartoo.pt
 *.teams.live.com
 *.teams.microsoft.com
-*.tivan.naver.com
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -7794,6 +7794,7 @@ bikinishop.lt
 bil.com
 bilado-shop.de
 bilard-sklep.pl
+bilder-a.akamaihd.net
 bilder.bild.de
 bilder.fernsehserien.de
 bilderbuchschaufenster.de
@@ -18319,6 +18320,8 @@ embed.dugout.com
 embed.flowplayer.org
 embed.scribblelive.com
 embed.spotify.com
+embed.tagboard.com
+embed.tagboard.com.herokudns.com
 embellishmentsinc.com
 embellishonline.com
 emblibrary.com
@@ -18773,6 +18776,7 @@ espintech.com
 espinthebottle.com
 espion-on-line.com
 espn.com
+espn.com.co
 espn.go.com
 espordz.american-data.net
 esporte.ig.com.br
@@ -33960,6 +33964,7 @@ mobile.beta.facebook.com
 mobile.directory.google.com
 mobile.drive.google.com
 mobile.events.data.microsoft.com
+mobile.events.data.trafficmanager.net
 mobile.exlook.microsoft.com
 mobile.facebook.com
 mobile.itsmy.com
