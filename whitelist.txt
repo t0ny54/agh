@@ -15,6 +15,7 @@
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
 *.aylanetworks.com
+*.boldchat.com
 *.bonialconnect.com
 *.cas.ms
 *.cc-api-data.adobe.io
@@ -17081,6 +17082,7 @@ dyo.gs
 dyreudstyr.dk
 dyskretna.pl
 dyson.co.uk
+dyson.nanorep.co
 dysonpartsdirect.co.uk
 dywany.net
 dyztilz.com
@@ -31527,6 +31529,7 @@ logisyscomputer.com
 logjamelectronics.com
 logmein-gateway.com
 logmein.com
+logo.clearbit.com
 logobuilder.mspartner.microsoft.com
 logosoftwear.com
 logotime.com
@@ -31732,9 +31735,13 @@ m.w.ms
 m.weeklyad.target.com
 m.youtube.com
 m1.daumcdn.net
+m1.fwmrm.net
+m1.fwmrm.net-v1.edgesuite.net
 m1finance.com
 m1p.fr
 m2.facebook.com
+m2.fwmrm.net
+m2.fwmrm.net-v1.edgesuite.net
 m24.comertbank.md
 m2lcollection.com
 m2mbank.ru
@@ -32124,6 +32131,7 @@ mammothtools.com
 mamycia.com
 man-in-action.de
 manabeads.com
+manage.kmail-lists.com
 management.facebook.com
 manasquanbank.com
 manateesbaseball.com
@@ -32832,6 +32840,7 @@ mcphee.com
 mcphees.co.nz
 mcpoolen.se
 mcpuppets.com
+mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 mcquerryorchidbooks.com
 mcrgifts.com
 mcrok.com
@@ -34711,6 +34720,8 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
+mssl.fwmrm.net
+mssl.fwmrm.net.edgesuite.net
 msuc02.manage.microsoft.com
 msw-modelle.de
 msysa.org
@@ -35011,6 +35022,8 @@ mybank.fortebank.com
 mybank.nationstrust.com
 mybannermaker.com
 mybarong.com
+mybbc-analytics.files.bbci.co.uk
+mybbc-analytics.files.bbci.co.uk.edgekey.net
 mybeachtowel.com
 mybeeper.com
 mybellyring.com
@@ -42774,6 +42787,7 @@ revengeracing.com
 revengeunlimited.com
 revenue.ie
 reverbnation.com
+review-rating.mncdn.com
 review.intern.facebook.com
 revitacel.net
 revivalsoy.com
@@ -43755,6 +43769,7 @@ s3r.io
 s4.symcb.com
 s42089924.einsundeinsshop.de
 s5.symcb.com
+s50.device.marketingcloudapis.com
 s7y.us
 s88570519.t.en25.com
 sa-blacklist.stearns.org
@@ -51586,6 +51601,7 @@ threshersbaseball.com
 thriftpuzzle.facebook.com
 throwblanket.com
 thsbank.com
+thumb.highdeliveryscdn.com
 thumbs-015.externulls.com
 thumbs.videopress.com
 thumbs2.imgbox.com
@@ -52451,6 +52467,7 @@ us.cyworld.com
 us.hsbc.com
 us.pool.ntp.org
 us.vortex-win.data.microsoft.com
+us1-1.nanorep.co
 usaa.com
 usaba.org
 usabadminton.org
@@ -52532,6 +52549,7 @@ uu.cc
 uwzorgonline.nl
 v-vb.de
 v.firebog.net
+v.fwmrm.net
 v.gd
 v.ht
 v.pinimg.com
