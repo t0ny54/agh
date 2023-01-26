@@ -1047,6 +1047,7 @@ a2a.me
 a2armory.com
 a2z-kids.co.uk
 a2z.com
+a2zapk.com
 a2zdeals.com
 a2zdolls.com
 a2zexperiences.com
@@ -40142,6 +40143,7 @@ poly-tools.com
 polyfill.io
 polygenex.com
 polygraph.com
+polygraph.net
 polymerclay.com.au
 polymerpeg.com
 pombero.co.uk
@@ -44251,6 +44253,7 @@ sawayaka.tv
 sawayaka21.com
 sawbill.com
 sawdustcityllc.com
+saweria.co
 sawhelper.com
 sawitfirst.co.uk
 sawkillforest.com
@@ -45193,6 +45196,7 @@ services.sonarr.tv
 services.support.microsoft.com
 servicesales.com
 servicesanon.support.microsoft.com
+serviceschipotlecom.trafficmanager.net
 servicesports.co.uk
 servicestkext.microsoft.com
 serviceswitching.metaservices.microsoft.com
