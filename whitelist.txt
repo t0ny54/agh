@@ -2332,6 +2332,9 @@ aiseet.atianqi.com
 aisle9.com
 aitatennis.com
 aitkenwines.com
+aiv-cdn.net
+aiv-cdn.net.c.footprint.net
+aiv-delivery.net
 aiyafitness.com
 aizawashoten.com
 aizhigu.com.cn
@@ -5460,6 +5463,7 @@ axelair.com
 axiadids.net
 axiata.m.facebook.com
 aximax.nl
+axiom.co
 axiomcc.facebook.com
 axis.facebook.com
 axis.m.facebook.com
@@ -5468,6 +5472,7 @@ axisbank.com
 axtionsystems.com
 ayasilk.com
 aydoggy.com
+aylanetworks.com
 aylasoriginals.com
 ayousbox.com
 ayselectronics.com
@@ -6721,6 +6726,7 @@ bcclassified.com
 bccroscigno.it
 bccsanmarzano.it
 bcctriuggio.it
+bce.baidu.com
 bcee.lu
 bceliveup.gshifen.com
 bcelivevip.gshifen.com
@@ -8662,6 +8668,7 @@ bol.it
 bolagsverket.se
 bolasgolf.com
 boldbikinis.com
+boldchat.com
 boldmilitaryjewelry.com
 bolen.bc.ca
 bolenat.com
@@ -9034,6 +9041,7 @@ box.gshifen.com
 box4blox.com
 boxcarwillie.com
 boxcryptor.com
+boxer.baidu.com
 boxesbyboudreau.com
 boxesbyneal.com
 boxesontherun.com
@@ -15851,6 +15859,7 @@ digg.com
 digglicious.com
 digi-akku.de
 digiatlas.com
+digicert.com
 digid.nl
 digidip.net
 digilife.pl
@@ -18501,6 +18510,7 @@ enews.techrepublic.com
 engadget.com
 engage.hulu.com
 engage.surface.com
+engage.xbox.com
 engagement-ring-guide.com
 engei.net
 engelbert-strauss.de
@@ -18564,6 +18574,7 @@ entitycube.research.microsoft.com
 entosupplies.com.au
 entpsz.alipay.com
 entrixsports.com
+entrust.net
 enttec.com
 enucuzbul.org
 enuri.com
@@ -19448,7 +19459,10 @@ f1-prod-production.apigee.net
 f1-prod-production.dn.apigee.net
 f1.g.mi.com
 f1.media.brightcove.com
+f10.baidu.com
 f100.com
+f11.baidu.com
+f12.baidu.com
 f1global.org
 f1nutter.com
 f1page.com
@@ -24340,7 +24354,11 @@ gsmtronix.com
 gsmweb.nl
 gsmzone.com.pl
 gsohoppers.com
+gsp0.baidu.com
 gsp1.apple.com
+gsp1.baidu.com
+gsp2.baidu.com
+gsp3.baidu.com
 gspike.com
 gss0.bdstatic.com
 gstat.orange.fr
@@ -29624,6 +29642,7 @@ kampfsport-shop.ch
 kampfsport.de
 kampfsportshop24.de
 kampofloral.com
+kampyle.com
 kanazawa-ya.com
 kanbeads.com
 kancelarskepotreby.cz
@@ -31220,6 +31239,7 @@ leisureliving.com
 leisurelylivingstore.mywebhome.ca
 leithpetwerks.com
 lemeilleurdupsg.com
+lencr.org
 lens.com
 lensesbymail.com
 lensois.com
@@ -32822,6 +32842,7 @@ mbasic.facebook.com
 mbastl.com
 mbaswf.org
 mbba-nh.org
+mbd.baidu.com
 mbdcdn.gshifen.com
 mbetteley.com
 mbflores.com.br
@@ -36007,6 +36028,7 @@ neworleansshowcase.com
 newposter.ru
 newquay-bonsai.co.uk
 newreg.com
+newrelic.com
 newremotes.co.uk
 newretrodining.com
 newroad21.com
@@ -41250,6 +41272,7 @@ puzzlenet.de
 puzzleshop.cz
 puzzlesplus.net
 puzzlewarehouse.com
+pv-cdn.net
 pv.sohu.com
 pvgc2.co.uk
 pvn.saturn.de
@@ -45347,6 +45370,7 @@ sff.biz
 sfhat.com
 sfosnow.com
 sfoti.de
+sfp.safe.baidu.com
 sfrosewood.com
 sfsapi.micloud.xiaomi.net
 sftasia.one.microsoft.com
@@ -47145,6 +47169,7 @@ sofaworkshopdirect.co.uk
 sofija.ru
 sofinco.fr
 sofinet.com.ve
+sofire.baidu.com
 sofisadireto.com.br
 sofiscloset.com
 soflorists.com
@@ -47459,6 +47484,9 @@ sp-prod.net
 sp-wing.co.jp
 sp.auth.adobe.com
 sp.facebook.com
+sp0.baidu.com
+sp1.baidu.com
+sp2.baidu.com
 sp2.ro
 spa-solution.com
 spaaccessory.co.uk
@@ -50004,17 +50032,26 @@ t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t1.58cdn.com.cn
+t1.baidu.com
 t1.daumcdn.net
 t1.g.mi.com
 t10.baidu.com
 t11.baidu.com
 t12.baidu.com
 t2.58cdn.com.cn
+t2.baidu.com
 t23.intelliad.de
 t2retail.co.uk
 t3.58cdn.com.cn
+t3.baidu.com
 t3therapy.co.uk
+t4.baidu.com
 t4cameras.co.uk
+t5.baidu.com
+t6.baidu.com
+t7.baidu.com
+t8.baidu.com
+t9.baidu.com
 ta-in.facebook.com
 ta.gd
 tabakado.nl
@@ -51885,6 +51922,7 @@ tooluxe.com
 top-hats.com
 top-shop.ru
 top-vente-privee.fr
+top.baidu.com
 top4office.com
 topachat.com
 topbuydeals.com
@@ -51977,6 +52015,7 @@ tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking.dpd.de
+tracking.epicgames.com
 tracking.i2w.io
 tracking.magnetmail.net
 tracking.post.japanpost.jp
@@ -52868,6 +52907,7 @@ vereinigtevolksbankeg.de
 vereinte-volksbank.de
 verify.facebook.com
 verisign.com
+verisign.net
 verkkopalkka.maventa.fi
 verkkopankki2.danskebank.fi
 vermetal-basket.fr
