@@ -3442,6 +3442,7 @@ androidforums.com
 androidpartner.googleapis.com
 androidpay-users-pa.googleapis.com
 androidsuggesthub-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 androv-medical.com
 androzone.marfeel.com
 andyawtry.homestead.com
@@ -3981,6 +3982,7 @@ api.sibboventures.mgr.consensu.org
 api.simplisafe.com
 api.skimlinks.mgr.consensu.org
 api.speedspot.org
+api.storyly.io
 api.sunrise-sunset.org
 api.surfeasy.com
 api.t-mobile.com
@@ -7594,6 +7596,7 @@ biblioasis.com
 biblion.com
 bibliophile.net
 bibntux.com
+bibo.api.swiftkey.com
 bibsetc.com
 bic.modulbank.ru
 bice.cl
@@ -12221,6 +12224,7 @@ civilwarshopping.com
 ciwriting.com
 cj.com
 cj.dotomi.com
+cj.mplxtms.com
 cjb.net
 cjdaley.com
 cjelectrical.co.uk
@@ -13376,6 +13380,8 @@ contempojewelry.net
 contemporarycandles.com
 contemporarycloth.com
 contemporaryposters.com
+content-analytics.googleapis.com
+content-analyticsinsights-pa.googleapis.com
 content-icc.pulselive.com
 content-media.bonial.biz
 content-partnersbadge-pa.googleapis.com
@@ -20321,9 +20327,9 @@ fireandiceinc.com
 fireantzhockey.com
 fireballsports.com
 firebase.google.com
+firebase.googleapis.com
 firebasedurablelinks-pa.clients6.google.com
-firebasedynamiclinks-ipv4.googleapis.com
-firebasedynamiclinks-ipv6.googleapis.com
+firebasedynamiclinks-*.googleapis.com
 firebasedynamiclinks.googleapis.com
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
@@ -24188,6 +24194,7 @@ guayaberashirt.com
 guayaki.com
 gucci.com
 guce.advertising.com
+guce.oath.com
 guce.yahoo.com
 guenstigekaffeepads.de
 guernseyalstroemeria.com
@@ -27584,6 +27591,7 @@ insidecollegehockey.com
 insidepool.com
 insidershopping.de
 insideruser.microsoft.com
+insideruser.trafficmanager.net
 insidespace.com
 insight.rapid7.com
 insights.hotjar.com
@@ -28552,6 +28560,7 @@ jensensteamengines.com
 jensensvacandsew.com
 jenshansen.com
 jenskates.com
+jenson.api.swiftkey.com
 jensonusa.com
 jentsch-mineralien.com
 jephry.com
@@ -31572,6 +31581,7 @@ m.techrepublic.com
 m.uczzd.cn
 m.w.ms
 m.weeklyad.target.com
+m.yap.yahoo.com
 m.youtube.com
 m1.daumcdn.net
 m1.fwmrm.net
@@ -38535,6 +38545,7 @@ pd1294.biochemie.med.uni-giessen.de
 pda-bes.amazon.com
 pdajacket.com
 pdc.micloud.xiaomi.net
+pdcdn1.top
 pdga.com
 pdh.co
 pdst.fm
@@ -40830,6 +40841,7 @@ publitas.com
 publix.com
 pubshop.com
 pubsignshop.com
+pubstack.nw18.com
 pubstuffusa.com
 pubsub.googleapis.com
 pubsub.plex.bz
@@ -51661,6 +51673,7 @@ tracemyip.org
 traceurl.com
 track.adform.net
 track.aliexpress.com
+track.cj.akadns.net
 track.customer.io
 track.effiliation.com
 track.goshippo.com
@@ -51962,6 +51975,7 @@ ucnb.com
 ucobank.com
 ucpb.biz
 udc.yahoo.com
+udcm.yahoo.com
 uddi.beta.microsoft.com
 uddiv3.microsoft.com
 ude.support.microsoft.com
@@ -53900,6 +53914,8 @@ www.affiliatefuture.com
 www.algolia.com
 www.alluremedia.com
 www.amazon.in
+www.analyticsinsights-pa.googleapis.com
+www.analyticssearch-pa.googleapis.com
 www.android-safebrowsing.googleapis.com
 www.android.clients.google.com
 www.androidpartner.googleapis.com
