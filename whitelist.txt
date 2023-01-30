@@ -72,6 +72,7 @@
 *.lencr.org
 *.mail.onedrive.com
 *.maxmind.com
+*.mcsvc.samsung.com
 *.mdhcdn.com
 *.mediatek.com
 *.meituan.com
@@ -88,6 +89,7 @@
 *.nexusrules.live.com.akadns.net
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
+*.osi.office.net
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
 *.pdcdn1.top
@@ -3982,6 +3984,7 @@ api.sibboventures.mgr.consensu.org
 api.simplisafe.com
 api.skimlinks.mgr.consensu.org
 api.speedspot.org
+api.st-av.net
 api.storyly.io
 api.sunrise-sunset.org
 api.surfeasy.com
@@ -4030,6 +4033,7 @@ apogeekits.com
 apoggi.com
 apollo.pl
 apolloflags.com
+apollopushserver.xyz
 apollosaxes.com
 apolos.pl
 apondo.de
@@ -10499,6 +10503,7 @@ captcha-display.com
 captharry.com
 captify.mgr.consensu.org
 captive.apple.com
+captive.roku.com
 captivebred.com
 captoy.dk
 captur.in
@@ -14708,6 +14713,7 @@ d16g-cornerstone-bes.integ.amazon.com
 d1a62freaxhn7x.cloudfront.net
 d1afootball.com
 d1bd3wxsyuz0t7.cloudfront.net
+d1k85ogl73rd7b.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
@@ -14994,6 +15000,7 @@ data.iana.org
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
+data.tmsapi.com
 data.tvdownload.microsoft.com
 data.video.iqiyi.com
 datadoghq-browser-agent.com
@@ -16042,6 +16049,7 @@ discord.co.uk
 discord.com
 discord.gg
 discordapp.com
+discords.com
 discount-appliances.co.uk
 discount-books.com
 discount-clothing-catalog.com
@@ -21417,6 +21425,7 @@ fp1-tk2-upl.ds.microsoft.com
 fpdownload.adobe.com
 fpdownload.macromedia.com
 fpn.firefox.com
+fpt.live.com
 fpt.m.facebook.com
 fr-ca.facebook.com
 fr-ca.gravatar.com
@@ -22531,6 +22540,7 @@ geo-prod.do.dsp.mp.microsoft.com
 geo.ngtv.io
 geo.paypalobjects.com.akadns.net
 geo.prod.dodsp.mp.microsoft.com.nsatc.net
+geo.yahoo.com
 geo1.presslabs.net
 geo3.ggpht.com
 geoauth.google.com
@@ -27442,6 +27452,7 @@ indulgecigars.com
 indusfashions.com
 indusind.com
 indusmall.com
+indusprodcustomer3996.pc.cdn.bitgravity.com
 industrialbank.ua
 indycar.com
 indygem.com
@@ -30849,6 +30860,7 @@ lakewoodbank.com
 lakewoodblueclaws.com
 lakewoodcroquet.com
 lakotacreations.com
+lalpathlabs.com
 lamaisondemarine.fr
 lamaisondevalerie.fr
 lamaternelledechocolatine.eklablog.com
@@ -35863,6 +35875,7 @@ nextstepcomputing.com
 nextstepshoes.net
 nexus-websocket-a.intercom.io
 nexus.ensighten.com
+nexus.live.com
 nexus.passport.com
 nexusamerica.com
 nexusflorist.com
@@ -40259,6 +40272,7 @@ ppt.li
 ppurifier.game.xiaomi.com
 ppurl.io
 pr-youhin.co.jp
+pr.comet.yahoo.com
 pr0gramm.com
 practical-plastics.com
 practicalpreschool.com
@@ -50145,6 +50159,8 @@ tcrn.ch
 tcsjerky.com
 tcstore.com
 tcustomgolf.com
+td-mashery-tm-use1.mashery.com
+td-tms.mashery.com
 td.com
 td.facebook.com
 tdameritrade.com
@@ -51546,6 +51562,7 @@ tmetrix.my.chick-fil-a.com
 tmicheal.com
 tmrrfc.qc.ca
 tms.airtelbroadband.in
+tms.api.mashery.com
 tmz.com
 tmz.vo.llnwd.net
 tnb.ru
@@ -51996,6 +52013,7 @@ ui.skype.akadns.net
 ui.skype.com
 uiccu.org
 uim.tifbs.net
+uimetadata.samsungiotcloud.com
 uk-go.kelkoogroup.net
 uk-ua.facebook.com
 uk.gravatar.com
