@@ -89,6 +89,7 @@
 *.nexusrules.live.com.akadns.net
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
+*.o9.de
 *.osi.office.net
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
@@ -3968,6 +3969,7 @@ api.onedrive.com
 api.opinary.com
 api.oplata.com
 api.peer5.com
+api.pgpl.g5e.com
 api.pluto.tv
 api.privacy.schibsted.com
 api.pushbullet.com
@@ -18356,6 +18358,7 @@ embed.scribblelive.com
 embed.spotify.com
 embed.tagboard.com
 embed.tagboard.com.herokudns.com
+embed.typeform.com
 embellishmentsinc.com
 embellishonline.com
 emblibrary.com
@@ -22540,7 +22543,6 @@ geo-prod.do.dsp.mp.microsoft.com
 geo.ngtv.io
 geo.paypalobjects.com.akadns.net
 geo.prod.dodsp.mp.microsoft.com.nsatc.net
-geo.yahoo.com
 geo1.presslabs.net
 geo3.ggpht.com
 geoauth.google.com
@@ -31593,7 +31595,6 @@ m.techrepublic.com
 m.uczzd.cn
 m.w.ms
 m.weeklyad.target.com
-m.yap.yahoo.com
 m.youtube.com
 m1.daumcdn.net
 m1.fwmrm.net
@@ -36542,6 +36543,7 @@ o2.sg0.plex.tv
 o2bancorp.com
 o2o.api.xiaomi.com
 o3factor.com
+o9.de
 oa-online.com
 oak-barrel.com
 oakandivory.com
@@ -43448,6 +43450,7 @@ rv-bank-lif.de
 rv-banken.de
 rv-direkt.de
 rv-ebe.de
+rv.treehousei.com
 rvb-bad-staffelstein.de
 rvb-direkt.de
 rvb-donauwoerth.de
@@ -51992,7 +51995,6 @@ ucnb.com
 ucobank.com
 ucpb.biz
 udc.yahoo.com
-udcm.yahoo.com
 uddi.beta.microsoft.com
 uddiv3.microsoft.com
 ude.support.microsoft.com
