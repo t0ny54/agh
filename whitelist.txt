@@ -23,6 +23,7 @@
 *.aylanetworks.com
 *.boldchat.com
 *.bonialconnect.com
+*.buymeacoffee.com
 *.cas.ms
 *.cc-api-data.adobe.io
 *.cdn-apple.com
@@ -127,6 +128,7 @@
 *.spartoo.pt
 *.teams.live.com
 *.teams.microsoft.com
+*.termly.io
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -16259,6 +16261,7 @@ dknits.com
 dl-client.dropbox.com
 dl-debug.dropbox.com
 dl-protect.info
+dl-protect.net.com
 dl-ssl.l.google.com
 dl-web.dropbox.com
 dl.360safe.com
@@ -20196,6 +20199,7 @@ file.dingtalk.com
 file.market.xiaomi.com
 filedropper.com
 filefactory.com
+filehorse.com
 filenesbasement.com
 files.alicdn.com
 files.brightcove.com
@@ -50426,6 +50430,7 @@ terminal.accentpay.com
 terminal.akado.ru
 terminal.ecommpay.com
 terminal.ucs.su
+termly.io
 terms.facebook.com
 termwiki.com
 ternart.com
