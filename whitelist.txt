@@ -1,3 +1,4 @@
+*-mobile.events.data.microsoft.com
 *.a.klaviyo.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
@@ -21,6 +22,7 @@
 *.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.aylanetworks.com
+*.bln1.yospace.com
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -54,7 +56,6 @@
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
 *.fbcdn.net
-*.forester.a2z.com
 *.forms.office.com
 *.gateway.devices.a2z.com
 *.gc.apple.com
@@ -129,6 +130,7 @@
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
+*.tls1.yospace.com
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -1205,6 +1207,7 @@ abc-awards.com
 abc-embroidery-designs.com
 abc-hanko.jp
 abc-toner-cartridges.co.uk
+abc-twitter.extremereach.com
 abc.com
 abc.facebook.com
 abc.nl
@@ -1228,6 +1231,7 @@ abcn.ws
 abcn123kids.com
 abcneckties.com
 abcneworleans.com
+abcnews.extremereach.com
 abcnews.go.com
 abcofcricket.com
 abcoffice.com
@@ -2193,6 +2197,7 @@ agelong.com
 agen-rugby.com
 agenciatributaria.gob.es
 agentb.com
+agents.extremereach.com
 ageofchivalry.com
 agerstaridshop.nu
 agferrari.com
@@ -4068,6 +4073,7 @@ app.datadoghq.eu
 app.dharma.io
 app.e.sigsauer.com
 app.engage.jio.com
+app.extremereach.com
 app.facebook.com
 app.getresponse.com
 app.gitbook.com
@@ -8260,6 +8266,7 @@ blitzreifen.de
 blitzsport.com
 blitzwatches.co.uk
 blkb.ch
+bln1.yospace.com
 blnrouter.alerts.microsoft.com
 bloat.me
 blob.weather.microsoft.com
@@ -9968,7 +9975,6 @@ c-dtags.com
 c-o.in
 c-p-p.co.uk
 c-und-d.de
-c.amazon-adsystem.com
 c.apple.com
 c.betrad.com
 c.bing.com
@@ -16663,6 +16669,7 @@ download.alexa.com
 download.cnet.com
 download.dmd.metaservices.microsoft.com
 download.emercoin.com
+download.extremereach.com
 download.intsig.net
 download.jp.microsoft.com
 download.microsoft.com
@@ -17013,6 +17020,7 @@ dutyfreestores.com.au
 duvetsdirect.com
 duvines.com
 duxdekes.com
+dv.extremereach.com
 dv.gd
 dvb-shop24.net
 dvb101.net
@@ -19382,7 +19390,6 @@ extremely-sharp.com
 extremeoutdoorsupply.com
 extremeracing.co.uk
 extremeracquetball.com
-extremereach.com
 extremeshop.ru
 extremesteering.com
 extremetoys.com
@@ -20942,35 +20949,10 @@ flowerwish.net
 flowerworksuk.com
 flowerzonline.com
 flrex.research.microsoft.com
-fls-cn.amazon.cn
-fls-eu.amazon-adsystem.com
-fls-eu.amazon.ae
-fls-eu.amazon.ca
-fls-eu.amazon.co.uk
 fls-eu.amazon.com
-fls-eu.amazon.com.be
-fls-eu.amazon.com.tr
 fls-eu.amazon.de
-fls-eu.amazon.eg
-fls-eu.amazon.es
-fls-eu.amazon.fr
-fls-eu.amazon.in
-fls-eu.amazon.it
-fls-eu.amazon.nl
-fls-eu.amazon.pl
-fls-eu.amazon.sa
-fls-eu.amazon.se
-fls-fe-opf.amazon.com
-fls-fe.amazon-adsystem.com
-fls-fe.amazon.co.jp
 fls-fe.amazon.com
-fls-fe.amazon.com.au
-fls-fe.amazon.sg
-fls-na.amazon-adsystem.com
-fls-na.amazon.ca
 fls-na.amazon.com
-fls-na.amazon.com.br
-fls-na.amazon.com.mx
 fluance.com
 fluctuat.net
 flugversand.de
@@ -31600,6 +31582,7 @@ m.uczzd.cn
 m.w.ms
 m.weeklyad.target.com
 m.youtube.com
+m1.com
 m1.daumcdn.net
 m1.fwmrm.net
 m1.fwmrm.net-v1.edgesuite.net
@@ -51556,6 +51539,7 @@ tlc.com
 tld-list.com
 tldr.sk
 tllg.net
+tls1.yospace.com
 tls13.facebook.com
 tlu.dl.delivery.mp.microsoft.com
 tm.facebook.com
@@ -52060,8 +52044,6 @@ umweltbank.de
 unagi-eu.amazon.com
 unagi-fe.amazon.com
 unagi-na.amazon.com
-unagi.amazon.co.jp
-unagi.amazon.com
 unamourdebijoux.com
 unbank.com
 unbouncepages.com
@@ -52166,6 +52148,7 @@ update.utorrent.com
 updatefaker.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
+updates.extremereach.com
 updates.push.services.mozilla.com
 updating.me
 upgrade.scdn.co
