@@ -22,7 +22,6 @@
 *.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.aylanetworks.com
-*.bln1.yospace.com
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -130,7 +129,6 @@
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
-*.tls1.yospace.com
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -8266,7 +8264,6 @@ blitzreifen.de
 blitzsport.com
 blitzwatches.co.uk
 blkb.ch
-bln1.yospace.com
 blnrouter.alerts.microsoft.com
 bloat.me
 blob.weather.microsoft.com
@@ -11097,6 +11094,7 @@ cdn-yams.schibsted.com
 cdn.adf.ly
 cdn.adrise.tv
 cdn.agilebits.com
+cdn.appconsent.io
 cdn.apple-mapkit.com
 cdn.ark.qq.com
 cdn.arstechnica.net
@@ -12976,6 +12974,7 @@ collectionsetc.com
 collectiques.co.uk
 collecto-mania.com
 collectomania.be
+collector.appconsent.io
 collector.githubapp.com
 collector.lightstep.com
 collector.schibsted.io
@@ -14342,6 +14341,8 @@ csi.l.google.com
 csi247.com
 csl-furniture.co.uk
 cslpremier.com
+csm-e-cbch-eb.tls1.yospace.com
+csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csmalls.com
 csnll.org
 csp.int-x3.letsencrypt.org.edgesuite.net
@@ -18342,6 +18343,7 @@ email.appsumo.com
 email.cmt.research.microsoft.com
 email.docker.com
 email.facebook.com
+email.goodrx.com
 email.microsoftemail.com
 email.microsoftrewards.com
 email.namebase.io
@@ -27650,6 +27652,7 @@ intensekarting.com
 inter-photo.dk
 inter-spares.co.uk
 interactive-sport.com
+interactive.guim.co.uk
 interactivebrokers.co.uk
 interactivebrokers.com
 interaquaristik.de
@@ -48337,6 +48340,7 @@ stateside-shopping.com
 stathat.com
 static-ak.facebook.com
 static-asm.secure.skypeassets.com
+static-assets.highwebmedia.com
 static-cl.xhcdn.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
@@ -51539,7 +51543,6 @@ tlc.com
 tld-list.com
 tldr.sk
 tllg.net
-tls1.yospace.com
 tls13.facebook.com
 tlu.dl.delivery.mp.microsoft.com
 tm.facebook.com
@@ -51700,9 +51703,11 @@ tracker.alpharatio.cc
 tracker.animebytes.tv
 tracker.avistaz.to
 tracker.beyond-hd.me
+tracker.empornium.sx
 tracker.gg
 tracker.marinsm.com
 tracker.opentrackr.org
+tracker.tleechreload.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking.dpd.de
@@ -54617,7 +54622,6 @@ xeeurl.com
 xero.com
 xflight.xboxlive.com
 xg4ken.com
-xg4ken.com7eer.net
 xgd.in
 xhamster.com
 xianz.com
