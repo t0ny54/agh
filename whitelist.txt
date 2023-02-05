@@ -98,6 +98,7 @@
 *.performfeeds.com
 *.phonecallapi.micloud.xiaomi.net
 *.primevideo.com
+*.pubnub.com
 *.push.apple.com
 *.pv-cdn.net
 *.registerdisney.go.com
@@ -17264,6 +17265,7 @@ e-zegarek.pl
 e-zegarki.pl
 e.clhs.com.ua
 e.customeriomail.com
+e.imguol.com
 e.orange.fr
 e.paba.hr
 e.reddit.com
@@ -24343,6 +24345,7 @@ h-tsb.online-metrix.net
 h-ue.de
 h.beta.facebook.com
 h.facebook.com
+h.imguol.com
 h2ofilters.com
 h2onics.co.uk
 h2oplus.com
@@ -25829,6 +25832,7 @@ homecreations.co.uk
 homecredit.ru
 homedecodirect.com
 homedecorhardware.com
+homedepot.cdn.findly.com
 homedepot.com
 homedesignersoftware.com
 homedj.co.uk
@@ -31330,6 +31334,7 @@ localbitcoins.com
 localcelebrity.net
 locale.roblox.com
 localethereum.com
+localiq.com
 localsports.com
 location-inference-westus.cloudapp.net
 location.services.mozilla.com
@@ -40845,6 +40850,7 @@ publishers.medium.com
 publists.facebook.com
 publitas.com
 publix.com
+pubnub.com
 pubshop.com
 pubsignshop.com
 pubstack.nw18.com
@@ -43260,6 +43266,7 @@ rtoaster.jp
 rtss-prod.jioconnect.com
 rttours.com
 rtvagd.sklep.pl
+rtw.uol.com
 ru-go.kelkoogroup.net
 ru-ru.facebook.com
 ru-toys.ru
@@ -44651,6 +44658,7 @@ secondhands.jp
 secondhitgolfballs.com
 secondstorybooks.ca
 secondstorybooks.com
+secondstreetapp.com
 secondtimearoundwatchco.com
 secondtimeround.com
 secondtonature.co.uk
@@ -48432,6 +48440,7 @@ stauffers.net
 staugustine-florist.com
 stave.com
 stbernardsports.com
+stc.uol.com
 stce.fr
 stdl.qq.com
 stealthclubcovers.com
@@ -51547,6 +51556,7 @@ tls13.facebook.com
 tlu.dl.delivery.mp.microsoft.com
 tm.facebook.com
 tm.jsuol.com.br
+tm.uol.com.br
 tmb.in
 tmba.org
 tmbdirect.com
