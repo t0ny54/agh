@@ -56,6 +56,7 @@
 *.export.yandex.ru
 *.fbcdn.net
 *.forms.office.com
+*.fundingchoicesmessages.google.com
 *.gateway.devices.a2z.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
@@ -127,6 +128,7 @@
 *.spartoo.it
 *.spartoo.pl
 *.spartoo.pt
+*.stat.gov.pl
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
@@ -134,6 +136,7 @@
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
 *.ultimedia.com
+*.unmineable.com
 *.update.intl.miui.com
 *.update.microsoft.com
 *.vercel-dns.com
@@ -26051,6 +26054,7 @@ hospitalflowershop.net
 hospitalityclub.org
 hosstudio.com
 host-tracker.com
+host.secureserver.net
 hostachoicegardens.com
 hostahosta.com
 hostaparadise.com
@@ -39110,6 +39114,7 @@ phinxphotography.com
 phishin4kompliments.com
 phishing.mailscanner.info
 phishingfilter.microsoft.com
+phishingquiz.withgoogle.com
 phishybusiness.com
 phlare.com
 phncdn.com
