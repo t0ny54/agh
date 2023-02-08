@@ -132,6 +132,7 @@
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
+*.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.twibbonize.com.cdn.ezoic.net
@@ -10439,6 +10440,7 @@ cantonfarmersstatebank.com
 canuckscorner.com
 canvas-net.jp
 canvas.facebook.com
+canvas.tubitv.com
 canvasbackpets.com
 canvaspaintings.com
 canvastoclay.com
@@ -11202,6 +11204,7 @@ cdn6.digitaltrends.com
 cdn7.digitaltrends.com
 cdn7.es.digitaltrends.com
 cdn77.com
+cdn77.utomik.com
 cdn9.es.digitaltrends.com
 cdnapi.kaltura.com
 cdnapisec.kaltura.com
@@ -13348,12 +13351,14 @@ conradricemill.com
 consciouschaos.com
 consent-pref.trustarc.com
 consent.cmp.oath.com
+consent.cookiebot.eu
 consent.dk
 consent.faz.net
 consent.google.com
 consent.trustarc.com
 consent.truste.com
 consent.yahoo.com
+consentcdn.cookiebot.eu
 consentmanager.mgr.consensu.org
 conservativebookclub.com
 conservativebookservice.com
@@ -15754,6 +15759,7 @@ diabetic-footcare.com
 diabeticandcomfortsocks.com
 diabolikdvd.com
 diadecdogs.com
+diagnostics.meethue.com
 diagnostics.support.microsoft.com
 dial-a-box.com
 dialaclutch.com
@@ -16139,6 +16145,7 @@ discover.com
 discovermagazine.com
 discoverthis.com
 discovery.facebook.com
+discovery.meethue.com
 discoworlduk.com
 discraft.com
 discshop.se
@@ -16702,6 +16709,7 @@ doylesflorist.com
 dozensofgames.com
 dp-enterprises.com
 dp-gw-*.amazon.com
+dp.dc1.philips.com
 dp.msnmessenger.akadns.com
 dpbolvw.net
 dpcauto.com
@@ -18287,6 +18295,7 @@ elkom-serwis.com.pl
 elkomseeds.ru
 elkskier.com
 elkuglen.dk
+ellation.map.fastly.net
 ellaways.com.au
 elle.be
 elleemmeshop.com
@@ -26498,6 +26507,7 @@ i.guancha.cn
 i.gyazo.com
 i.hbrcdn.com
 i.i.cbsi.com
+i.ibb.co
 i.imgci.com
 i.imgur.com
 i.instagram.com
@@ -27226,6 +27236,7 @@ images.netdirector.co.uk
 images.nvidiagrid.net
 images.parsely.com
 images.pluto.tv
+images.redbox.com
 images.salsify.com
 images.theconversation.com
 images.unsplash.com
@@ -27274,6 +27285,7 @@ img.digitaltrends.com
 img.elephantjournal.com
 img.mmtcdn.com
 img.myflixer.to
+img.nvidiagrid.net
 img.onesignal.com
 img.over-blog-kiwi.com
 img.purch.com
@@ -31162,7 +31174,6 @@ lilactwist.com
 lilisto.com
 liltext.com
 lime-zaim.ru
-limetorrents.lol
 limited-prod.giphy.map.fastly.net
 limtu.ifmo.ru
 lin.cr
@@ -33402,6 +33413,7 @@ migs.mastercard.co.in
 migs.mastercard.com.au
 miguelraigon.com
 mijn.ing.nl
+mijn.overheid.nl
 mijnpazio.nl
 mijong.net
 mijoyeria.com
@@ -33819,6 +33831,7 @@ moananuidesigns.com
 moanui.co.nz
 mob-action.de
 mobankers.com
+mobapi-qero-ab.e-goi.com
 mobi-fon.ru
 mobibank.upb.ru
 mobifree.ru
@@ -51708,6 +51721,7 @@ track.adform.net
 track.aliexpress.com
 track.cj.akadns.net
 track.customer.io
+track.dhlparcel.co.uk
 track.effiliation.com
 track.goshippo.com
 track.nzz.ch
@@ -51720,16 +51734,10 @@ track24.ru
 trackcmp.net
 trackenterprises.com
 tracker*.scoober.com
-tracker.alpharatio.cc
-tracker.animebytes.tv
-tracker.avistaz.to
-tracker.beyond-hd.me
-tracker.empornium.sx
 tracker.gg
 tracker.marinsm.com
 tracker.opentrackr.org
 tracker.scenetime.com
-tracker.tleechreload.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking.dpd.de
@@ -52281,6 +52289,7 @@ us.co1.cb3.glbdns.microsoft.com
 us.configsvc1.live.com.akadns.net
 us.cyworld.com
 us.hsbc.com
+us.lgtvsdp.com
 us.pool.ntp.org
 us.vortex-win.data.microsoft.com
 us1-1.nanorep.co
@@ -53839,6 +53848,7 @@ ws.amazon.com
 ws.audioscrobbler.com
 ws.coinbase.com
 ws.grant.ua
+ws.meethue.com
 ws.mmstat.com
 ws.msllab.microsoft.com
 ws.pusherapp.com
@@ -54084,6 +54094,7 @@ www.duck.co
 www.dw.techrepublic.com
 www.e16973.a.akamaiedge.net
 www.ebank.peoplesbank.lk
+www.ecdinterface.philips.com
 www.eff.org
 www.elephantjournal.com
 www.emercoin.com
