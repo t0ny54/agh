@@ -151,6 +151,7 @@
 *.ytimg.com
 *.zopim.com
 *api.*.microsoft.com
+*api.facebook.com
 *graph-fallback.facebook.com
 *graph-fallback.instagram.com
 *graph-video.facebook.com
@@ -160,6 +161,7 @@
 *microsoft.online-metrix.net
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
+*star.*.facebook.com
 *telemetry.*oraclecloud.com
 *v10-win.vortex.data.microsoft.com.akadns.net
 *v10-win.vortex.data.trafficmanager.net
@@ -2264,6 +2266,9 @@ ahuva.com
 ai-sugiyama.com
 aiai.no
 aib.ie
+aic-ngfts.lge.com
+aic-op-lss.lgthinq.com
+aic.cdpsvc.lgtvcommon.com
 aiconsol.com
 aifo.se
 aigamo.net
@@ -13165,6 +13170,7 @@ commerzbank.hu
 commerzfinanz.com
 commfed.com
 commission-junction.com
+common.lgthinq.com
 commonwealthgames.ca
 commonwealthgames.org
 commonwealthgames98.com
@@ -31472,6 +31478,7 @@ lsmr20.meet.microsoft.com
 lsmr21.meet.microsoft.com
 lsmr22.meet.microsoft.com
 lsmr23.meet.microsoft.com
+lss.lgthinq.com
 lt-lt.facebook.com
 lt.gravatar.com
 lt.tl
@@ -52288,9 +52295,13 @@ us-west-2.target.aws.amazon.com
 us.co1.cb3.glbdns.microsoft.com
 us.configsvc1.live.com.akadns.net
 us.cyworld.com
+us.emp.lgsmartplatform.com
 us.hsbc.com
+us.info.lgsmartad.com
+us.lgeapi.com
 us.lgtvsdp.com
 us.pool.ntp.org
+us.rdx2.lgtvsdp.com
 us.vortex-win.data.microsoft.com
 us1-1.nanorep.co
 usaa.com
@@ -53176,6 +53187,7 @@ vr-schluechtern-birstein.de
 vr-tuebingen.de
 vr-vilshofen.de
 vr-werdenfels.de
+vr331.infusionsoft.com
 vrb-eisenach.de
 vrb-meinebank.de
 vrb-niederschlesien.de
@@ -54657,6 +54669,7 @@ xeeurl.com
 xero.com
 xflight.xboxlive.com
 xg4ken.com
+xg4ken.com7eer.net
 xgd.in
 xhamster.com
 xianz.com
