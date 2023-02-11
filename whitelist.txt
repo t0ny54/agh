@@ -2269,6 +2269,7 @@ aib.ie
 aic-ngfts.lge.com
 aic-op-lss.lgthinq.com
 aic.cdpsvc.lgtvcommon.com
+aic.service.lgtvcommon.com
 aiconsol.com
 aifo.se
 aigamo.net
@@ -12408,6 +12409,7 @@ cleanstore.co.uk
 cleansweepsupply.com
 clear.com.br
 clearanceshop.com.au
+clearbit.com
 clearcreeknationalbank.com
 clearenvelopes.com
 clearinghouse.one.microsoft.com
@@ -52297,6 +52299,7 @@ us.configsvc1.live.com.akadns.net
 us.cyworld.com
 us.emp.lgsmartplatform.com
 us.hsbc.com
+us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.lgeapi.com
 us.lgtvsdp.com
