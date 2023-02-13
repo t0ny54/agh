@@ -84,6 +84,7 @@
 *.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
 *.msdp1.com
+*.msf.3g.qq.com
 *.msftconnecttest.com
 *.nextdns.io
 *.nexus.officeapps.live.com
@@ -4867,6 +4868,7 @@ assessment.learning.microsoft.com
 asset.wsj.net
 assets-jpcust.jwpsrv.com
 assets-news-bcdn.dailyhunt.in
+assets-secure.applicaster.com
 assets.activity.windows.com
 assets.adobedtm.com
 assets.alicdn.com
@@ -17312,6 +17314,7 @@ e20.whatsapp.net
 e2725.g.akamaiedge.net
 e3.whatsapp.net
 e3489.cd.akamaiedge.net
+e35058.api3.akamaiedge.net
 e37.eu
 e3843.g.akamaiedge.net
 e4.whatsapp.net
@@ -32729,6 +32732,8 @@ mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 mcquerryorchidbooks.com
 mcrgifts.com
 mcrok.com
+mcs-va.tiktok.com
+mcs-va.tiktok.com.edgekey.net
 mcsbnh.com
 mcsnet.nl
 mcsoywax.com
@@ -34555,6 +34560,7 @@ msft.sts.microsoft.com
 msftconnecttest.com
 msftncsi.com
 msftopenus.partners.extranet.microsoft.com
+msfwifi.3g.qq.com
 msg.douyu.com
 msg.edit.yahoo.com
 msg.ettoday.net
