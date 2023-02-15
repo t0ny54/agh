@@ -30,11 +30,11 @@
 *.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
-*.cdn.optimizely.com
 *.cdninstagram.com
 *.cdx.cedexis.net
 *.ceros.com
 *.change.org.cdn.cloudflare.net
+*.chatra.io
 *.cloud.axiadids.net
 *.contabostorage.com
 *.controld.com
@@ -132,6 +132,8 @@
 *.spartoo.pl
 *.spartoo.pt
 *.stat.gov.pl
+*.static-app.klaviyo.com
+*.static-forms.klaviyo.com
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
@@ -1522,6 +1524,7 @@ acousticmusicworks.com
 acquaingros.it
 acquamar.com.br
 acquistionline.it
+acr*.samsungcloudsolution.com
 acreativexpression.com
 acrosstheboardwoodwork.com
 acrylicawardplaques.com
@@ -3666,6 +3669,7 @@ annonsfynd.se
 annonsparken.se
 announce.xxx-tracker.com
 announceit.co.uk
+announcements.vizio.com
 announcingababy.com
 announcingit.com
 annova.biz
@@ -3917,6 +3921,7 @@ api-hphp-05-01-sf2p.facebook.com
 api-mainnet.pool.space
 api-read.facebook.com
 api-secure.solvemedia.com
+api-tv.spotify.com
 api-unionid.meituan.com
 api-v4.trbo.com
 api-video-sf2p.facebook.com
@@ -3983,6 +3988,7 @@ api.monitor.azure.com
 api.myteamspeak.com
 api.narrativ.com
 api.netatmo.net
+api.nfl.com
 api.noda.live
 api.office.microsoft.com
 api.onedrive.com
@@ -4026,11 +4032,13 @@ api.unsplash.com
 api.usebutton.com
 api.viber.com
 api.vip.miui.com
+api.vizio.com
 api.yep.com
 api.zaloapp.com
 api.zepto.co.in
 api2.facebook.com
 api3.siftscience.com
+apicache.vudu.com
 apihockey.com
 apikeys.clients6.google.com
 apiman.fr
@@ -4160,6 +4168,7 @@ appliances.co.uk
 appliances.com
 appliancesonline.co.uk
 applianceworldonline.com
+applicast.ga.sony.net
 applicationinsights.io
 applicationinsights.microsoft.com
 appliedrace.com
@@ -5243,6 +5252,7 @@ auth-relay-pqj6ndd4jq-uc.a.run.app
 auth.be.sec.miui.com
 auth.firebase.google.com
 auth.gfx.ms
+auth.samsungosp.com
 auth.split.io
 authbe.sec.intl.miui.com
 authenticafrica.com
@@ -5436,6 +5446,7 @@ avonminiatures.com
 avonshop.cn
 avonshop.co.uk
 avperfection.com
+avpro.global.yamaha.com
 avs-alexa*.amazon.com
 avsale.ru
 avsforum.com
@@ -11225,6 +11236,7 @@ cdnbunny.org
 cdninstagram.com
 cdnjs.cloudflare.co
 cdnjs.cloudflare.com
+cdns-content.dzcdn.net
 cdns.gigya.com
 cdnsecakmi.kaltura.com
 cdnssl.softpedia.com
@@ -11649,6 +11661,7 @@ chat.facebook.com
 chateau-de-fleurs.com
 chatenabled.mail.google.com
 chaters.co.uk
+chatra.io
 chatswoodshopping.com.au
 chattanoogagifts.com
 chatterboxgifts.co.uk
@@ -13327,6 +13340,7 @@ config.pinyin.sogou.com
 config.safedk.com
 config.uca.cloud.unity3d.com
 config.wmc.metaservices.microsoft.com
+configprd.samsungcloudsolution.net
 configuration.apple.com.akadns.net
 configurator.microsoft.com
 confirmit.com
@@ -15682,6 +15696,7 @@ deutscheshaus.cc
 deutschfriesenhahn.com
 deutschland-souvenirs.de
 deux-bijoux.com
+dev-multiscreen.samsung.com
 dev.applicationinsights.microsoft.com
 dev.facebook.com
 dev.ppe.applicationinsights.microsoft.com
@@ -16900,6 +16915,7 @@ dropsweb.com
 dropzonearmynavy.com
 drostes.com
 drpower.com
+drscdn.500px.org
 drsfostersmith.com
 drsjewelry.com
 drsport.net
@@ -17583,6 +17599,7 @@ ecclestonanglingcentre.co.uk
 eccoamager.dk
 eccoshop.de
 eccycles.com
+ecdinterface.philips.com
 echahockey.com
 echantillonsclub.com
 echecsvariables.over-blog.com
@@ -18653,6 +18670,7 @@ epcgym.co.uk
 epernicus.com
 epetpals.com
 epetsuppliesdirect.com.au
+epg.corio.com
 epg.tvdownload.microsoft.com
 ephemeranet.com
 ephemerarts.com
@@ -20238,6 +20256,7 @@ filatelistyka.pl
 file-extensions.org
 file.dingtalk.com
 file.market.xiaomi.com
+file2fxm.azureedge.net
 filedropper.com
 filefactory.com
 filehorse.com
@@ -20632,6 +20651,8 @@ fiz.tavrich.ru
 fjoelner.dk
 fjordnansen.com.pl
 fjsb.com
+fkp.samsungcloudsolution.com
+fkp.samsungcloudsolution.net
 fkpacific.com
 fl-paris.com
 fl-sportingclays.org
@@ -22561,6 +22582,7 @@ geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-espace.com
 geo-prod.do.dsp.mp.microsoft.com
 geo.ngtv.io
+geo.opera.com
 geo.paypalobjects.com.akadns.net
 geo.prod.dodsp.mp.microsoft.com.nsatc.net
 geo1.presslabs.net
@@ -23763,6 +23785,7 @@ gp.se
 gpacsports.com
 gpbrazil.com
 gplay.com
+gpm.samsungqbe.com
 gpparsikbank.com
 gps-garmin.nl
 gps-koopgids.nl
@@ -24999,6 +25022,9 @@ hb.aibank.co.il
 hb.unionbank.co.il
 hb2.bankleumi.co.il
 hbar.com
+hbbtv.prosieben.de
+hbbtv.redbutton.de
+hbbtv.zdf.de
 hbcprotocols.com
 hbdirect.com
 hbl.be
@@ -27256,6 +27282,7 @@ images.redbox.com
 images.salsify.com
 images.theconversation.com
 images.unsplash.com
+images.vizio.com
 images.wmc.metaservices.microsoft.com
 images02.adrise.tv
 images1.minutemediacdn.com
@@ -27519,6 +27546,7 @@ info.metib.ru
 info.ms
 infoa.biz
 infohealth.co.uk
+infolink.pavv.co.kr
 information.microsoft.com
 informer.yandex.ru
 informz.net
@@ -27726,6 +27754,7 @@ intermcr.facebook.com
 interminerales.com
 intermountaintraders.com
 intern.facebook.com
+internal.cloud.remarkable.com
 international-auto.com
 internationalathletic.com
 internationalbike.com
@@ -28211,6 +28240,7 @@ ittf.com
 ittybittyblessings.com
 ittybittybundles.com
 itunes.apple.com
+itv.ard.de
 ity.im
 itzadog.com
 iuscgndnsfv301.two.microsoft.com
@@ -31001,6 +31031,7 @@ lcdn-locator.apple.com.akadns.net
 lcdprojectoronline.com
 lcl.com
 lcl.fr
+lcprd*.samsungcloudsolution.net
 lcut.in
 lddy.no
 ldlc.com
@@ -31370,6 +31401,7 @@ locale.roblox.com
 localethereum.com
 localiq.com
 localsports.com
+location-api.hdhomerun.com
 location-inference-westus.cloudapp.net
 location.services.mozilla.com
 locationsound.com
@@ -33289,6 +33321,7 @@ mgcpuzzles.com
 mgjshop.co.jp
 mgs4u.com
 mgz.com.ua
+mhc-*.myhomescreen.tv
 mhinstruments.com
 mhpb.org
 mhsaa.com
@@ -34714,6 +34747,7 @@ multihobby.nl
 multimedina.com
 multipletreasures.com
 multiply.com
+multiscreen.samsung.com
 multishot.ru
 multisport.se
 multiup.org
@@ -36326,7 +36360,10 @@ noteworthynotes.com
 nothingbuttennis.com
 nothingbuttoys.net
 nothrow.com
+notice.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
 notifications-pa.googleapis.com
+notifications-prod.cloud.remarkable.engineering
 notifications.google.com
 notifications.googleapis.com
 notify.xboxlive.com
@@ -36400,6 +36437,7 @@ ns.microsoft.com
 ns1.com
 ns1.dropbox.com
 ns1.facebook.com
+ns11.whois.co.kr
 ns2.dropbox.com
 ns2.facebook.com
 ns3.facebook.com
@@ -36735,6 +36773,8 @@ oeb.se
 oecherdeal.de
 oekocare.de
 oekovino.de
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
 oemuat.microsoft.com
 oenb.at
 oenntp.msnews.microsoft.com
@@ -37619,6 +37659,7 @@ orvaes.es
 orvis.com
 orvischile.cl
 oryans.com
+osb*.samsungqbe.com
 osbornewood.com
 oscar-tm.ru
 oscardelahoyaonline.tripod.com
@@ -37668,6 +37709,8 @@ otf.seb.se
 otflorist.com
 otherlandtoys.co.uk
 otkritie.rapida.ru
+otn.samsungcloudcdn.com
+otnprd*.samsungcloudsolution.net
 otoalsat.com
 otodom.pl
 otokonokimonoichi.com
@@ -39431,6 +39474,7 @@ ping-pong.com
 ping-pong.ru
 ping.*.adguard.io
 ping.fm
+ping.remarkable.com
 ping.taplytics.com
 pingdom.net
 pingpoint.net
@@ -40101,6 +40145,7 @@ portal.facebook.com
 portal.lacaixa.es
 portal.manage.microsoft.com
 portal.nefteprom.com
+portal.store.sonyentertainmentnetwork.com
 portalautomotriz.com
 portalbank.no
 portaldepagosmercantil.com
@@ -40802,6 +40847,7 @@ protrek.com.hk
 protriminc.com
 proudlyscottish.com
 prouds.nf
+prov.samsungcloudsolution.com
 provencezakka.com
 proverdi.de
 providentnj.com
@@ -42370,6 +42416,7 @@ refurb-store.com
 refurbdepot.com
 refwear.com
 reg .*\.oloadcdn\.net$
+reg.biv.sony.tv
 rega-lo.com
 regalcanada.ca
 regalcraftcards.com.au
@@ -42875,6 +42922,7 @@ rmawilliams.com
 rmbank.com
 rmconnection.com
 rmcsport.fr
+rmfix.samsungcloudsolution.net
 rms.ccp.microsoft.com
 rmsterling.com
 rmwaxworks.com
@@ -43860,6 +43908,13 @@ samssteins.com
 samstagsales.com
 samstores.com
 samsung.com
+samsungcloud.tv
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungosp.com
+samsungotn.net
+samsungqbe.com
+samsungrm.net
 samtimer.com
 samuelstennisport.com
 samurai-collectibles.com
@@ -44014,6 +44069,7 @@ sarsha.jp
 sarshield.com
 sas.com
 sas.ooyala.com
+sas.samsungcloudsolution.com
 sasak-pottery.com
 sasakei.co.jp
 sascdn.com
@@ -44546,6 +44602,7 @@ scrubsdirect.biz
 scrubskeywest.com
 scrubsunlimited.com
 scrubthis.com
+scs.samsungqbe.com
 scsb.com.tw
 scshops.com
 scstamps.co.uk
@@ -45018,6 +45075,7 @@ serveo.net
 server-au.imrworldwide.com
 server-it.imrworldwide.com
 serverfault.com
+service.biv.sony.tv
 service.fuib.com
 service.santanderconsumer.at
 service.signalr.net
@@ -48133,6 +48191,7 @@ sslgen-tidal.datadome.co
 sslproxy-prod.adobedtm.com
 sslshare.gshifen.com
 sslvideo-upload.l.google.com
+ssm*.internet.sony.tv
 ssnb.com
 sso.hrz.tu-darmstadt.de
 sss.co.jp
@@ -48396,9 +48455,11 @@ statesavingsbank.com
 stateside-shopping.com
 stathat.com
 static-ak.facebook.com
+static-app.klaviyo.com
 static-asm.secure.skypeassets.com
 static-assets.highwebmedia.com
 static-cl.xhcdn.com
+static-forms.klaviyo.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
 static-xl9-ssl.xunlei.com
@@ -51519,6 +51580,7 @@ timberlineski-bike.com
 timberrattlers.com
 timbrasil.m.facebook.com
 timbrauch.com
+time-a.timefreq.bldrdoc.gov
 time-frames.com
 time.com
 time.gpsonextra.net
@@ -51935,6 +51997,7 @@ tulsisilks.com
 tumblr.com
 tunein.com
 tuneinn.co.uk
+tuner-api.hdhomerun.com
 tungstenrings.com
 tupperware.com
 turanbank.az
@@ -51949,6 +52012,7 @@ turtlebaytshirts.com
 tusfiles.net
 tusting.co.uk
 tuttoannunci.org
+tv.deezer.com
 tv.media.jio.com
 tv.oneworld.net
 tv.wp.pl
@@ -52202,6 +52266,7 @@ upc.m.facebook.com
 upco.com
 upd.faronicslabs.com
 update.avlyun.sec.miui.com
+update.biv.sony.tv
 update.code.visualstudio.com
 update.facebook.com
 update.intl.miui.com
@@ -52210,6 +52275,7 @@ update.utorrent.com
 updatefaker.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
+updates.cloud.remarkable.engineering
 updates.extremereach.com
 updates.push.services.mozilla.com
 updating.me
@@ -52625,9 +52691,11 @@ vchat-stg.support.microsoft.com
 vchat1.microsoft.com
 vchecks.me
 vcs.metaservices.microsoft.com
+vcs.vdspf.com
 vcurams.vcu.edu
 vd.l.qq.com
 vd55.com
+vdterms.samsungcloudsolution.com
 vecchiabottega.it
 vecteezy.com
 vector.facebook.com
@@ -53473,6 +53541,7 @@ web99.eu
 webaccelerator.google.com
 webadvisorc.rest.gti.mcafee.com
 webank.bank-45.ru
+webapp-prod.cloud.remarkable.engineering
 webapp.sebgroup.com
 webapps.microsoft.com
 webball.com
