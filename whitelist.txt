@@ -1761,6 +1761,7 @@ adorablecharms.com
 adorabledollclothes.com
 adorabledress.com
 adorama.com
+adorama.rfvk.net
 adorebeauty.com.au
 adorecorsets.com
 adornables.net
@@ -26972,6 +26973,7 @@ iclient3.devoncredit.ru
 iclients.baltinvest.ru
 icloud.cdn-apple.com
 icloud.com
+icloud.com.cn
 icmods.microsoft.com
 icollector.com
 icollezionisti.com
@@ -37510,6 +37512,7 @@ optimizely.com
 optimumbank.com
 optimus.komodia.com
 optingolfer.com
+option.boldapps.net
 optiva.pl
 optmebel.ru
 optmzly.fe.indazn.com
@@ -38304,6 +38307,7 @@ partner.sts.microsoft.com
 partnerconnect.microsoft.com
 partnering.one.microsoft.com
 partnerpage.google.com
+partners*.stacksocial.com
 partners.extranet.microsoft.com
 partners.retail.microsoft.com
 partners.sts.microsoft.com
@@ -45529,6 +45533,7 @@ shop-else.com
 shop-gen.com
 shop-gun.com
 shop-hide.com
+shop-links.co
 shop-n-zone.com
 shop-naturally.com
 shop-net.dk
@@ -51807,6 +51812,7 @@ tracemyip.org
 traceurl.com
 track.adform.net
 track.aliexpress.com
+track.aliexpress.com.gds.alibabadns.com
 track.cj.akadns.net
 track.customer.io
 track.dhlparcel.co.uk
@@ -53353,6 +53359,7 @@ vtsamples.commondatastorage.googleapis.com
 vuat.answers.microsoft.com
 vuat.expression.microsoft.com
 vuat.onlinehelp.microsoft.com
+vulcan.condenastdigital.com
 vultr.com
 vupload-edge.facebook.com
 vupload-sf2p.facebook.com
