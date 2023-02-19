@@ -14777,6 +14777,7 @@ d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
+d2cttawv9fdszz.cloudfront.net
 d2dimports.co.uk
 d2football.com
 d2gatte9o95jao.cloudfront.net
@@ -16338,6 +16339,7 @@ dlbmodigital.microsoft.com
 dlc-shim.trafficmanager.net
 dldir1.qq.com
 dlied6.qq.com
+dlp3zj68t5lvh.cloudfront.net
 dltap.ca
 dlumberyard.com
 dlvr.it
@@ -23146,6 +23148,7 @@ glnk.io
 global-investor.com
 global-nutrition.de
 global-source-mkt.com
+global.albtls.t.co
 global.asimov.events.data.trafficmanager.net
 global.cdn.survey.medallia.com
 global.fncstatic.com
@@ -32817,6 +32820,7 @@ meadowherbs.com
 meadowmania.co.uk
 meadowrungifts.com
 mearnscraft.co.uk
+measurement-lab.org
 meatballsandads.com
 meatfordog.ru
 mebank.com.au
@@ -35230,6 +35234,7 @@ na-cards-eh.com
 na-motorsports.com
 na.activation-v2.sls.microsoft.com
 na.activation.sls.microsoft.com
+na.albtls.t.co
 na.monitoring.sls.microsoft.com
 na.msdn.microsoft.com
 na.validation-v2.sls.microsoft.com
@@ -44210,6 +44215,7 @@ sbbgroup.com.my
 sbbjbank.com
 sbbt.com
 sbcandles.com
+sbchill.com
 sbcrochet.com
 sbdanbury.com
 sbearstradingpost.com
@@ -46966,7 +46972,6 @@ social.msdn.microsoft.com
 social.ndtv.com
 social.wakoopa.com
 socialdancers.com
-socialize.eu1.gigya.com
 socializr.com
 sociallife.com.br
 socialsmokehookah.com
@@ -47699,6 +47704,7 @@ speedport.ip
 speedscanfan.com
 speedshooter.com
 speedskating.at
+speedtest.sbcglobal.net
 speedwaremotorsports.com
 speedwaymotors.com
 speedyflower.com
@@ -51593,6 +51599,7 @@ tiktok.com
 tiktokv.com
 tile-service.weather.microsoft.com
 tiles.mapbox.com
+tili.sanoma.fi
 tilonia.com
 timberlineski-bike.com
 timberrattlers.com
