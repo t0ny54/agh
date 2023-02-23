@@ -1,5 +1,4 @@
 *-mobile.events.data.microsoft.com
-*.a.klaviyo.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
 *.adguard-dns.com
@@ -1453,6 +1452,7 @@ accounts.elephantjournal.com
 accounts.facebook.com
 accounts.firefox.com
 accounts.google.com
+accounts.kakao.com
 accu-batt.de
 accu-doc.ch
 accu-shop.nl
@@ -11138,6 +11138,7 @@ cdn-magiclinks.trackonomics.net
 cdn-mobile.api.pluto.tv
 cdn-noc.net
 cdn-origin01.techrepublic.com
+cdn-secuchart.com
 cdn-static-1.medium.com
 cdn-thumb.fds.api.xiaomi.com
 cdn-us-ec.yottaa.net
@@ -14494,6 +14495,7 @@ cullodenantiques.com
 cultura.com
 culturalliving.com
 culturedcowboy.com
+cultureland.co.kr
 cultureshop.org
 culvericearena.com
 cumberlandwoodcraft.com
@@ -20237,6 +20239,7 @@ fide.pl
 fidelity.com
 fidelitybank.com
 fidiaderuta.com
+fido.kt.com
 fidomarket.ua
 fidor.de
 field-galleries.co.uk
@@ -23301,6 +23304,7 @@ go-transsexuell.de
 go.9nl.com
 go.blokada.org
 go.e2language.com
+go.kr
 go.leanplum.com
 go.microsoft.com
 go.nextiva.com
@@ -23802,6 +23806,7 @@ gourock.com
 gov-book.or.jp
 gov.au
 gov.in
+gov.kr
 gov.pl
 gov.tw
 gov.uk
@@ -27639,6 +27644,7 @@ inhisname.com
 inhomefurniture.co.uk
 inhousepharmacy-japan.com
 inicio.link
+inicis.com
 initial-design.com
 initial-impressions.net
 initiallyu2.com
@@ -29735,6 +29741,7 @@ kaufland-apotheke.de
 kaufmans.com
 kauftcomics.de
 kausnack.de
+kauth.kakao.com
 kautionen.aareal-bank.com
 kav.ca
 kaviarjewelry.com
@@ -29946,6 +29953,7 @@ keywestfashions.com
 keywestseafood.com
 kfd.pl
 kfshop.pl
+kftc.or.kr
 kfz-werkstatt-restposten.de
 kgbcameras.co.uk
 kgbusa.com
@@ -31490,6 +31498,7 @@ login.e-taxes.gov.az
 login.facebook.com
 login.groove.microsoft.com
 login.ingbank.pl
+login.kt.com
 login.live.com
 login.microsoftonline.com
 login.microsoftonline.us
@@ -36085,6 +36094,7 @@ nicolematernity.com
 nicoleshoes.com
 nicotinefreecigarettes.com
 nicou.ch
+nid.naver.com
 nidagroup.com
 niebieska.com
 nierle.com
@@ -36257,6 +36267,7 @@ noma.wroc.pl
 nomadrugs.com
 nomismaweb.com
 nomowgrass.com
+nonghyup.com
 nongnit.com
 nongnit.net
 noniweb.jp
@@ -38598,6 +38609,7 @@ pay.megafon.ru
 pay.millikart.az
 pay.mts.ru
 pay.my.com
+pay.naver.com
 pay.platimo.ua
 pay.rambler.ru
 pay.sampo.ru
@@ -38608,6 +38620,7 @@ pay24.co.il
 payanyway.ru
 payb2b.domru.ru
 paycard.beeline.ru
+payco.com
 paydenspharmacy.co.uk
 paydirekt.de
 payeer.com
@@ -40910,6 +40923,7 @@ protocols.microsoft.com
 proton-ny.com
 proton.me
 proton.research.microsoft.com
+protonmail.ch
 protonmail.com
 protonvpn.com
 protravelgear.com
@@ -41916,6 +41930,8 @@ rangsjapan.co.jp
 ranieri.it
 ranok.com.ua
 ransomwaretracker.abuse.ch
+raonsecure.co.kr
+raonsecure.com
 rapanuiclothing.com
 raphotoplaques.com
 rapidgator.net
@@ -43988,6 +44004,7 @@ samsungcloudsolution.com
 samsungcloudsolution.net
 samsungosp.com
 samsungotn.net
+samsungpop.com
 samsungqbe.com
 samsungrm.net
 samtimer.com
@@ -44853,6 +44870,7 @@ secretsoftheorient.com
 secrivalsstore.com
 secsports.com
 section219.com
+secuchart.com
 secure-au.imrworldwide.com
 secure-banking.de
 secure-cert.imrworldwide.com
@@ -51843,6 +51861,8 @@ toroinvestimentos.com.br
 torontorock.com
 torrentfreak.com
 toshibadirect.com
+toss.im
+tossinvest.com
 totallythomas.com
 totalvac.com
 totelemonde.com
