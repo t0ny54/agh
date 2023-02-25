@@ -1,6 +1,7 @@
 *-mobile.events.data.microsoft.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
+*.activity.windows.com
 *.adguard-dns.com
 *.adguard-dns.io
 *.adguard.com
@@ -2210,6 +2211,7 @@ agasajo.com
 agatha.com
 agatha.fr
 agaton.ru
+agave.myanalytics.cdn.office.net
 agb.org.gg
 agbank.az
 agdaphoto.com
@@ -3922,8 +3924,10 @@ aphrodisiacs.com.au
 api*.amazonalexa.com
 api*.intercom.io
 api*.sony.tv
+api*.spot.im
 api-02.moengage.com
 api-05-01-sf2p.facebook.com
+api-cf.affirm.com
 api-game.meizu.com
 api-glb.smoot.apple.com
 api-global.netflix.com
@@ -5904,6 +5908,7 @@ bainbridgebears.com
 baiphil.org
 bairsindiantradingco.com
 baitnwait.com
+baixaki.com.br
 baixing.com
 bajadesigns.com
 bajazzo-karneval.de
@@ -11236,6 +11241,7 @@ cdn.webclicks24.com
 cdn.yams-pro.schibsted.com
 cdn1-images.nutaku.com
 cdn1-images.nutaku.net
+cdn1.affirm.com
 cdn1.digitaltrends.com
 cdn1.hubspot.net
 cdn1.smartadserver.com
@@ -14787,7 +14793,6 @@ d13itkw33a7sus.cloudfront.net
 d16g-cornerstone-bes.integ.amazon.com
 d1a62freaxhn7x.cloudfront.net
 d1afootball.com
-d1bd3wxsyuz0t7.cloudfront.net
 d1k85ogl73rd7b.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
@@ -37473,6 +37478,7 @@ onlytrains.com
 onlywire.com
 onlywood.it
 onmarkint.com
+onmilwaukee.com
 ononki.com
 onpointcu.com
 onshirt.com
