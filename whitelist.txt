@@ -116,10 +116,12 @@
 *.sch.gr
 *.schneevonmorgen.com
 *.schneevonmorgen.com.s3.amazonaws.com
+*.search.microsoft.com
 *.searchnode.io
 *.searchnode.net
 *.services.microsoft.com
 *.seu*.cleverreach.com
+*.share.microsoft.com
 *.share.yandex.ru
 *.sheerid.com
 *.sheerid.net
