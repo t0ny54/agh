@@ -974,7 +974,6 @@ a-x.pl
 a-z-decor.istore.pl
 a-z-onlineshop.de
 a-zdarts.com
-a.apkpure.com
 a.espncdn.com
 a.fsdn.com
 a.gg
@@ -1090,7 +1089,6 @@ a2a.me
 a2armory.com
 a2z-kids.co.uk
 a2z.com
-a2zapk.com
 a2zdeals.com
 a2zdolls.com
 a2zexperiences.com
@@ -3599,7 +3597,6 @@ animalworldnetwork.com
 animatile.com
 animationalley.com
 anime-cel.com
-anime-loads.org
 anime-remix.com
 animebooks.com
 animecircle.com
@@ -27394,7 +27391,6 @@ img.connatix.com
 img.digitaltrends.com
 img.elephantjournal.com
 img.mmtcdn.com
-img.myflixer.to
 img.nvidiagrid.net
 img.onesignal.com
 img.over-blog-kiwi.com
@@ -33324,7 +33320,6 @@ meta.plex.tv
 meta.wikimedia.org
 metabankonline.com.ua
 metaforms.net
-metal-tracker.com
 metalandpinebeds.co.uk
 metaldesignz.com
 metaldetector.cc
@@ -35111,7 +35106,6 @@ myfedloan.org
 myff.com
 myfirstmascot.com
 myfishtank.com
-myflixer.to
 myfloristbc.com
 myflowerboutique.com
 myflowerdepot.com
@@ -43185,7 +43179,6 @@ roguedenim.com
 rohan.co.uk
 rohner-socks.com
 roither.at
-rojadirecta.me
 rokebys.com
 rokfootball.com
 roksport.com
@@ -44572,7 +44565,6 @@ scmsysteminc.com
 scnb.com
 scnbank.com
 scnd.landsend.com
-scnlog.me
 scoins.com
 scollon.com
 scone-pa.clients6.google.com
@@ -51966,10 +51958,8 @@ track24.ru
 trackcmp.net
 trackenterprises.com
 tracker*.scoober.com
-tracker.gg
 tracker.marinsm.com
 tracker.opentrackr.org
-tracker.scenetime.com
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking.dpd.de
