@@ -141,6 +141,7 @@
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
+*.syn-alias.com
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
@@ -12634,6 +12635,7 @@ clippersstore.com
 clipsal500.com.au
 clipstar.com
 cliptomania.com
+cliqz.com
 clk*.tradedoubler.com
 clk.boulanger.com
 clk.tradedoubler.com
@@ -20306,6 +20308,7 @@ filedropper.com
 filefactory.com
 filehorse.com
 filenesbasement.com
+files.1drv.com
 files.alicdn.com
 files.brightcove.com
 files.cloud.orange.fr
@@ -23327,6 +23330,7 @@ go.powunity.com
 go.redirectingat.com
 go.sentry.io
 go.skimresources.com
+go.sonomotors.com
 go.trafficrouter.io
 go.trouter.io
 go.trouter.skype.com
@@ -31399,6 +31403,7 @@ live.simcitybuildit.com
 live800.com
 liveandlearn.com
 liveaquaria.com
+livecounts.org
 livefilestore.com
 livefoods.co.uk
 livefoot.fr
@@ -44803,7 +44808,6 @@ search.windows.microsoft.com
 searchapi.agoda.com
 searchappliance.co.uk
 searchg2.crownpeak.net
-searchlab.eu
 searchles.com
 searchnode.io
 searchnode.net
@@ -47066,6 +47070,7 @@ social.facebook.com
 social.msdn.microsoft.com
 social.ndtv.com
 social.wakoopa.com
+socialblade.com
 socialdancers.com
 socializr.com
 sociallife.com.br
@@ -49911,6 +49916,7 @@ sylvane.com
 sylviaantiques.com
 sympathy-gifts.org
 symsrv.vip.facebook.com
+syn-alias.com
 sync2it.com
 syncone.net
 syndicatebank.com
@@ -51836,6 +51842,7 @@ tofisch.com
 tofukko.r.ribbon.to
 togoto.us
 tohle.de
+tokcount.com
 token.services.mozilla.com
 tollfreeforwarding.com
 tomfolio.com
@@ -54970,7 +54977,6 @@ xzb.cc
 y-coach.com
 y0.cn
 y6p.ru
-yacy.net
 yaegaki-kai.be
 yagiay.com
 yagoa.fr
