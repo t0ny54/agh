@@ -66,6 +66,7 @@
 *.googletagmanager.com
 *.googlevideo.com
 *.images-amazon.com
+*.imgix.datadoghq.com
 *.ims.vodafone.com
 *.info.lgsmartad.com
 *.informer.yandex.ru
@@ -4101,6 +4102,7 @@ app.aave.com
 app.adjust.com
 app.adjust.io
 app.adjust.net.in
+app.adjust.world
 app.alipay.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
@@ -27415,6 +27417,7 @@ imgclothing.com
 imgdone.com
 imghtl.mmtcdn.com
 imghtlak.mmtcdn.com
+imgix.datadoghq.com
 imgix.net
 imgk.timesnownews.com
 imgs.elaine-asp.de
@@ -31955,6 +31958,7 @@ mail.facebook.com
 mail.google.com
 mail.hostmonster.com
 mail.messaging.microsoft.com
+mail.office.hiworks.com
 mail.onedrive.com
 mail.research.microsoft.com
 mail.tsinghua.edu.cn
@@ -54906,7 +54910,6 @@ xeeurl.com
 xero.com
 xflight.xboxlive.com
 xg4ken.com
-xg4ken.com7eer.net
 xgd.in
 xhamster.com
 xianz.com
