@@ -625,6 +625,7 @@
 2modern.com
 2ndchild.com
 2ndlookbooks.com
+2no.co
 2ofheartshoneymoons.com
 2oncrescent.com
 2pcs.jp
@@ -27387,6 +27388,7 @@ imd-japan.com
 imeem.com
 imeipro.info
 imexnet.imexbanka.hr
+img*.target.com
 img-cd.mmtcdn.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
@@ -28012,6 +28014,7 @@ ipinfodb.com
 ipla.tv
 ipleak.net
 iplocationtools.com
+iplogger.org
 ipm-provider.ff.avast.com
 ipnlighting.com
 ipod.techdevils.com
@@ -33765,6 +33768,7 @@ minurl.fr
 minuta.pl
 minutemanroadclub.com
 mipcache.gshifen.com
+mir-s3-cdn-cf.behance.net
 miraclebaseball.com
 miraclechickenurns.com
 miraclemunchkins.com
