@@ -66,6 +66,7 @@
 *.googletagmanager.com
 *.googlevideo.com
 *.images-amazon.com
+*.images.core.optasports.com
 *.imgix.datadoghq.com
 *.ims.vodafone.com
 *.info.lgsmartad.com
@@ -77,6 +78,7 @@
 *.lencr.org
 *.mail.onedrive.com
 *.maxmind.com
+*.mc.cubecdn.net
 *.mcsvc.samsung.com
 *.mdhcdn.com
 *.measurement-lab.org
@@ -12500,6 +12502,7 @@ click-n-order.net
 click.appcast.io
 click.chp.kohls.com
 click.cptrack.de
+click.discord.com
 click.dji.com
 click.e.change.org
 click.e.krogermail.com
@@ -12783,6 +12786,7 @@ cms.facebook.com
 cms.techrepublic.com
 cms.tu.bk.mufg.jp
 cmsasoccer.com
+cmsbetconstruct.com
 cmsspb.ru
 cmt.research.microsoft.com
 cmtypartnertool.partners.extranet.microsoft.com
@@ -14795,6 +14799,7 @@ d.ifengimg.com
 d.skimresources.com
 d.vvv.facebook.com
 d1.com.cn
+d11rmv9we9fli4.cloudfront.net
 d13itkw33a7sus.cloudfront.net
 d16g-cornerstone-bes.integ.amazon.com
 d1a62freaxhn7x.cloudfront.net
@@ -19066,6 +19071,7 @@ eu-central-1.console.aws.amazon.com
 eu-central-1.target.aws.amazon.com
 eu-mobile.events.data.microsoft.com
 eu-office.events.data.microsoft.com
+eu-swarm-newm.betcoswarm.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu-west-1.console.aws.amazon.com
@@ -27339,6 +27345,7 @@ images-of-asia.com
 images-wus.weather.microsoft.com
 images.adrise.tv
 images.cdn.scarabresearch.com
+images.core.optasports.com
 images.dmca.com
 images.dwell.com
 images.financialexpress.com.edgekey.net
@@ -32801,6 +32808,7 @@ mbvt.com
 mbz19n.accounts.clickbank.com
 mc-scatter.com
 mc-tanz.de
+mc.cubecdn.net
 mc.yandex.ru
 mc2intl.com
 mca-marines.org
@@ -53506,6 +53514,7 @@ vtsamples.commondatastorage.googleapis.com
 vuat.answers.microsoft.com
 vuat.expression.microsoft.com
 vuat.onlinehelp.microsoft.com
+vue.comm100.com
 vulcan.condenastdigital.com
 vultr.com
 vupload-edge.facebook.com
@@ -55115,6 +55124,7 @@ z9.fr
 za.zdn.vn
 zaadz.com
 zaba.hr
+zadn.vn
 zaim.com
 zain.m.facebook.com
 zajefajna.com
