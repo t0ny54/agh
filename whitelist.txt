@@ -985,6 +985,7 @@ a.gg
 a.ip-api.com
 a.klaviyo.com
 a.microsoft.com
+a.nel.cloudflare.com
 a.nf
 a.nonstoppartner.net
 a.ns.c10r.facebook.com
@@ -20309,6 +20310,7 @@ filateliablasco.com
 filateliadesimoni.com
 filateliatalavera.com
 filatelistyka.pl
+file*.gofile.io
 file-extensions.org
 file.dingtalk.com
 file.market.xiaomi.com
@@ -41068,6 +41070,7 @@ publix.com
 pubnub.com
 pubshop.com
 pubsignshop.com
+pubssl.itmems4.com
 pubstack.nw18.com
 pubstuffusa.com
 pubsub.googleapis.com
@@ -48192,6 +48195,7 @@ spreewaldbank.de
 spreeware.de
 sprell.no
 spriggles.com
+spring-oreo.itracmediav4.com
 springbak.net
 springcreek-engraving.com
 springdream.com
@@ -49095,6 +49099,7 @@ strawberrynet.com
 strawberrypot.com
 straycats.pages.jp
 streamers.com
+streaming.split.io
 streamplay.to
 streamsb.net
 strechplastics.com
@@ -51985,6 +51990,7 @@ tracker.marinsm.com
 tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
+tracking.bol.com
 tracking.dpd.de
 tracking.epicgames.com
 tracking.i2w.io
@@ -54947,6 +54953,7 @@ xn--allestrungen-9ib.de
 xn--httenberger-bank-jzb.de
 xn--onlinebanking-httenberger-bank-jfd.de
 xoe.cz
+xoom.com
 xp1.gpsonextra.net
 xp1.mobilexpense.com
 xp2.gpsonextra.net
