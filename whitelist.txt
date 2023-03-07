@@ -16708,6 +16708,7 @@ dotnet.microsoft.com
 dotnetkicks.com
 dotpattern.com
 dottychase.com
+dotzbr-dev.mirakl.net
 douban.com
 doubibou.com
 double-knot.co.jp
@@ -31533,6 +31534,7 @@ login.kt.com
 login.live.com
 login.microsoftonline.com
 login.microsoftonline.us
+login.mirakl.net
 login.msa.akadns6.net
 login.optumbank.com
 login.sebbank.ru
@@ -53056,6 +53058,7 @@ videolearning.com
 videoplaza.tv
 videoplus.vo.llnwd.net
 videopress.com
+videoproc.com
 videos-fms.jwpsrv.com
 videos.files.wordpress.com
 videos.kino.de
