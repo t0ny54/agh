@@ -29,6 +29,7 @@
 *.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
+*.cdnhwc1.com
 *.cdninstagram.com
 *.cdx.cedexis.net
 *.ceros.com
@@ -11269,6 +11270,7 @@ cdnapi.kaltura.com
 cdnapisec.kaltura.com
 cdnbakmi.kaltura.com
 cdnbunny.org
+cdnhwc1.com
 cdninstagram.com
 cdnjs.cloudflare.co
 cdnjs.cloudflare.com
@@ -16872,6 +16874,7 @@ dreampens.co.uk
 dreamproductscatalog.com
 dreamsack.com
 dreamscapesgardening.com
+dreamsearch.or.kr
 dreamshares.com
 dreamsnrainbows.com
 dreamsplc.com
@@ -23418,6 +23421,7 @@ going-n-style.com
 gointothedogs.com
 goisco.com
 gojane.com
+gokams.or.kr
 gokartexpress.com
 gokartgalaxy.com
 gokarts1.com
@@ -30948,6 +30952,7 @@ kvgbank.com
 kvinesdalsparebank.no
 kvvet.com
 kxb.me
+kxcdn.com
 kyffhaeusersparkasse.de
 kyivstar.m.facebook.com
 kykyryza.ru
@@ -35897,6 +35902,7 @@ netteknits.com
 netteller.com
 netti.com.au
 nettracing.com
+netu.wiztube.xyz
 netuniform.com
 netvouz.com
 netwear.de
@@ -51977,6 +51983,7 @@ track.dhlparcel.co.uk
 track.effiliation.com
 track.gojek.com
 track.goshippo.com
+track.grove.co
 track.nzz.ch
 track.productsup.io
 track.seadform.net
@@ -53071,6 +53078,7 @@ vidinc.net
 vidio.com
 vidoza.net
 vidtech.cbsinteractive.com
+vidyard.com
 viecokitchen.com
 vietcombank.com.vn
 vietinbank.vn
@@ -55245,6 +55253,7 @@ zoolandia.pl
 zoologiczny.sklep.pl
 zoom.us
 zoombridal.com
+zoominfo.com
 zoomit.ca
 zoommovie.com
 zoomteen.info
