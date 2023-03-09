@@ -1,3 +1,4 @@
+*-boot.tiktokv.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
@@ -4211,6 +4212,7 @@ apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appsdock-sdk-cdn.s3.amazonaws.com
+appsflyer-report.honkaiimpact3.com
 appsitemsuggest-pa.googleapis.com
 appspot-preview.l.google.com
 appspot.com.storage.googleapis.com
