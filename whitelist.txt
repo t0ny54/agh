@@ -44,6 +44,7 @@
 *.data-*.rtl.de
 *.dds.microsoft.com
 *.digicert.com
+*.doppiocdn.com
 *.email*.office.com
 *.email.microsoftemail.com
 *.email.microsoftonline.com
@@ -145,6 +146,7 @@
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
+*.strpst.com
 *.syn-alias.com
 *.teams.live.com
 *.teams.microsoft.com
@@ -13268,6 +13270,7 @@ companyflowers.com
 companyfolders.com
 companyloop.com
 companyonline.ch
+compaq.com
 compareindia.com
 comparelivros.com.br
 compartes.com
@@ -16687,6 +16690,7 @@ doors4pets.com
 doorsdirect.co.uk
 doostang.com
 dopice.sk
+doppiocdn.com
 doppler-config.cbsivideo.com
 doppo.net
 dorba.org
@@ -35834,6 +35838,7 @@ netbank.com
 netbank.de
 netbank.erstebank.hu
 netbank.kdb.hu
+netbank.nordea.dk
 netbank.takarek.hu
 netbank.takarekbank.hu
 netbanking.erstebank.hr
@@ -49158,6 +49163,7 @@ strongmanphil.com
 strongshowjumps.co.uk
 strongsvillehobby.com
 stropdas-mode.nl
+strpst.com
 strumentieservizi.it
 strumhollow.com
 strumpfwaren-boutique-barbara.de
@@ -51029,6 +51035,7 @@ thecabinfeversite.com
 thecabinshop.com
 thecakestore.com
 thecameracentre.net
+thecanadianpharmacy.com
 thecandyshop.com
 thecapecoddog.com
 thecapfactory.co.uk
