@@ -45,6 +45,7 @@
 *.dds.microsoft.com
 *.digicert.com
 *.doppiocdn.com
+*.dvsdvsdvsdva.com
 *.email*.office.com
 *.email.microsoftemail.com
 *.email.microsoftonline.com
@@ -154,6 +155,7 @@
 *.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
+*.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
 *.ultimedia.com
 *.unmineable.com
@@ -3406,6 +3408,8 @@ anadolufinans.com.tr
 anaheimpatio.com
 anakmama.com
 analitik.edevlet.gov.tr
+analysis*.chess.com
+analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
 analytics.twitter.com
 analyticsinsights-pa.googleapis.com
@@ -17177,6 +17181,7 @@ dve.pl
 dvgolfclubs.com
 dvorsons.com
 dvrb.de
+dvsdvsdvsdva.com
 dvshop.ca
 dw-online.ksosoft.com
 dw.cbsi.com
@@ -25286,6 +25291,7 @@ helenblakeyflowers.com
 helensgarden.cl
 helicoptersonly.com
 helikon.bg
+heliohost.org
 helion.pl
 heliproz.com
 helisports.nl
@@ -33932,6 +33938,7 @@ mkn.co.uk
 mkonlinesavings.com
 mkpens.co.uk
 mktoweb.com
+mktp.tmoney.co.kr
 mkwireless.com
 ml-brillant.de
 ml.clients6.google.com
@@ -52192,6 +52199,7 @@ turtlebaytshirts.com
 tusfiles.net
 tusting.co.uk
 tuttoannunci.org
+tuyacn.com
 tv.deezer.com
 tv.media.jio.com
 tv.oneworld.net
