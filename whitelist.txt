@@ -1686,6 +1686,7 @@ adblockdot.eu.dnswarden.com
 adblockdot.us.dnswarden.com
 adc.api.nine.com.au
 adcb.com
+adcell.com
 adcolo.com
 adcr.naver.com
 adcrun.ch
@@ -55031,6 +55032,7 @@ xzb.cc
 y-coach.com
 y0.cn
 y6p.ru
+yads.c.yimg.jp
 yaegaki-kai.be
 yagiay.com
 yagoa.fr
