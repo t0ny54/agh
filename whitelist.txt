@@ -37,6 +37,7 @@
 *.change.org.cdn.cloudflare.net
 *.chatra.io
 *.cloud.axiadids.net
+*.cname.campaign.adobe.com
 *.contabostorage.com
 *.controld.com
 *.custom-domain.publitas.com
@@ -26637,6 +26638,7 @@ i.bps-sberbank.by
 i.cdn.turner.com
 i.click.taobao.com
 i.cmpnet.com
+i.doodcdn.co
 i.ebayimg.com
 i.emb.ru
 i.guancha.cn
@@ -44012,6 +44014,7 @@ salsa-videos.com
 salsabeel.com
 salsaexpress.com
 salsatrading.com
+salt.tikicdn.com
 saltdogs.com
 saltlake2002.com
 saltrock.com
@@ -45010,6 +45013,7 @@ secure.payza.com
 secure.payza.eu
 secure.platononline.com
 secure.prod.facebook.com
+secure.royalbank.com
 secure.sirena-travel.ru
 secure.surveymonkey.com
 secure.tcsbank.ru
