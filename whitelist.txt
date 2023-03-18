@@ -11193,6 +11193,7 @@ cdn.edgesuite.net
 cdn.elev.io
 cdn.embedly.com
 cdn.epg.tvdownload.microsoft.com
+cdn.exponea.com
 cdn.fbsbx.com
 cdn.firebase.com
 cdn.flipboard.com
@@ -33389,6 +33390,7 @@ metok.sys.miui.com
 metricmechanic.com
 metricool.com
 metrics.foxnews.com
+metrics.leaptel.com.au
 metrics.lidl.com
 metrics.plex.tv
 metrics.torproject.org
