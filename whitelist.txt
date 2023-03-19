@@ -109,6 +109,7 @@
 *.pdcdn1.top
 *.performfeeds.com
 *.phonecallapi.micloud.xiaomi.net
+*.postup.com
 *.primevideo.com
 *.pubnub.com
 *.push.apple.com
@@ -1552,6 +1553,7 @@ acrylicawardplaques.com
 acrylicawards.com
 acs-corp.com
 acs-education.com
+acs-m.lazada.sg
 acs-visa.norvik.eu
 acs.bkm.com.tr
 acs.fuib.com
@@ -14834,7 +14836,6 @@ d3football.com
 d3hoops.com
 d3l3lkinz3f56t.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
-d3p8zr0ffa9t17.cloudfront.net
 d3tracking.rbc.com
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
@@ -21417,6 +21418,7 @@ forzatoro.com
 forzieri.com
 fosagold.org
 fossbytes.com
+fosscord.com
 fossil.com
 fossilfly.com
 fossilien-markt.de
@@ -40391,6 +40393,7 @@ postorderboekhandel.nl
 postpack.co.uk
 postshare.co.kr
 postsign.docusign.com
+postup.com
 postwish.com
 posypower.com.au
 potandgrass.co.uk
@@ -51867,6 +51870,7 @@ tmicheal.com
 tmrrfc.qc.ca
 tms.airtelbroadband.in
 tms.api.mashery.com
+tms.nab.com.au
 tmx.bestbuy.com
 tmz.com
 tmz.vo.llnwd.net
