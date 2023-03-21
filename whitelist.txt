@@ -11148,6 +11148,7 @@ cdm.microsoft.com
 cdm24.pl
 cdmsports.com
 cdn-116.anonfiles.com
+cdn-153.anonfiles.com
 cdn-apple.com
 cdn-audio-1.medium.com
 cdn-content.ampproject.org
@@ -27859,6 +27860,7 @@ intermcr.facebook.com
 interminerales.com
 intermountaintraders.com
 intern.facebook.com
+internal-api.snapkit.com
 internal.cloud.remarkable.com
 international-auto.com
 internationalathletic.com
@@ -31579,6 +31581,7 @@ logrocket.com
 logs.datadoghq.com
 logs.heroku.com
 logsink.devices.nest.com
+logz.io
 loki.network
 lollilops.fr
 londonfrontrunners.org
