@@ -116,6 +116,7 @@
 *.pv-cdn.net
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
+*.riotpixels.net
 *.rtl-relay.iocnt.net
 *.safebrowsing.apple
 *.scarf.sh
@@ -333,6 +334,7 @@
 11.drive.google.com
 110220volts.com
 110415.libdd.com
+1115546720.rsc.cdn77.org
 111tampons.com
 1177.se
 118golf.co.uk
@@ -3567,6 +3569,7 @@ angelwraps.com
 angelyatko.com
 angeri.com
 angerina.com
+angi.com
 angiemommas.com
 angiespillows.com
 anglepoise.co.uk
@@ -11195,6 +11198,7 @@ cdn.drive.google.com
 cdn.edgesuite.net
 cdn.elev.io
 cdn.embedly.com
+cdn.engagement.ai
 cdn.epg.tvdownload.microsoft.com
 cdn.exponea.com
 cdn.fbsbx.com
@@ -18644,7 +18648,6 @@ engagement-ring-guide.com
 engei.net
 engelbert-strauss.de
 enginads.com
-engine.phn.doublepimp.com
 engineered.net
 enginetender.com
 english-book-service.de
@@ -19109,6 +19112,7 @@ euk-gmbh.de
 eukasa.pl
 euklides.no
 eulatracking-public-service-*.ol.epicgames.com
+eulatracking-svc-*-pub-*.elb.amazonaws.com
 eulennest.at
 eulenshop.de
 eulenspiegel.de
@@ -19959,6 +19963,7 @@ fast-brake.com
 fast-lad.co.uk
 fast.fonts.net
 fast.wistia.com
+fast.wistia.net
 fastcashpawn.com
 fastcolorapparel.com
 fastener-express.com
@@ -26210,6 +26215,7 @@ hostachoicegardens.com
 hostahosta.com
 hostaparadise.com
 hostapatch.com
+hosteagle.club
 hosted.where2getit.com
 hosting24.com
 hostingbookmarks.com
@@ -43005,6 +43011,7 @@ ringsidecollectibles.com
 ringspezialist.de
 rinovelty.com
 riobody.com
+riotpixels.net
 rip101.com
 ripar.com
 ripb.parsian-bank.ir
@@ -52622,6 +52629,7 @@ usc.rivals.com
 uscho.com
 usdf.org
 use.fontawesome.com
+use.fvr.to
 use.typekit.com
 use.typekit.net
 usefathom.com
