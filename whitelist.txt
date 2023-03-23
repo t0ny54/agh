@@ -835,7 +835,6 @@
 5-uglov.ru
 5.docs.google.com
 5.drive.google.com
-5014.xg4ken.com
 501usa.com
 5055.co.jp
 50wishes.com
@@ -872,7 +871,6 @@
 6-edge-chat.facebook.com
 6.docs.google.com
 6.drive.google.com
-6008.xg4ken.com
 60sfurther.com
 64teams.com
 6688.com
@@ -883,6 +881,7 @@
 6kc.ru
 6ms.biz
 6pm.com
+6sense.com
 6url.com
 7-11.com.tw
 7-secrets.co.uk
@@ -4782,6 +4781,7 @@ artsvariety.com
 artsvisuelsecole.free.fr
 arttiques.com
 arttoget.com
+arttrk.com
 artwearbylaura.com
 artwelling.com
 artwithblooms.com
