@@ -70,6 +70,7 @@
 *.gigya.com
 *.googletagmanager.com
 *.googlevideo.com
+*.gph.easebar.com
 *.images-amazon.com
 *.images.core.optasports.com
 *.imgix.datadoghq.com
@@ -162,6 +163,7 @@
 *.twibbonize.com.cdn.ezoic.net
 *.ultimedia.com
 *.unmineable.com
+*.update.easebar.com
 *.update.intl.miui.com
 *.update.microsoft.com
 *.vercel-dns.com
@@ -3417,6 +3419,7 @@ analitik.edevlet.gov.tr
 analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
+analytics.shopify.com
 analytics.twitter.com
 analyticsinsights-pa.googleapis.com
 analyticssearch-pa.googleapis.com
@@ -14069,6 +14072,7 @@ craghoppers.com
 craigcamera.com
 craigcohoon.co.uk
 crainsmuscleworld.com
+crakmedia.com
 cranberrybarn.com
 cranberrybooks.com
 cranberrywoodworks.com
@@ -23877,6 +23881,7 @@ gozousa.com
 gp.se
 gpacsports.com
 gpbrazil.com
+gph.easebar.com
 gplay.com
 gpm.samsungqbe.com
 gpparsikbank.com
@@ -49618,6 +49623,7 @@ surfwarez.com
 surfwearhawaii.com
 surge.sh
 surja.it
+surl.li
 surl.me
 surlapiste.co.uk
 surlapiste.com
@@ -52481,6 +52487,7 @@ upd.faronicslabs.com
 update.avlyun.sec.miui.com
 update.biv.sony.tv
 update.code.visualstudio.com
+update.easebar.com
 update.facebook.com
 update.intl.miui.com
 update.miui.com
