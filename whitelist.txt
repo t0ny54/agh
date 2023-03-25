@@ -2126,6 +2126,7 @@ aerostich.com
 aerostore.com
 aerotechnic.com
 aerotechproducts.com
+aerztebl-relay.iocnt.net
 aeu.alicdn.com
 af-za.facebook.com
 afa.facebook.com
@@ -3946,6 +3947,7 @@ api*.amazonalexa.com
 api*.intercom.io
 api*.sony.tv
 api*.spot.im
+api-*.store.heytapmobi.com
 api-02.moengage.com
 api-05-01-sf2p.facebook.com
 api-cf.affirm.com
@@ -15108,6 +15110,7 @@ dasspiel.ch
 dassprechendebuch.de
 dastv.co.uk
 daswaniclothiers.com
+data-*.aerzteblatt.de
 data-supplies.com
 data.alexa.com
 data.bilibili.com
@@ -22252,6 +22255,7 @@ galeswholesale.com
 galeton.com
 galhia.eklablog.com
 galileesilks.com
+gall.dcinside.com
 gallacoffee.co.uk
 gallantgifts.com
 gallart.com
@@ -42686,6 +42690,7 @@ relaxetc.com
 relaxetc.stores.yahoo.net
 relaxtheback.com
 relay-client-c03.iocnt.net
+relay-client-c05.iocnt.net
 release.theplatform.com
 releases.flowplayer.org
 reliabank.com
@@ -46950,6 +46955,7 @@ smpiller.com
 smponbank.ru
 smrbathrooms.co.uk
 sms-hm.de
+sms.ads.heytapmobi.com
 sms.facebook.com
 smsmail-04-01-snc1.facebook.com
 smssat.biz
@@ -52959,6 +52965,7 @@ verkkopankki2.danskebank.fi
 vermetal-basket.fr
 versatables.com
 vertamedia.com
+vertbaudet.fr
 vertgame.com
 vestfynsbank.dk
 vestiairedecopines.com
