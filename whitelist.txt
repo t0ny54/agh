@@ -1,4 +1,4 @@
-*-boot.tiktokv.com
+*-boot.tiktok*.com
 *.acdsystems.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
@@ -17411,7 +17411,6 @@ e20.whatsapp.net
 e2725.g.akamaiedge.net
 e3.whatsapp.net
 e3489.cd.akamaiedge.net
-e35058.api3.akamaiedge.net
 e37.eu
 e3843.g.akamaiedge.net
 e4.whatsapp.net
@@ -32909,8 +32908,7 @@ mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 mcquerryorchidbooks.com
 mcrgifts.com
 mcrok.com
-mcs-va.tiktok.com
-mcs-va.tiktok.com.edgekey.net
+mcs-va.tiktok*.com
 mcsbnh.com
 mcsnet.nl
 mcsoywax.com
@@ -34793,6 +34791,7 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
+mssdk-va.tiktok*.com
 mssl.fwmrm.net
 mssl.fwmrm.net.edgesuite.net
 msuc02.manage.microsoft.com
@@ -48380,6 +48379,7 @@ ssl.google-analytics.com
 ssl.gpsonextra.net
 ssl.gs
 ssl.gstatic.com
+ssl.kaptcha.com
 ssl.marfeelcdn.com
 ssl.o.auspost.com.au
 ssl.p.jwpcdn.com
