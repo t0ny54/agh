@@ -14843,6 +14843,7 @@ d2dimports.co.uk
 d2football.com
 d2gatte9o95jao.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
+d3ag4hukkh62yn.cloudfront.net
 d3football.com
 d3hoops.com
 d3l3lkinz3f56t.cloudfront.net
@@ -15799,6 +15800,7 @@ device-provisioning.googleapis.com
 device.auth.xboxlive.com
 device.maxmind.com
 deviceatlas.com
+deviceids-medp.wdr.de
 devicemessaging.us-east-1.amazon.com
 deviceportal.nettvservices.com
 devices.carnivalmobile.com
@@ -23280,6 +23282,7 @@ globilo.de
 globoesporte.com
 globoesporte.globo.com
 glodokshop.com
+glomex.cloud
 glooks.com
 gloparty.com
 gloria24.pl
@@ -52122,6 +52125,7 @@ treasurific.com
 treasurydirect.gov
 treeclassics.com
 trekcafe.com
+trello.com
 trends.facebook.com
 trendytummymaternity.com
 trezor.io
