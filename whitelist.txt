@@ -98,6 +98,7 @@
 *.msdp1.com
 *.msf.3g.qq.com
 *.msftconnecttest.com
+*.netline.com
 *.nextdns.io
 *.nexus.officeapps.live.com
 *.nexusrules.live.com
@@ -1801,6 +1802,7 @@ adriandurban.com
 adriano-leite-ribeiro.com
 adrianstatebank.com
 adrienarpel.com
+ads-a-darwin.hulu.com
 ads-a-darwin.hulustream.com.akamaized.net
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
@@ -35917,6 +35919,7 @@ nethooks.com
 netique.com
 netkidswear.com
 netleih.de
+netline.com
 netlog.com
 netmarket.com
 netmeeting.microsoft.com
