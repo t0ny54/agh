@@ -95,6 +95,7 @@
 *.metric.gstatic.com
 *.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
+*.mkklcdnv6tempv4.com
 *.msdp1.com
 *.msf.3g.qq.com
 *.msftconnecttest.com
@@ -153,6 +154,7 @@
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
+*.storage.googleapis.com
 *.strpst.com
 *.syn-alias.com
 *.teams.live.com
@@ -31630,6 +31632,7 @@ losc-lille.fr
 losc.com
 losc.fr
 losctv.fr
+lostmediaarchive.fandom.com
 lotusproductions.com
 lotustalk.com
 louisianasportnets.com
@@ -33968,6 +33971,7 @@ mkbnetbankar.hu
 mkcables.com
 mkicountry.com
 mkk.hu
+mkklcdnv6tempv4.com
 mkn.co.uk
 mkonlinesavings.com
 mkpens.co.uk
