@@ -1576,6 +1576,7 @@ acsissling.com
 act-optics.com
 act.channel.facebook.com
 act.facebook.com
+act.vip.iqiyi.com
 act2.mediafour.com
 actcorp.m.facebook.com
 acticall.m.facebook.com
@@ -4152,7 +4153,6 @@ app.migc.xiaomi.com
 app.onetrust.com
 app.plex.tv
 app.qq.com
-app.sentry.io
 app.sephora.com
 app.traderepublic.com
 app2.salesmanago.pl
@@ -12009,6 +12009,7 @@ chiradesigns.com
 chiropharma.com
 chitosan.de
 chiwawagaga.com
+chkaja.com
 chobi-glass.com
 chocizza.com
 chockcatalog.com
@@ -16472,7 +16473,6 @@ docs.bugsnag.com
 docs.datadoghq.com
 docs.google.com
 docs.microsoft.com-c.edgekey.net
-docs.sentry.io
 docs0.google.com
 docs1.google.com
 docs3.google.com
@@ -21415,7 +21415,6 @@ forum.developers.facebook.com
 forum.dobreprogramy.pl
 forum.doom9.org
 forum.paradoxplaza.com
-forum.sentry.io
 forum.synology.com
 forum.xda-developers.com
 forumancientcoins.com
@@ -22793,7 +22792,6 @@ get.bg
 get.contentpass.net
 get.geojs.io
 get.revolut.com
-get.sentry.io
 get.skype.com
 get3.adobe.com
 getagift.net
@@ -23384,7 +23382,6 @@ go.onelink.me
 go.pardot.com
 go.powunity.com
 go.redirectingat.com
-go.sentry.io
 go.skimresources.com
 go.sonomotors.com
 go.trafficrouter.io
@@ -31175,6 +31172,8 @@ lcdprojectoronline.com
 lcl.com
 lcl.fr
 lcprd*.samsungcloudsolution.net
+lcstg1.samsungcloudsolution.net
+lcstg2.samsungcloudsolution.net
 lcut.in
 lddy.no
 ldlc.com
@@ -37616,7 +37615,6 @@ opelbank.de
 open.fm
 open.oneplus.net
 open.ru
-open.sentry.io
 open.spotify.com
 openapi.samsung.com
 openbank.es
@@ -41362,6 +41360,7 @@ qiveut.com
 qiviut.com
 qiwi.com
 qiwi.ru
+qiyukf.com
 qj.com
 qksrv.net
 qleap.co.uk
@@ -45981,6 +45980,7 @@ shoppingspecials.com.au
 shoppingthai.com
 shoppingtownmall.com
 shoppingtrips.de
+shoppy.gg
 shoppyfrance.com
 shoprainbowgifts.com
 shoprico.com
@@ -46029,6 +46029,7 @@ shoredog.com
 shorelinesurf.com
 shorl.com
 shorrtener.herokuapp.com
+short-video.kakamobi.cn
 short.cc
 short.gy
 short.ie
@@ -47522,7 +47523,6 @@ sp-wing.co.jp
 sp.auth.adobe.com
 sp.facebook.com
 sp0.baidu.com
-sp1.baidu.com
 sp2.baidu.com
 sp2.ro
 spa-solution.com
@@ -50707,6 +50707,8 @@ telnote.com
 telsell.com
 telwis.pl
 tema-usa.com
+temp-lcs.samsungcloudsolution.net
+temp2-config.samsungcloudsolution.net
 tempatshopping.com
 temperatureguard.com
 templechecks.com
@@ -52791,6 +52793,7 @@ vars.hotjar.com
 varsity.com
 varsitysport.net
 vasaivikasbank.com
+vaserviece.10jqka.com.cn
 vaza.me
 vb-abi.de
 vb-alzey-worms.de
