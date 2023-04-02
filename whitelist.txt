@@ -107,6 +107,7 @@
 *.nexusrules.officeapps.live.com
 *.ntp-fireos.com
 *.o9.de
+*.onesignal.com
 *.osi.office.net
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
@@ -16999,6 +17000,7 @@ drop.ndtv.com.edgekey.net
 dropacar.com
 dropbox.com
 dropbox.comdl.dropbox.com
+dropmail.me
 dropsweb.com
 dropzonearmynavy.com
 drostes.com
@@ -22826,6 +22828,7 @@ getlogin.rosbank.ru
 getlostgear.com
 getmgetm.com
 getmobile.de
+getmonero.org
 getnutri.com
 getofficial.com
 getoggz.com
@@ -54235,6 +54238,7 @@ ws9.hotjar.com
 wsfsbank.com
 wsgreyhound.co.uk
 wsj.com
+wsj.net
 wssa.org
 wssf.com
 wsusa.org
