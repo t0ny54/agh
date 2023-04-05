@@ -44,6 +44,7 @@
 *.custom-domain.publitas.com
 *.damoh.*.de
 *.data-*.rtl.de
+*.data.microsoft.com.akadns.net
 *.dds.microsoft.com
 *.digicert.com
 *.doppiocdn.com
@@ -57,6 +58,7 @@
 *.engage.xbox.com
 *.entrust.net
 *.etrality.com
+*.events*.data.microsoft.com
 *.exacttarget.com.edgekey.net
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
@@ -114,6 +116,7 @@
 *.pdcdn1.top
 *.performfeeds.com
 *.phonecallapi.micloud.xiaomi.net
+*.pipe.aria.microsoft.com
 *.postup.com
 *.primevideo.com
 *.pubnub.com
@@ -176,6 +179,8 @@
 *.video-api.arcpublishing.com
 *.videoland.com
 *.videorolls.row.aiv-cdn.net
+*.vortex*.data.microsoft.com
+*.vortex.data.trafficmanager.net
 *.wdtinc.com
 *.widget.cloud.opta.net
 *.wsj.net
@@ -185,6 +190,7 @@
 *.zopim.com
 *api.*.microsoft.com
 *api.facebook.com
+*events*.trafficmanager.net
 *graph-fallback.facebook.com
 *graph-fallback.instagram.com
 *graph-video.facebook.com
@@ -196,12 +202,6 @@
 *spotify-com.akamaized.net
 *star.*.facebook.com
 *telemetry.*oraclecloud.com
-*v10-win.vortex.data.microsoft.com.akadns.net
-*v10-win.vortex.data.trafficmanager.net
-*v10.events.data.microsoft.com
-*v10.vortex-win.data.microsoft.com
-*v20.events.data.microsoft.com
-*v20.vortex-win.data.microsoft.com
 -rotation.de
 -sso.anbtr.com
 -traffic.com
@@ -1646,9 +1646,11 @@ acupuncturedirect.co.uk
 acustomjeweler.com
 ad-cycle.com
 ad-elektro.cz
+ad-im-cmg.streamguys1.com
 ad-magazin.de
 ad-mats.com
 ad-med.cz
+ad-oom-cmg.streamguys1.com
 ad-shield.io
 ad.atdmt.com
 ad.dep.no
@@ -1761,6 +1763,7 @@ adirondackyarns.com
 adiu.amap.com
 adj.st
 adjix.com
+adl.windows.com
 adlabel.net
 adlatus.net
 adlermode.com
@@ -1807,7 +1810,7 @@ adriandurban.com
 adriano-leite-ribeiro.com
 adrianstatebank.com
 adrienarpel.com
-ads-a-darwin.hulu.com
+ads-*-darwin.hulu.com
 ads-a-darwin.hulustream.com.akamaized.net
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
@@ -9530,7 +9533,6 @@ brownsfashion.com
 brownsflowershop.com
 browntrout.com
 browser.events.data.microsoft.com
-browser.events.data.trafficmanager.net
 browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
@@ -18087,6 +18089,7 @@ edoprints.com
 edressme.com
 eds.xboxlive.com
 edsmithflowers.com
+edu.wsj.com
 educoncepts.com
 edv-bookshop.de
 edv-buchversand.de
@@ -19117,8 +19120,6 @@ eu-auto-discount.de
 eu-car.de
 eu-central-1.console.aws.amazon.com
 eu-central-1.target.aws.amazon.com
-eu-mobile.events.data.microsoft.com
-eu-office.events.data.microsoft.com
 eu-swarm-newm.betcoswarm.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
@@ -19126,8 +19127,6 @@ eu-west-1.console.aws.amazon.com
 eu-west-1.target.aws.amazon.com
 eu-west-2.target.aws.amazon.com
 eu-west-3.target.aws.amazon.com
-eu.aria.events.data.trafficmanager.net
-eu.events.data.trafficmanager.net
 eu.vortex-win.data.microsoft.com
 eubecos.de
 eucalypta.com
@@ -22800,6 +22799,7 @@ get.adobe.com
 get.bg
 get.contentpass.net
 get.geojs.io
+get.mndbdy.ly
 get.revolut.com
 get.skype.com
 get3.adobe.com
@@ -27073,7 +27073,6 @@ ic.united.ru
 ic.venets-bank.ru
 ic.vitabank.spb.ru
 ic.zhilcredit.ru
-ic3.events.data.microsoft.com
 icabanken.se
 icallabroad.com
 icanhaz.com
@@ -28048,6 +28047,7 @@ invitationsweddingbarmitzvah.com
 invitesgalore.com
 invitesite.com
 invitingsmiles.com
+invol.co
 inx.lv
 inyour-slb-01-05-ash3.facebook.com
 inyour.facebook.com
@@ -34093,7 +34093,6 @@ mobile.beta.facebook.com
 mobile.directory.google.com
 mobile.drive.google.com
 mobile.events.data.microsoft.com
-mobile.events.data.trafficmanager.net
 mobile.exlook.microsoft.com
 mobile.facebook.com
 mobile.itsmy.com
@@ -36992,10 +36991,8 @@ offerbox.com
 offertematerassi.it
 offi.com
 office-bloom.com
-office-events-data.trafficmanager.net
 office-works.biz
 office.com
-office.events.data.microsoft.com
 office.net
 office1.bg
 office2010.microsoft.com
@@ -45096,6 +45093,7 @@ secure.techrepublic.com
 secure.trunkstable.facebook.com
 secure.ucs.su
 secure.upc.ua
+secure.wayforpay.com
 secure.ya.no
 secure.yakindogubank.com
 secure.zpets.com
@@ -45188,7 +45186,6 @@ selectrosescanada.com
 selectseeds.com
 selene.pl
 selenium-release.storage.googleapis.com
-self-events-data.trafficmanager.net
 self.events.data.microsoft.com
 selfbank.es
 selfexpressions.com
@@ -50584,8 +50581,6 @@ teamgonads.com
 teamkiwiracing.co.nz
 teamlollipop.co.uk
 teamontop.com
-teams-events-data.trafficmanager.net
-teams.events.data.microsoft.com
 teamsantafe.org
 teamspiritcheer.com
 teamsportswear.co.uk
@@ -52113,6 +52108,7 @@ tracking.narvar.com
 tracking.post.japanpost.jp
 tracking.publicidees.com
 tracking.s24.com
+tracking.tldrnewsletter.com
 tracking.truthfinder.com
 trackingshipment.apple.com
 trade.paritem.com
@@ -52765,7 +52761,6 @@ v10-win.vortex.data.microsoft.com.akadns.net
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v10c.events.data.microsoft.com
-v20-asimov-win.vortex.data.trafficmanager.net
 v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v3.cache1.c.docs.google.com
