@@ -127,6 +127,8 @@
 *.riotpixels.net
 *.rtl-relay.iocnt.net
 *.safebrowsing.apple
+*.samsungapps.com
+*.samsungapps.com.wtxcdn.com
 *.scarf.sh
 *.scdn.co
 *.sch.gr
@@ -14852,6 +14854,7 @@ d1a62freaxhn7x.cloudfront.net
 d1afootball.com
 d1k85ogl73rd7b.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
+d25xi40x97liuc.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
 d2c87l0yth4zbw.cloudfront.net
@@ -27694,6 +27697,7 @@ infinityj.com
 inflammable.com
 inflateachair.com
 info-msk.rusfinance.ru
+info.ammex.com
 info.baikalinvestbank.ru
 info.baustatik.uni-due.de
 info.com
@@ -36871,6 +36875,7 @@ obermeyersflorist.com
 oberondesign.com
 obido.pl
 objectif-bastille.com
+objective-see.org
 objectsofenvy.com
 obook.ru
 oboom.com
@@ -44141,6 +44146,8 @@ samssteins.com
 samstagsales.com
 samstores.com
 samsung.com
+samsungapps.com
+samsungapps.com.wtxcdn.com
 samsungcloud.tv
 samsungcloudsolution.com
 samsungcloudsolution.net
@@ -49081,6 +49088,7 @@ storagea2z.com
 storagebeds.com
 storaskor.se
 storate.googleapis.com
+store*.gofile.io
 store-galore.co.uk
 store-images.microsoft.com
 store-images.s-microsoft.com
