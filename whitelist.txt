@@ -28,6 +28,8 @@
 *.bonialconnect.com
 *.buymeacoffee.com
 *.cas.ms
+*.cbox.im
+*.cbox.ws
 *.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
@@ -49,6 +51,7 @@
 *.digicert.com
 *.doppiocdn.com
 *.dvsdvsdvsdva.com
+*.eaglecdn.com
 *.email*.office.com
 *.email.microsoftemail.com
 *.email.microsoftonline.com
@@ -110,6 +113,7 @@
 *.ntp-fireos.com
 *.o9.de
 *.onesignal.com
+*.opensignal.com
 *.osi.office.net
 *.passport.yandex.ru
 *.pdc.micloud.xiaomi.net
@@ -11085,6 +11089,7 @@ cbnm.com
 cbo-oman.org
 cboktulsa.com
 cbomc.com
+cbox.im
 cbox.ws
 cbperformance.com
 cbportal.commerzbank.com
@@ -17455,6 +17460,7 @@ eagle-emporium.com
 eagleactivewear.com
 eaglearchery.com
 eaglebankmn.com
+eaglecdn.com
 eaglechassis.com
 eagleleather.com
 eaglemountainproducts.com
@@ -37665,6 +37671,7 @@ opengolf.com
 openit.be
 openjdk.org
 openload.co
+opensignal.com
 opensourceprojects-pa.googleapis.com
 openstuff.net
 opensubtitles.org
@@ -45172,6 +45179,7 @@ segment.com
 segment.ru
 segmentedturning.com
 segue.se
+segura-moto.fr
 seguridadplus.com
 seibidou.com
 seibikougei.jp
