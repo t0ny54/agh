@@ -17,6 +17,7 @@
 *.api.brightcove.com
 *.api.intuit.com
 *.api.iris.microsoft.com
+*.api.miwifi.com
 *.app.link
 *.apps.apple.com
 *.arc.epoq.de
@@ -4042,6 +4043,7 @@ api.mapbox.com
 api.media.jio.com
 api.medium.com
 api.micloud.xiaomi.net
+api.miwifi.com
 api.monitor.azure.com
 api.myteamspeak.com
 api.narrativ.com
@@ -13534,6 +13536,7 @@ content-storage-download.googleapis.com
 content-storage.googleapis.com
 content.aimatch.com
 content.cptrack.de
+content.ctfs.com
 content.ibanking-services.com
 content.incapsula.com
 content.jwplatform.com
@@ -31356,6 +31359,7 @@ libertysavings.com
 libertyvillebank.com
 library.microsoft.com
 librarything.com
+librefutboltv.com
 lic-cdn.apps.microsoft.com
 lic.apps.microsoft.com
 licdn.com
@@ -47228,6 +47232,8 @@ sockenshop.ch
 sockenwolle-hoh.de
 sockenwolle-und-mehr.de
 sockgenie.com
+sockjs-eu.pusher.com
+sockjs.pusher.com
 socklocker.com
 sockpro.com
 socksfox.com
@@ -51796,7 +51802,7 @@ thriftpuzzle.facebook.com
 throwblanket.com
 thsbank.com
 thumb.highdeliveryscdn.com
-thumbs-015.externulls.com
+thumbs*.externulls.com
 thumbs.videopress.com
 thumbs2.imgbox.com
 thundervalleyraceway.com
@@ -52104,6 +52110,7 @@ track.nzz.ch
 track.productsup.io
 track.seadform.net
 track.shoparize.com
+track.spe.schoolmessenger.com
 track.ucas.com
 track.webgains.com
 track.yw56.com.cn
