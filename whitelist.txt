@@ -107,6 +107,7 @@
 *.msftconnecttest.com
 *.netline.com
 *.nextdns.io
+*.nexus.ensighten.com
 *.nexus.officeapps.live.com
 *.nexusrules.live.com
 *.nexusrules.live.com.akadns.net
@@ -968,6 +969,7 @@
 9monthsandmore.co.uk
 9rules.com
 9to5google.com
+a*.d*.akamai.net
 a-1beerprints.com
 a-1net.com
 a-1uniform.com
@@ -18660,6 +18662,7 @@ encinoll.com
 encoretickets.com
 encre-hermane.fr
 encre.com
+encrypted*.gstatic.com
 encrypted-tbn0.gstatic.com
 endlesscreations-laser.com
 endlesspurseabilities.com
@@ -31428,6 +31431,7 @@ link-e-doodle.com
 link.adtidy.org
 link.brightcove.com
 link.cc
+link.dana.id
 link.digitaladvisor.dk
 link.epicgames.com
 link.freshmail.mx
@@ -31653,6 +31657,7 @@ logotime.com
 logrocket.com
 logs.datadoghq.com
 logs.heroku.com
+logs.juspay.in
 logsink.devices.nest.com
 logz.io
 loki.network
@@ -38169,6 +38174,7 @@ p0.ipstatp.com
 p04e.t.en25.com
 p1-bodyculture.de
 p1000.co.il
+p11.techlab-cdn.com
 p2d.co.uk
 p2p.alfabank.ua
 p2p.mdm.ru
@@ -52117,7 +52123,9 @@ track.yw56.com.cn
 track24.ru
 trackcmp.net
 trackenterprises.com
+tracker*.namitiyu.com
 tracker*.scoober.com
+tracker.dominos.com
 tracker.marinsm.com
 tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
