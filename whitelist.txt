@@ -25,6 +25,7 @@
 *.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.aylanetworks.com
+*.beaute-test.com
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -205,6 +206,7 @@
 *graph.facebook.com
 *graph.fbpigeon.com
 *graph.instagram.com
+*mssdk*.tiktokv.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
 *spotify-com.akamaized.net
@@ -7040,6 +7042,7 @@ beaujolweb.com
 beaukflorist.com
 beaumonts.co.nz
 beaute-et-sante.com
+beaute-test.com
 beautiesltd.com
 beautiful-bouquets.com
 beautiful-view-iris.com
@@ -18785,6 +18788,7 @@ epetpals.com
 epetsuppliesdirect.com.au
 epg.corio.com
 epg.tvdownload.microsoft.com
+ephemeralcounters.api.roblox.com
 ephemeranet.com
 ephemerarts.com
 ephotoclub.com
@@ -52125,6 +52129,7 @@ trackcmp.net
 trackenterprises.com
 tracker*.namitiyu.com
 tracker*.scoober.com
+tracker-g.aiscore.com
 tracker.dominos.com
 tracker.marinsm.com
 tracker.opentrackr.org
