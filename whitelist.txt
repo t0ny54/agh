@@ -4052,6 +4052,7 @@ api.monitor.azure.com
 api.myteamspeak.com
 api.narrativ.com
 api.netatmo.net
+api.nextgen.guardianapps.co.uk
 api.nfl.com
 api.noda.live
 api.office.microsoft.com
