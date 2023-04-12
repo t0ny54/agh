@@ -79,6 +79,7 @@
 *.googletagmanager.com
 *.googlevideo.com
 *.gph.easebar.com
+*.gs-loc.apple.com
 *.images-amazon.com
 *.images.core.optasports.com
 *.imgix.datadoghq.com
@@ -206,7 +207,6 @@
 *graph.facebook.com
 *graph.fbpigeon.com
 *graph.instagram.com
-*mssdk*.tiktokv.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
 *spotify-com.akamaized.net
@@ -12021,6 +12021,7 @@ chinesetapes.com
 chinmi-sunahara.com
 chinois-cinq.com
 chip.com.tr
+chip.de
 chipmancoins.com
 chipmark.com
 chipperjones.com
@@ -13511,6 +13512,7 @@ consumables.co.nz
 consumabulbs.com
 consumating.com
 consumersbank.com
+contaboserver.net
 contabostorage.com
 contact-eye.com
 contact-uk.com
@@ -16458,6 +16460,7 @@ dms.metlife.ru
 dmzdesigns.com
 dn.se
 dnaboards.com
+dnainfotel.com
 dnaproductsonline.com
 dnb.no.edgekey.net
 dnhour.com
@@ -23518,6 +23521,7 @@ goldengatecoins.com
 goldengirldesigns.com
 goldengrail.com
 goldenharvestcandles.com
+goldenline.pl
 goldenmine.com
 goldenpaints.com
 goldenpay.az
@@ -25770,6 +25774,7 @@ hittat.se
 hittingacademy.com
 hittingvideo.com
 hivemodern.com
+hivesocial.app
 hiwheel.com
 hjartdalbanken.no
 hjelmeland-sparebank.no
@@ -33171,6 +33176,7 @@ mediserv.info
 meditationgeneration.com
 medium.com
 medium.freecodecamp.org
+medium.ngtv.io
 medizinshop.de
 medpex.de
 medprice.fr
@@ -39451,6 +39457,7 @@ phoenixprec.com
 phoenixsavings.com
 phoenixtent.com
 phone.facebook.com
+phonearena.com
 phonecallapi.micloud.xiaomi.net
 phonecards.se
 phonecardspin.com
@@ -52220,6 +52227,7 @@ triathlondebelfort.fr
 triathlonvalleedeslacs.com
 trib.al
 tribe.net
+tribel.com
 trick.ly
 tricountybank.com
 trifuel.com
@@ -52279,6 +52287,7 @@ trustedid.com
 trustedshops.com
 trustmark.com
 trustpilot.com
+truthsocial.com
 try.abtasty.com
 tryrugby.co.uk
 tryspeedskating.com
@@ -52319,6 +52328,7 @@ turkishbankers.org
 turkishbanks.com
 turkiye.gov.tr
 turkiyefinans.com.tr
+turnip.cdn.turner.com
 turo.us
 turtlebaytshirts.com
 tusfiles.net
