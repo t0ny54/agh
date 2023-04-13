@@ -54,6 +54,7 @@
 *.doppiocdn.com
 *.dvsdvsdvsdva.com
 *.eaglecdn.com
+*.edge.experimentation.intuit.com
 *.email*.office.com
 *.email.microsoftemail.com
 *.email.microsoftonline.com
@@ -18045,6 +18046,7 @@ edge-turnservice-shv-01-lht6.facebook.com
 edge-weighted.api.brightcove.com
 edge-z-p3-shv-01-arn2.facebook.com
 edge.api.brightcove.com
+edge.experimentation.intuit.com
 edge.quantserve.com
 edge.yunjiasu.com
 edgeme.sh
@@ -45223,6 +45225,7 @@ selectrosescanada.com
 selectseeds.com
 selene.pl
 selenium-release.storage.googleapis.com
+selezen.net
 self.events.data.microsoft.com
 selfbank.es
 selfexpressions.com
