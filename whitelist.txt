@@ -4253,6 +4253,7 @@ apps.cybonline.co.uk
 apps.facebook.com
 apps.microsoft.com
 apps.skype.com
+apps.skypeassets.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appsdock-sdk-cdn.s3.amazonaws.com
@@ -21601,6 +21602,8 @@ fp.msedge.net
 fp.tongdun.net
 fp1-kaw.ds.microsoft.com
 fp1-tk2-upl.ds.microsoft.com
+fp2e7a.wpc.2be4.phicdn.net
+fp2e7a.wpc.phicdn.net
 fpdownload.adobe.com
 fpdownload.macromedia.com
 fpn.firefox.com
