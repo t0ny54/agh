@@ -41,6 +41,8 @@
 *.ceros.com
 *.change.org.cdn.cloudflare.net
 *.chatra.io
+*.clarity.dexcom.com
+*.clarity.dexcom.com.cdn.cloudflare.net
 *.cloud.axiadids.net
 *.cname.campaign.adobe.com
 *.contabostorage.com
@@ -69,6 +71,7 @@
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
 *.fbcdn.net
+*.find.api.micloud.xiaomi.net
 *.forms.office.com
 *.fundingchoicesmessages.google.com
 *.gateway.devices.a2z.com
@@ -490,6 +493,7 @@
 1ofakindbuys.com
 1ofakindstuff.com
 1on1.net
+1p.edge2.salesforce.com
 1partysuppliesandfavors.com
 1password.ca
 1password.com
@@ -3444,6 +3448,7 @@ analitik.edevlet.gov.tr
 analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
+analytics.icis.com
 analytics.shopify.com
 analytics.twitter.com
 analyticsinsights-pa.googleapis.com
@@ -11262,6 +11267,7 @@ cdn.pcbeta.attachment.inimc.com
 cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
 cdn.perfdrive.com
+cdn.petametrics.com
 cdn.playready.microsoft.com
 cdn.plyr.io
 cdn.polyfill.io
@@ -19408,6 +19414,7 @@ exclusivelythomas.com
 exclusivelyweddings.com
 execstyle.com
 execute.be
+execution-ci360.flypgs.com
 executive-champagne.com
 executive-shaving.co.uk
 executiveawards.com
@@ -35434,6 +35441,7 @@ n-events.net
 n-flora.com
 n-ice.de
 n-ion.com
+n.edge2.salesforce.com
 n.facebook.com
 n26.com
 n2itstore.com
@@ -53229,6 +53237,7 @@ videopress.com
 videoproc.com
 videos-fms.jwpsrv.com
 videos.files.wordpress.com
+videos.filmstarts.de
 videos.kino.de
 videos.porndig.com
 videos.videopress.com
