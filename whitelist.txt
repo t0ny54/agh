@@ -18,6 +18,7 @@
 *.api.intuit.com
 *.api.iris.microsoft.com
 *.api.miwifi.com
+*.app.asana.com
 *.app.link
 *.apps.apple.com
 *.arc.epoq.de
@@ -84,6 +85,7 @@
 *.googlevideo.com
 *.gph.easebar.com
 *.gs-loc.apple.com
+*.ilan.gov.tr
 *.images-amazon.com
 *.images.core.optasports.com
 *.imgix.datadoghq.com
@@ -372,6 +374,7 @@
 123dj.com
 123erugs.com
 123frame.net
+123freeavatars.com
 123inkjets.com
 123language.com
 123meuble.com
@@ -4076,6 +4079,7 @@ api.revenuecat.com.herokudns.com
 api.rlje.net
 api.rollbar.com
 api.safedk.com
+api.salesforce.com
 api.samsungcloud.com
 api.sbs.com.au
 api.sec.miui.com
@@ -10110,11 +10114,11 @@ c0.wp.com
 c00.adobe.com
 c1.ch1.adcenterapi.microsoft.com
 c1.microsoft.com
+c2*.piano.io
 c2-migration.car.jp.chan.kaw.cb3.glbdns.microsoft.com
 c2-migration.career.jp.chan.kaw.cb3.glbdns.microsoft.com
 c2-migration.sports.jp.chan.kaw.cb3.glbdns.microsoft.com
 c2.ch1.adcenterapi.microsoft.com
-c2.piano.io
 c28.com
 c2c-fe.amazon.com
 c2r.microsoft.com
@@ -12400,6 +12404,7 @@ claremontclothing.com
 claremontsavings.com
 clarendonhillsbank.com
 clarins.com.cn
+clarity.dexcom.com
 clarkcraft.co.uk
 clarkeanddawe.com
 clarks-shop-koblenz.de
@@ -24416,6 +24421,7 @@ guernseystamps.com
 guertelschnallen.com
 gugu.es
 guiama.is
+guide-acs.m.taobao.com
 guidemassage.com
 guidon.com
 guifx.com
@@ -27381,6 +27387,7 @@ il2l.com
 ilab-lila.com
 ilabs.microsoft.com
 ilala.co.za
+ilan.gov.tr
 ilanlar.net
 ilbank.gov.tr
 ilbaseball.com
@@ -29305,6 +29312,7 @@ js-cd.mmtcdn.com
 js-sec.indexww.com
 js-technology.com
 js.captcha-display.com
+js.duhnet.tv
 js.gleam.io
 js.hsforms.net
 js.indexww.com
@@ -53071,6 +53079,7 @@ vereinigte-sparkassen.de
 vereinigtevolksbankeg.de
 vereinte-volksbank.de
 verify.facebook.com
+verify.salesforce.com
 verisign.com
 verisign.net
 verkkopalkka.maventa.fi
@@ -53725,6 +53734,7 @@ vystarcu.org
 w-saarplus.de
 w.apprep.smartscreen.microsoft.com
 w.facebook.com
+w1.buysub.com
 w1.web.whatsapp.com
 w1p.fr
 w2.web.whatsapp.com
