@@ -4164,6 +4164,7 @@ app.adjust.io
 app.adjust.net.in
 app.adjust.world
 app.alipay.com
+app.asana.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 app.convertkit.com
@@ -27531,6 +27532,7 @@ img.brightcove.com
 img.connatix.com
 img.digitaltrends.com
 img.elephantjournal.com
+img.ihreapotheken.de
 img.mmtcdn.com
 img.nvidiagrid.net
 img.onesignal.com
@@ -48382,6 +48384,7 @@ spruceup.com
 spunkstar.com
 spurlocksflowers.com
 spursreport.com
+sputniknews.com
 spybase.com
 spyderco.com
 spydersports.com
@@ -54230,6 +54233,7 @@ woome.com
 woophy.com
 wooppay.com
 wooribank.com
+wootility.io
 worcestertornadoes.com
 word-power.co.uk
 wordpress.com
