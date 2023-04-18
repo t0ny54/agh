@@ -18520,7 +18520,8 @@ elvvs.dk
 ely.re
 em-brand-whips.com
 emagictricks.co.uk
-email-clk.adguard.com
+email-*.adguard.com
+email-*.adtidy.*
 email-link.adtidy.org
 email-tracking.infobip.com
 email.appsumo.com
@@ -37760,6 +37761,7 @@ optikashop.ru
 optikerteam.de
 optikshop24.de
 optima24.kg
+optimal-spine.com
 optimizationguide-pa.googleapis.com
 optimizely.com
 optimumbank.com
@@ -54601,6 +54603,7 @@ www.free.facebook.com
 www.ftp.chocolatey.org
 www.futuresite.register.com
 www.gadgetsnow.com
+www.gaia.com
 www.gcm-preprod.googleapis.com
 www.gcm-xmpp.googleapis.com
 www.gdcsite.cdnsrv.jio.com
