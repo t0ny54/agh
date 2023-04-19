@@ -1014,6 +1014,7 @@ a-x.pl
 a-z-decor.istore.pl
 a-z-onlineshop.de
 a-zdarts.com
+a.delivery.consentmanager.net
 a.espncdn.com
 a.fsdn.com
 a.gg
@@ -1671,6 +1672,7 @@ ad-mats.com
 ad-med.cz
 ad-oom-cmg.streamguys1.com
 ad-shield.io
+ad.admitad.com
 ad.atdmt.com
 ad.dep.no
 ad.doubleclick.net
@@ -29293,6 +29295,7 @@ jpxtbip01.one.microsoft.com
 jq.qq.com
 jqlp.com
 jquery.com
+jqueryscript.net
 jqw.de
 jr-commercique.fr
 jr-dragster.com
