@@ -23,6 +23,7 @@
 *.apps.apple.com
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
+*.attraqt.com
 *.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.aylanetworks.com
@@ -496,7 +497,6 @@
 1ofakindbuys.com
 1ofakindstuff.com
 1on1.net
-1p.edge2.salesforce.com
 1partysuppliesandfavors.com
 1password.ca
 1password.com
@@ -1032,7 +1032,6 @@ a.ooyala.com
 a.run.app
 a.s.monaco.free.fr
 a.slashdotmedia.com
-a.top4top.net
 a.trellocdn.com
 a.uguu.se
 a0.fr
@@ -1719,6 +1718,7 @@ adblock.mahakala.is
 adblockdot.asia.dnswarden.com
 adblockdot.eu.dnswarden.com
 adblockdot.us.dnswarden.com
+adblockplus.org
 adc.api.nine.com.au
 adcb.com
 adcell.com
@@ -2465,13 +2465,12 @@ aka.ms
 akachan-station.com
 akademapro.com
 akademika.no
-akadns.net
 akaisilks.com
 akakce.com
 akam.no
 akamai-images-content.com
+akamai-san24.exacttarget.com.edgekey.net
 akamai.net
-akamaiedge.net
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -2581,7 +2580,6 @@ albapatch.com
 albaris.it
 albasaccessories.com
 albashop.com.tr
-albert.apple.com
 albert.nl
 albertabicycle.ab.ca
 albertavolleyball.com
@@ -3764,7 +3762,6 @@ answerdesk.support.microsoft.com
 answers.com
 answers.microsoft.com
 answers.unity.com
-answers.yahoo.com
 antangoshoes.com
 antares-gioielli.it
 antdesignstore.com
@@ -3947,7 +3944,6 @@ ap.ebs.bankofchina.com
 ap.facebook.com
 ap.org
 ap.orgdict.leo.org
-ap.spotify.com
 apachetents.com
 apairofshades.com
 apalanche.com
@@ -4081,9 +4077,9 @@ api.revenuecat.com.herokudns.com
 api.rlje.net
 api.rollbar.com
 api.safedk.com
-api.salesforce.com
 api.samsungcloud.com
 api.sbs.com.au
+api.sbz.vn
 api.sec.miui.com
 api.sibboventures.mgr.consensu.org
 api.simplisafe.com
@@ -4208,7 +4204,6 @@ appinfo.microsoft.com
 applab-sdk.amazon.com
 applam.com
 applauseformalwear.com
-appldnld.apple.com
 apple-dns.net
 apple.com
 apple.facebook.com
@@ -4263,9 +4258,7 @@ apps.bittorrent.com
 apps.crashlytics.com
 apps.cybonline.co.uk
 apps.facebook.com
-apps.microsoft.com
 apps.skype.com
-apps.skypeassets.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appsdock-sdk-cdn.s3.amazonaws.com
@@ -5158,6 +5151,7 @@ attica.fr
 atticus.pl
 attitudearcade.com
 attitudetees.com
+attraqt.com
 attribution.google.com
 atu.ca
 atv-24.de
@@ -5585,8 +5579,6 @@ aws.amazon.com
 awstrack.me
 awswireless.com
 awxcdn.com
-ax.init.itunes.apple.com
-ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 axa.be
 axelair.com
@@ -8034,23 +8026,7 @@ binbank.ru
 bind.facebook.com
 binderbooks.com
 bindishop.com
-bing.at
-bing.ch
-bing.co.uk
 bing.com
-bing.com.br
-bing.cz
-bing.es
-bing.fi
-bing.fr
-bing.gr
-bing.hu
-bing.ie
-bing.it
-bing.no
-bing.pl
-bing.ru
-bing.se
 binghamcyclery.com
 binghamtonsenators.com
 binglee.com.au
@@ -8417,7 +8393,6 @@ bloggingzoom.com
 blogmarks.net
 blogoscoped.com
 blogroll.livedoor.net
-blogs.discovermagazine.com
 blogs.techrepublic.com
 blogsearch.google.com
 blogspot.com
@@ -9881,7 +9856,6 @@ bushmans-oil.ch
 busiboutique.com
 business-supply.com
 business.faktura.ru
-business.officedepot.com.edgekey.net
 businessbump.co.uk
 businesscards.com
 businesschairs.com
@@ -10111,7 +10085,6 @@ c.orange.fr
 c.s-microsoft.com
 c.trello.com
 c.youdao.com
-c.youtube.com
 c0.ifengimg.com
 c0.wp.com
 c00.adobe.com
@@ -11656,7 +11629,6 @@ channel-proxy-shv-13-prn1.facebook.com
 channel-proxy-test-shv-07-ash2.facebook.com
 channel-staging-ecmp-05-ash3.facebook.com
 channel-testing-ecmp-05-ash3.facebook.com
-channel.facebook.com
 channel03.facebook.com
 channel14.facebook.com
 channel18.facebook.com
@@ -11760,9 +11732,7 @@ chasseur.co.uk
 chassisshop.com
 chassoprix.com
 chat.cdn.whatsapp.net
-chat.facebook.com
 chateau-de-fleurs.com
-chatenabled.mail.google.com
 chaters.co.uk
 chatra.io
 chatswoodshopping.com.au
@@ -12775,7 +12745,6 @@ clothingwarehouse.com
 clothpeddler.com
 clothworks.com
 cloud-news.ionos.com
-cloud.google.com
 cloudconfig.clients6.google.com
 cloudconfig.googleapis.com
 cloudconsole-pa.clients6.google.com
@@ -12783,7 +12752,6 @@ cloudcuckooland.biz
 clouddebugger.clients6.google.com
 cloudflare.com
 cloudflareworkers.com
-cloudfront.net
 cloudmail17.netcore.co.in
 cloudmountainfarm.com
 cloudninehi.com
@@ -13447,7 +13415,6 @@ confetti.co.uk
 confettibay.com
 confettibooks4kids.com
 confettipelino.com
-confib.ifmo.ru
 config-vvs.glomex.com
 config.ioam.de
 config.outturner.com
@@ -13540,7 +13507,6 @@ contactlens.com.au
 contactlensavers.co.uk
 contactlensesusa.com
 contactlenssource.com
-contacts.msn.com
 contactscount.com
 container.googleapis.com
 containerstore.com
@@ -13564,7 +13530,6 @@ content.ctfs.com
 content.ibanking-services.com
 content.incapsula.com
 content.jwplatform.com
-content.logmein.com
 content.swrve.com
 contentpop.com
 contest-timer.com
@@ -14303,8 +14268,6 @@ criticalpaintball.com
 crittercouch.com
 crittergear.com
 critterwearscrubs.com
-crl.microsoft.com
-crl.verisign.net
 crl3.digicert.com
 crloo.com
 crmc.co.uk
@@ -14685,7 +14648,6 @@ customemblems.com
 customenvelopes.com
 customer.io
 customer.lichousing.com
-customerevents.netflix.com
 customflix.com
 customfountains.com
 customgiftsolutions.com
@@ -14873,12 +14835,12 @@ d-diamond.com
 d-photo.biz
 d-structure.com
 d-vineflowers.com.au
-d.dropbox.com
 d.facebook.com
 d.ifengimg.com
 d.skimresources.com
 d.vvv.facebook.com
 d1.com.cn
+d10lpsik1i8c69.cloudfront.net
 d11rmv9we9fli4.cloudfront.net
 d13itkw33a7sus.cloudfront.net
 d16g-cornerstone-bes.integ.amazon.com
@@ -14886,22 +14848,31 @@ d1a62freaxhn7x.cloudfront.net
 d1afootball.com
 d1k85ogl73rd7b.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
+d1zgderxoe1a.cloudfront.net
+d231vab146qzfb.cloudfront.net
 d25xi40x97liuc.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
-d2c87l0yth4zbw.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2cttawv9fdszz.cloudfront.net
 d2dimports.co.uk
 d2football.com
 d2gatte9o95jao.cloudfront.net
+d2na2p72vtqyok.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
+d31qbv1cthcecs.cloudfront.net
+d35u1vg1q28b3w.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 d3football.com
 d3hoops.com
 d3l3lkinz3f56t.cloudfront.net
 d3orhvfyxudxxq.cloudfront.net
+d3tglifpd8whs6.cloudfront.net
 d3tracking.rbc.com
+d3tsytm1wtjqo2.cloudfront.net
+d5nxst8fruw4z.cloudfront.net
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
 da-dk.facebook.com
@@ -15170,7 +15141,9 @@ data.alexa.com
 data.bilibili.com
 data.choice.microsoft.com
 data.cnn.com
+data.g2crowd.com
 data.iana.org
+data.microsoft.com.akadns.net
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
@@ -15825,7 +15798,6 @@ dev-multiscreen.samsung.com
 dev.applicationinsights.microsoft.com
 dev.facebook.com
 dev.ppe.applicationinsights.microsoft.com
-dev.twitter.com
 dev.virtualearth.net
 dev.vvv.facebook.com
 dev01.ship.support.microsoft.com
@@ -15836,8 +15808,6 @@ devansforkeepsakes.com
 devbnkphl.com
 developer.android.com
 developer.facebook.com
-developer.twitter.com
-developers.facebook.com
 developers.google.com
 developers.medium.com
 developers.prod.facebook.com
@@ -16309,7 +16279,6 @@ discsox.com
 discsunlimited.net
 discusmadness.com
 discuss.microsoft.com
-discussions.apple.com
 discussions.connect.microsoft.com
 disguised.nl
 dishnchips.com
@@ -16433,12 +16402,10 @@ dkl.jp
 dkm.de
 dkmags.com
 dknits.com
-dl-client.dropbox.com
 dl-debug.dropbox.com
 dl-protect.info
 dl-protect.net.com
 dl-ssl.l.google.com
-dl-web.dropbox.com
 dl.360safe.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
@@ -16453,7 +16420,6 @@ dlawlesshardware.com
 dlazdrowia.abc24.pl
 dlb.homepage.dk
 dlbmodigital.microsoft.com
-dlc-shim.trafficmanager.net
 dldir1.qq.com
 dlied6.qq.com
 dlp3zj68t5lvh.cloudfront.net
@@ -16787,7 +16753,6 @@ dorsey.ch
 doshop.net
 dosmanos.com
 dotcosmeticos.com.br
-dotnet.microsoft.com
 dotnetkicks.com
 dotpattern.com
 dottychase.com
@@ -16869,7 +16834,6 @@ dozensofgames.com
 dp-enterprises.com
 dp-gw-*.amazon.com
 dp.dc1.philips.com
-dp.msnmessenger.akadns.com
 dpbolvw.net
 dpcauto.com
 dpcues.com
@@ -17041,7 +17005,6 @@ droomboeket.nl
 drop.ndtv.com.edgekey.net
 dropacar.com
 dropbox.com
-dropbox.comdl.dropbox.com
 dropmail.me
 dropsweb.com
 dropzonearmynavy.com
@@ -17604,7 +17567,6 @@ easyishop.co.uk
 easylighting.co.uk
 easylist-downloads.adblockplus.org
 easylist.club
-easylist.to
 easymade.com
 easypay.axisbank.co.in
 easypay.ua
@@ -17689,8 +17651,6 @@ ebay.nl
 ebay.ph
 ebay.pl
 ebayclassifieds.com
-ebayimg.com
-ebayrtm.com
 ebaystatic.com
 ebd.cda.pl
 ebeadshop.com
@@ -17739,7 +17699,6 @@ echecsvariables.over-blog.com
 echelonsantabarbara.org
 echigoism.com
 echl.com
-echo.edge.messenger.live.com
 echo.facebook.com
 echolot.ru
 echoshop.be
@@ -17809,7 +17768,6 @@ ecuacolor.com
 ecuagenera.com
 ecultureshock.com
 ecumparaturi.ro
-ecx.images-amazon.com
 ecyclingstore.com
 eczapki.pl
 ed-modellbau.de
@@ -18555,7 +18513,6 @@ embed.dugout.com
 embed.flowplayer.org
 embed.ly
 embed.scribblelive.com
-embed.spotify.com
 embed.tagboard.com
 embed.tagboard.com.herokudns.com
 embed.typeform.com
@@ -20454,7 +20411,6 @@ finallap.net
 finallythebride.com
 finalshot.com
 finance.luxweb.com
-finance.yahoo.com
 financialexpress.com
 finansbank.com.tr
 finansonline.com
@@ -21464,7 +21420,6 @@ forum.developers.facebook.com
 forum.dobreprogramy.pl
 forum.doom9.org
 forum.paradoxplaza.com
-forum.synology.com
 forum.xda-developers.com
 forumancientcoins.com
 forums.appleinsider.com
@@ -23391,8 +23346,6 @@ gm.mmstat.com
 gm99.com
 gmail-pop.l.google.com
 gmail-smtp.l.google.com
-gmail.com
-gmail.google.com
 gmarket.co.kr
 gmieux.com
 gmolfoot.com
@@ -23810,7 +23763,6 @@ googlemail-smtp.l.google.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-googleusercontent.com
 googlevideo.com
 gooo.to
 gooruze.com
@@ -24344,7 +24296,6 @@ grv.microsoft.com
 gryphonsmoon.com
 gryplanszowe.pl
 gs-home.jp
-gs.apple.com
 gs.statcounter.com
 gsacsports.org
 gsb.or.th
@@ -24357,7 +24308,6 @@ gseshop.jp
 gsgold.com
 gslamps.com
 gslb-2.demdex.net
-gslb.spotify.com
 gsm-tools.de
 gsm.no
 gsm3000.com
@@ -26747,7 +26697,6 @@ i.cdn.turner.com
 i.click.taobao.com
 i.cmpnet.com
 i.doodcdn.co
-i.ebayimg.com
 i.emb.ru
 i.guancha.cn
 i.gyazo.com
@@ -26780,7 +26729,6 @@ i.skimresources.com
 i.taatta.net
 i.tcb.ru
 i.technet.microsoft.com
-i.vgy.me
 i.vtb.ru
 i.webapps.microsoft.com
 i.wfcdn.de
@@ -26801,17 +26749,12 @@ i2.connect.microsoft.com
 i2.msdn.microsoft.com
 i2.services.social.microsoft.com
 i2.services.social.microsoft.com.nsatc.net
-i2.wp.com
-i2.ytimg.com
 i3.connect.microsoft.com
 i3.services.social.microsoft.com
 i3.services.social.microsoft.com.nsatc.net
-i3.wp.com
-i3.ytimg.com
 i4.connect.microsoft.com
 i4.services.social.microsoft.com
 i4.services.social.microsoft.com.nsatc.net
-i4.ytimg.com
 i9.ytimg.com
 i99.cz
 ia.imdb.com
@@ -27464,12 +27407,9 @@ imagemakersart.com
 imagerylab.com
 imageryproducts.com
 images-amazon.com
-images-cn.ssl-images-amazon.com
 images-ea.weather.microsoft.com
 images-eu.ssl-images-amazon.com
 images-eus.weather.microsoft.com
-images-fe.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 images-neu.weather.microsoft.com
 images-of-asia.com
 images-wus.weather.microsoft.com
@@ -27479,7 +27419,7 @@ images.core.optasports.com
 images.dmca.com
 images.dwell.com
 images.financialexpress.com.edgekey.net
-images.google.com
+images.g2crowd.com
 images.gounlimited.to
 images.netdirector.co.uk
 images.nvidiagrid.net
@@ -28191,7 +28131,6 @@ iqpooltables.com
 iqtoys.co.nz
 iqtoys.com.au
 iqvc.com
-ir.ebaystatic.com
 iranbooks.com
 iranianmovies.com
 iranibook.com
@@ -31269,10 +31208,9 @@ le-jardin-de-catherine.com
 le10sport.com
 leaguelineup.com
 leakix.net
-learn-public.trafficmanager.net
 learn.cisecurity.org
 learn.elephantjournal.com
-learn.microsoft.com
+learn.g2crowd.com
 learningadmin.microsoft.com
 learningbeta.microsoft.com
 learningcenter.partners.extranet.microsoft.com
@@ -31377,12 +31315,8 @@ lg.home.microsoft.com
 lgbbank.com
 lgn.ru
 lh2.google.com
-lh3.google.com
 lh3.googleusercontent.com
-lh4.google.com
 lh4.googleusercontent.com
-lh5.google.com
-lh6.google.com
 lh6.googleusercontent.com
 lhsasoccer.org
 lhv.ee
@@ -31436,7 +31370,6 @@ liftoff.io
 lifutsal.com
 ligabank.de
 light.facebook.com
-light.ifmo.ru
 lightboxinc.com
 lightgod.com
 lightingwithacoastaltheme.com
@@ -31552,7 +31485,6 @@ live-trace.bilibili.com
 live.adyen.com
 live.com
 live.github.com
-live.net
 live.simcitybuildit.com
 live800.com
 liveandlearn.com
@@ -31684,8 +31616,6 @@ logincdn.msauth.net
 loginfra.com
 logisyscomputer.com
 logjamelectronics.com
-logmein-gateway.com
-logmein.com
 logo.clearbit.com
 logobuilder.mspartner.microsoft.com
 logosoftwear.com
@@ -31893,7 +31823,6 @@ m.techrepublic.com
 m.uczzd.cn
 m.w.ms
 m.weeklyad.target.com
-m.youtube.com
 m1.com
 m1.daumcdn.net
 m1.fwmrm.net
@@ -32110,7 +32039,6 @@ mail-settings.google.com
 mail-sin1.microsoft.com
 mail-sin2.microsoft.com
 mail.facebook.com
-mail.google.com
 mail.hostmonster.com
 mail.messaging.microsoft.com
 mail.office.hiworks.com
@@ -32390,7 +32318,6 @@ maps.geoapify.com
 maps.google.co.in
 maps.google.com
 maps.googleapis.com
-maps.gstatic.com
 maps.microsoft.com
 maps.windows.com
 mapsandprints.com
@@ -32537,6 +32464,7 @@ market.yandex.ru
 marketantique.com
 marketclan.com
 marketender.de
+marketing.tr.netsalesmedia.pl
 marketingplatform.google.com
 marketo.com
 marketplaceindia.org
@@ -33086,6 +33014,7 @@ media-frt3-2.cdn.whatsapp.net
 media-frx5-1.cdn.whatsapp.net
 media-iad3-1.cdn.whatsapp.net
 media-imdb.com
+media-lab.ai
 media-lax3-1.cdn.whatsapp.net
 media-lax3-2.cdn.whatsapp.net
 media-lga3-1.cdn.whatsapp.net
@@ -33465,10 +33394,6 @@ messaging.internetofthings.ibmcloud.com
 messaging.office.microsoft.com
 messaging.schibsted.io
 messenger.com
-messenger.hotmail.com
-messenger.live.com
-messenger.msn.com
-messenger.yahoo.com
 messengerpeople.com
 messer-zentrum.de
 messerdepot.de
@@ -34585,6 +34510,7 @@ mosegaardens.dk
 moselleonmontana.com
 moser-online.ru
 moserengineering.com
+moshimo.com
 moskb.ru
 mosmobiles.m.facebook.com
 mosquitohammock.com
@@ -34706,7 +34632,6 @@ movieposters.com
 moviepostersdirect.com
 moviepostershop.com
 movies.ndtv.com
-movies.netflix.com
 moviesandgamesonline.co.uk
 moviezoo.dk
 movil21.com
@@ -34845,11 +34770,9 @@ msftncsi.com
 msftopenus.partners.extranet.microsoft.com
 msfwifi.3g.qq.com
 msg.douyu.com
-msg.edit.yahoo.com
 msg.ettoday.net
 msg.facebook.com
 msg.video.qiyi.com
-msg.yahoo.com
 msg2.client.xunlei.com
 msgfocus.com
 msgin-regional-shv-01-rprn0.facebook.com
@@ -35455,7 +35378,6 @@ n-events.net
 n-flora.com
 n-ice.de
 n-ion.com
-n.edge2.salesforce.com
 n.facebook.com
 n26.com
 n2itstore.com
@@ -35832,7 +35754,6 @@ ncbankers.org
 ncbaseball.com
 ncbcayman.com
 nccc.com.tw
-nccp.netflix.com
 ncfurniturestores.com
 nchu.org
 ncjetski.co.uk
@@ -36201,6 +36122,7 @@ nexus.live.com
 nexus.passport.com
 nexusamerica.com
 nexusflorist.com
+nexusrules.live.com.akadns.net
 nexusrules.officeapps.live.com
 nexxia.co.uk
 nfbc.us
@@ -36214,9 +36136,6 @@ nfldraftblitz.com
 nfldraftscout.com
 nflquest.com
 nflshop.com
-nflxext.com
-nflximg.com
-nflximg.net
 nfr-rodeo.com
 ngart.com.au
 ngcgolf.com
@@ -36990,10 +36909,8 @@ ocsp.rootg2.amazontrust.com
 ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
 ocsp.ssl.com
-ocsp.thawte.com
 ocsp.usertrust.com
 ocsp.verisign.com
-ocsp.verisign.net
 octafx.com
 octaviajewelry.com
 octavo.com
@@ -38198,7 +38115,6 @@ p.d.0fmm.com
 p.d.0mme.com
 p.d.1enm.com
 p.d.rpts.org
-p.ebaystatic.com
 p.email.microsoft.com
 p.facebook.com
 p.imgci.com
@@ -39474,7 +39390,6 @@ phishingquiz.withgoogle.com
 phishybusiness.com
 phlare.com
 phncdn.com
-phobos.apple.com
 phoebefloral.com
 phoenix-model.com
 phoenixartsupply.com
@@ -39611,7 +39526,6 @@ pib.uobthailand.com
 pibank.autopays.ru
 pic.gd
 pic.imgdb.cn
-pic.twitter.com
 picassoamerica.com
 picassomio.com
 piccadillycentre.com.au
@@ -39893,7 +39807,6 @@ pkw.pl
 pkwanhaenger.de
 pl-go.kelkoogroup.net
 pl-interiors.co.uk
-pl-pl.facebook.com
 pl.gravatar.com
 pl8source.com
 pla-dio.com
@@ -40001,7 +39914,6 @@ platform.facebook.com
 platform.instagram.com
 platform.linkedin.com
 platform.sharethis.com
-platform.twitter.com
 platformbeds.com
 platformtennis.org
 platinum-jewelry.tv
@@ -40031,8 +39943,6 @@ play.com
 play.google.com
 play.googleapis.com
 play.lego.com
-play.spotify.com
-play.spotify.edgekey.net
 play1.flashx.pw
 play2.flashx.pw
 play3.flashx.pw
@@ -41211,7 +41121,6 @@ pubcenter.microsoft.com
 pubeco.fr
 pubinyour.facebook.com
 publi.fr
-public-api.wordpress.com
 public-family.api.account.microsoft.com
 public.popcorn-tracker.org
 publicsuffix.org
@@ -43621,7 +43530,6 @@ rsgeerbooks.com
 rsgym.tripod.com
 rshb.ru
 rshop.ne.jp
-rsi.hotmail.com
 rsmonkey.com
 rsportal.kbca.ru
 rsprod.tag.microsoft.com
@@ -43970,7 +43878,6 @@ s5.symcb.com
 s50.device.marketingcloudapis.com
 s7y.us
 s88570519.t.en25.com
-sa-blacklist.stearns.org
 sa-east-1.console.aws.amazon.com
 sa-east-1.target.aws.amazon.com
 sa.bbc.co.uk
@@ -44983,7 +44890,6 @@ search-ppe.microsoft.com
 search.msdn.microsoft.com
 search.officeupdate.microsoft.com
 search.support.microsoft.com
-search.twitter.com
 search.video.iqiyi.com
 search.windows.microsoft.com
 searchapi.agoda.com
@@ -45135,7 +45041,6 @@ secure.latest.facebook.com
 secure.lcl.fr
 secure.livechatinc.com
 secure.lloydsbank.co.uk
-secure.logmein.com
 secure.meetup.com
 secure.netflix.com
 secure.ogone.com
@@ -45167,7 +45072,6 @@ secure5.arcot.com
 secureacceptance.cybersource.com
 secureclock2.playready.microsoft.com
 secureinternetbank.com
-secureir.ebaystatic.com
 securel.longtailvideo.com
 securepay.simplepay.hu
 securepay.tcsbank.ru
@@ -47331,8 +47235,6 @@ softrugs.com
 softsculpturedolls.com
 softsurroundings.com
 softtech.m.facebook.com
-software.download.prss.microsoft.com
-software.download.prss.trafficmanager.net
 softworld.es
 sog.co.nz
 soga.co.uk
@@ -47633,7 +47535,6 @@ spacare.com
 space-centre.co.uk
 space.com
 spaceflightnow.com
-spaces.live.com
 spacesavers.com
 spaceshirts.com
 spacetoys.com
@@ -47655,8 +47556,6 @@ spanjewijn.nl
 spanjewinkel.nl
 spankysparts.com
 spanndecken-shop.de
-spapps.co
-spapps.spotify.edgekey.net
 sparda-a.de
 sparda-b.de
 sparda-bank-hamburg.de
@@ -48408,7 +48307,6 @@ sq6.ru
 sqbath.shoppingcartsplus.com
 sqdance123.com
 sqimg.qq.com
-sqm.microsoft.com
 sqmtest.microsoft.com
 sqrl.it
 sqs.us-east-1.amazonaws.com
@@ -48486,7 +48384,6 @@ sskpw.de
 ssl-02-01-snc1.facebook.com
 ssl-google-analytics.l.google.com
 ssl-i.plug.it
-ssl-images-amazon.com
 ssl.ajax.googleapis.com
 ssl.bblck.me
 ssl.biglion.ru
@@ -48501,7 +48398,6 @@ ssl.kaptcha.com
 ssl.marfeelcdn.com
 ssl.o.auspost.com.au
 ssl.p.jwpcdn.com
-ssl.reddit.com
 ssl.vrbanknet.de
 ssl1.marfeelcdn.com
 ssl1.marfeelrev.com
@@ -48671,7 +48567,6 @@ staples.co.uk
 star-books.com
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
-star.facebook.com
 star500.com
 starantique.com
 starbags.info
@@ -48790,7 +48685,6 @@ static.addtoany.com
 static.adguard.com
 static.adtidy.org
 static.ak.connect.facebook.com
-static.ak.facebook.com
 static.appsumo.com
 static.cdn.responsys.net
 static.cloud.coveo.com
@@ -49145,7 +49039,6 @@ storage.cloud.google.com
 storage.googleapis.com
 storage.live.com
 storage.mds.yandex.net
-storage.msn.com
 storagea2z.com
 storagebeds.com
 storaskor.se
@@ -49377,6 +49270,7 @@ sturgeonriver.com
 sturly.com
 sturtevants.com
 stuttgarter-volksbank.de
+stvkr.com
 stylease.com
 stylebug.com
 stylecaster.com
@@ -50348,12 +50242,9 @@ tali.de
 talismanbilliards.com
 talismane.de
 talismania.ch
-talk.google.com
-talk.l.google.com
 talkbiznow.com
 talkbusiness.net
 talkfortots.com
-talkgadget.google.com
 talkgadget.l.google.com
 talkingbottleopener.net
 talkingmachines.com
@@ -50361,9 +50252,7 @@ talkingpinatas.com
 talkingpresents.com
 talkingtables.dk
 talkingtops.com
-talks.l.google.com
 talkworldonline.co.uk
-talkx.l.google.com
 tallcouture.com
 tallershoes.com
 tallgirls.co.uk
@@ -50858,7 +50747,6 @@ teplovoda.ru
 teppich-direkt.de
 ter.nl
 terbrugge.com
-teredo.ipv6.microsoft.com
 terencanada.com
 teresseleccion.com
 terigalleries.com
@@ -52144,6 +52032,7 @@ traccar.org
 tracemyip.org
 traceurl.com
 track.adform.net
+track.adtraction.com
 track.aliexpress.com
 track.aliexpress.com.gds.alibabadns.com
 track.aliexpress.ru
@@ -52197,7 +52086,6 @@ traffic.megaphone.fm
 trafficmanager.net
 trafficrouter.io
 trailblazerar.com
-trailers.apple.com
 trailfire.com
 trailrunner.com
 trailrunnermag.com
@@ -52394,7 +52282,6 @@ twi.im
 twibbonize.com
 twikeo.com
 twimg.com
-twimg0-a.akamaihd.net
 twinkleontheweb.co.uk
 twinriverbank.com
 twinsisters.com
@@ -52612,7 +52499,6 @@ uob.sc.omtrdc.net
 uobgroup.com
 uol.com.br
 uongjowo.gravatar.com
-up.top4top.net
 upa.org
 upalmit.com
 upay.megafon.ru
@@ -52645,11 +52531,9 @@ upload.cc
 upload.clients.google.com
 upload.docs.google.com
 upload.drive.google.com
-upload.facebook.com
 upload.google.com
 upload.maps.glbdns.microsoft.com
 upload.photos.google.com
-upload.twitter.com
 upload.video.google.com
 uploaded.net
 uploaded.to
@@ -52784,7 +52668,6 @@ userlocation.googleapis.com
 userreport.com
 userscloud.com
 userscripts-mirror.org
-userstream.twitter.com
 uset.org
 usewha.org
 usfca.org
@@ -52833,7 +52716,6 @@ v.pinimg.com
 v.shoosh.co
 v.smtcdns.net
 v.whatsapp.net
-v0.wordpress.com
 v10-win.vortex.data.microsoft.com.akadns.net
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
@@ -53044,7 +52926,6 @@ vbvisbek.de
 vbwildeshauser-geest.de
 vbwinsenermarsch.de
 vbwolgast.de
-vc.yahoo.com
 vcdiscounter.com
 vchat-stg.support.microsoft.com
 vchat1.microsoft.com
@@ -53087,7 +52968,6 @@ vereinigte-sparkassen.de
 vereinigtevolksbankeg.de
 vereinte-volksbank.de
 verify.facebook.com
-verify.salesforce.com
 verisign.com
 verisign.net
 verkkopalkka.maventa.fi
@@ -53106,7 +52986,6 @@ vfpso.com
 vg.dl.ws.microsoft.com
 vg.no.cdn.cloudflare.net
 vgn.me
-vgy.me
 vh001.beta.msllab.microsoft.com
 vh001.beta.pbt.microsoft.com
 vh001.msllab.microsoft.com
@@ -53237,7 +53116,6 @@ video-fa.scdn.co
 video-ll-sf2p.facebook.com
 video-stats.l.google.com
 video-thumbnails.l.google.com
-video.google.com
 video.l.google.com
 video.metaservices.microsoft.com
 video.xxxjmp.com
@@ -53253,7 +53131,6 @@ videoplus.vo.llnwd.net
 videopress.com
 videoproc.com
 videos-fms.jwpsrv.com
-videos.files.wordpress.com
 videos.filmstarts.de
 videos.kino.de
 videos.porndig.com
@@ -53725,8 +53602,6 @@ vultr.com
 vupload-edge.facebook.com
 vupload-sf2p.facebook.com
 vupload.facebook.com
-vupload2.facebook.com
-vupload2.t.facebook.com
 vupload2.vvv.facebook.com
 vur.me
 vv.ipstatp.com
@@ -53917,11 +53792,11 @@ webball.com
 webbanking.bgl.lu
 webbankir.com
 webbiographies.com
-webcam.yahoo.com
 webclicks24.com
 webcut.net
 webebank.ebb-bg.com
 webedia.fr
+webep1.com
 weberbank.de
 webersports.com
 webevents.microsoft.com
@@ -54081,7 +53956,6 @@ widget.gleamjs.io
 widget.intercom.io
 widget.pushbullet.com
 widget.uservoice.com
-widgets.dlvr.it
 widgets.opinary.com
 widgets.twimg.com
 widiba.it
@@ -54349,7 +54223,6 @@ wssa.org
 wssf.com
 wsusa.org
 wswsa.org
-wt.logmein.com
 wtc.la
 wtkr.com
 wu-ori.microsoft.com
@@ -55041,7 +54914,6 @@ www.zooqle.com
 www1.buyoffice.microsoft.com
 www1.microsoft.com
 www1.royalbank.com
-www12.0zz0.com
 www17.wixdns.net
 www2.asiajam.com
 www2.buyoffice.microsoft.com
@@ -55058,7 +54930,6 @@ www4.handelsbanken.fi
 www5c.facebook.com
 www7.buyoffice.microsoft.com
 www7.downloadoffice2010.microsoft.com
-www8.0zz0.com
 wwwbaytest01.microsoft.com
 wwwbaytest02.microsoft.com
 wwwbaytest03.microsoft.com
@@ -55290,7 +55161,6 @@ yt-video-upload.l.google.com
 yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
-ytimg.l.google.com
 ytstatic.l.google.com
 yu.ac.kr
 yuantabank.com.tw
@@ -55303,7 +55173,6 @@ yweb.com
 yximgs.com
 yyv.co
 z-1.c10r.facebook.com
-z-ecx.images-amazon.com
 z-m-a-api.facebook.com
 z-m-b-api.facebook.com
 z-m-rupload.facebook.com
