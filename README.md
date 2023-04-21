@@ -49,6 +49,7 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
 * ### Configure Yourself for Custom DNS Server.
   * #### DNS-over-HTTPS:
      *  https://serverless-dns.antonyitunamaku7671.workers.dev/configure
+*  This is a HOBBY service, please do not use for abuse & use it wisely
 
 ## Supporting My Project
 
