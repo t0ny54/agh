@@ -45,6 +45,10 @@ IPS Blocklist |  | [Link](https://raw.githubusercontent.com/t0ny54/agh/main/ipbl
      *  https://euro--family--dns--d7rx-k8n8.code.run/dns-query (Europe West)
      *  https://family.up.railway.app/dns-query (US West)
 *  This is a HOBBY service, please do not use for abuse & use it wisely
+     
+* ### Configure Yourself for Custom DNS Server.
+  * #### DNS-over-HTTPS:
+     *  https://serverless-dns.antonyitunamaku7671.workers.dev/configure
 
 ## Supporting My Project
 
