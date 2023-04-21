@@ -5652,6 +5652,7 @@ b-i-y.com
 b-m.facebook.com
 b-www.facebook.com
 b.bdstatic.com
+b.delivery.consentmanager.net
 b.hatena.ne.jp
 b.koodomobile.com
 b.link
@@ -10071,6 +10072,7 @@ c-und-d.de
 c.apple.com
 c.betrad.com
 c.bing.com
+c.delivery.consentmanager.net
 c.disquscdn.com
 c.disquscdn.com.cdn.cloudflare.net
 c.evidon.com
@@ -14835,6 +14837,7 @@ d-diamond.com
 d-photo.biz
 d-structure.com
 d-vineflowers.com.au
+d.delivery.consentmanager.net
 d.facebook.com
 d.ifengimg.com
 d.skimresources.com
@@ -52242,6 +52245,7 @@ tupperware.com
 turanbank.az
 turboclip.com
 turbonock.com
+turbulent.ca
 turkishbankers.org
 turkishbanks.com
 turkiye.gov.tr
