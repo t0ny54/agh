@@ -29067,6 +29067,7 @@ jobmode.de
 jobs.facebook.com
 jobs.lifehacker.com
 jobs.medium.com
+jobseeker.com
 jocelynbroyles.com
 jochen-melzer.de
 jockbio.com
@@ -35933,6 +35934,7 @@ netgiraffen.dk
 netgrocer.com
 netherwalloptrading.com
 nethooks.com
+netiq.com
 netique.com
 netkidswear.com
 netleih.de
@@ -40038,6 +40040,7 @@ pleasemum.com
 pleer.ru
 pleinairframes.com
 plenos8.com
+plerdy.com
 plescia.com
 pletsexpress.com
 plex.tv
@@ -50675,6 +50678,7 @@ telemag.net
 telemark-pyrenees.com
 telemarkdown.com
 telemarketing.gr
+telemetry-console.api.playstation.com
 telemetry.mozilla.org
 telenor.m.facebook.com
 telepathwords.research.microsoft.com
@@ -55367,6 +55371,7 @@ zunftbekleidung.de
 zunfthose.com
 zunibyharris.com
 zunifetishesdirect.com
+zurl.co
 zurpy.com
 zvab.com
 zvezabank.at
