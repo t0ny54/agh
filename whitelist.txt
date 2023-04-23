@@ -18244,6 +18244,7 @@ elainesflowershoppe.com
 elanko.ro
 elann.com
 elarcadenemo.com
+elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com
 elbambi.com
 elbashop.it
 elbe-sport.de
@@ -31348,6 +31349,7 @@ licensecode.one.microsoft.com
 licensedpackages.chocolatey.org
 licenses.adobe.com
 licenses.ashampoo.com
+licensing.bitmovin.com
 licensing.drm.microsoft.com
 licensing.md.mp.microsoft.com
 licensing.mp.microsoft.com
@@ -38748,6 +38750,8 @@ paylesssaddles.com
 paylesswigs.com
 paymaster.ru
 payment.ru
+payment.schibsted.com
+payment.schibsted.no
 paymentgate.ru
 payments*.netdirector.co.uk
 payments.braintree-api.com
@@ -39771,6 +39775,7 @@ pivotworks.com
 piwa.info
 piwik.nic.cz
 pix.sueddeutsche.de
+pix2.services.tvn.pl
 pixclinic.com
 pixel.disco.skyshowtime.com
 pixel.everesttech.net
@@ -50679,6 +50684,7 @@ telemark-pyrenees.com
 telemarkdown.com
 telemarketing.gr
 telemetry-console.api.playstation.com
+telemetry-console.api.playstation.com-v2.edgekey.net
 telemetry.mozilla.org
 telenor.m.facebook.com
 telepathwords.research.microsoft.com
@@ -52069,6 +52075,7 @@ tracker.marinsm.com
 tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
+tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
 tracking.bol.com
 tracking.dpd.de
 tracking.epicgames.com
@@ -53767,6 +53774,7 @@ wealthbar.com
 wealthfront.com
 wealthsimple.com
 wearbuy.com
+weather*.allawnos.com
 weather.com
 weatherapi.market.xiaomi.com
 weathertech.com
