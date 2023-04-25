@@ -37,6 +37,7 @@
 *.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
+*.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
 *.cdx.cedexis.net
@@ -83,6 +84,7 @@
 *.geotrust.com
 *.gigya.com
 *.googletagmanager.com
+*.googletagservices.com
 *.googlevideo.com
 *.gph.easebar.com
 *.gs-loc.apple.com
@@ -896,6 +898,7 @@
 6-edge-chat.facebook.com
 6.docs.google.com
 6.drive.google.com
+600vekil.com
 60sfurther.com
 64teams.com
 6688.com
@@ -10069,6 +10072,7 @@ c-dtags.com
 c-o.in
 c-p-p.co.uk
 c-und-d.de
+c.amazon-adsystem.com
 c.apple.com
 c.betrad.com
 c.bing.com
@@ -11280,6 +11284,7 @@ cdn.tpdads.com
 cdn.transifex.com
 cdn.trustcommander.net
 cdn.ttgtmedia.com
+cdn.turner.com
 cdn.unpkg.com
 cdn.viblast.com
 cdn.video.meredithcorp.io
@@ -28941,6 +28946,7 @@ jh-bikes.de
 jhawatch.com
 jhhatco.com
 jhyoung.com
+jiagu.360.cn
 jiasmomentscollected.com
 jiathis.com
 jibberingrecords.com
@@ -31302,6 +31308,7 @@ let-it-rain.com
 lethbridgebmx.com
 letools.facebook.com
 letop10.
+letribunaldunet.fr
 letsgopens.com
 letsgotribe.com
 letsgowings.com
@@ -33568,6 +33575,7 @@ microsculptures.com
 microsoft.com
 microsoft.m.facebook.com
 microsoftedgewelcome.microsoft.com
+microsoftmscompoc.tt.omtrdc.net
 microsoftonline.com
 microsoftstoreemail.com
 microsoftupdate.microsoft.com
@@ -46485,6 +46493,7 @@ sitecheck4.opera.com
 sitecheck5.opera.com
 sitecheck6.opera.com
 sitecheck7.opera.com
+siteintercept.qprod2.net
 siteintercept.qualtrics.com
 sitejot.com
 sitel.m.facebook.com
@@ -52073,6 +52082,7 @@ tracker*.namitiyu.com
 tracker*.scoober.com
 tracker-g.aiscore.com
 tracker.dominos.com
+tracker.gpcdn.pl
 tracker.marinsm.com
 tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
@@ -52263,7 +52273,6 @@ turkishbankers.org
 turkishbanks.com
 turkiye.gov.tr
 turkiyefinans.com.tr
-turnip.cdn.turner.com
 turo.us
 turtlebaytshirts.com
 tusfiles.net
@@ -53794,6 +53803,7 @@ web.esd.microsoft.com
 web.facebook.com
 web.hellenicbank.com
 web.pcbeta.com
+web.snrbox.com
 web.usebutton.com
 web.whatsapp.com
 web2.lyncweb.microsoft.com
