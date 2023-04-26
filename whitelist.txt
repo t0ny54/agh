@@ -22808,6 +22808,7 @@ get.adobe.com
 get.bg
 get.contentpass.net
 get.geojs.io
+get.massive.app
 get.mndbdy.ly
 get.revolut.com
 get.skype.com
@@ -40886,6 +40887,7 @@ prodejher.cz
 prodesigned.com
 prodirect.com.au
 prodjcase.com
+prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 prodorutti-supply.com
 prodreg.microsoft.com
 productactivation.one.microsoft.com
@@ -52071,6 +52073,7 @@ track.nzz.ch
 track.productsup.io
 track.seadform.net
 track.shoparize.com
+track.smtp2go.net
 track.spe.schoolmessenger.com
 track.ucas.com
 track.webgains.com
