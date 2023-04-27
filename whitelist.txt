@@ -37,6 +37,7 @@
 *.cc-api-data.adobe.io
 *.cdn-apple.com
 *.cdn-noc.net
+*.cdn.office.net
 *.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
@@ -31835,6 +31836,7 @@ m.prod.facebook.com
 m.qpic.cn
 m.quantserve.com
 m.recipes.timesofindia.com
+m.stripe.com
 m.techrepublic.com
 m.uczzd.cn
 m.w.ms
@@ -32124,6 +32126,10 @@ mainstreet-audio.com
 mainstreetcottonshop.com
 mainstreetflorists.com
 mainstreetkidsboutique.com
+mairuan.cn
+mairuan.com
+mairuan.com.cn
+mairuan.net
 maiseymae.com
 maison-astronomie.net
 maisonartiga.com
@@ -52360,6 +52366,7 @@ ubankal.com
 ubdp.com.ua
 uber.m.facebook.com
 uber.space
+ublock.org
 ubmich.com
 uboc.com
 ubot.com.tw
