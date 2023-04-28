@@ -716,6 +716,7 @@
 330046.group46.sites.hubspot.net
 330046g46.secure0032.hubspot.net
 338av.com
+35volitantplimsoles5.com
 360.yahoo.com
 360bc.com
 360degree.com.my
@@ -11177,6 +11178,7 @@ cdkenterprises.com
 cdm.microsoft.com
 cdm24.pl
 cdmsports.com
+cdn*.edgedatg.com
 cdn-116.anonfiles.com
 cdn-153.anonfiles.com
 cdn-apple.com
@@ -20487,6 +20489,7 @@ finewoodworker.com
 fingergloves.com
 fingerhut-und-fadenlauf.de
 fingerhut.com
+fingerprint.com
 fingerprintz.com
 fingertipshopper.com
 finheaven.com
@@ -52071,6 +52074,7 @@ track.aliexpress.ru
 track.cj.akadns.net
 track.customer.io
 track.dhlparcel.co.uk
+track.doordash.com
 track.effiliation.com
 track.gojek.com
 track.goshippo.com
@@ -55089,7 +55093,6 @@ xtra1.gpsonextra.net
 xtra2.gpsonextra.net
 xtra3.gpsonextra.net
 xtra4.gpsonextra.net
-xtrapath*.izatcloud.net
 xtrapath1.izatcloud.net
 xtrapath11.izatcloud.net
 xtrapath2.izatcloud.net
