@@ -74,10 +74,12 @@
 *.exacttarget.com.edgekey.net
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
+*.family.microsoft.com
 *.fbcdn.net
 *.find.api.micloud.xiaomi.net
 *.forms.office.com
 *.fundingchoicesmessages.google.com
+*.gameservices.ea.com
 *.gateway.devices.a2z.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
@@ -13480,6 +13482,7 @@ consent.google.com
 consent.trustarc.com
 consent.truste.com
 consent.yahoo.com
+consentag.eu
 consentcdn.cookiebot.eu
 consentmanager.mgr.consensu.org
 conservativebookclub.com
@@ -34078,6 +34081,7 @@ mmwatersports.com
 mmxpress.com
 mn-car-tuning.de
 mnb1.com
+mng.bz
 mnjhl.com
 mnretail.org
 mnswarm.com
@@ -40699,6 +40703,7 @@ pressedflower.com
 pressedflowerartandcrafts.com
 pressedflowerartist.com
 pressedpenny.com
+pressplay.top
 pressurewashersdirect.com
 prestat.co.uk
 prestige-sport.pl
