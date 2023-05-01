@@ -157,6 +157,7 @@
 *.search.microsoft.com
 *.searchnode.io
 *.searchnode.net
+*.securenetsystems.net
 *.services.microsoft.com
 *.seu*.cleverreach.com
 *.share.microsoft.com
@@ -3983,6 +3984,7 @@ apflowers.com
 aphrodisiacs.com.au
 api*.amazonalexa.com
 api*.intercom.io
+api*.pushbullet.com
 api*.sony.tv
 api*.spot.im
 api-*.store.heytapmobi.com
@@ -14017,7 +14019,6 @@ cpapwholesale.com
 cpcracing.com
 cpecbip07.one.microsoft.com
 cpiracing.com
-cpm.wargaming.net
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 cpotools.com
@@ -25550,6 +25551,7 @@ heydaybooks.com
 heydayfashion.com
 heylink.me
 heysportsfans.com
+heytapimage.com
 hf-wa.com
 hformanbarrett.com
 hgands.com
@@ -30665,6 +30667,7 @@ kominki.istore.pl
 komis.se
 kommunalkredit.at
 komoo.cn
+kompas.com
 komplett-media.de
 komplettradshop.de
 komputeks.pl
@@ -31227,6 +31230,7 @@ lcstg2.samsungcloudsolution.net
 lcut.in
 lddy.no
 ldlc.com
+ldmnq.com
 ldsleather.com
 ldspuzzle.com
 le-jardin-de-catherine.com
@@ -34075,6 +34079,7 @@ mmrugs.com.au
 mms.whatsapp.net
 mmstat.com
 mmstreetsnow.50megs.com
+mmsurls.pushbullet.com
 mmtackshop.com
 mmtro.com
 mmwatersports.com
@@ -38857,6 +38862,7 @@ pcextremo.todomercado.com
 pcfallon.com
 pcfinancial.ca
 pcfurniturestore.com
+pci.spotify.com
 pcicoins.com
 pciraceradios.com
 pclbaseball.com
@@ -45120,6 +45126,7 @@ secureacceptance.cybersource.com
 secureclock2.playready.microsoft.com
 secureinternetbank.com
 securel.longtailvideo.com
+securenetsystems.net
 securepay.simplepay.hu
 securepay.tcsbank.ru
 securepay.ufc.ge
@@ -48760,6 +48767,7 @@ static.networkedblogs.com
 static.opensubtitles.org
 static.panoramio.com.storage.googleapis.com
 static.parastorage.com
+static.pushbullet.com
 static.rutube.ru
 static.share-videos.se
 static.siteheart.com
@@ -49214,6 +49222,7 @@ strawberrycentral.com
 strawberrynet.com
 strawberrypot.com
 straycats.pages.jp
+stream*.pushbullet.com
 streamers.com
 streaming.split.io
 streamplay.to
@@ -52568,6 +52577,7 @@ update.easebar.com
 update.facebook.com
 update.intl.miui.com
 update.miui.com
+update.pushbullet.com
 update.utorrent.com
 updatefaker.com
 updates-http.cdn-apple.com
@@ -53741,6 +53751,7 @@ wardburton.com
 warehouse-outlet.com
 warehousefabricsinc.com
 warehousephoto.com
+wargaming.net
 warillasportscricketclub.20m.com
 warmandtote.com
 warmbiscuit.com
@@ -53873,6 +53884,7 @@ weboffice-static.docs.dingtalk.com
 webresponse.one.microsoft.com
 webscores.com
 websitespark.microsoft.com
+websocket.pushbullet.com
 websterbank.com
 webto.salesforce.com
 webtrading.onvista-bank.de
