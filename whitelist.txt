@@ -2346,6 +2346,7 @@ ahuva.com
 ai-sugiyama.com
 aiai.no
 aib.ie
+aic-gfts.lge.com
 aic-ngfts.lge.com
 aic-op-lss.lgthinq.com
 aic.cdpsvc.lgtvcommon.com
@@ -30052,6 +30053,7 @@ kerzen-idee.de
 kerzen-werkstatt.de
 kerzenkiste.de
 kesa.dk
+keslerscience.com
 kesselring.ch
 kessenichs.com
 kestonholdings.com.au
