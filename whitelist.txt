@@ -31618,6 +31618,7 @@ logging.googleapis.com
 loggly.com
 logic-immo.com
 logicieleducatif.fr
+login*.tiktok*.com
 login-10-01-snc1.facebook.com
 login-11-01-snc1.facebook.com
 login-12-01-snc1.facebook.com
@@ -36109,6 +36110,7 @@ news.iadsdk.apple.com
 news.rambler.ru
 news.smi2.ru
 news.ycombinator.com
+news9.com
 newscloud.com
 newscooters4less.com
 newsday.com
@@ -52466,6 +52468,7 @@ ultrad.com
 ultradiamonds.com
 ultraiso.net
 ultrunr.com
+umami.is
 umbank.ru
 umbrellabank.com
 umbrellastand.com
