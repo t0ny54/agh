@@ -144,6 +144,8 @@
 *.pv-cdn.net
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
+*.rewardsplatform.microsoft.com
+*.rewardsprod.trafficmanager.net
 *.riotpixels.net
 *.rtl-relay.iocnt.net
 *.safebrowsing.apple
@@ -213,7 +215,16 @@
 *.zopim.com
 *api.*.microsoft.com
 *api.facebook.com
+*business*.byteoversea.com
+*business*.snssdk.com
+*business*.tiktok*.com
 *events*.trafficmanager.net
+*frontier*.byteoversea.com
+*frontier*.snssdk.com
+*frontier*.tiktok*.com
+*gecko*.byteoversea.com
+*gecko*.snssdk.com
+*gecko*.tiktok*.com
 *graph-fallback.facebook.com
 *graph-fallback.instagram.com
 *graph-video.facebook.com
@@ -222,6 +233,9 @@
 *graph.instagram.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
+*pitaya*.byteoversea.com
+*pitaya*.snssdk.com
+*pitaya*.tiktok*.com
 *spotify-com.akamaized.net
 *star.*.facebook.com
 *telemetry.*oraclecloud.com
@@ -14734,6 +14748,7 @@ cuz-i.com
 cv-h.phncdn.com
 cvac.org
 cvcbike.org
+cvf.shopee.*
 cvfeeders.com
 cvmc.net
 cvp.membership.microsoft.com
@@ -25409,6 +25424,7 @@ helmutshobbies.com
 help.apple.com.edgekey.net
 help.appsumo.com
 help.medium.com
+help.servicedeskplus.com
 help.ui.xboxlive.com
 helpingudders.com
 helseogkost.no
@@ -33079,6 +33095,7 @@ media-sof1-1.cdn.whatsapp.net
 media-vie1-1.cdn.whatsapp.net
 media-waw1-1.cdn.whatsapp.net
 media-yyz1-1-cdn.whatsapp.net
+media.architecturaldigest.com
 media.arstechnica.com
 media.arstechnica.net
 media.complex.com
@@ -38535,11 +38552,14 @@ parsonsfoto.com
 parsonsgifts.com
 parti-time.com
 partituraonline.com
+partner.bol.com
 partner.microsoft.com
 partner.sts.microsoft.com
 partnerconnect.microsoft.com
 partnering.one.microsoft.com
 partnerpage.google.com
+partnerplatform.bol.com
+partnerprogramma.bol.com
 partners*.stacksocial.com
 partners.extranet.microsoft.com
 partners.retail.microsoft.com
@@ -44903,6 +44923,7 @@ sdkconfig.pulse.schibsted.com
 sdkinlamstedt.de
 sdksupplies.netfirms.com
 sdofficefurniture.com
+sdp.helpdocsonline.com
 sds-wave.com
 sdsdigital.co.uk
 sdsefi.com
