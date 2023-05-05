@@ -19,7 +19,6 @@
 *.api.iris.microsoft.com
 *.api.miwifi.com
 *.app.asana.com
-*.app.link
 *.apps.apple.com
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
@@ -98,6 +97,9 @@
 *.ims.vodafone.com
 *.info.lgsmartad.com
 *.informer.yandex.ru
+*.insider.microsoft365.com
+*.insideruser.microsoft.com
+*.insideruser.trafficmanager.net
 *.instant.page
 *.intercom.io
 *.kajabi-cdn.com
@@ -14879,6 +14881,7 @@ d13itkw33a7sus.cloudfront.net
 d16g-cornerstone-bes.integ.amazon.com
 d1a62freaxhn7x.cloudfront.net
 d1afootball.com
+d1bd3wxsyuz0t7.cloudfront.net
 d1k85ogl73rd7b.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
@@ -15394,6 +15397,7 @@ deafsports.org.au
 dealcomet.com
 dealdeouf.com
 dealer-ship.com
+dealer.spotify.com
 dealigg.com
 dealmountain.com
 deals.kinja.com
@@ -27851,9 +27855,8 @@ insideafricanart.com
 insideavenue.com
 insidecollegehockey.com
 insidepool.com
+insider.microsoft365.com
 insidershopping.de
-insideruser.microsoft.com
-insideruser.trafficmanager.net
 insidespace.com
 insight.rapid7.com
 insights.hotjar.com
@@ -42571,6 +42574,7 @@ redcoon.pt
 redd.it
 reddestdream.github.io
 reddiamondonline.com
+reddit.app.link
 reddit.com
 redditchrugbyclub.com
 redditmedia.com
@@ -50163,6 +50167,9 @@ t1.g.mi.com
 t10.baidu.com
 t11.baidu.com
 t12.baidu.com
+t13.baidu.com
+t14.baidu.com
+t15.baidu.com
 t2.58cdn.com.cn
 t2.baidu.com
 t23.intelliad.de
