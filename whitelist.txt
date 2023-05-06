@@ -50,6 +50,7 @@
 *.cname.campaign.adobe.com
 *.contabostorage.com
 *.controld.com
+*.curve.app
 *.custom-domain.publitas.com
 *.damoh.*.de
 *.data-*.rtl.de
@@ -144,6 +145,7 @@
 *.pubnub.com
 *.push.apple.com
 *.pv-cdn.net
+*.quicns.com
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
 *.rewardsplatform.microsoft.com
@@ -14634,6 +14636,7 @@ curthel.com
 curtisboehringer.com
 curtisbrae.co.uk
 curtissportconnection.com
+curve.app
 curvesncombatboots.com
 cuscostores.com
 cushcity.com
@@ -27520,6 +27523,7 @@ img.alicdn.com.danuoyi.alicdn.com
 img.brightcove.com
 img.connatix.com
 img.digitaltrends.com
+img.ekstat.com
 img.elephantjournal.com
 img.ihreapotheken.de
 img.mmtcdn.com
@@ -30483,6 +30487,7 @@ kiwibank.co.nz
 kiwibox.com
 kiwibrowser.com
 kiwijewels.com
+kiwisearchservices.com
 kiwitreats.com
 kixxonline.com
 kiyokawaya.com
@@ -35829,6 +35834,7 @@ ncsx.com
 nctrailblazers.org
 ndba.com
 ndbc.org
+ndirect.ppro.de
 ndm-girls-softball.com
 ndr.org
 nds1.webapps.microsoft.com
@@ -41555,6 +41561,7 @@ quicksafe.co.uk
 quickshipeurope.com
 quicktrophy.com
 quickuk.co.uk
+quicns.com
 quiestlemoinscher.com
 quietheadphones.com
 quiethorizons.com
@@ -42957,6 +42964,7 @@ reurl.cc
 reusablebags.com
 reut.rs
 revampvintage.com
+revanced.io
 revedecime.com
 revelationimports.com
 revelenterprises.com
