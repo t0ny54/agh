@@ -14874,6 +14874,7 @@ d-structure.com
 d-vineflowers.com.au
 d.delivery.consentmanager.net
 d.facebook.com
+d.ghostery.com
 d.ifengimg.com
 d.skimresources.com
 d.vvv.facebook.com
@@ -25557,6 +25558,7 @@ herta.com
 hertzfurniture.com
 hesa-motorsport.de
 hesab.az
+hesads.akamaized.net
 hescolighting.com
 heso-ya.com
 hess-natur.com
@@ -52150,6 +52152,7 @@ track.seadform.net
 track.shoparize.com
 track.smtp2go.net
 track.spe.schoolmessenger.com
+track.talabat.com
 track.ucas.com
 track.webgains.com
 track.yw56.com.cn
