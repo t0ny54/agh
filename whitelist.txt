@@ -11267,6 +11267,7 @@ cdn.jscloudflare.com
 cdn.jsdelivr.net
 cdn.jwplayer.com
 cdn.kaltura.com
+cdn.livechat.com.edgekey.net
 cdn.livechatinc.com
 cdn.mediavoice.com
 cdn.medium.com
@@ -17204,7 +17205,6 @@ dutyfreestores.com.au
 duvetsdirect.com
 duvines.com
 duxdekes.com
-dv.extremereach.com
 dv.gd
 dvb-shop24.net
 dvb101.net
@@ -22937,6 +22937,7 @@ ghilliesuits.com
 ghlmotorsports.com
 ghmoore.co.uk
 gho-online.nl
+ghostery-metrics-713401778.us-east-1.elb.amazonaws.com
 ghoststore.net
 ghredwood.com
 ghs46.google.com
@@ -45122,6 +45123,7 @@ secure.gate2shop.com
 secure.getinbank.pl
 secure.gravatar.com
 secure.ideabank.pl
+secure.indeed.com
 secure.intern.facebook.com
 secure.interninyour.facebook.com
 secure.internmc.facebook.com
@@ -52063,6 +52065,7 @@ top-hats.com
 top-shop.ru
 top-vente-privee.fr
 top.baidu.com
+top.n.shifen.com
 top4office.com
 topachat.com
 topbuydeals.com
@@ -52689,6 +52692,8 @@ urlbrief.com
 urlcover.com
 urlcut.com
 urldefense.com
+urldefense.gslb.proofpoint.com
+urldefense.proofpoint.com
 urlenco.de
 urlf.ly
 urlgo.fr
@@ -54992,6 +54997,7 @@ www.uni-giessen.de
 www.unsplash.com
 www.uptime.com
 www.urs.techrepublic.com
+www.usopc.com.edgekey.net
 www.v10.vortex-win.data.microsoft.com
 www.vertamedia.com
 www.vidoza.net
