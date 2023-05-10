@@ -1,5 +1,4 @@
 *-boot.tiktok*.com
-*.acdsystems.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
 *.adguard-dns.com
@@ -28481,6 +28480,7 @@ ix.sk
 ixoscables.com
 iyibey.com
 izabelcamille.com
+izattime.xboxprod.izatcloud.net
 izhcard.ru
 izod.com
 j-fabled.com
@@ -31705,6 +31705,7 @@ loopt.us
 loopylorries.com
 lordsinternational.com
 lorenzwholesale.com
+lorienglobal.com
 loriswigsite.com
 losamigos.org
 losangeles.cbslocal.com
@@ -38708,6 +38709,10 @@ patemm.com
 patentedputting.com
 pateyhats.com
 path*.izatcloud.net
+path*.xtracloud.net
+path1.xtracloud.net
+path2.xtracloud.net
+path3.xtracloud.net
 pathfinder-equipment.de
 pathfinderbank.com
 pathfinderfitness.com
@@ -51912,6 +51917,7 @@ time.izatcloud.net
 time.nist.gov
 time.samsungcloudsolution.com
 time.windows.com
+time.xtracloud.net
 timebydesign.com
 timefactors.com
 timejewels.com
@@ -53222,6 +53228,7 @@ victorystore.com
 vid-cdn*.stroeermb.de
 vid.connatix.com
 viddler.com
+video-*.tiktok*.com
 video-ak-sf2p.facebook.com
 video-api-cdn.bostonglobe.arcpublishing.com
 video-api.arcpublishing.com
@@ -53234,6 +53241,7 @@ video-thumbnails.l.google.com
 video.l.google.com
 video.metaservices.microsoft.com
 video.xxxjmp.com
+videoarch-*.byteoversea.net
 videobomb.com
 videocdn-sbs.akamaized.net
 videocopilot.net
@@ -55169,18 +55177,28 @@ xsts.auth.xboxlive.com
 xt3.me
 xtra.gpsonextra.net
 xtra1.gpsonextra.net
+xtra1ha.xboxprod.izatcloud.net
 xtra2.gpsonextra.net
+xtra2.xboxprod.izatcloud.net
 xtra3.gpsonextra.net
+xtra3.xboxprod.izatcloud.net
 xtra4.gpsonextra.net
-xtracloud.net
 xtrapath*.izatcloud.net
+xtrapath*.xtracloud.net
 xtrapath1.izatcloud.net
+xtrapath1.xboxprod.izatcloud.net
 xtrapath11.izatcloud.net
 xtrapath2.izatcloud.net
+xtrapath2.xboxprod.izatcloud.net
 xtrapath3.izatcloud.net
+xtrapath3.xboxprod.izatcloud.net
+xtrapath4.xboxprod.izatcloud.net
 xtrapath5.izatcloud.net
+xtrapath5.xboxprod.izatcloud.net
+xtrapath6.xboxprod.izatcloud.net
 xtrapath7.izatcloud.net
 xtrapath9.izatcloud.net
+xtratime.xboxprod.xtracloud.net
 xtreme-images.com
 xtremez.com
 xua.me
