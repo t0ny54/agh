@@ -234,6 +234,7 @@
 *graph.facebook.com
 *graph.fbpigeon.com
 *graph.instagram.com
+*logfiles.zoom.us
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
 *pitaya*.byteoversea.com
@@ -28480,6 +28481,7 @@ ix.sk
 ixoscables.com
 iyibey.com
 izabelcamille.com
+izatcloud.net
 izattime.xboxprod.izatcloud.net
 izhcard.ru
 izod.com
@@ -51283,6 +51285,7 @@ thecrownjewel.net
 thecrystaldragon.com
 thecrystalgarden.com
 thecrystalshoppe.com
+thecubexguide.com
 thecustomchip.com
 thecuttingboardfactory.com
 thedancersshop.co.uk
@@ -55433,6 +55436,7 @@ zkr.cz
 zkrat.me
 zkrt.cz
 zlotewyprzedaze.pl
+zlp-bill-tracking.zalopay.vn
 zmags.com
 zmctrack.net
 zmtcdn.edgekey.net
