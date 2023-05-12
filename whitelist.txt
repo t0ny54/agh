@@ -26,6 +26,7 @@
 *.atv-ps.amazon.com
 *.aylanetworks.com
 *.beaute-test.com
+*.blackfire.io
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -8281,6 +8282,7 @@ blackdome.com
 blackdragon.co.uk
 blackexpressions.com
 blackfield.com
+blackfire.io
 blackforestdecor.com
 blackforestgifts.com
 blackforestimports.com
@@ -15202,6 +15204,7 @@ datapipe.m.facebook.com
 dataplicity.com
 datapowertools.co.uk
 datastudio.google.com
+datayi.cn
 datei.to
 datev-community.de
 datexx.com
@@ -29345,6 +29348,7 @@ jsritter.com
 jssocdn.indiatimes.com
 jstephendavis.com
 jstoneenamels.com
+jsv3.recruitics.com
 jt-sportshop.dk
 jtecrc.com
 jtl-skiwear.co.uk
