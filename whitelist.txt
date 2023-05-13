@@ -1046,6 +1046,7 @@ a.espncdn.com
 a.fsdn.com
 a.gg
 a.ip-api.com
+a.jsrdn.com
 a.klaviyo.com
 a.microsoft.com
 a.nel.cloudflare.com
@@ -10111,6 +10112,7 @@ c.evidon.com
 c.facebook.com
 c.gj.qq.com
 c.id.mi.com
+c.jsrdn.com
 c.media-amazon.com
 c.microsoft.com
 c.msn.com
@@ -16349,6 +16351,7 @@ distinctivefabric.com
 distinctivepalettes.com
 distinctly.on.ca
 distribuidoramaster.com.ar
+distroscale.com
 dit.whatsapp.net
 ditalia.com
 ditonet.de
@@ -26762,6 +26765,7 @@ i.imgci.com
 i.imgur.com
 i.instagram.com
 i.ipotekabank.com
+i.jsrdn.com
 i.kredprombank.ru
 i.lithium.com
 i.lockobank.ru
@@ -42558,6 +42562,7 @@ recordsbymail.com
 recoveryexpressions.com
 recreonics.com
 recrooms.com
+recruitics.com
 recruiting.com
 recumbenttrikes.ca
 recurrentdreams.com
@@ -43926,6 +43931,7 @@ s.hbrcdn.com
 s.id
 s.imp-ppe.microsoft.com
 s.imp.microsoft.com
+s.jsrdn.com
 s.marketwatch.com
 s.media-imdb.com
 s.ncp.imrworldwide.com
@@ -52377,6 +52383,7 @@ tusting.co.uk
 tuttoannunci.org
 tuyacn.com
 tv.deezer.com
+tv.jsrdn.com
 tv.media.jio.com
 tv.oneworld.net
 tv.wp.pl
