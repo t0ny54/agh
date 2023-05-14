@@ -103,6 +103,7 @@
 *.insideruser.trafficmanager.net
 *.instant.page
 *.intercom.io
+*.iotcplatform.com
 *.kajabi-cdn.com
 *.kiwibrowser.com
 *.lencr.org
@@ -28117,6 +28118,7 @@ ionicsalts.com
 ionxchange.com
 iookaz.com
 ioproducts.com
+iotcplatform.com
 iovation.com
 iowaconference.com
 iowastatebanks.com
@@ -43234,6 +43236,7 @@ rmfix.samsungcloudsolution.net
 rms.ccp.microsoft.com
 rmsterling.com
 rmwaxworks.com
+rncdn7.com
 rnjsports.com
 rnll.org
 rnrmarathon.com
@@ -55117,6 +55120,7 @@ wyomingbankers.com
 wyomingmetalworks.com
 wyspagier.pl
 x-kom.pl
+x.bestcheck.de
 x.co
 x.facebook.com
 x.kinja-static.com
@@ -55309,6 +55313,7 @@ youtubei.googleapis.com
 yoyita.com
 yoyoplay.com
 yoyostore.com
+ypncdn.com
 yque.com
 ysear.ch
 yt-video-upload.l.google.com
