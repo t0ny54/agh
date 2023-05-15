@@ -1,4 +1,5 @@
 *-boot.tiktok*.com
+*.a2hosted.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
 *.adguard-dns.com
@@ -108,6 +109,7 @@
 *.kiwibrowser.com
 *.lencr.org
 *.mail.onedrive.com
+*.marinetraffic.com
 *.maxmind.com
 *.mc.cubecdn.net
 *.mcsvc.samsung.com
@@ -1157,6 +1159,7 @@ a23.ms.a.microsoft.com
 a24m.a-bank.com.ua
 a2a.me
 a2armory.com
+a2hosted.com
 a2z-kids.co.uk
 a2z.com
 a2zdeals.com
@@ -3482,6 +3485,7 @@ analitik.edevlet.gov.tr
 analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
+analytics.halkbank.com.tr
 analytics.icis.com
 analytics.shopify.com
 analytics.twitter.com
@@ -4066,6 +4070,7 @@ api.flexpool.io
 api.geetest.com
 api.getpocket.com
 api.giphy.com
+api.glb.samsung-gamelauncher.com
 api.glympse.com
 api.gravatar.com
 api.hh.ru
@@ -32514,6 +32519,7 @@ marineparts.de
 marineshop.com
 marineswwii.com
 marinetideclocks.com
+marinetraffic.com
 marinituning.de
 marios-fliegendose.de
 marisalreflections.com
@@ -32523,6 +32529,7 @@ maritimebank.com
 maritimshop2000.de
 marjories.com
 mark-k-inc.com
+mark.isbank.com.tr
 markab.com.pl
 markards.com
 markastore.ro
@@ -44999,6 +45006,7 @@ seanjames.com
 seaotterclassic.com
 seapets.co.uk
 search-for-antiques.co.uk
+search-operate.cdn.bcebos.com
 search-ppe.microsoft.com
 search.msdn.microsoft.com
 search.officeupdate.microsoft.com
@@ -53980,6 +53988,7 @@ weddingringsunlimited.com
 weddingsbydezign.com
 weddingsweddings.com
 wedigsports.com
+wee.so
 weeatt.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
