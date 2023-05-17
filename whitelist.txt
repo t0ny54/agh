@@ -4202,6 +4202,7 @@ app.alipay.com
 app.asana.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
+app.clearview.ai
 app.convertkit.com
 app.datadoghq.com
 app.datadoghq.eu
@@ -17868,6 +17869,7 @@ ederstamps.com
 edex.com.au
 edgarbrown.com
 edgarkellyrugs.com
+edge-*.demdex.net
 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
 edge-atlas-proxyprotocol-shv-03-ash5.facebook.com
 edge-atlas-proxyprotocol-shv-07-ash4.facebook.com
@@ -39919,7 +39921,9 @@ pkw.pl
 pkwanhaenger.de
 pl-go.kelkoogroup.net
 pl-interiors.co.uk
+pl-play.adtonos.com
 pl.gravatar.com
+pl2-play.adtonos.com
 pl8source.com
 pla-dio.com
 place-cards.co.uk
