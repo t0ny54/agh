@@ -80,11 +80,13 @@
 *.find.api.micloud.xiaomi.net
 *.forms.office.com
 *.fundingchoicesmessages.google.com
+*.fwupd.org
 *.gameservices.ea.com
 *.gateway.devices.a2z.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
 *.geo.ngtv.io
+*.geocomply.com
 *.geotrust.com
 *.gigya.com
 *.googletagmanager.com
@@ -16640,6 +16642,7 @@ dogtrainingstore.com
 dogtreasures.com
 dogtreatwarehouse.com
 dogtree.co.jp
+dogus-ads-cdn.dygdigital.com
 dogvanes.com
 dogwise.com
 doh.asia.dnswarden.com
@@ -17298,6 +17301,7 @@ dyemasters.net
 dyementions.co.uk
 dyeprecision.com
 dyersonline.com
+dygassets.dygdigital.com
 dylanscards.com
 dymocks.com.au
 dyn.ithome.com
@@ -22220,6 +22224,7 @@ fvee.org.au
 fw-sf2p.facebook.com
 fwd4.me
 fwmrm.net
+fwupd.org
 fxmodelrc.com
 fxn.ws
 fy-nl.facebook.com
@@ -22762,6 +22767,7 @@ geo1.presslabs.net
 geo3.ggpht.com
 geoauth.google.com
 geoclassics.com
+geocomply.com
 geodus.com
 geofence.sys.miui.com
 geoffanddrews.com
@@ -48807,6 +48813,7 @@ static-cl.xhcdn.com
 static-forms.klaviyo.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
+static-v2.trbo.com
 static-xl9-ssl.xunlei.com
 static.127777.com
 static.3001.net
