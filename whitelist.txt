@@ -149,6 +149,7 @@
 *.primevideo.com
 *.pubnub.com
 *.push.apple.com
+*.pushmessage.samsung.com
 *.pv-cdn.net
 *.quicns.com
 *.registerdisney.go.com
@@ -51837,6 +51838,7 @@ thetennisgallery.co.uk
 thetennisspot.net
 theterracottage.com
 thethemeroom.com
+thethings.com
 thethingshop.com
 thethriftyneedle.com
 thetiesite.com
