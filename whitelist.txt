@@ -195,6 +195,7 @@
 *.static-forms.klaviyo.com
 *.storage.googleapis.com
 *.strpst.com
+*.sunwaydigitalwave.com.my
 *.syn-alias.com
 *.teams.live.com
 *.teams.microsoft.com
@@ -11785,6 +11786,7 @@ chat.cdn.whatsapp.net
 chateau-de-fleurs.com
 chaters.co.uk
 chatra.io
+chatserver15.comm100.io
 chatswoodshopping.com.au
 chattanoogagifts.com
 chatterboxgifts.co.uk
@@ -49643,6 +49645,7 @@ sunsylver.com
 suntanhut.com
 suntiger.com
 suntropic.com
+sunwaydigitalwave.com.my
 sunwestpools.com
 sunyac.com
 suo.im
