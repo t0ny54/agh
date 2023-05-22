@@ -4061,6 +4061,7 @@ api.coinbase.com
 api.comm.miui.com
 api.connect.facebook.com
 api.conversant.mgr.consensu.org
+api.cookiespool.com
 api.cortana.ai
 api.crunchyroll.com
 api.cryptonator.com
@@ -37775,6 +37776,7 @@ opony.us
 oppdalsbanken.no
 oppositelock.kinja.com
 opsgear.com
+opsserver.ch
 optactical.com
 optehorse.com
 opti-max.net
