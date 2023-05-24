@@ -10132,6 +10132,7 @@ c.msn.com
 c.office.com
 c.orange.fr
 c.s-microsoft.com
+c.seznam.cz
 c.trello.com
 c.youdao.com
 c0.ifengimg.com
@@ -12595,6 +12596,7 @@ clgpro.com
 clhs.kiev.ua
 cli.gs
 click-n-order.net
+click.allkeyshop.com
 click.appcast.io
 click.chp.kohls.com
 click.cptrack.de
@@ -18739,6 +18741,7 @@ enews.techrepublic.com
 engadget.com
 engage.hulu.com
 engage.surface.com
+engage.vzw.com
 engage.xbox.com
 engagement-ring-guide.com
 engei.net
@@ -32867,6 +32870,7 @@ mawashi.net
 mawhl.org
 max-cosmetics.com
 max-moritz-waldesch.de
+max.com
 max200.com
 maxadventure.com.au
 maxandmaudes.com
@@ -54131,9 +54135,11 @@ wideup.net
 widget-cdn.rpxnow.com
 widget.cloud.opta.net
 widget.gleamjs.io
+widget.haberler.com
 widget.intercom.io
 widget.pushbullet.com
 widget.uservoice.com
+widget.yenimedya.com.tr
 widgets.opinary.com
 widgets.twimg.com
 widiba.it
