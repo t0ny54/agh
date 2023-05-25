@@ -244,6 +244,12 @@
 *graph.fbpigeon.com
 *graph.instagram.com
 *logfiles.zoom.us
+*mcs*.byteoversea.com
+*mcs*.snssdk.com
+*mcs*.tiktok*.com
+*mssdk*.byteoversea.com
+*mssdk*.snssdk.com
+*mssdk*.tiktok*.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
 *pitaya*.byteoversea.com
@@ -33050,7 +33056,6 @@ mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 mcquerryorchidbooks.com
 mcrgifts.com
 mcrok.com
-mcs-va.tiktok*.com
 mcsbnh.com
 mcsnet.nl
 mcsoywax.com
@@ -45542,6 +45547,8 @@ sexyfurnishings.com
 sexyinlace.com
 sexylingerieusa.com
 seyberts.com
+sf*-*.ibytedtos.com
+sf*-*.tiktok*.com
 sf1-ttcdn-tos.pstatp.com
 sf2p.facebook.com
 sf3-ttcdn-tos.pstatp.com
