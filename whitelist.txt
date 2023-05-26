@@ -227,13 +227,10 @@
 *.zopim.com
 *api.*.microsoft.com
 *api.facebook.com
-*business*.byteoversea.com
-*business*.snssdk.com
-*business*.tiktok*.com
 *events*.trafficmanager.net
 *frontier*.byteoversea.com
 *frontier*.snssdk.com
-*frontier*.tiktok*.com
+*frontier*.tiktokv.com
 *gecko*.byteoversea.com
 *gecko*.snssdk.com
 *gecko*.tiktok*.com
@@ -247,9 +244,6 @@
 *mcs*.byteoversea.com
 *mcs*.snssdk.com
 *mcs*.tiktok*.com
-*mssdk*.byteoversea.com
-*mssdk*.snssdk.com
-*mssdk*.tiktok*.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
 *pitaya*.byteoversea.com
@@ -27883,6 +27877,7 @@ innovations.co.uk
 innovative-cnc-fraestechnik.de
 innovativeathletic.com
 innovativegiftbaskets.ca
+innovators.ivanti.com
 innovatoys.com
 innovspec.com
 inparticular.com
@@ -28494,6 +28489,7 @@ iuscgndnsfv301.two.microsoft.com
 iuscgndnsfv302.two.microsoft.com
 iutoic-dhaka.edu
 ivanbasso.it
+ivantiinnovators.influitive.com
 ivd.gib.gov.tr
 ivebeenframed.us
 iveysthemansshop.com
@@ -34399,6 +34395,7 @@ momslinenchest.com
 momsteam.com
 momthoughts.com
 momwitch.com
+mon*-*.tiktok*.com
 mon-joujou.com
 monaco-f1grandprix.com
 monaco-privatebanking.com
@@ -34938,6 +34935,7 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
+mssdk*-*.tiktok*.com
 mssdk-va.tiktok*.com
 mssl.fwmrm.net
 mssl.fwmrm.net.edgesuite.net
@@ -36493,6 +36491,7 @@ noma.wroc.pl
 nomadrugs.com
 nomismaweb.com
 nomowgrass.com
+non.li
 nonghyup.com
 nongnit.com
 nongnit.net
@@ -44017,6 +44016,7 @@ s3.*.scw.cloud
 s3.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
+s3.lightboxcdn.com
 s3.symcb.com
 s3.us-west-1.wasabisys.com
 s3products.com
@@ -45547,8 +45547,6 @@ sexyfurnishings.com
 sexyinlace.com
 sexylingerieusa.com
 seyberts.com
-sf*-*.ibytedtos.com
-sf*-*.tiktok*.com
 sf1-ttcdn-tos.pstatp.com
 sf2p.facebook.com
 sf3-ttcdn-tos.pstatp.com
