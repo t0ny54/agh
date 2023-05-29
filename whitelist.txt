@@ -15,6 +15,7 @@
 *.amazonvideo.com
 *.api.b.hatena.ne.jp
 *.api.brightcove.com
+*.api.ditto.com
 *.api.intuit.com
 *.api.iris.microsoft.com
 *.api.miwifi.com
@@ -4068,6 +4069,7 @@ api.crunchyroll.com
 api.cryptonator.com
 api.dds.microsoft.com
 api.device.xiaomi.net
+api.ditto.com
 api.ebay-kleinanzeigen.de
 api.eu-west-1.aiv-delivery.net
 api.facebook.com
@@ -12881,6 +12883,7 @@ cmmonline.co.uk
 cmokcmok.pl
 cmp-consent-tool.privacymanager.io
 cmp.dmgmediaprivacy.co.uk
+cmp.osano.com
 cmp.tvspielfilm.de
 cmr.cl
 cms.facebook.com
