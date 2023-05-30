@@ -25771,6 +25771,7 @@ hinoyojin.com
 hinsdalebank.com
 hinshawtrailersales.com
 hintahaku.com
+hintaopas.fi
 hinterberg.com
 hip-threads.com
 hipchickbeads.com
@@ -39914,6 +39915,7 @@ pixel.disco.skyshowtime.com
 pixel.everesttech.net
 pixel.facebook.com
 pixel.google.com
+pixel.mxrouting.net
 pixel.nymag.com
 pixel.quantserve.com
 pixel.wp.com
@@ -45575,6 +45577,7 @@ sftasia.one.microsoft.com
 sftemea.one.microsoft.com
 sftus.one.microsoft.com
 sfuk.tripod.com
+sg-wum.alibaba.com
 sg.pool.ntp.org
 sg.sin.cb3.glbdns.microsoft.com
 sgb24.pl
