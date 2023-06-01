@@ -11,7 +11,6 @@
 *.aimon.applicationinsights.io
 *.aiv-cdn.net
 *.aiv-cdn.net.c.footprint.net
-*.aiv-delivery.net
 *.amazonvideo.com
 *.api.b.hatena.ne.jp
 *.api.brightcove.com
@@ -112,6 +111,7 @@
 *.kiwibrowser.com
 *.kwrn.eu
 *.lencr.org
+*.lighthouselabs.eu
 *.mail.onedrive.com
 *.marinetraffic.com
 *.maxmind.com
@@ -2464,7 +2464,6 @@ aitatennis.com
 aitkenwines.com
 aiv-cdn.net
 aiv-cdn.net.c.footprint.net
-aiv-delivery.net
 aiyafitness.com
 aizawashoten.com
 aizhigu.com.cn
@@ -4107,6 +4106,7 @@ api.netatmo.net
 api.nextgen.guardianapps.co.uk
 api.nfl.com
 api.noda.live
+api.nvidia.partners
 api.office.microsoft.com
 api.onedrive.com
 api.opinary.com
@@ -4129,6 +4129,7 @@ api.sec.miui.com
 api.sibboventures.mgr.consensu.org
 api.simplisafe.com
 api.skimlinks.mgr.consensu.org
+api.smartify.org
 api.snapkit.com
 api.speedspot.org
 api.st-av.net
@@ -5018,6 +5019,7 @@ assets.jassets.com
 assets.minutemediacdn.com
 assets.mmsrg.com
 assets.nflxext.com
+assets.nvidia.partners
 assets.pinterest.com
 assets.rbl.ms
 assets.realclear.com
@@ -11307,6 +11309,7 @@ cdn.petametrics.com
 cdn.playready.microsoft.com
 cdn.plyr.io
 cdn.polyfill.io
+cdn.pricespider.com
 cdn.privacy-mgmt.com
 cdn.radiantmediatechs.com
 cdn.ravenjs.com
@@ -31480,6 +31483,7 @@ ligabank.de
 light.facebook.com
 lightboxinc.com
 lightgod.com
+lighthouselabs.eu
 lightingwithacoastaltheme.com
 lightroom.com
 lightsinthenorthernsky.com
@@ -31519,6 +31523,7 @@ link.swa.info
 link.sylikes.com
 link.theplatform.com
 link.untirta.ac.id
+link.us.paramountplus.com
 link.wizzair.com
 linkagogo.com
 linkatopia.com
@@ -33158,6 +33163,7 @@ media-sof1-1.cdn.whatsapp.net
 media-vie1-1.cdn.whatsapp.net
 media-waw1-1.cdn.whatsapp.net
 media-yyz1-1-cdn.whatsapp.net
+media.amlg.io
 media.architecturaldigest.com
 media.arstechnica.com
 media.arstechnica.net
@@ -48219,6 +48225,7 @@ splashskins.com
 splatdogs.net
 splendidpalate.com
 splendorintheglass.net
+splice.amlg.io
 splitreason.com
 spminiatures.com
 spn.sr
