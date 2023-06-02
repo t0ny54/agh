@@ -1,4 +1,5 @@
 *-boot.tiktok*.com
+*-lb.ultimedia.com
 *.a2hosted.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
@@ -207,7 +208,6 @@
 *.tnt-ea.com
 *.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
-*.ultimedia.com
 *.unmineable.com
 *.update.easebar.com
 *.update.intl.miui.com
@@ -243,7 +243,6 @@
 *graph.instagram.com
 *logfiles.zoom.us
 *mcs*.byteoversea.com
-*mcs*.snssdk.com
 *mcs*.tiktok*.com
 *ocsp.microsoft.com
 *paypal*.siteintercept.qualtrics.com
@@ -30366,7 +30365,6 @@ kinderwebwinkel.nl
 kinderwindel.de
 kinderwinkel-online.nl
 kindundkegel-shop.de
-kinesis.*.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kineticfountains.com
 kinfolkcrafts.com
@@ -46347,6 +46345,7 @@ sign-here.com
 sign-maker.net
 signal-iduna.de
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
+signalfx.com
 signature-mouthguards.com
 signatureballoons.com
 signaturebaskets.com
