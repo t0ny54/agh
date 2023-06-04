@@ -8440,6 +8440,7 @@ blog.csdn.net
 blog.facebook.com
 blog.gravatar.com
 blog.hubspot.com
+blog.kakaocdn.net
 blog.medium.com
 blog.nic.ad.jp
 blog.sessionstack.com
@@ -12692,6 +12693,7 @@ clickhouse.com
 clickmeter.com
 clicks.aweber.com
 clicks.mlsend.com
+clicks.trx-hub.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 clickthecookie.co.uk
@@ -16394,6 +16396,7 @@ disky.com
 dislink.de
 disney.my.sentry.io
 disneyphotopass.eu
+disneyplus.bn5x.net
 dispenser.com
 display.ugc.bazaarvoice.com
 displayaway.com
@@ -49010,6 +49013,8 @@ stationerylady.com
 stationeryxpress.com
 stationhouse.com
 statistics.bcapps.org
+stats-trafficcop-prod.nba.com
+stats-trafficcop-prod.nba.com.edgekey.net
 stats.appsflyer.com
 stats.espncricinfo.com
 stats.gc.apple.com
@@ -49596,6 +49601,7 @@ suburbanclock.com
 suburbanjewelers.com
 suburbanop.com
 suburbanwheelcover.com
+subway.prod.sybo.net
 subzero.com
 succeedtogether.facebook.com
 successories.com
@@ -55408,6 +55414,7 @@ xylemdesign.com
 xzb.cc
 y-coach.com
 y0.cn
+y0.pl
 y6p.ru
 yacy.net
 yads.c.yimg.jp
