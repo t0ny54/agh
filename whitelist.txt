@@ -174,12 +174,14 @@
 *.searchnode.io
 *.searchnode.net
 *.securenetsystems.net
+*.seeyoufarm.com
 *.services.microsoft.com
 *.seu*.cleverreach.com
 *.share.microsoft.com
 *.share.yandex.ru
 *.sheerid.com
 *.sheerid.net
+*.slgnt.eu.cdn.cloudflare.net
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
 *.smsapi.micloud.xiaomi.net
@@ -4073,6 +4075,7 @@ api.cookiespool.com
 api.cortana.ai
 api.crunchyroll.com
 api.cryptonator.com
+api.datawrapper.de
 api.dds.microsoft.com
 api.device.xiaomi.net
 api.ditto.com
@@ -4222,6 +4225,7 @@ app.clearview.ai
 app.convertkit.com
 app.datadoghq.com
 app.datadoghq.eu
+app.datawrapper.de
 app.dharma.io
 app.e.sigsauer.com
 app.engage.jio.com
@@ -19266,6 +19270,7 @@ eulennest.at
 eulenshop.de
 eulenspiegel.de
 eulerian.brandalley.fr
+eulerian.officiel-des-vacances.com
 eultech.fnac.com
 eumhh.de
 eumor.com
@@ -27631,6 +27636,7 @@ img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
 img.brightcove.com
 img.connatix.com
+img.datawrapper.de
 img.digitaltrends.com
 img.ekstat.com
 img.elephantjournal.com
@@ -37202,6 +37208,7 @@ officesas.microsoft.com
 officescapesdirect.com
 officialssupplies.com
 officiating.com
+officiel-des-vacances.eulerian.net
 officino.co.jp
 officio.de
 offlinetshirts.com
@@ -45390,6 +45397,7 @@ seesaa.jp
 seeside.de
 seethebeautyboutique.com
 seewhyelectronics.com
+seeyoufarm.com
 seferisrael.co.il
 segafredo.it
 segelservice.com
@@ -53787,6 +53795,7 @@ vox.com
 vp.ru
 vpbank.com.vn
 vpos.isbank.co.uk
+vps.eulerian.net
 vr-amberg.de
 vr-b.de
 vr-bank-alzenau.de
