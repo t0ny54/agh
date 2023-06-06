@@ -58,6 +58,7 @@
 *.data-*.rtl.de
 *.data.microsoft.com.akadns.net
 *.dds.microsoft.com
+*.dev.virtualearth.net
 *.digicert.com
 *.doppiocdn.com
 *.dvsdvsdvsdva.com
@@ -149,6 +150,7 @@
 *.performfeeds.com
 *.phonecallapi.micloud.xiaomi.net
 *.pipe.aria.microsoft.com
+*.poki-gdn.com
 *.postup.com
 *.primevideo.com
 *.pubnub.com
@@ -1128,6 +1130,7 @@ a130.ms.a.microsoft.com
 a131.ms.a.microsoft.com
 a132.ms.a.microsoft.com
 a133.ms.a.microsoft.com
+a1333.r.akamai.net
 a134.ms.a.microsoft.com
 a135.ms.a.microsoft.com
 a136.ms.a.microsoft.com
@@ -1141,12 +1144,15 @@ a143.ms.a.microsoft.com
 a144.ms.a.microsoft.com
 a145.ms.a.microsoft.com
 a146.ms.a.microsoft.com
+a1467.b.akamai.net
 a147.ms.a.microsoft.com
 a148.ms.a.microsoft.com
 a149.ms.a.microsoft.com
 a1500.ms.a.microsoft.com
 a180.co.uk
+a1806.r.akamai.net
 a1843.g.akamai.net
+a1873.b.akamai.net
 a1camping.com
 a1clockman.com
 a1ebooksonline.com
@@ -1854,6 +1860,7 @@ adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adobe-dns.adobe.com
 adobedtm.com
+adobetarget.data.adobedc.net
 adollpattern.com
 adoptshoppe.com
 adorableannouncements.com
@@ -1888,6 +1895,7 @@ ads.twitter.com
 ads.videoadex.com
 ads1.careerbuilder.vn
 adserv.ro
+adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -11813,6 +11821,7 @@ chassisshop.com
 chassoprix.com
 chat.cdn.whatsapp.net
 chatbox-web.apple.com
+chatbox-web.apple.com.akadns.net
 chateau-de-fleurs.com
 chaters.co.uk
 chatra.io
@@ -12625,6 +12634,7 @@ clhs.kiev.ua
 cli.gs
 click-n-order.net
 click.allkeyshop.com
+click.alternate.de
 click.appcast.io
 click.appcast.io-v1.edgesuite.net
 click.chp.kohls.com
@@ -12777,6 +12787,7 @@ cliqz.com
 clk*.tradedoubler.com
 clk.boulanger.com
 clk.tradedoubler.com
+clkde.tradedoubler.com
 clkpl.tradedoubler.com
 clkuk.tradedoubler.com
 clobberleather.com.au
@@ -15170,6 +15181,7 @@ danthesausageman.com
 dantiques.com
 danwieboldford.com
 danybijoux.fr
+daohujjuqyjmm.cloudfront.net
 daphne1.com
 dapperdiapers.com
 dapperlads.com
@@ -15465,6 +15477,7 @@ de.ioam.de
 de.lirio.us
 de.pool.ntp.org
 deacons-jewellers.com
+deadlinefunnel.com
 deadlynightshades.com
 deadstroke.com
 deafsports.org.au
@@ -16959,6 +16972,7 @@ dpcauto.com
 dpcues.com
 dpflowers.com
 dpm.demdex.net
+dpzgml710ukw5.cloudfront.net
 dr-bed.net
 draagdoek.nl
 dracek.cz
@@ -17535,14 +17549,19 @@ e0.0.0.0l-gr.facebook.com
 e081.com
 e1.whatsapp.net
 e10.whatsapp.net
+e1020.dscb.akamaiedge.net
 e11.whatsapp.net
+e11290.dspg.akamaiedge.net
 e1151.e12.akamaiedge.net
+e11956.x.akamaiedge.net
 e12.whatsapp.net
+e12881.ksd.akamaiedge.net
 e13.whatsapp.net
 e14.whatsapp.net
 e14k.com
 e15.whatsapp.net
 e16.whatsapp.net
+e16749.dscx.akamaiedge.net
 e16973.a.akamaiedge.net
 e17.whatsapp.net
 e18.whatsapp.net
@@ -17550,16 +17569,21 @@ e19.whatsapp.net
 e2.whatsapp.net
 e20.whatsapp.net
 e2725.g.akamaiedge.net
+e29077.dscf.akamaiedge.net
 e3.whatsapp.net
+e3124.x.akamaiedge.net
 e3489.cd.akamaiedge.net
 e37.eu
 e3843.g.akamaiedge.net
 e4.whatsapp.net
+e4601.e3.akamaiedge.net
 e4hats.com
 e5.whatsapp.net
 e6.whatsapp.net
+e6351.b.akamaiedge.net
 e7.whatsapp.net
 e7065.e2.akamaiedge.net
+e7517.ksd.akamaiedge.net
 e8.whatsapp.net
 e808.com
 e8218.dscb1.akamaiedge.net
@@ -17993,6 +18017,7 @@ edge-atlas-shv-17-prn1.facebook.com
 edge-atlas-shv-18-prn1.facebook.com
 edge-chat.facebook.com
 edge-e-balw.customer.io
+edge-east.customer.io
 edge-irl1.demdex.net
 edge-liverail-shv-01-ams2.facebook.com
 edge-liverail-shv-01-ams3.facebook.com
@@ -18095,6 +18120,7 @@ edge-mqtt-shv-17-prn1.facebook.com
 edge-mqtt-shv-18-prn1.facebook.com
 edge-mqtt.facebook.com
 edge-mws-shv-01-frt3.facebook.com
+edge-pr-alb-5ox5k0zuo5ek-800389928.eu-central-1.elb.amazonaws.com
 edge-snaptu-http-mini-shv-01-mrs2.facebook.com
 edge-snaptu-http-p1-shv-01-ams3.facebook.com
 edge-snaptu-http-p1-shv-01-atl1.facebook.com
@@ -18148,6 +18174,8 @@ edge.experimentation.intuit.com
 edge.quantserve.com
 edge.yunjiasu.com
 edgeme.sh
+edger-edger-1bnzgiwi71hrk-784259727.us-east-2.elb.amazonaws.com
+edger-edger-4e3vcwvnek77-1367313377.us-east-2.elb.amazonaws.com
 edgeracingconverters.com
 edgeray-origin-shv-05-prn2.facebook.com
 edgeray-origin-shv-07-lla1.facebook.com
@@ -18366,6 +18394,7 @@ elainesflowershoppe.com
 elanko.ro
 elann.com
 elarcadenemo.com
+elb-aws-fr-visualiq-1583280815.eu-central-1.elb.amazonaws.com
 elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com
 elbambi.com
 elbashop.it
@@ -19194,6 +19223,7 @@ etailelectronics.com
 etailers.co.uk
 etailgifts.com
 etam.com
+etc.eulerian.net
 etched-glass.com
 etchworld.com
 etcompany.com
@@ -19258,6 +19288,7 @@ eu-west-2.target.aws.amazon.com
 eu-west-3.target.aws.amazon.com
 eu.spgo.io
 eu.vortex-win.data.microsoft.com
+eu1111.alicdn.com.edgekey.net
 eubecos.de
 eucalypta.com
 eucproducts.com
@@ -20204,6 +20235,7 @@ fbtonline.net
 fbwebpos.com
 fc-fever.com
 fc-resources.fastcompany.com
+fc.eulerian.net
 fcbanktn.com
 fcbinc.com
 fcbmilton.com
@@ -21713,6 +21745,7 @@ fp.tongdun.net
 fp1-kaw.ds.microsoft.com
 fp1-tk2-upl.ds.microsoft.com
 fp2d9f.wac.68b8.edgecastcdn.net
+fp2d9f.wac.edgecastcdn.net
 fp2e7a.wpc.2be4.phicdn.net
 fp2e7a.wpc.phicdn.net
 fpdownload.adobe.com
@@ -23400,6 +23433,7 @@ global-nutrition.de
 global-source-mkt.com
 global.albtls.t.co
 global.aliexpress.com
+global.aliexpress.com.gds.alibabadns.com
 global.asimov.events.data.trafficmanager.net
 global.cdn.survey.medallia.com
 global.fncstatic.com
@@ -24165,6 +24199,7 @@ grapevinetrading.com
 grapevinevideo.com
 graph.facebook.com
 graph.instagram.com
+graph.oculus.com
 graph.whatsapp.net
 graphicexpectations.com
 graphicmx.com
@@ -25089,6 +25124,7 @@ happyvalleyonline.com
 happyvalleytoys.com
 happywine.com
 happywrappings.com
+haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com
 harada-s.com
 harakasei.com
 haramlik.com
@@ -26861,6 +26897,7 @@ i.emb.ru
 i.guancha.cn
 i.gyazo.com
 i.hbrcdn.com
+i.hizliresim.com
 i.i.cbsi.com
 i.ibb.co
 i.imgci.com
@@ -31613,6 +31650,7 @@ linkroll.com
 links.*.slickdeals.net
 links.da.slickdeals.net
 links.getblueshift.com
+links.getblueshift.com.cdn.cloudflare.net
 links.iterable.com
 links.mkt41.net
 links.mkt51.net
@@ -31788,6 +31826,7 @@ login.facebook.com
 login.groove.microsoft.com
 login.ingbank.pl
 login.kt.com
+login.l2.salesforce.com
 login.live.com
 login.microsoftonline.com
 login.microsoftonline.us
@@ -33138,6 +33177,7 @@ mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 mcquerryorchidbooks.com
 mcrgifts.com
 mcrok.com
+mcs-va.tiktokv.com
 mcsbnh.com
 mcsnet.nl
 mcsoywax.com
@@ -37133,6 +37173,7 @@ octafx.com
 octaviajewelry.com
 octavo.com
 octoberbooks.org
+oculus.c10r.facebook.com
 ocusoft.com
 ocwsl.org
 odabash.com
@@ -38348,6 +38389,7 @@ p.skimresources.com
 p.typekit.net
 p0.ipstatp.com
 p04e.t.en25.com
+p04i.t.en25.com
 p1-bodyculture.de
 p1000.co.il
 p11.techlab-cdn.com
@@ -39732,6 +39774,7 @@ physio-fit-shop.de
 phyto-aroma.com
 pi-hole.net
 pi-jewels.com
+pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com
 pi-ue1.pardot.com
 pi.beta.msllab.microsoft.com
 pi.hole
@@ -40408,6 +40451,7 @@ pokerbargains.com
 pokerrunfashions.net
 pokershopping.dk
 pokershopping.se
+poki-gdn.com
 pokkadots.com
 pokupki-tut.ru
 polancohomedecor.com
@@ -40502,6 +40546,7 @@ pooh-country.co.uk
 pooh-tan.com
 pool-and-snooker.com
 pool-discount-anhalt.de
+pool-eu.visualiq.iponweb.net
 pool.emercoin.com
 pool.ntp.org
 pool2.emercoin.com
@@ -41097,6 +41142,7 @@ proctorjones.com
 procutlery.com
 procyclegear.com
 prod-image-fastly-cdn.yana.asideas.de
+prod-rotation-v2.guce.aws.oath.cloud
 prod.amazoncrl.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
@@ -44377,6 +44423,7 @@ samstores.com
 samsung.com
 samsungapps.com
 samsungapps.com.wtxcdn.com
+samsungcanada-mkt-prod1-lb.campaign.adobe.com
 samsungcanada-mkt-prod1-t.campaign.adobe.com
 samsungcloud.tv
 samsungcloudsolution.com
@@ -48550,6 +48597,7 @@ spring-oreo.itracmediav4.com
 springbak.net
 springcreek-engraving.com
 springdream.com
+springer2.map.fastly.net
 springfieldcardinals.com
 springfieldleather.com
 springfields.co.uk
@@ -52281,6 +52329,7 @@ torrentfreak.com
 toshibadirect.com
 toss.im
 tossinvest.com
+totaladblock.com
 totallythomas.com
 totalvac.com
 totelemonde.com
@@ -52337,6 +52386,7 @@ trac.facebook.com
 traccar.org
 tracemyip.org
 traceurl.com
+track*.effiliation.com
 track-eu.adformnet.akadns.net
 track.adform.net
 track.adtraction.com
@@ -52393,6 +52443,7 @@ trade.webborsam.com
 tradersbank.com
 tradetracker.net
 tradingmusician.com
+traefik-production.secure-traffic.com
 traffic.alexa.com
 traffic.eks.megaphone.cloud
 traffic.libsyn.com
@@ -54288,6 +54339,7 @@ widget.intercom.io
 widget.pushbullet.com
 widget.uservoice.com
 widget.yenimedya.com.tr
+widgets.jobbio.com
 widgets.opinary.com
 widgets.twimg.com
 widiba.it
