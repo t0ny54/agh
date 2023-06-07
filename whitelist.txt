@@ -1656,6 +1656,7 @@ action-fun-sport.de
 action-hq.com
 action-pact.co.uk
 action-sports.com
+action.com
 action.metaffiliation.com
 actionbilliards.com
 actioncenterpaintball.com
@@ -3447,6 +3448,7 @@ amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 amp-api-prd.bostonglobe.com
 amp-api-search-edge.apps.apple.com
+amp.akamaized.net
 amp.businessinsider.com
 amp.com.au
 amp.usatoday.com
@@ -11401,6 +11403,7 @@ cdnjs.cloudflare.com
 cdns-content.dzcdn.net
 cdns.gigya.com
 cdnsecakmi.kaltura.com
+cdnssl.clicktale.net
 cdnssl.softpedia.com
 cdon.no
 cdp.aliexpress.com
@@ -14961,6 +14964,7 @@ d1a62freaxhn7x.cloudfront.net
 d1afootball.com
 d1bd3wxsyuz0t7.cloudfront.net
 d1k85ogl73rd7b.cloudfront.net
+d1xbuscas8tetl.cloudfront.net
 d1y3gece3kbb7v.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
@@ -32008,6 +32012,7 @@ lynnvickproducts.com
 lyonsstudio.com
 lyonsuniforms.com
 lyonweb.net
+lyreco.com
 lythastudios.com
 lzflames.org
 lzo.com
@@ -49371,6 +49376,7 @@ storacingproducts.com
 storage-download.googleapis.com
 storage.cloud.google.com
 storage.googleapis.com
+storage.leafmedia.io
 storage.live.com
 storage.mds.yandex.net
 storagea2z.com
@@ -49500,6 +49506,7 @@ strawberrynet.com
 strawberrypot.com
 straycats.pages.jp
 stream*.pushbullet.com
+streamail.pro
 streamers.com
 streaming.split.io
 streamplay.to
