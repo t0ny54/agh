@@ -36560,6 +36560,7 @@ nl-go.kelkoogroup.net
 nl-nl.facebook.com
 nl.facebook.com
 nl.gravatar.com
+nl.pepper.com
 nldesigns.com
 nleditions.com
 nll.com
@@ -44172,6 +44173,8 @@ s24.is
 s2b.standardchartered.com
 s2k7tnzlhrpw.statuspage.io
 s2s.izatcloud.net
+s3-*-w.*.amazonaws.com
+s3-*-w.amazonaws.com
 s3-1.amazonaws.com
 s3-ap-southeast-1.amazonaws.com
 s3-console-us-standard.console.aws.amazon.com
@@ -55191,6 +55194,7 @@ www.rt.com
 www.rtss-prod.jioconnect.com
 www.s0.wp.com
 www.s1.wp.com
+www.s3.us-east-1.amazonaws.com
 www.sa-blacklist.stearns.org
 www.safaribooksonline.com
 www.safelinkconverter.com
