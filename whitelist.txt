@@ -1863,6 +1863,7 @@ adobe-dns.adobe.com
 adobedtm.com
 adobetarget.data.adobedc.net
 adollpattern.com
+adopt.com
 adoptshoppe.com
 adorableannouncements.com
 adorablebabygifts.com
@@ -11359,7 +11360,6 @@ cdn.stream.schibsted.media
 cdn.svp.schibsted.io
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
-cdn.tagcommander.com
 cdn.tpdads.com
 cdn.transifex.com
 cdn.trustcommander.net
@@ -27304,7 +27304,6 @@ icha.org
 ichimonji.co.jp
 ichirocollectables.com
 ichiroya.com
-ichnaea*.netflix.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icicibank.ca
@@ -51096,6 +51095,7 @@ tenrenstea.com
 tenten-boats.de
 tentoes.com
 tenttrails.com
+tenways.com
 teodolit.pl
 teora.ro
 teplovoda.ru
