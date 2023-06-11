@@ -52450,6 +52450,7 @@ tracking.post.japanpost.jp
 tracking.publicidees.com
 tracking.s24.com
 tracking.tldrnewsletter.com
+tracking.totalexpress.com.br
 tracking.truthfinder.com
 trackingshipment.apple.com
 trade.paritem.com
