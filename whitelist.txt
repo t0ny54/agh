@@ -85,7 +85,9 @@
 *.fundingchoicesmessages.google.com
 *.fwupd.org
 *.gameservices.ea.com
+*.gateway*.apple-dns.net
 *.gateway.devices.a2z.com
+*.gateway.icloud.com
 *.gc.apple.com
 *.gc.fe.apple-dns.net
 *.geo.ngtv.io
@@ -4077,6 +4079,7 @@ api.c99.nl
 api.chat.xiaomi.net
 api.chip-secured-download.de
 api.choice.microsoft.com
+api.cleverpush.com
 api.cloudflareapps.com
 api.coinbase.com
 api.comm.miui.com
@@ -14237,6 +14240,7 @@ crazyshirts.com
 crazyt-shirts.com
 crazytoys.ro
 crbcdn.jsfiddle.net
+create.unity.com
 createacatcondo.com
 createafavor.com
 createagarden.com
@@ -28195,6 +28199,7 @@ intesasanpaolo.com
 inthehack.com
 inthepinkjewellery.co.uk
 inthepinkonline.com
+intheswim.com
 inthetreetop.com
 intimaglamour.com
 intimate-fashion.com
@@ -28335,6 +28340,7 @@ ipv6.ndtv.com.edgekey.net
 ipv6.research.microsoft.com
 ipv6.unagi-na.amazon.com
 iq.lycos.co.uk
+iqiyipic.com
 iqpooltables.com
 iqtoys.co.nz
 iqtoys.com.au
@@ -49029,6 +49035,7 @@ static.adtidy.org
 static.ak.connect.facebook.com
 static.appsumo.com
 static.cdn.responsys.net
+static.cleverpush.com
 static.cloud.coveo.com
 static.coinbase.com
 static.datadoghq.com
@@ -49073,6 +49080,7 @@ static.zdassets.com
 static1.squarespace.com
 static2cdn.hubspot.com
 statics-marketingsites-*-ms-com.akamaized.net
+staticw2.yotpo.com
 staticweb.bankofamerica.com
 staticweb.ecglb.bac.com
 staticxx.facebook.com
@@ -50016,6 +50024,7 @@ surveillance-video.com
 survey*.medallia.eu
 survey.foreseeresults.com
 survey.forseeresults.com
+survey.qualtrics.com
 survey.watson.microsoft.com
 surveymonkey.com
 surveymyopinion.researchnow.com
