@@ -1,5 +1,6 @@
 *-boot.tiktok*.com
 *-lb.ultimedia.com
+*-spclient.spotify.com
 *.a2hosted.com
 *.acsechocaptiveportal.com
 *.activity.windows.com
@@ -5032,6 +5033,7 @@ assets-secure.applicaster.com
 assets.activity.windows.com
 assets.adobedtm.com
 assets.alicdn.com
+assets.allegrostatic.com
 assets.ckjr001.com
 assets.coinbase.com
 assets.dealabs.com
