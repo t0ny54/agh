@@ -18647,6 +18647,7 @@ emagictricks.co.uk
 email-*.adguard.com
 email-*.adtidy.*
 email-link.adtidy.org
+email-sendgrid-deep-linking.chewy.com
 email-tracking.infobip.com
 email.appsumo.com
 email.cmt.research.microsoft.com
@@ -27311,6 +27312,7 @@ icha.org
 ichimonji.co.jp
 ichirocollectables.com
 ichiroya.com
+ichnaea*.netflix.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icicibank.ca
