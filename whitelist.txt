@@ -125,8 +125,6 @@
 *.mcsvc.samsung.com
 *.mdhcdn.com
 *.measurement-lab.org
-*.meituan.com
-*.meituan.net
 *.messengerpeople.com
 *.metric.gstatic.com
 *.micardapi.micloud.xiaomi.net
@@ -6601,6 +6599,7 @@ bartswatersports.com
 bartzviviano.com
 barzso.com
 basarionline.com
+base.parameter1.com
 baseball-caps-and-hats.com
 baseball-equipment-4u.com
 baseball-links.com
@@ -11336,6 +11335,7 @@ cdn.onenote.net.edgekey.net
 cdn.onesignal.com
 cdn.optimizely.com
 cdn.otstatic.com
+cdn.parameter1.com
 cdn.pcbeta.attachment.inimc.com
 cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
@@ -25891,6 +25891,7 @@ hinterberg.com
 hip-threads.com
 hipchickbeads.com
 hipcio.pl
+hiperdex.com
 hipernet24.pl
 hipernex.com
 hiphat.com
@@ -43101,6 +43102,7 @@ renuherbs.com
 repairmanual.com
 repellex.com
 repiland.com
+repl.co
 replacementremotes.com
 replacements.com
 replacementsterling.com
@@ -45347,6 +45349,7 @@ secure-za.imrworldwide.com
 secure.aadcdn.microsoftonline-p.com
 secure.acquiropay.com
 secure.alpha.facebook.com
+secure.api.viewer.zmags.com
 secure.authority.ru
 secure.avangate.com
 secure.beta.facebook.com
@@ -53716,6 +53719,7 @@ vodafoneindia.tt.omtrdc.net
 voddownload.ndtv.com.edgekey.net
 voe.sx
 voguestrap.com
+void-scans.com
 void.gr
 voiloo.net
 voipnx-saturn.line-apps.com
@@ -54209,7 +54213,6 @@ weberbank.de
 webersports.com
 webevents.microsoft.com
 webfolders.metaservices.microsoft.com
-webhook.logentries.com
 webhostingtalk.com
 webid2.gs.com
 webkinz.com
