@@ -6638,6 +6638,7 @@ basementlighting.com
 basementshaman.com
 bases-loaded.com
 bashircarpets.com
+basic-fit.com
 basicbrilliance.com
 basics4baby.co.uk
 basicsclothing.com
@@ -10149,6 +10150,7 @@ c-and-a.com
 c-ctrip.com
 c-device.com
 c-dtags.com
+c-intermarche.com
 c-msn-com-nsatc.trafficmanager.net
 c-o.in
 c-p-p.co.uk
@@ -30908,6 +30910,7 @@ kookykards.com
 kooldawgtees.com
 koolmat.com
 koolstuff4kids.com
+koooora-live.online
 kooora.com
 koopjescorner.nl
 koopjessite.nl
@@ -45737,6 +45740,7 @@ sexyfurnishings.com
 sexyinlace.com
 sexylingerieusa.com
 seyberts.com
+sf*.market.xiaomi.com
 sf1-ttcdn-tos.pstatp.com
 sf2p.facebook.com
 sf3-ttcdn-tos.pstatp.com
@@ -52451,6 +52455,7 @@ tracker*.scoober.com
 tracker-g.aiscore.com
 tracker.dominos.com
 tracker.gpcdn.pl
+tracker.leechers-paradise.org
 tracker.marinsm.com
 tracker.opentrackr.org
 tracking-protection.cdn.mozilla.net
