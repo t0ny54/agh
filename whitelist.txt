@@ -154,6 +154,8 @@
 *.poki-gdn.com
 *.postup.com
 *.primevideo.com
+*.proctor.io
+*.proctorio.com
 *.pubnub.com
 *.push.apple.com
 *.pushmessage.samsung.com
@@ -5728,6 +5730,7 @@ b-m.facebook.com
 b-www.facebook.com
 b.bdstatic.com
 b.delivery.consentmanager.net
+b.fssta.com
 b.hatena.ne.jp
 b.koodomobile.com
 b.link
@@ -6133,6 +6136,8 @@ baltimore.cbslocal.com
 baltimoreblast.com
 baltimoregiftbaskets.com
 baluchrugs.com
+bam-eu01.cell.eu.nr-data.net
+bam.eu01.nr-data.net
 bamabots.com
 bamafever.com
 bamason.com
@@ -12934,6 +12939,7 @@ cmokcmok.pl
 cmp-consent-tool.privacymanager.io
 cmp.dmgmediaprivacy.co.uk
 cmp.osano.com
+cmp.sky.it
 cmp.tvspielfilm.de
 cmr.cl
 cms.facebook.com
@@ -20179,6 +20185,7 @@ fastival.fr
 fastkayak.com
 fastlane.tools
 fastly-analytics.com
+fastly-tls12-bam.eu01.nr-data.net
 fastnfab.org
 fastpitchnetworking.com
 fasturnjunction.com
@@ -22090,7 +22097,6 @@ fslocks.com
 fsnbank.com
 fspwear.de
 fsru.com
-fssquad.com
 fstbnk.com
 fsu.ch
 ftadirect.com
@@ -22683,6 +22689,7 @@ gate.ariuspay.ru
 gate.hockeyapp.net
 gate.io
 gate.vseplatezhi.ru
+gateway.dots-services.com
 gateway.fe.apple-dns.net
 gatewaybank.com
 gatewayflorist.us
@@ -41160,6 +41167,8 @@ procosmetics.co.uk
 procreditbank.bg
 procreditbank.com.ua
 procreditbank.de
+proctor.io
+proctorio.com
 proctorjones.com
 procutlery.com
 procyclegear.com
@@ -52267,6 +52276,7 @@ tlc.com
 tld-list.com
 tldr.sk
 tllg.net
+tls12.eu01.nr-data.net.cdn.cloudflare.net
 tls13.facebook.com
 tlu.dl.delivery.mp.microsoft.com
 tm.facebook.com
