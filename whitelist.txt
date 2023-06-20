@@ -1730,6 +1730,7 @@ ad-mats.com
 ad-med.cz
 ad-oom-cmg.streamguys1.com
 ad-shield.io
+ad.71i.de
 ad.admitad.com
 ad.atdmt.com
 ad.dep.no
@@ -15280,6 +15281,7 @@ dasspiel.ch
 dassprechendebuch.de
 dastv.co.uk
 daswaniclothiers.com
+data*.sportdeutschland.tv
 data-*.aerzteblatt.de
 data-supplies.com
 data.alexa.com
@@ -18625,6 +18627,7 @@ elmar.com
 elmercottonoxford.com
 elmers.co.uk
 elmirasavingsbank.com
+elmoinsurance.com
 elmtreeantiques.co.uk
 eloise.co.uk
 elosito.joguines.com
@@ -20566,6 +20569,7 @@ filenesbasement.com
 files.1drv.com
 files.alicdn.com
 files.brightcove.com
+files.catbox.moe
 files.cloud.orange.fr
 files.im
 files.msal.ru
@@ -41718,6 +41722,7 @@ qptv.ru
 qqc.co
 qr.net
 qray.com
+qrfy.com
 qrtag.fr
 qssupplies.co.uk
 qsurvey.mozilla.com
@@ -48479,6 +48484,7 @@ sportbuddy.com
 sportchek.ca
 sportcompactwarehouse.com
 sportdata.com.au
+sportdeu-relay.iocnt.net
 sportdogz.com
 sporteasy.net
 sportees.com
