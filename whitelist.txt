@@ -32091,6 +32091,7 @@ m.techrepublic.com
 m.uczzd.cn
 m.w.ms
 m.weeklyad.target.com
+m1-daum-apcajdmm.kgslb.com
 m1.com
 m1.daumcdn.net
 m1.fwmrm.net
@@ -41483,7 +41484,6 @@ puckshop.com
 puddlebeach.com.au
 puddlejumpers.co.uk
 pudgygreeting.com
-puds.ucweb.com
 pueblobankandtrust.com
 pueblochelles.com
 pueblodirect.com
@@ -50468,9 +50468,11 @@ t.skimresources.com
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1-wg2vgaja.kgslb.com
 t1.58cdn.com.cn
 t1.baidu.com
 t1.daumcdn.net
+t1.daumcdn.net.edgesuite.net
 t1.g.mi.com
 t10.baidu.com
 t11.baidu.com
@@ -52779,6 +52781,7 @@ uci.ch
 ucnb.com
 ucobank.com
 ucpb.biz
+ucweb.com
 udc.yahoo.com
 uddi.beta.microsoft.com
 uddiv3.microsoft.com
@@ -55635,6 +55638,7 @@ yuantabank.com.tw
 yub.com
 yugiohland.com
 yukoncurling.ca
+yule.sohu.com
 yun.ir
 yunfile.com
 yweb.com
