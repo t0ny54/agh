@@ -22,6 +22,7 @@
 *.api.miwifi.com
 *.app.asana.com
 *.apps.apple.com
+*.apps.apple.com.edgekey.net
 *.arc.epoq.de
 *.asynchronousmessaging.dashboard.co.uk
 *.attraqt.com
@@ -113,6 +114,9 @@
 *.instant.page
 *.intercom.io
 *.iotcplatform.com
+*.itunes-cdn.itunes-apple.com.akadns.net
+*.itunes.apple.com
+*.itunes.apple.com.edgekey.net
 *.kajabi-cdn.com
 *.kiwibrowser.com
 *.kwrn.eu
@@ -13551,7 +13555,9 @@ config.safedk.com
 config.uca.cloud.unity3d.com
 config.wmc.metaservices.microsoft.com
 configprd.samsungcloudsolution.net
+configuration.apple.com
 configuration.apple.com.akadns.net
+configuration.apple.com.edgekey.net
 configurator.microsoft.com
 confirmit.com
 conforama.fr
@@ -33716,6 +33722,7 @@ metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
 metricmechanic.com
 metricool.com
+metrics-target.siriusxm.com
 metrics.foxnews.com
 metrics.leaptel.com.au
 metrics.lidl.com
