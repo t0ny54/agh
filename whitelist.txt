@@ -21,6 +21,9 @@
 *.api.iris.microsoft.com
 *.api.miwifi.com
 *.app.asana.com
+*.apple-dns.net
+*.apple.com.akadns.net
+*.apple.com.edgekey.net
 *.apps.apple.com
 *.apps.apple.com.edgekey.net
 *.arc.epoq.de
@@ -1556,6 +1559,7 @@ accounts.facebook.com
 accounts.firefox.com
 accounts.google.com
 accounts.kakao.com
+accrosport.com
 accu-batt.de
 accu-doc.ch
 accu-shop.nl
@@ -2737,6 +2741,7 @@ alibaba.com
 aliblabla.it
 alibris.com
 alicdn.com
+alicesgarden.fr
 aliceshop.com
 alicesstainedglass.com
 alicias-attic.com
@@ -3990,6 +3995,7 @@ anysunglasses.com
 anythingbridal.com
 anythingforbaby.com
 anythingjoes.com
+anyti.me
 anytimecoffee.com
 anytimecostumes.com
 anz.co.nz
@@ -4290,6 +4296,8 @@ applam.com
 applauseformalwear.com
 apple-dns.net
 apple.com
+apple.com.akadns.net
+apple.com.edgekey.net
 apple.facebook.com
 apple.tt.omtrdc.net
 appleappliances.com
@@ -13557,7 +13565,6 @@ config.wmc.metaservices.microsoft.com
 configprd.samsungcloudsolution.net
 configuration.apple.com
 configuration.apple.com.akadns.net
-configuration.apple.com.edgekey.net
 configurator.microsoft.com
 confirmit.com
 conforama.fr
@@ -16264,6 +16271,7 @@ dinosaurfarm.com
 dinozavrik.ru
 dinrat.com
 dionissoap.com
+dior.com
 dir-shop.cz
 direc4u.com
 direct-cutlery.com
@@ -24816,6 +24824,7 @@ habermanfabrics.com
 habitatfutons.com
 habithat.co.uk
 haburi.com
+hac-foot.com
 haciendarustica.com
 hackaday.com
 hackergolfusa.com
@@ -28641,6 +28650,7 @@ itsybitsymini.com
 ittf.com
 ittybittyblessings.com
 ittybittybundles.com
+itunes-cdn.itunes-apple.com.akadns.net
 itunes.apple.com
 itv.ard.de
 ity.im
@@ -33326,6 +33336,7 @@ media.amlg.io
 media.architecturaldigest.com
 media.arstechnica.com
 media.arstechnica.net
+media.beehiiv.com
 media.complex.com
 media.directory.google.com
 media.drive.google.com
@@ -36840,6 +36851,7 @@ nothingbuttoys.net
 nothrow.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
+notifiarr.wiki
 notifications-pa.googleapis.com
 notifications-prod.cloud.remarkable.engineering
 notifications.google.com
@@ -48536,6 +48548,7 @@ sportovniobchod.cz
 sportowo.pl
 sportplanes.com
 sportplus.org
+sportradarserving.com
 sportrx.com
 sports-blankets.com
 sports-hoop.com
@@ -48585,6 +48598,7 @@ sportshooter.de
 sportsimmortals.com
 sportsintegrity.com
 sportsjuice.com
+sportslocalmedia.com
 sportslocker.com.au
 sportsmaniawear.com
 sportsmanseye.com
