@@ -2942,6 +2942,7 @@ allkingsflags.com
 allmagazinesubscriptions.com
 allmarkets.ru
 allmartialarts.com
+allmybanks.net
 allmyfavorites.net
 allmymemories.com
 allmytreasures.com
@@ -6467,6 +6468,7 @@ banquelaurentienne.ca
 banquepopulaire.fr
 banqueroyale.ca
 banqueroyale.com
+banquetransatlantique.com
 banrisul.com.br
 bant-shirts.com
 banzaiboards.com
@@ -10222,6 +10224,7 @@ c6bank.com.br
 ca-alpesprovence.fr
 ca-anjou-maine.fr
 ca-aquitaine.fr
+ca-assurances.com
 ca-atlantique-vendee.fr
 ca-cb.fr
 ca-central-1.target.aws.amazon.com
@@ -41633,6 +41636,7 @@ puttersparadise.com
 putterwizard.com
 putterwoods.com
 puttputtboats.co.nz
+puui.qpic.cn
 puurple.com
 puzzledepo.com
 puzzledruck.info
