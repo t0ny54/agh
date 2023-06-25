@@ -56,7 +56,6 @@
 *.cloud.axiadids.net
 *.cname.campaign.adobe.com
 *.contabostorage.com
-*.controld.com
 *.curve.app
 *.custom-domain.publitas.com
 *.damoh.*.de
@@ -211,6 +210,7 @@
 *.stat.gov.pl
 *.static-app.klaviyo.com
 *.static-forms.klaviyo.com
+*.stats.paypal.com
 *.storage.googleapis.com
 *.strpst.com
 *.sunwaydigitalwave.com.my
@@ -3530,6 +3530,7 @@ analitik.edevlet.gov.tr
 analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
+analytics.controld.com
 analytics.halkbank.com.tr
 analytics.icis.com
 analytics.shopify.com
@@ -13689,7 +13690,6 @@ contractorsav.com
 contractorsclothing.com
 contribros.com
 control.phone.com
-controld.com
 controls.account.microsoft.com
 controls.cp.microsoft.com
 controls.platform.account.www.microsoft.com
