@@ -5772,6 +5772,7 @@ b2shoes.com
 b3.net
 b54.in
 ba-da-boum.com
+ba-sh.com
 ba.org.tw
 baabaazuzu.com
 baacks.com
@@ -7719,6 +7720,7 @@ bfc-creations.com
 bfc.com.ve
 bfcarbon.com
 bfer.ro
+bff-maisonsdumonde.com
 bfm-satshop.de
 bforbank.com
 bfrank.com
@@ -9441,6 +9443,7 @@ brewco.com
 brewerdesign.com
 brewerianazone.com
 breyla.com
+brgergmbhcokg.createsend1.com
 brianclough.com
 briangrant.50megs.com
 brianloomes.com
@@ -12980,6 +12983,7 @@ cn.gravatar.com
 cn.pool.ntp.org
 cn.wswebcdn.com
 cn86.org
+cname.beehiiv.com
 cname.tradepub.com
 cname.vercel-dns.com
 cnave.com
@@ -31681,6 +31685,7 @@ link.dana.id
 link.digitaladvisor.dk
 link.epicgames.com
 link.freshmail.mx
+link.mail.beehiiv.com
 link.otkritiefc.ru
 link.safelinkconverter.com
 link.springer.com
@@ -33276,6 +33281,7 @@ mearnscraft.co.uk
 measurement-lab.org
 meatballsandads.com
 meatfordog.ru
+meatspin.com
 mebank.com.au
 mebanknotes.com
 mebelnadom.ru
@@ -33696,6 +33702,7 @@ messagebears.com
 messaging.internetofthings.ibmcloud.com
 messaging.office.microsoft.com
 messaging.schibsted.io
+messaginganalytics.athena.io
 messenger.com
 messengerpeople.com
 messer-zentrum.de
