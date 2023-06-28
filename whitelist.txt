@@ -10206,6 +10206,7 @@ c.office.com
 c.orange.fr
 c.s-microsoft.com
 c.seznam.cz
+c.trackmytarget.com
 c.trello.com
 c.youdao.com
 c0.ifengimg.com
@@ -11295,6 +11296,7 @@ cdm.microsoft.com
 cdm24.pl
 cdmsports.com
 cdn*.edgedatg.com
+cdn*.onnetwork.tv
 cdn-116.anonfiles.com
 cdn-153.anonfiles.com
 cdn-apple.com
@@ -19834,7 +19836,9 @@ f1-photo.com
 f1-prod-production.apigee.net
 f1-prod-production.dn.apigee.net
 f1.g.mi.com
+f1.mailperformance.com
 f1.media.brightcove.com
+f1.np6.com
 f10.baidu.com
 f100.com
 f11.baidu.com
@@ -33742,6 +33746,7 @@ meteoshop.cz
 metnyrfu.org
 metok-ccc.intl.xiaomi.com
 metok.sys.miui.com
+metric.picodi.com
 metricmechanic.com
 metricool.com
 metrics-target.siriusxm.com
@@ -50106,6 +50111,7 @@ survey.watson.microsoft.com
 surveymonkey.com
 surveymyopinion.researchnow.com
 surveys.twilio.com
+survicate.com
 surving.com
 survival-pack.com
 survivalsolutions.com
@@ -52482,6 +52488,8 @@ tr.facebook.com
 tr.gravatar.com
 tr.im
 tr.my
+tr.notification.cetelem.fr
+tr.np6.com
 tr.snapchat.com
 tr4.cbsistatic.com
 tr5.in
@@ -53587,6 +53595,7 @@ victorystore.com
 vid-cdn*.stroeermb.de
 vid.connatix.com
 viddler.com
+video*.onnetwork.tv
 video-*.tiktok*.com
 video-ak-sf2p.facebook.com
 video-api-cdn.bostonglobe.arcpublishing.com
