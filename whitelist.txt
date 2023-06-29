@@ -56,6 +56,8 @@
 *.cloud.axiadids.net
 *.cname.campaign.adobe.com
 *.contabostorage.com
+*.controlup.com
+*.createsend1.com
 *.curve.app
 *.custom-domain.publitas.com
 *.damoh.*.de
@@ -9443,7 +9445,6 @@ brewco.com
 brewerdesign.com
 brewerianazone.com
 breyla.com
-brgergmbhcokg.createsend1.com
 brianclough.com
 briangrant.50megs.com
 brianloomes.com
@@ -13699,6 +13700,7 @@ control.phone.com
 controls.account.microsoft.com
 controls.cp.microsoft.com
 controls.platform.account.www.microsoft.com
+controlup.com
 conturabelle.co.uk
 convekta.com
 conversantmedia.com
@@ -14292,6 +14294,7 @@ created4me.com
 createdwithnature.com
 createforless.com
 creatememories.net
+createsend1.com
 creationcaptured.com
 creationsasa.homestead.com
 creationsbycarolladine.com
