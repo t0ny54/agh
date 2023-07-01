@@ -238,6 +238,7 @@
 *.vortex.data.trafficmanager.net
 *.wdtinc.com
 *.widget.cloud.opta.net
+*.wishpond.com
 *.wsj.net
 *.www-googletagmanager.l.google.com
 *.xp.apple.com
@@ -14654,6 +14655,7 @@ ct.pinterest.com
 ct.sendgrid.net
 ct.techrepublic.com
 ct.yimg.com
+cta-redirect.hubspot.com
 ctbcbank.com
 ctcbonline.com
 ctdollartists.com
@@ -18393,6 +18395,8 @@ ehobbies.com
 ehobbytools.com
 eholster.com
 ehrmantapestry.com
+eic.cdpsvc.lgtvcommon.com
+eic.recommend.lgtvcommon.com
 eichlers.com
 eickpack.de
 eifelimker.de
@@ -54574,6 +54578,7 @@ wise.com
 wisecleaner.com
 wiser.org
 wishabi.net
+wishpond.com
 wists.com
 wivoba.de
 wizink.es
