@@ -47,6 +47,7 @@
 *.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
+*.cdpsvc.lgtvcommon.com
 *.cdx.cedexis.net
 *.ceros.com
 *.change.org.cdn.cloudflare.net
@@ -169,6 +170,7 @@
 *.pushmessage.samsung.com
 *.pv-cdn.net
 *.quicns.com
+*.recommend.lgtvcommon.com
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
 *.rewardsplatform.microsoft.com
@@ -5733,6 +5735,7 @@ azibaza.com
 aziomedia.com
 azmusicpro.com
 azo.pl
+azol.de
 azone.ch
 azpartsmaster.com
 azponds.com
@@ -11463,6 +11466,7 @@ cdpautomachine.com
 cdpeacock.com
 cdpets.com
 cdproxy-336a18f93cd83100.elb.eu-west-1.amazonaws.com
+cdpsvc.lgtvcommon.com
 cdrdvdrmedia.com
 cdrecordingsoftware.com
 cds.b5g9b8e4.hwcdn.net
@@ -18395,8 +18399,6 @@ ehobbies.com
 ehobbytools.com
 eholster.com
 ehrmantapestry.com
-eic.cdpsvc.lgtvcommon.com
-eic.recommend.lgtvcommon.com
 eichlers.com
 eickpack.de
 eifelimker.de
@@ -42855,6 +42857,7 @@ recmotor.com
 reco-public.rec.mp.microsoft.com
 recoimports.com
 recollections.biz
+recommend.lgtvcommon.com
 recommendationengine.googleapis.com
 recommender*.scarabresearch.com
 recordsbymail.com
