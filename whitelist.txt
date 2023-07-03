@@ -7792,6 +7792,7 @@ bgifitness.com
 bgindy.com
 bglasses.com
 bgp.fe01.c3.xiaomi.com
+bgp.he.net
 bgpl.ds.sh.dl.ws.microsoft.com
 bgpl.v4.sh.dl.ws.microsoft.com
 bgpn.ds.sh.dl.ws.microsoft.com
@@ -49623,6 +49624,7 @@ strawberrypot.com
 straycats.pages.jp
 stream*.pushbullet.com
 streamail.pro
+streamback.ns1.ff.avast.com
 streamers.com
 streaming.split.io
 streamplay.to
@@ -49766,6 +49768,7 @@ subito.it
 sublimestitching.com
 submarino.com.br
 submissions.metaservices.microsoft.com
+submit.sb.avast.com
 submiturl.microsoft.com
 subscribe.wired.com
 subscription.co.uk
@@ -53417,6 +53420,7 @@ vbnienburg.de
 vbo.mkb.ru
 vbohz.de
 vbos-nordland.de
+vbout.com
 vboyten.de
 vbpf.de
 vbrb.de
