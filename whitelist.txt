@@ -679,6 +679,7 @@
 24-sporternaehrung.de
 24.comertbank.md
 24.lv
+24auto.de
 24banking.md
 24banking.ro
 24h-bildexpress.de
@@ -3360,6 +3361,7 @@ americandogbeds.com
 americanetching.com
 americanexpress.com
 americanexpress.com.au
+americanexpress.com.ssl.d2.sc.omtrdc.net
 americanfederalsavingsbank.com
 americanflagcenter.com
 americanflags.com
@@ -11374,6 +11376,7 @@ cdn.jscloudflare.com
 cdn.jsdelivr.net
 cdn.jwplayer.com
 cdn.kaltura.com
+cdn.listrakbi.com
 cdn.livechat.com.edgekey.net
 cdn.livechatinc.com
 cdn.mediavoice.com
@@ -12775,6 +12778,7 @@ clickufficio.it
 client-bank.itbank.ru
 client-event-reporter.twitch.tv
 client-s.gateway.messenger.live.com
+client-stream-events.mtg-api.com
 client-uc.heytapmobi.com
 client.cdn77.com
 client.crisp.chat
@@ -13597,6 +13601,7 @@ conkershoes.com
 conleys.de
 conlin.de
 connatix.com
+connect-line.gr
 connect.auone.jp
 connect.facebook.com
 connect.facebook.net
@@ -26898,6 +26903,7 @@ hvac-webdirect.com
 hvidbjergbank.dk
 hvidevaredele.dk
 hvrenegades.com
+hw.zuimeitianqi.com
 hwangelshop.de
 hwataibank.com.tw
 hwildflower.com
@@ -28793,6 +28799,7 @@ jagdartikelshop.de
 jagdversand.com
 jagengines.com
 jaghobbies.com
+jagoketik.com
 jagos-aquarium.de
 jagsassn.org
 jaguars.jacksonville.com
@@ -31887,6 +31894,7 @@ loebbecke-bank.de
 loftykids.com
 log-upload-os.mihoyo.com
 log-upload.mihoyo.com
+log.tresorit.com
 log.uniconsent.mgr.consensu.org
 log2shop.com
 logcabinarts.com
@@ -37630,6 +37638,7 @@ omnimap.com
 omnimodels.com
 omnisportstech.com
 omnitronelectronics.net
+omns.americanexpress.com
 omoidekobo.com
 omplanete.com
 omroepbrabant.bbvms.com
@@ -49760,6 +49769,7 @@ styloweprezenty.pl
 styluscentral.com
 su.pr
 suavecito.com
+sub.ykimg.com
 subarumysubaruappproduction.112.2o7.net
 subastacr.com
 sube.garantibbva.com.tr
@@ -55360,6 +55370,7 @@ www.sitepoint.com
 www.sitesell.com
 www.skimresources.com
 www.slack.com
+www.smartnews.be
 www.smashingmagazine.com
 www.snapdeal.com
 www.space.com
