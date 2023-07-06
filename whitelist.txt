@@ -1628,6 +1628,7 @@ achildsdream.com
 achome.co.uk
 acikdeniz.denizbank.com
 acikdenizv2.denizbank.com
+acitizen.net
 ackfishing.com
 ackley-uniforms.com
 aclassicbloom.com
@@ -2953,6 +2954,7 @@ allkingsflags.com
 allmagazinesubscriptions.com
 allmarkets.ru
 allmartialarts.com
+allmybanks.com
 allmybanks.net
 allmyfavorites.net
 allmymemories.com
@@ -2963,6 +2965,7 @@ allnaturalstuff.com
 allnautical.com
 allo-mebel.ru
 allo.m.facebook.com
+allobebe.fr
 alloccasionflowers.com
 alloccasionsflowers.com
 alloddballaquatics.com
@@ -4206,6 +4209,7 @@ api.tw06.xlmc.sandai.net
 api.twitter.com
 api.uca.cloud.unity3d.com
 api.unsplash.com
+api.useberry.com
 api.usebutton.com
 api.viber.com
 api.vip.miui.com
@@ -5150,6 +5154,7 @@ atbshop.co.uk
 atdmt.com
 ate.ads.schibsted.io
 atecsports.com
+atelier-de-france.fr
 atelier-freierfall.de
 atelier-ikeda.com
 atelier-isabelle.com
@@ -5454,6 +5459,7 @@ authorizedelectronics.com
 authweb.alipay.com
 auto-acp.com
 auto-connect.co.uk
+auto-doc.fr
 auto-gem.com
 auto-nrw.de
 auto-parts-wholesale.com
@@ -5477,6 +5483,7 @@ autobuster.com.ar
 autocarparts.com
 autocomplete.support.microsoft.com
 autodiscover.facebook.com
+autodoc.de
 autodynamic.com
 autoelectrical.com
 autoelectricgates.co.uk
@@ -5586,6 +5593,7 @@ aventellc.com
 aventthai.com
 aventuraflowers.com
 avenue-des-bebes.com
+avenue-des-parfums.fr
 avenue.com
 avenuearabella.com
 avenuedesanges.com
@@ -5693,6 +5701,7 @@ awxcdn.com
 ax.phobos.apple.com.edgesuite.net
 axa.be
 axelair.com
+axelle.bnpparibas
 axiadids.net
 axiata.m.facebook.com
 aximax.nl
@@ -15947,6 +15956,7 @@ desnuffelshop.nl
 desotosport.com
 despair.com
 desperate.com
+despetitshauts.com
 despijkerbroek.nl
 dessa.pl
 desser.com
@@ -18848,6 +18858,7 @@ en.bab.la
 en.gravatar.com
 en.lionelmessi.org
 en.w3schools.com
+enabler.datalake.mediaset.it
 ename.com.cn
 ename.net
 enamelcraft.com
@@ -20477,6 +20488,7 @@ feuerwerksvitrine.de
 feuvert.fr
 fevervintage.com
 fexclick.baidu.com
+feylibertad.org
 ff-01.com
 ff-02.com
 ff-03.com
@@ -32446,6 +32458,7 @@ maisonconnoisseur.com
 maisondelaradiesthesie.fr
 maisondelyon.nl
 maisondugps.com
+maisondurunning.com
 maisonic.com
 maisonradical.ca
 maisonsdumonde.com
@@ -33338,6 +33351,7 @@ medbook.com.pl
 medco-school.com
 medenantiques.co.uk
 medfordtools.com
+media-amazon.com
 media-ams3-1.cdn.whatsapp.net
 media-amt2-1.cdn.whatsapp.net
 media-arn2-1.cdn.whatsapp.net
@@ -37394,6 +37408,7 @@ ogcnissa.com
 oggi.co.jp
 ogk-shop.com
 ogollymissmolly.com
+ogp.me
 ogracing.com
 ogs.google.com
 ogunquitwoodentoy.com
@@ -44038,6 +44053,7 @@ rufusdawg.com
 rug-gallery.com
 rugarea.com
 rugbooks.com
+rugby-chartres.fr
 rugby.com.au
 rugby.cz
 rugby.org
@@ -45600,6 +45616,7 @@ selectpearls.com
 selectraders.co.uk
 selectrosescanada.com
 selectseeds.com
+selency.com
 selene.pl
 selenium-release.storage.googleapis.com
 selezen.net
@@ -47356,6 +47373,7 @@ smartlook.com
 smartmediarep.com
 smartpakequine.com
 smartpartnermarketing.microsoft.com
+smartplugin.youbora.com
 smartredirect.de
 smartscreen-os1p.smartscreen.microsoft.com
 smartscreen.microsoft.com.nsatc.net
@@ -48818,6 +48836,7 @@ srt.m.facebook.com
 srtb.msn.com
 srucouf.fr
 sruniforms.com
+srv.tunefindforfans.com
 srv1.xbext.com
 srv2.xbext.com
 srwhitecarving.com
@@ -49767,6 +49786,7 @@ stylism.com
 stylitics.com
 styloweprezenty.pl
 styluscentral.com
+su.ff.avast.com
 su.pr
 suavecito.com
 sub.ykimg.com
@@ -52759,6 +52779,7 @@ tuneinn.co.uk
 tuner-api.hdhomerun.com
 tungstenrings.com
 tupperware.com
+tupperware.eu
 turanbank.az
 turboclip.com
 turbonock.com
@@ -53197,6 +53218,7 @@ userlocation.googleapis.com
 userreport.com
 userscloud.com
 userscripts-mirror.org
+uservoice.com
 uset.org
 usewha.org
 usfca.org
@@ -53460,6 +53482,7 @@ vcdiscounter.com
 vchat-stg.support.microsoft.com
 vchat1.microsoft.com
 vchecks.me
+vcreatek.com
 vcs.metaservices.microsoft.com
 vcs.vdspf.com
 vcurams.vcu.edu
