@@ -405,6 +405,7 @@
 101tshirts.co.uk
 104web.co.jp
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
+10doigts.fr
 10ktruth.com
 10outof10.co.uk
 10park.com
@@ -1878,6 +1879,7 @@ admin.messaging.microsoft.com
 admin.tagppe.microsoft.com
 admin.tagtst.microsoft.com
 admin.training.partner.microsoft.com
+administrator.pnclassaction.com
 adminlogin.liveperson.net
 admirable-tea-boutique.com
 admiralflagpoles.com
@@ -2576,6 +2578,7 @@ akf24.de
 akidsbeddingline.com
 akirastudios.com
 akizz.com
+akjaerbede.dk
 akku-discounter.de
 akku-doktor.de
 akku-nord.de
@@ -3575,6 +3578,7 @@ anchorbayaquarium.com
 anchorbox.com
 anchorexpress.com
 anchorsfoodfinds.com
+anciennes-legiondhonneur.com
 ancientacu.com
 ancientcircles.com
 ancientcoins.biz
@@ -3748,6 +3752,7 @@ animalstars.com
 animalworldnetwork.com
 animatile.com
 animationalley.com
+animaux-du-monde.com
 anime-cel.com
 anime-remix.com
 animebooks.com
@@ -5564,6 +5569,7 @@ av20.ocsweb.microsoft.com
 av21.lyncweb.microsoft.com
 av21.ocsweb.microsoft.com
 av3.lyncweb.microsoft.com
+ava-may.fr
 avaflorist.com
 aval.ua
 avalon-shop.co.uk
@@ -7328,6 +7334,7 @@ behrents.com
 behrmanhouse.com
 beigeplus.com
 beijingwushuteam.com
+bein.com
 beiterbattery.com
 beitliqa-shop.org
 bekas.com
@@ -15613,6 +15620,7 @@ decalmx.com
 decalstore.com
 decathlon.com
 decathlon.fr
+decathlon.net
 decathlon.pl
 decazaypesca.com
 decentcoffee.com
@@ -31347,6 +31355,7 @@ kykyryza.ru
 kz.shinhanglobal.com
 l-k.be
 l-s-lowry.co.uk
+l.1mp.ru
 l.betrad.com
 l.facebook.com
 l.qq.com
@@ -52005,6 +52014,12 @@ theneemteam.co.uk
 thenestingbox.net
 thenextweb.com
 thengraver.com
+thenorthface.co.uk
+thenorthface.com.hk
+thenorthface.cz
+thenorthface.eu
+thenorthface.fr
+thenorthface.ru
 thenuttytart.co.uk
 theofeel.de
 theoillampstore.com
