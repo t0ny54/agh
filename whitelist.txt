@@ -686,6 +686,7 @@
 24h-bildexpress.de
 24hourshopping.nl
 24leather.com
+24s.com
 24smi.info
 25.ajax.googleapis.com
 26.ajax.googleapis.com
@@ -848,6 +849,7 @@
 41sake.com
 41vogue.com
 42photo.com
+43einhalb.com
 43things.com
 444cicek.com
 45restoration.com
@@ -1838,6 +1840,7 @@ adelaidebank.com.au
 adelaidebooksellers.com.au
 adelaideorchids.com
 adelcom.net
+adeledelacigogne.fr
 adevineflorist.com.au
 adf.ly
 adfa.st
@@ -3214,6 +3217,8 @@ amadicarpets.com
 amads.com
 amagarea.com
 amagerbanken.dk
+amai.com
+amaicdn.com
 amaina.com
 amalaika.com
 amanath-bank.com
@@ -4240,6 +4245,7 @@ aplusjewelers.com
 apluspetgoods.com
 apm3.music.163.com
 apmebf.com
+apmf.fr
 apnabank.co.in
 apne.ws
 apnea.co.uk
@@ -5058,6 +5064,7 @@ aspenlog.com
 aspenluggage.com
 aspenshopsonline.com
 aspensong.com
+asphaltgold.com
 asphodele-lingerie.com
 aspinningwheel.com
 asplendidtable.com
@@ -6494,6 +6501,7 @@ banque.com
 banque.fr
 banqueagf.fr
 banquecentrale.gov.sy
+banquedesterritoires.fr
 banquefinama.fr
 banquelaurentienne.ca
 banquepopulaire.fr
@@ -6867,6 +6875,7 @@ baviera.it
 baxleystamps.com
 baxtersdirect.com
 baxtersonline.co.uk
+bayardsso.fr
 bayareabags.com
 bayareacricket.org
 bayareakicks.com
@@ -7749,6 +7758,7 @@ bfast.com
 bfc-creations.com
 bfc.com.ve
 bfcarbon.com
+bfcoi.com
 bfer.ro
 bff-maisonsdumonde.com
 bfm-satshop.de
@@ -20631,6 +20641,7 @@ file-extensions.org
 file.dingtalk.com
 file.market.xiaomi.com
 file2fxm.azureedge.net
+filebroker-cdn.lazada.*
 filedropper.com
 filefactory.com
 filehorse.com
@@ -31484,6 +31495,7 @@ latest.facebook.com
 lathemaster.com
 latimes.com
 latimesblogs.latimes.com
+latoquedor.com
 latoys.com
 latriclub.com
 lattaoutdoors.com
@@ -34648,6 +34660,7 @@ momsteam.com
 momthoughts.com
 momwitch.com
 mon*-checkout-*.tiktok*.com
+mon*-i*.tiktok*.com
 mon*-normal-*.tiktok*.com
 mon*-platform-*.tiktok*.com
 mon*-tmp-*.tiktok*.com
@@ -43892,6 +43905,7 @@ rotoworld.com
 rottaler-raiba.de
 rougeetnoir.fr
 roughingitinstyle.com
+rougier-ple.fr
 round.ru
 roundbough.com
 roundhousehobbies.com
@@ -47513,6 +47527,7 @@ snc1.facebook.com
 sneakerbardetroit.com
 sneakerhead.com
 sneakerland.com
+sneakers76.com
 sneakershop.dk
 sneakershop.net
 sneakersnstuff.com
@@ -48328,6 +48343,7 @@ specialdayweddings.co.uk
 specialeventticketing.com
 specialisedleather.co.uk
 specialist-tackle.co.uk
+specialized.com
 specialoccasions.co.za
 specialolympics.org
 specialolympicsco.org
