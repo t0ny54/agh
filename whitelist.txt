@@ -4285,6 +4285,7 @@ app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 app.clearview.ai
 app.convertkit.com
+app.convertkit.com.cdn.cloudflare.net
 app.datadoghq.com
 app.datadoghq.eu
 app.datawrapper.de
@@ -5080,6 +5081,7 @@ asset.wsj.net
 assets-jpcust.jwpsrv.com
 assets-news-bcdn.dailyhunt.in
 assets-secure.applicaster.com
+assets-thaingohkee9zeyohke8.medkomtek.com
 assets.activity.windows.com
 assets.adobedtm.com
 assets.alicdn.com
@@ -12534,6 +12536,7 @@ cjelectrical.co.uk
 cjhomeandoffice.com
 cjproshop.com
 cjrent.com
+ck.page
 ckcollection.com
 ckdanceshoes.com
 cksales.com
@@ -13864,6 +13867,7 @@ coralgablesflorist.com
 coralogix.com
 corazonfairtrade.com
 corbeilelectro.com
+corbettreport.com
 corbitts.com
 cordaroys.com
 cordcamera.com
@@ -21667,6 +21671,7 @@ formasoave.jp
 formel-1gp.de
 forms.convertkit.com
 forms.gle
+forms.yandex.com
 formspree.io
 formstack.com
 formula1.com
@@ -22607,6 +22612,7 @@ gamedayspirit.com
 gamedaysports.net
 gamediggity.com
 gamefly.com
+gameforge.com
 gamejam.co.uk
 gameland.nl
 gameloaded.co.uk
@@ -28417,6 +28423,7 @@ ipinfodb.com
 ipla.tv
 ipleak.net
 iplocationtools.com
+iplogger.com
 iplogger.org
 ipm-provider.ff.avast.com
 ipnlighting.com
@@ -30814,6 +30821,7 @@ klevyi.ru
 klewexpressions.com
 klik.poba.hr
 klikbca.com
+klikdokter.com
 klim-reol.dk
 klimasklep.pl
 klimatop.pl
@@ -37034,6 +37042,7 @@ nscalecollector.com
 nsfw.in
 nsfw.reddit.com
 nsiradio.com
+nsm.tr.netsalesmedia.pl
 nsrfc.com
 nss.facebook.com
 nstarbank.com
@@ -47735,6 +47744,7 @@ softrugs.com
 softsculpturedolls.com
 softsurroundings.com
 softtech.m.facebook.com
+softwareupdates.amazon.com
 softworld.es
 sog.co.nz
 soga.co.uk
@@ -50556,6 +50566,7 @@ sysdev.microsoft.com
 system-bank.ru
 system.aliorbank.pl
 system.shop.by
+system360.inistrack.net
 systembank.pl
 systemcenter.pinpoint.microsoft.com
 szamanka.pl
@@ -52672,6 +52683,7 @@ trampolinesales.com
 transaccionesbancolombia.com
 transbank.cl
 transcredit.ru
+transfer.sh
 transfers.ds.microsoft.com
 transfers.one.microsoft.com
 translate-acx.amazon.com
@@ -54040,6 +54052,8 @@ volleyballact.com.au
 volleyballseek.com
 volstatebank.com
 volvofinans.se
+voodoo-tech.io
+voodoo.io
 vorbank.dk
 vorne.de
 vortex-sandbox.data.glbdns2.microsoft.com
