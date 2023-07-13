@@ -4280,6 +4280,7 @@ app.adjust.io
 app.adjust.net.in
 app.adjust.world
 app.alipay.com
+app.appsflyer.com
 app.asana.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
@@ -30776,6 +30777,7 @@ kiwi-sheepskins.com
 kiwibank.co.nz
 kiwibox.com
 kiwibrowser.com
+kiwibrowser.org
 kiwijewels.com
 kiwisearchservices.com
 kiwitreats.com
@@ -55709,6 +55711,7 @@ xxxsports.com
 xxxx.ajax.googleapis.com
 xylemdesign.com
 xzb.cc
+xzone.cz
 y-coach.com
 y0.cn
 y0.pl
