@@ -54,6 +54,7 @@
 *.chatra.io
 *.clarity.dexcom.com
 *.clarity.dexcom.com.cdn.cloudflare.net
+*.click-sap.sfmc-marketing.com
 *.cloud.axiadids.net
 *.cname.campaign.adobe.com
 *.contabostorage.com
@@ -68,6 +69,7 @@
 *.dev.virtualearth.net
 *.digicert.com
 *.doppiocdn.com
+*.dropbox-dns.com
 *.dvsdvsdvsdva.com
 *.eaglecdn.com
 *.edge.experimentation.intuit.com
@@ -249,6 +251,7 @@
 *api.*.microsoft.com
 *api.facebook.com
 *events*.trafficmanager.net
+*feedback.heytapmobile.com
 *frontier*.byteoversea.com
 *frontier*.snssdk.com
 *frontier*.tiktokv.com
@@ -547,6 +550,7 @@
 1ink.com
 1irongolf.com
 1jewelry.com
+1jour1vin.com
 1kinobig.ru
 1link.in
 1liquidators.com
@@ -2341,6 +2345,7 @@ afterthoughtsauto.com
 aftfl.com
 aftosa.com
 afv.pl
+afx.adfixus.com
 ag-relatiegeschenken.nl
 ag-works.com
 agajohncarpets.com
@@ -2510,6 +2515,7 @@ airydress.com
 ais.snbank.ru
 aiseet.atianqi.com
 aisle9.com
+aitaikuji.com
 aitatennis.com
 aitkenwines.com
 aiv-cdn.net
@@ -3445,6 +3451,7 @@ amfence.com
 amgload.net
 amherst-depot.com
 amherst-maps.com
+amiami.com
 amiart.com
 amigaz.com
 amiglia.com
@@ -3755,6 +3762,7 @@ animals.com
 animalsmatter.com
 animalstars.com
 animalworldnetwork.com
+animate-onlineshop.jp
 animatile.com
 animationalley.com
 animaux-du-monde.com
@@ -4139,6 +4147,7 @@ api.datawrapper.de
 api.dds.microsoft.com
 api.device.xiaomi.net
 api.ditto.com
+api.dropboxapi.com
 api.ebay-kleinanzeigen.de
 api.eu-west-1.aiv-delivery.net
 api.facebook.com
@@ -5641,6 +5650,7 @@ avinos-wein.de
 avionic.dk
 avis-verifies.com
 avisca.com
+avisclient-ccf.com
 avisionforyou.com
 avitela.lt
 avizier.ro
@@ -5938,6 +5948,8 @@ babymabels.com
 babymand.nl
 babymania.com
 babymarket.it
+babymarkt.com
+babymarkt.de
 babyme.cc
 babyminestore.com
 babymoose.pl
@@ -6498,6 +6510,7 @@ banpais.hn
 banpara.b.br
 banplusonline.com
 banque-accord.fr
+banque-casino.fr
 banque-courtois.fr
 banque-france.fr
 banque.com
@@ -8453,6 +8466,7 @@ blaircandy.com
 blairline.com
 blakesofbelgravia.co.uk
 blanchardsliquor.com
+blancheporte.fr
 blancosinks.info
 blank-wall.com
 blankcaps.com
@@ -8771,6 +8785,7 @@ boardsonline.co.uk
 boardstiff.net
 boardstore.se
 boas.net
+boat24.com
 boatantenna.com
 boatchart.com
 boatdocking.com
@@ -12726,6 +12741,8 @@ clgpro.com
 clhs.kiev.ua
 cli.gs
 click-n-order.net
+click-sap.sfmc-marketing.com
+click.account.miro.com
 click.allkeyshop.com
 click.alternate.de
 click.appcast.io
@@ -13664,6 +13681,7 @@ consent-pref.trustarc.com
 consent.cmp.oath.com
 consent.cookiebot.eu
 consent.dk
+consent.dropbox.com
 consent.faz.net
 consent.google.com
 consent.trustarc.com
@@ -17245,6 +17263,7 @@ droid.ws
 droomboeket.nl
 drop.ndtv.com.edgekey.net
 dropacar.com
+dropbox-dns.com
 dropbox.com
 dropmail.me
 dropsweb.com
@@ -18277,6 +18296,7 @@ edge-web.dual-gslb.spotify.com
 edge-weighted.api.brightcove.com
 edge-z-p3-shv-01-arn2.facebook.com
 edge.api.brightcove.com
+edge.dropboxstatic.com
 edge.experimentation.intuit.com
 edge.quantserve.com
 edge.yunjiasu.com
@@ -31585,6 +31605,7 @@ leathertree.com
 leballonrond.fr
 lebanonpostcard.com
 leboncoin.fr
+lebondrive.fr
 leboutique.com
 lebronjames.com
 leclerc.m.facebook.com
@@ -43312,6 +43333,7 @@ resourcelink.mspress.microsoft.com
 resourcerevival.com
 resources.sbs.com.au
 respotec.de
+rest-in-feedback.heytapmobile.com
 rest-posten-handel.de
 rest-prd2.immedia-semi.com
 rest-prde.immedia-semi.com
@@ -49200,6 +49222,7 @@ static-asm.secure.skypeassets.com
 static-assets.highwebmedia.com
 static-cl.xhcdn.com
 static-forms.klaviyo.com
+static-in-feedback.heytapmobile.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
 static-v2.trbo.com
@@ -52355,6 +52378,8 @@ tikamoon.com
 tikiripolynesianinstruments.com
 tikker.emta.ee
 tiktok.com
+tiktokcdn-us.com
+tiktokcdn.com
 tiktokv.com
 tile-service.weather.microsoft.com
 tiles.mapbox.com
@@ -52366,6 +52391,7 @@ timbrasil.m.facebook.com
 timbrauch.com
 time-a.timefreq.bldrdoc.gov
 time-frames.com
+time.akamai.com
 time.com
 time.gpsonextra.net
 time.izatcloud.net
@@ -52649,6 +52675,7 @@ tracker.torrentbd.net
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
+tracking.*.sendcloud.sc
 tracking.bol.com
 tracking.dpd.de
 tracking.epicgames.com
