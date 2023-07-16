@@ -2,6 +2,10 @@
 *-lb.ultimedia.com
 *-spclient.spotify.com
 *.a2hosted.com
+*.aadrm.cn
+*.aadrm.com
+*.aadrm.de
+*.aadrm.us
 *.acsechocaptiveportal.com
 *.activity.windows.com
 *.adguard-dns.com
@@ -62,6 +66,7 @@
 *.createsend1.com
 *.curve.app
 *.custom-domain.publitas.com
+*.custom.plausible.io
 *.damoh.*.de
 *.data-*.rtl.de
 *.data.microsoft.com.akadns.net
@@ -1241,6 +1246,10 @@ aacctv.com
 aacsports.com
 aaczechglass.com
 aade.com
+aadrm.cn
+aadrm.com
+aadrm.de
+aadrm.us
 aafes.com
 aafilters.com
 aafla.org
@@ -5114,6 +5123,7 @@ assets.pinterest.com
 assets.rbl.ms
 assets.realclear.com
 assets.rebelmouse.io
+assets.sentinelone.com
 assets.sitescdn.net
 assets.ubuntu.com
 assets.zendesk.com
@@ -18144,6 +18154,7 @@ edge-atlas-shv-18-prn1.facebook.com
 edge-chat.facebook.com
 edge-e-balw.customer.io
 edge-east.customer.io
+edge-enterprise.activity.windows.com
 edge-irl1.demdex.net
 edge-liverail-shv-01-ams2.facebook.com
 edge-liverail-shv-01-ams3.facebook.com
@@ -18295,6 +18306,7 @@ edge-turnservice-shv-01-lht6.facebook.com
 edge-web.dual-gslb.spotify.com
 edge-weighted.api.brightcove.com
 edge-z-p3-shv-01-arn2.facebook.com
+edge.activity.windows.com
 edge.api.brightcove.com
 edge.dropboxstatic.com
 edge.experimentation.intuit.com
@@ -41335,6 +41347,7 @@ procyclegear.com
 prod-image-fastly-cdn.yana.asideas.de
 prod-rotation-v2.guce.aws.oath.cloud
 prod.amazoncrl.com
+prod.amcs-tachyon.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
 prod.dodsp.mp.microsoft.com.nsatc.net
