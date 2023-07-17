@@ -61,6 +61,7 @@
 *.click-sap.sfmc-marketing.com
 *.cloud.axiadids.net
 *.cname.campaign.adobe.com
+*.consentmanager.net
 *.contabostorage.com
 *.controlup.com
 *.createsend1.com
@@ -3285,6 +3286,7 @@ amazon.pl
 amazon.sa
 amazon.se
 amazon.sg
+amazonadsi-a.akamaihd.net
 amazonaws.com
 amazonforum.com
 amazonmoosey.com
@@ -12906,7 +12908,9 @@ clipstar.com
 cliptomania.com
 cliqz.com
 clk*.tradedoubler.com
+clk.asia
 clk.boulanger.com
+clk.sh
 clk.tradedoubler.com
 clkde.tradedoubler.com
 clkpl.tradedoubler.com
@@ -13700,6 +13704,7 @@ consent.yahoo.com
 consentag.eu
 consentcdn.cookiebot.eu
 consentmanager.mgr.consensu.org
+consentmanager.net
 conservativebookclub.com
 conservativebookservice.com
 conservatory-cane-furniture.co.uk
@@ -20379,6 +20384,7 @@ fbtet.com
 fbtonline.com
 fbtonline.net
 fbwebpos.com
+fbx-firmware.proxad.net
 fc-fever.com
 fc-resources.fastcompany.com
 fc.eulerian.net
@@ -37053,6 +37059,7 @@ nrhunt.com
 nrlittleleague.com
 nrouter.microsoft.com
 nrsworld.com
+ns*.proxad.net
 ns-bank.ru
 ns-cdn.neustar.biz
 ns-labo.co.jp
@@ -48865,6 +48872,7 @@ sq.gravatar.com
 sq6.ru
 sqbath.shoppingcartsplus.com
 sqdance123.com
+sqdd.myapp.com
 sqimg.qq.com
 sqmtest.microsoft.com
 sqrl.it
