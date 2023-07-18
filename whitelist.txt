@@ -83,6 +83,7 @@
 *.email.microsoftemail.com
 *.email.microsoftonline.com
 *.email.microsoftrewards.com
+*.emails.microsoft.com
 *.engage.surface.com
 *.engage.windows.com
 *.engage.xbox.com
@@ -181,6 +182,7 @@
 *.recommend.lgtvcommon.com
 *.registerdisney.go.com
 *.relay-client-c03.iocnt.net
+*.rewards.brave.com
 *.rewardsplatform.microsoft.com
 *.rewardsprod.trafficmanager.net
 *.riotpixels.net
@@ -1078,6 +1080,7 @@ a-pen.com
 a-pixel.facebook.com
 a-portable-audio-website.co.uk
 a-project-playground.com
+a-qui-s.fr
 a-ru.com
 a-shop.ru
 a-silverconnection.com
@@ -1866,6 +1869,7 @@ adguard-dns.com
 adguard-dns.io
 adguard.com
 adidas.com
+adidas.fr
 adini.com
 adintennis.com
 adira.us
@@ -1936,6 +1940,10 @@ ads-*-darwin.hulu.com
 ads-a-darwin.hulustream.com.akamaized.net
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
+ads-new.brave.com
+ads-serve.aws-internal.brave.com
+ads-serve.brave.com
+ads-static.brave.com
 ads.brave.com
 ads.careerbuilder.vn
 ads.julephosting.de
@@ -2514,6 +2522,7 @@ airsoft.anareus.cz
 airsoftatlanta.com
 airsoftextreme.com
 airsoftguns.net
+airsofthispana.com
 airsofthouse.cz
 airsplat.com
 airsportdirect.com
@@ -3873,6 +3882,7 @@ anntaylor.com
 anobii.com
 anon.to
 anonlinemall.com
+anonymous.ads.brave.com
 anothercoffee.co.uk
 anotherstreasure.com
 anothertimevintageapparel.com
@@ -4116,6 +4126,7 @@ api-godaddy.nd.nudatasecurity.com
 api-hphp-05-01-ash1.facebook.com
 api-hphp-05-01-sf2p.facebook.com
 api-mainnet.pool.space
+api-maps.yandex.ru
 api-read.facebook.com
 api-secure.solvemedia.com
 api-tv.spotify.com
@@ -4209,6 +4220,7 @@ api.pushbullet.com
 api.quantcast.mgr.consensu.org
 api.revenuecat.com
 api.revenuecat.com.herokudns.com
+api.rewards.brave.com
 api.rlje.net
 api.rollbar.com
 api.safedk.com
@@ -5312,6 +5324,7 @@ atv24.de
 atvbazar.ru
 atvprice.com
 atvworks.com
+au-bonheur-demilie.fr
 au.download.windowsupdate.com
 au.download.windowsupdate.com.edgesuite.net
 au.facebook.com
@@ -5838,6 +5851,7 @@ ba.org.tw
 baabaazuzu.com
 baacks.com
 baaderbank.de
+baage.fr
 baarons.de
 babaits.com
 babana.com
@@ -6410,6 +6424,7 @@ banking-wuestenrotdirect.de
 banking.airbusbank.com
 banking.axa.de
 banking.co.at
+banking.coastcapitalsavings.com
 banking.guarantee.ru
 banking.haspa.de
 banking.ing-diba.at
@@ -6418,6 +6433,7 @@ banking.ksk-stade.de
 banking.postbank.de
 banking.raiffeisen.at
 banking.rostocker-vrbank.de
+banking.servus.ca
 banking.sparkasse-mittelsachsen.de
 banking.sparkasse-nienburg.de
 banking.sparkasse-prignitz.de
@@ -6468,6 +6484,7 @@ bankofkazan.ru
 bankoflouisiana.com
 bankoflouisville.com
 bankofmaharashtra.in
+bankofmaldives.com.mv
 bankofmapleplain.com
 bankofmarin.com
 bankofmonticello.com
@@ -6996,6 +7013,7 @@ bbuseruploads.s3.amazonaws.com
 bbva.com.ar
 bbva.com.co
 bbva.es
+bbva.mx
 bbvaprovinet.provincial.com
 bc.bankdolinsk.ru
 bc.banksmb.ru
@@ -7496,6 +7514,7 @@ benscustomtack.com
 bensfloral.com
 bentscookiefactory.com
 benttreehostas.com
+benuta.fr
 benzadesign.com
 benzerworld.com
 benzing-versand.de
@@ -9205,6 +9224,7 @@ boro.co.jp
 borregospringsbank.com
 borstvoedingswinkel.nl
 bosanquetflorist.com
+bosbank24.pl
 bosch-professional.com
 boschbuy.ru
 boscovs.com
@@ -10336,6 +10356,7 @@ ca-toulousain.fr
 ca-tourainepoitou.fr
 ca.gravatar.com
 ca.pool.ntp.org
+ca24.credit-agricole.pl
 caasports.com
 cab-bike.de
 caballos.ch
@@ -11338,6 +11359,7 @@ cctaylor.com
 cctvhardware.com
 cctvoutlet.com
 ccvideo.com
+ccvmode.com
 ccwbotanicals.com
 ccwclothing.com
 ccwsupply.com
@@ -12487,6 +12509,7 @@ cissports.com
 cistrix.com
 citarella.com
 citeulike.org
+citi.com
 citi.online-metrix.net
 citially.com
 citibank.co.id
@@ -12501,6 +12524,7 @@ citibank.com.sg
 citibank.com.tw
 citibank.ru
 citibankonline.com
+citibankonline.pl
 citidirectbeportalemea.citidirect.com
 citifloral.com
 citiscapes-art.com
@@ -13734,6 +13758,7 @@ contaboserver.net
 contabostorage.com
 contact-eye.com
 contact-uk.com
+contact.ads.brave.com
 contactapi.micloud.xiaomi.net
 contactforlenses.com
 contactimporter.facebook.com
@@ -13876,6 +13901,7 @@ copierliquidator.com
 copieshop.com
 copilasultau.ro
 copilulmeu.ro
+copmed.fr
 copper-accessories.com
 copper.com
 copperbracelets.com
@@ -14155,6 +14181,7 @@ couponsfromtheheart.com
 couragecards.org
 courbette.com
 courier.com
+coursesu.com
 courtcompany.com
 courtiestown.co.uk
 courtmasters.org
@@ -15310,6 +15337,7 @@ danskebank.dk
 danskebank.se
 danskin.com
 dansko.com
+dansnoscoeurs.fr
 dansskor.se
 dante.co.jp
 danthesausageman.com
@@ -16293,6 +16321,7 @@ digistore.fr
 digital-camera-online.com
 digital-threads.com
 digital-trendz.com
+digital.bankaust.com.au
 digital.noorbank.com
 digitaladvisor-elb.go2cloud.org
 digitalangel.ru
@@ -17686,6 +17715,7 @@ e.orange.fr
 e.paba.hr
 e.reddit.com
 e.seb.lt
+e.sfcu.org
 e0.0.0.0l-gr.facebook.com
 e081.com
 e1.whatsapp.net
@@ -17709,6 +17739,7 @@ e18.whatsapp.net
 e19.whatsapp.net
 e2.whatsapp.net
 e20.whatsapp.net
+e25.pl
 e2725.g.akamaiedge.net
 e29077.dscf.akamaiedge.net
 e3.whatsapp.net
@@ -20084,6 +20115,7 @@ fairylandcreations.com
 fairylove.com
 fairys.com
 fairys.nl
+faisanet.mib.com.mv
 faith-silver.com
 faith.co.uk
 faithfulhound.com
@@ -20407,6 +20439,7 @@ fclweb.fr
 fcm-stream.googleapis.com
 fcm.googleapis.com
 fcmetz.com
+fcnantes.com
 fcsochaux.fr
 fcspielraum.de
 fcsports.com
@@ -23028,6 +23061,7 @@ geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-espace.com
 geo-gcp.cdn.springernature.io
 geo-prod.do.dsp.mp.microsoft.com
+geo.ads.brave.com
 geo.ngtv.io
 geo.opera.com
 geo.paypalobjects.com.akadns.net
@@ -24107,6 +24141,7 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googlevideo.com
+goonline.bnpparibas.pl
 gooo.to
 gooruze.com
 gooseberryhill.com
@@ -24350,6 +24385,7 @@ grannyjanesattic.com
 grannys.com
 grannysfudge.com
 grannysjewelrybox.com
+grant.rewards.brave.com
 grantandcutler.com
 granth.com
 grapevinecards.com
@@ -26374,6 +26410,7 @@ homeaudiosuperstore.com
 homebank.kz
 homebank.ro
 homebank.tj
+homebanking.bancoctt.pt
 homebanking.sskm.de
 homebodiespatterns.com
 homebookshop.com
@@ -27568,6 +27605,7 @@ idonails.com
 idontdomornings.com
 idoweddingfavours.co.uk
 idratherbequilting.com
+ids.alterna.ca
 idsabooks.com
 idsardar.bizland.com
 idsdental.com
@@ -28228,6 +28266,7 @@ integralsport.fr
 integrations.ru
 integrity.facebook.com
 intelcompras.com
+inteligo.pl
 intelink.gov
 intellectmoney.ru
 intelligentbatteries.com
@@ -30217,6 +30256,7 @@ katzenspezialshop.de
 katzgloves.com
 katzhome.com
 katznmore.com
+kau.gov.hu
 kauaiflowers.com
 kaude.com
 kaufein.ch
@@ -31623,6 +31663,7 @@ leathertree.com
 leballonrond.fr
 lebanonpostcard.com
 leboncoin.fr
+leboncoin.info
 lebondrive.fr
 leboutique.com
 lebronjames.com
@@ -31859,6 +31900,7 @@ listazureresources.encryption.applicationinsights.microsoft.com
 listible.com
 listmixer.com
 listography.com
+listrakbi.com
 lists.facebook.com
 lite-12-08-ash1.facebook.com
 lite-13-08-ash1.facebook.com
@@ -32000,6 +32042,7 @@ login.blockchain.com
 login.bsczarnkow.pl
 login.cloudflarewarp.com
 login.e-taxes.gov.az
+login.erstebank.hu
 login.facebook.com
 login.groove.microsoft.com
 login.ingbank.pl
@@ -32010,11 +32053,13 @@ login.microsoftonline.com
 login.microsoftonline.us
 login.mirakl.net
 login.msa.akadns6.net
+login.nestbank.pl
 login.optumbank.com
 login.salesforce.com
 login.sebbank.ru
 login.sparebank1.no
 login.teamviewer.com
+login.vancity.com
 login.wikimedia.org
 login.yahoo.com
 logincdn.msauth.net
@@ -32454,6 +32499,7 @@ mail.office.hiworks.com
 mail.onedrive.com
 mail.research.microsoft.com
 mail.tsinghua.edu.cn
+mail.tutanota.com
 mail.windows.microsoft.com
 mail.yahoo.com
 mail01.apjfw.rte.microsoft.com
@@ -33774,6 +33820,7 @@ mercysake.com
 meredithtradingpost.com
 merfarby.istore.pl
 meridian-shop.com
+meridiancu.ca
 meridys.com
 merikom.pl
 meritchairman.com
@@ -34419,6 +34466,7 @@ mkklcdnv6tempv4.com
 mkn.co.uk
 mkonlinesavings.com
 mkpens.co.uk
+mkto-*.com
 mktoweb.com
 mktp.tmoney.co.kr
 mkwireless.com
@@ -34563,6 +34611,7 @@ mochi.com
 mochitrading.com
 mockingbirdflorist.com
 mockingbirdhill.com
+mockup.ads.brave.com
 mocl.one.microsoft.com
 mocospace.com
 mocshop.com
@@ -35526,6 +35575,7 @@ my-wedding-wishes.co.uk
 my-zaim.ru
 my.alfabank.com.ua
 my.aliexpress.com
+my.blackhawkbank.com
 my.bmi.ir
 my.credit-agricole.com.ua
 my.europlanbank.ru
@@ -35807,6 +35857,7 @@ myurl.in
 myvanitycase.com
 myvmarks.com
 myvoba.com
+mywallet.ads.brave.com
 mywatch.de
 mywatchmaker.net
 mywavo.com
@@ -36227,6 +36278,7 @@ neatnix.com
 neaz.it
 nebankers.org
 nebraskaflorist.net
+nebula-cdn.kampyle.com
 necessaryextras.com
 necessiteas.com
 necessitees.com
@@ -37858,6 +37910,7 @@ online.bankofcyprus.com
 online.bankotsar.co.il
 online.bankpozitiv.kz
 online.bcs.ru
+online.beobank.be
 online.beyondbank.com.au
 online.binbankcards.ru
 online.bm.ru
@@ -37925,6 +37978,7 @@ online.sh.cn
 online.standardlife.com
 online.svrbank.ru
 online.t-mobilebankowe.pl
+online.techcu.com
 online.tfb.ru
 online.tiscoasset.com
 online.tkbbank.ru
@@ -37991,6 +38045,7 @@ onlinebanking.bank-credit-suisse-moscow.ru
 onlinebanking.brci.ro
 onlinebanking.cargillsbank.com
 onlinebanking.pnc.com
+onlinebanking.rhbgroup.com
 onlinebanking.usbank.com
 onlinebedcomforters.com
 onlinebilder24.de
@@ -38605,6 +38660,7 @@ p2p.mdm.ru
 p2power.at
 p2s.com.au
 p2y.com.ua
+p3a.brave.com
 p3kona.com
 p45.com
 p4online.com
@@ -39220,6 +39276,7 @@ paylessrugs.com
 paylesssaddles.com
 paylesswigs.com
 paymaster.ru
+payment.rewards.brave.com
 payment.ru
 payment.schibsted.com
 payment.schibsted.no
@@ -39606,6 +39663,7 @@ persianflora.com
 persianfootball.com
 persim.net
 personaactivewear.com
+personal.affinitycu.ca
 personal.metrobankdirect.com
 personalbabyblankets.com
 personalbank.ru
@@ -40560,6 +40618,7 @@ plus.googleapis.com
 plus.l.google.com
 plus.sandbox.google.com
 plus.url.google.com
+plusbank24.pl
 plusdvd.nl
 plushinarush.com
 plushjewellery.co.uk
@@ -41115,6 +41174,7 @@ premierbasketsandgifts.com
 premiercarts.com
 premierclothing.com
 premierdownload.microsoft.com
+premierepartie.com
 premiereproducts.biz
 premierglow.com
 premiergourmet.com
@@ -41507,6 +41567,7 @@ prosource.apj.microsoft.com
 prospeedkartsports.com
 prospekt.aldi-sued.de
 prosper.com
+prospera.oauth.live.central1.cc
 prosperitybanktx.com
 prosperitybankusa.com
 prosperitycreations.com
@@ -42603,6 +42664,7 @@ ratcitysports.com
 rateitall.com
 rathernice.co.uk
 rathicreations.com
+ratios.rewards.brave.com
 ratnakarbank.co.in
 ratskeller.de
 ratsound.com
@@ -42807,6 +42869,7 @@ rb.gy
 rb6.co
 rb6.me
 rba.hr
+rbaccess.rogersbank.com
 rbap.org
 rbb.ic.llnwd.net
 rbbissingen.de
@@ -43313,6 +43376,7 @@ report-uri.io
 reprodepot.net
 reproductionfurniture.com
 repropaint.com
+repsys.rewards.brave.com
 reptiledepot.com
 reptiledirect.com
 reptilefood.com
@@ -43325,6 +43389,7 @@ reptilienshop-boehler.de
 republicangifts.com
 republicbancorp.com
 republicbank.com
+reputation.rewards.brave.com
 res-x.com
 res.cloudinary.com
 res.windows.microsoft.com
@@ -43422,6 +43487,7 @@ revolutionmodels.co.uk
 revolutiontea.com
 revolutum.com
 revolveclothing.com
+rewards.brave.com
 rewci.com
 rexart.com
 rexcraft.com
@@ -45425,6 +45491,7 @@ seapets.co.uk
 search-for-antiques.co.uk
 search-operate.cdn.bcebos.com
 search-ppe.microsoft.com
+search.anonymous.ads.brave.com
 search.msdn.microsoft.com
 search.officeupdate.microsoft.com
 search.support.microsoft.com
@@ -45592,9 +45659,11 @@ secure.payu.com.tr
 secure.payu.ru
 secure.payza.com
 secure.payza.eu
+secure.pcfinancial.ca
 secure.platononline.com
 secure.prod.facebook.com
 secure.royalbank.com
+secure.seligson.fi
 secure.sirena-travel.ru
 secure.surveymonkey.com
 secure.tcsbank.ru
@@ -45611,6 +45680,8 @@ secure4.segpay.com
 secure5.arcot.com
 secureacceptance.cybersource.com
 secureclock2.playready.microsoft.com
+secured.acu.ca
+secured.scu.mb.ca
 secureinternetbank.com
 securel.longtailvideo.com
 securenetsystems.net
@@ -49253,6 +49324,7 @@ static.3001.net
 static.ada.support
 static.addtoany.com
 static.adguard.com
+static.ads.brave.com
 static.adtidy.org
 static.ak.connect.facebook.com
 static.appsumo.com
@@ -53000,6 +53072,7 @@ udengi.ru
 udevelop.com
 udogu.com
 udrmv3.kaltura.com
+ue.dnb.pl
 ue.flipboard.com
 ueaeduec.m.facebook.com
 uedata.amazon.com
@@ -53042,10 +53115,12 @@ ultrad.com
 ultradiamonds.com
 ultraiso.net
 ultrunr.com
+umaiclothing.com
 umami.is
 umbank.ru
 umbrellabank.com
 umbrellastand.com
+umcu.org
 umdc.alipay.org
 ume.la
 umiwi.com
@@ -53087,6 +53162,7 @@ unicyclist.com
 unifinbank.ru
 uniformsexpress.com
 union-investment.de
+unionbank.com
 unionbank.de
 unionbankjo.com
 unionbankofblair.com
