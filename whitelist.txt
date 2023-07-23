@@ -7074,6 +7074,7 @@ bcsoccerweb.com
 bcu.org
 bcv.ch
 bcwheelchairsports.com
+bd*.d.meituan.net
 bd-i.co.uk
 bd.m.facebook.com
 bdbooksandart.com
@@ -17134,6 +17135,7 @@ download.intsig.net
 download.jp.microsoft.com
 download.microsoft.com
 download.microsoft.com.nsatc.net
+download.oxy.st
 download.skype.com
 download.sonarr.tv
 download.utorrent.com
@@ -34808,7 +34810,7 @@ momslinenchest.com
 momsteam.com
 momthoughts.com
 momwitch.com
-mon*.tiktok*.com
+mon*-*.tiktok*.com
 mon-joujou.com
 monaco-f1grandprix.com
 monaco-privatebanking.com
@@ -38671,6 +38673,7 @@ ozoneweddings.co.uk
 ozonteam.m.facebook.com
 oztrack.com
 ozziesattherusticmarket.com
+p*.meituan.net
 p-a-distributing.com
 p-graph-video.facebook.com
 p-it.co.uk
@@ -43419,6 +43422,7 @@ replug.io
 report-uri.cloudflare.com
 report-uri.com
 report-uri.io
+repository.eset.com
 reprodepot.net
 reproductionfurniture.com
 repropaint.com
