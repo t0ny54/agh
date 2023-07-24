@@ -13,6 +13,8 @@
 *.adguard.com
 *.admin-mcas.ms
 *.ads.brave.com
+*.adtidy.net
+*.adtidy.org
 *.aerisapi.com
 *.aimon.applicationinsights.io
 *.aiv-cdn.net
@@ -2202,6 +2204,7 @@ adsportscardsetc.com
 adstream.com
 adswizz.com
 adtechus.com
+adtidy.net
 adtidy.org
 adtools.facebook.com
 adultdiapers.org
