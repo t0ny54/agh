@@ -11472,7 +11472,6 @@ cdn.fontawesome.com
 cdn.gadgets360.com
 cdn.gigya.commes.122.2o7.net
 cdn.gotraffic.net
-cdn.grandvision.io
 cdn.jscloudflare.com
 cdn.jsdelivr.net
 cdn.jwplayer.com
@@ -17168,6 +17167,7 @@ dpflowers.com
 dpm.demdex.net
 dpzgml710ukw5.cloudfront.net
 dr-bed.net
+dr-farfar.com
 draagdoek.nl
 dracek.cz
 drachenpoint.de
@@ -42644,6 +42644,7 @@ randallsspecialties.com
 randis.com
 randolphsunglasses.co.nz
 randomaccents.com
+randomuser.me
 randoseru.com
 randrbuckles.com
 randwickbloodstock.com.au
