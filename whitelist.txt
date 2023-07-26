@@ -53,6 +53,7 @@
 *.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
+*.cdntips.net
 *.cdpsvc.lgtvcommon.com
 *.cdx.cedexis.net
 *.ceros.com
@@ -62,6 +63,7 @@
 *.clarity.dexcom.com.cdn.cloudflare.net
 *.click-sap.sfmc-marketing.com
 *.cloud.axiadids.net
+*.cmail19.com
 *.cname.campaign.adobe.com
 *.consentmanager.net
 *.contabostorage.com
@@ -11564,6 +11566,7 @@ cdns-content.dzcdn.net
 cdns.gigya.com
 cdnsecakmi.kaltura.com
 cdnssl.softpedia.com
+cdntips.net
 cdon.no
 cdp.aliexpress.com
 cdp.cloud.unity3d.com
@@ -13078,6 +13081,7 @@ clutch.co.jp
 clutchnet.com
 clyderobin.com
 clydesavings.com
+cmail19.com
 cmb.fr
 cmba.com
 cmba.org
