@@ -1785,7 +1785,6 @@ ad.dep.no
 ad.doubleclick.net
 ad.dyntracker.de
 ad.hem.no
-ad.nl
 ad.nwi.jp
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
@@ -32094,10 +32093,12 @@ login-12-01-snc1.facebook.com
 login-12-01-snc2.facebook.com
 login-12-07-snc1.facebook.com
 login-portal.nra.bg
+login.ad.nl
 login.aliorbank.pl
 login.banknetpower.net
 login.blockchain.com
 login.bsczarnkow.pl
+login.cbc.ca
 login.cloudflarewarp.com
 login.e-taxes.gov.az
 login.erstebank.hu
@@ -35368,6 +35369,7 @@ msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
 mssdk-va.tiktok*.com
+mssg.me
 mssl.fwmrm.net
 mssl.fwmrm.net.edgesuite.net
 msuc02.manage.microsoft.com
@@ -52825,6 +52827,7 @@ tracker.leechers-paradise.org
 tracker.marinsm.com
 tracker.opentrackr.org
 tracker.torrentbd.net
+trackersimulator.org
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
