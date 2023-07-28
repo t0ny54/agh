@@ -78,6 +78,7 @@
 *.dds.microsoft.com
 *.dev.virtualearth.net
 *.digicert.com
+*.do-not-tracker.org
 *.doppiocdn.com
 *.dropbox-dns.com
 *.dvsdvsdvsdva.com
@@ -95,6 +96,7 @@
 *.etrality.com
 *.eu.spgo.io
 *.events*.data.microsoft.com
+*.eviltracker.net
 *.exacttarget.com.edgekey.net
 *.execute-api.*.amazonaws.com
 *.export.yandex.ru
@@ -241,6 +243,7 @@
 *.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
+*.trackersimulator.org
 *.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
 *.unmineable.com
@@ -4251,6 +4254,7 @@ api.snapkit.com
 api.speedspot.org
 api.st-av.net
 api.storyly.io
+api.stripe.com
 api.sunrise-sunset.org
 api.surfeasy.com
 api.t-mobile.com
@@ -16788,6 +16792,7 @@ dnswarden.com
 dnt.de
 dnvturnings.com
 do-itmolds.com
+do-not-tracker.org
 doatyleather.com
 dob.jp
 dobbiesflorist.com
@@ -19633,6 +19638,7 @@ eventtracking-us-prod.connexity.com
 everafterstore.com
 everbank.com
 everbloomsflowers.com
+evercoss.com
 everettbank.com
 everettstunz.com
 evergladesarchers.com
@@ -19684,6 +19690,7 @@ evflower.com
 evileds.com
 evileyeonline.com
 evilkitty.net
+eviltracker.net
 evitamins.com
 evobanco.com
 evogear.com
@@ -42197,6 +42204,7 @@ r.orange.fr
 r.sg.sec.miui.com
 r.skimresources.com
 r.srvtrck.com
+r.stripe.com
 r.us-east-1.awstrack.me
 r.webapps.microsoft.com
 r1.ykimg.com
@@ -50776,6 +50784,7 @@ t-shirtking.com
 t-shirtquilts.com
 t-techgolf.com
 t-tree.net
+t.1und1.de
 t.adcell.com
 t.appsflyer.com
 t.cn
@@ -54764,6 +54773,7 @@ widget.uservoice.com
 widget.yenimedya.com.tr
 widgets.jobbio.com
 widgets.opinary.com
+widgets.sir.sportradar.com
 widgets.twimg.com
 widiba.it
 wieistmeineip.de
@@ -55826,6 +55836,7 @@ xib.me
 xifuquan.com
 xilliantv.com
 xing.com
+xinjiangpolicefiles.org
 xip.li
 xiti.com
 xj-n-tax.gov.cn
