@@ -115,6 +115,7 @@
 *.geo.ngtv.io
 *.geocomply.com
 *.geotrust.com
+*.getfeedback.com
 *.gigya.com
 *.googletagmanager.com
 *.googletagservices.com
@@ -141,6 +142,7 @@
 *.kiwibrowser.com
 *.kwrn.eu
 *.lencr.org
+*.lgtvsdp.com
 *.lighthouselabs.eu
 *.mail.onedrive.com
 *.marinetraffic.com
@@ -15183,6 +15185,7 @@ d3tglifpd8whs6.cloudfront.net
 d3tracking.rbc.com
 d3tsytm1wtjqo2.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
+d6tizftlrpuof.cloudfront.net
 d75.eu
 d9hhrg4mnvzow.cloudfront.net
 da-dk.facebook.com
@@ -19627,6 +19630,7 @@ eventhub.awasa.microsoft.com
 eventim.de
 eventrugs.com
 events-sandbox.data.microsoft.com
+events.7tv.io
 events.data.microsoft.com
 events.gfe.nvidia.com
 events.iap.unity3d.com
@@ -23227,6 +23231,7 @@ getcreativeshow.com
 getdigital.de
 getdrip.com
 getdyes.com
+getfeedback.com
 getflocked.com
 getforless.com
 getgeared.co.uk
@@ -31811,6 +31816,7 @@ lfp.fr
 lg.home.microsoft.com
 lgbbank.com
 lgn.ru
+lgtvsdp.com
 lh2.google.com
 lh3.googleusercontent.com
 lh4.googleusercontent.com
@@ -50393,6 +50399,7 @@ survey*.medallia.eu
 survey.foreseeresults.com
 survey.forseeresults.com
 survey.qualtrics.com
+survey.usabilla.com
 survey.watson.microsoft.com
 surveymonkey.com
 surveymyopinion.researchnow.com
