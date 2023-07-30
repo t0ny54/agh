@@ -262,6 +262,7 @@
 *.wdtinc.com
 *.widget.cloud.opta.net
 *.wishpond.com
+*.wpnrtnmrewunrtok.xyz
 *.wsj.net
 *.www-googletagmanager.l.google.com
 *.xp.apple.com
@@ -5147,6 +5148,7 @@ assets.dwell.com
 assets.gadgets360cdn.com
 assets.getpocket.com
 assets.gumroad.com
+assets.huluim.com
 assets.ikhnaie.link
 assets.inshorts.com
 assets.jassets.com
@@ -17070,6 +17072,7 @@ doostang.com
 dopice.sk
 doppiocdn.com
 doppler-config.cbsivideo.com
+doppler.hulu.com
 doppo.net
 dorba.org
 doreensinnettdolls.com
@@ -27950,6 +27953,7 @@ img.mmtcdn.com
 img.nvidiagrid.net
 img.onesignal.com
 img.over-blog-kiwi.com
+img.pay.naver.net
 img.purch.com
 img.shouji.sogou.com
 img.ultimedia.com
@@ -40581,6 +40585,7 @@ player.glomex.com
 player.pl
 player.radio.com
 player.vimeo.com
+player2.h-cdn.com
 playerhatersclothing.com
 players.brightcove.com
 players.brightcove.net
@@ -54275,6 +54280,7 @@ vortex-win.data.microsoft.com
 vortex.accuweather.com
 vortex.data.glbdns2.microsoft.com
 vortex.data.microsoft.com
+vortex.hulu.com
 vortex.microsoft.com
 vostbank.ru
 votre-plancha.com
@@ -54998,6 +55004,7 @@ wpadsina.msft.scm.microsoft.com
 wpadsinb.msft.scm.microsoft.com
 wpay.uniteller.ru
 wpbeaches.com
+wpnrtnmrewunrtok.xyz
 wpra.com
 wpsc.org.uk
 wpscoop.com
