@@ -106,6 +106,7 @@
 *.forms.office.com
 *.fundingchoicesmessages.google.com
 *.fwupd.org
+*.game-mode.net
 *.gameservices.ea.com
 *.gateway*.apple-dns.net
 *.gateway.devices.a2z.com
@@ -22713,6 +22714,7 @@ gamalta.com
 gambeenohats.com
 gamblershockey.com
 gamblin.pl
+game-mode.net
 game-set-and-match.org.uk
 game-spreads.com
 game-toys.ru
@@ -50805,6 +50807,7 @@ t.dripemail2.com
 t.email1.samsung.ca
 t.emailing.monoprix.fr
 t.en25.com
+t.ionos.de
 t.lt02.net
 t.ly
 t.me
