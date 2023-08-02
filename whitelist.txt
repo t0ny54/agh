@@ -43,6 +43,7 @@
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
+*.carx-online.com
 *.cas.ms
 *.cbox.im
 *.cbox.ws
@@ -216,6 +217,7 @@
 *.share.yandex.ru
 *.sheerid.com
 *.sheerid.net
+*.silknet.com
 *.slgnt.eu.cdn.cloudflare.net
 *.smartscreen-prod.microsoft.com
 *.smoot.apple.com
@@ -11116,6 +11118,7 @@ cartwheels.com
 carusomusic.com
 carvedchristmas4u.com
 carvedgraphics.com
+carx-online.com
 caryfuk.cz
 carynsartworks.com
 carynsbridals.com
@@ -31529,6 +31532,7 @@ kz.shinhanglobal.com
 l-k.be
 l-s-lowry.co.uk
 l.1mp.ru
+l.accesslinkk.com
 l.betrad.com
 l.facebook.com
 l.qq.com
@@ -46309,6 +46313,7 @@ shesheimpressions.com
 shetland-rugs.co.uk
 shetlandpony-shop.de
 shettyland.com
+shibboleth.main.ad.rit.edu
 shibuihome.com
 shieldhealthcare.com
 shieldsdates.com
@@ -46925,6 +46930,7 @@ silkkingmagic.com
 silkmastersdepot.com
 silkmerchant.com
 silknature.de
+silknet.com
 silkplantscanada.com
 silkplantsplus.com
 silkporcelain.com
@@ -54981,6 +54987,7 @@ worldgolfchampionships.com
 worldkungfu.com
 worldmusicalinstruments.com
 worldmusicsupply.com
+worldnomads.com
 worldofelegance.com
 worldofpower.co.uk
 worldofwatches.com
