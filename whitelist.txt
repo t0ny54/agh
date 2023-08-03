@@ -249,6 +249,7 @@
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.trackersimulator.org
+*.trustev.com
 *.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
 *.unmineable.com
@@ -2002,6 +2003,7 @@ adservice.google.ch
 adservice.google.ci
 adservice.google.cl
 adservice.google.cm
+adservice.google.cn
 adservice.google.co.ao
 adservice.google.co.bw
 adservice.google.co.ck
@@ -2039,6 +2041,7 @@ adservice.google.com.bn
 adservice.google.com.bo
 adservice.google.com.br
 adservice.google.com.bz
+adservice.google.com.cl
 adservice.google.com.co
 adservice.google.com.cu
 adservice.google.com.cy
@@ -14573,6 +14576,7 @@ crittergear.com
 critterwearscrubs.com
 crl3.digicert.com
 crloo.com
+crm.zoho.com
 crmc.co.uk
 croart.com
 crobanet.croatiabanka.hr
@@ -52878,6 +52882,7 @@ tracking.truthfinder.com
 trackingshipment.apple.com
 trade.paritem.com
 trade.webborsam.com
+tradehq.com
 tradersbank.com
 tradetracker.net
 tradingmusician.com
@@ -53007,6 +53012,7 @@ trustar.com.au
 truste.com
 trustedid.com
 trustedshops.com
+trustev.com
 trustmark.com
 trustpilot.com
 truthsocial.com
