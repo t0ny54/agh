@@ -68,6 +68,7 @@
 *.cname.campaign.adobe.com
 *.consentmanager.net
 *.contabostorage.com
+*.content.video.llnw.net
 *.controlup.com
 *.createsend1.com
 *.curve.app
@@ -13849,6 +13850,7 @@ content.ibanking-services.com
 content.incapsula.com
 content.jwplatform.com
 content.swrve.com
+content.video.llnw.net
 contentpop.com
 contest-timer.com
 contextual.media.net
