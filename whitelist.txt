@@ -4205,6 +4205,7 @@ api.coinbase.com
 api.comm.miui.com
 api.connect.facebook.com
 api.conversant.mgr.consensu.org
+api.convertkit.com
 api.cookiespool.com
 api.cortana.ai
 api.crunchyroll.com
@@ -5168,6 +5169,7 @@ assets.alicdn.com
 assets.allegrostatic.com
 assets.ckjr001.com
 assets.coinbase.com
+assets.convertkit.com
 assets.dealabs.com
 assets.dwell.com
 assets.gadgets360cdn.com
@@ -12647,6 +12649,7 @@ cjelectrical.co.uk
 cjhomeandoffice.com
 cjproshop.com
 cjrent.com
+ck.n.convertkit.com
 ck.page
 ckcollection.com
 ckdanceshoes.com
@@ -15171,6 +15174,7 @@ d-diamond.com
 d-photo.biz
 d-structure.com
 d-vineflowers.com.au
+d.convertkit.com
 d.delivery.consentmanager.net
 d.facebook.com
 d.ghostery.com
@@ -22424,6 +22428,7 @@ funcarpets.com
 funchic360.com
 funcollections.com
 functionbeforefashion.com
+functions-js.convertkit.com
 fundingchoices.google.com
 fundingchoicesmessages.google.com
 fundmoremerchantbank.com
@@ -32364,6 +32369,7 @@ m.104.com.tw
 m.1234567.com.cn
 m.apkpure.com
 m.bestofmedia.com
+m.convertkit.com
 m.cricbuzz.com
 m.digitaltrends.com
 m.directory.google.com
@@ -33623,6 +33629,7 @@ media.arstechnica.com
 media.arstechnica.net
 media.beehiiv.com
 media.complex.com
+media.convertkit.com
 media.directory.google.com
 media.drive.google.com
 media.fabj2-1.fna.whatsapp.net
@@ -38862,6 +38869,7 @@ pagead46.l.doubleclick.net
 pageandblackmore.co.nz
 pagefurniture.com
 pagers.co.uk
+pages.convertkit.com
 pagesoflyndhurst.co.uk
 pagespast.com
 paginamarkt.nl
@@ -41272,6 +41280,7 @@ predatorcamo.com
 predatorcues.com
 prediction.googleapis.com
 preemiesrus.com
+preferences.convertkit.com
 preferrededge.ca
 preferredseating.com.au
 preggersnproud.com
@@ -52903,6 +52912,7 @@ tracking.magnetmail.net
 tracking.narvar.com
 tracking.post.japanpost.jp
 tracking.publicidees.com
+tracking.rosettastone.com
 tracking.s24.com
 tracking.tldrnewsletter.com
 tracking.totalexpress.com.br
