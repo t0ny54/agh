@@ -15177,7 +15177,6 @@ d-vineflowers.com.au
 d.convertkit.com
 d.delivery.consentmanager.net
 d.facebook.com
-d.ghostery.com
 d.ifengimg.com
 d.skimresources.com
 d.sni.global.fastly.net
@@ -23281,6 +23280,7 @@ getghostgear.com
 getglue.com
 getinprint.com
 getintoon.com
+getipcountry.zoe.net
 getit.co.il
 getjackblack.com
 getlenses.co.uk
@@ -23345,7 +23345,6 @@ ghilliesuits.com
 ghlmotorsports.com
 ghmoore.co.uk
 gho-online.nl
-ghostery-metrics-713401778.us-east-1.elb.amazonaws.com
 ghoststore.net
 ghredwood.com
 ghs.googlehosted.com
@@ -38992,6 +38991,7 @@ paocoffee.co.jp
 paolousa.com
 paotot.co.il
 papageien-shop.com
+papago.naver.net
 papajons.net
 papara.com
 papasanfurniture.com
