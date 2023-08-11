@@ -4228,6 +4228,7 @@ api.glb.samsung-gamelauncher.com
 api.glympse.com
 api.gravatar.com
 api.hh.ru
+api.hubapi.com
 api.immomo.com
 api.intsig.net
 api.intuit.com
@@ -13119,6 +13120,7 @@ clutch.co.jp
 clutchnet.com
 clyderobin.com
 clydesavings.com
+cm.naukri.com
 cmail19.com
 cmb.fr
 cmba.com
@@ -24843,6 +24845,7 @@ guernseyknitwear.co.uk
 guernseystamps.com
 guertelschnallen.com
 gugu.es
+guhantara.com
 guiama.is
 guide-acs.m.taobao.com
 guidemassage.com
@@ -26207,6 +26210,7 @@ hipposeatingalligators.com
 hippracing.com
 hippychixshop.com
 hippygift.com
+hips.hearstapps.com
 hipshotproducts.com
 hipsis.com
 hipundies.com
@@ -26983,6 +26987,7 @@ htmarket.com
 htmaui.com
 html.mmtcdn.com
 htmlwww.facebook.com
+htv-streaming-otfp.hearst.io
 htxt.it
 hu-go.aws.kelkoo.com
 hu-go.kelkoogroup.net
@@ -31572,6 +31577,7 @@ l-s-lowry.co.uk
 l.1mp.ru
 l.accesslinkk.com
 l.betrad.com
+l.engage.canva.com
 l.facebook.com
 l.qq.com
 l3.facebook.com
@@ -36893,6 +36899,7 @@ nissen.co.jp
 nisshocoin.com
 nistockfarms.com
 nitascolores.com
+nitehawk.hearst.io
 nitrofish.com
 nitroflare.com
 nitrokick.org
@@ -51993,6 +52000,7 @@ thedesignersden.com
 thedialstore.com
 thediamondshop.co.uk
 thedianacollection.com
+thedise.me
 thedistancedepot.com
 thedoghouse.co.uk
 thedollempire.com
@@ -52908,6 +52916,7 @@ tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
 tracking.*.sendcloud.sc
+tracking.agsystems.com
 tracking.bol.com
 tracking.dpd.de
 tracking.epicgames.com
