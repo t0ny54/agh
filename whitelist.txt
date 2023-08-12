@@ -1,3 +1,4 @@
+*-akamaientrypoint.net
 *-boot.tiktok*.com
 *-lb.ultimedia.com
 *-spclient.spotify.com
@@ -6,6 +7,7 @@
 *.aadrm.com
 *.aadrm.de
 *.aadrm.us
+*.accesstrade.co.id
 *.acsechocaptiveportal.com
 *.activity.windows.com
 *.adguard-dns.com
@@ -19,6 +21,17 @@
 *.aimon.applicationinsights.io
 *.aiv-cdn.net
 *.aiv-cdn.net.c.footprint.net
+*.akagtm.org
+*.akahost.net
+*.akam.net
+*.akamaiedge-staging.net
+*.akamaistream.net
+*.akamaitech.net
+*.akamaitechnologies.com
+*.akamaitechnologies.fr
+*.akaquill.net
+*.akasecure.net
+*.akasripcn.net
 *.amazonvideo.com
 *.api.b.hatena.ne.jp
 *.api.brightcove.com
@@ -1593,6 +1606,7 @@ accessorize-with-sandra.com
 accessorygeeks.com
 accessorystore.co.uk
 accesstickets.com
+accesstrade.co.id
 acclaim-music.com
 acclaimtack.com
 accolade.com.br
@@ -1785,6 +1799,7 @@ ad-api.band.us
 ad-cycle.com
 ad-elektro.cz
 ad-im-cmg.streamguys1.com
+ad-ipd.sxp.smartclip.net
 ad-magazin.de
 ad-mats.com
 ad-med.cz
@@ -2619,19 +2634,32 @@ aka.ms
 akachan-station.com
 akademapro.com
 akademika.no
+akadns.net
+akagtm.org
+akahost.net
 akaisilks.com
 akakce.com
+akam.net
 akam.no
 akamai-images-content.com
 akamai-san24.exacttarget.com.edgekey.net
 akamai-san9.exacttarget.com.edgekey.net
+akamai.com
 akamai.net
+akamaiedge-staging.net
+akamaiedge.net
 akamaihd.net
+akamaistream.net
+akamaitech.net
 akamaitechnologies.com
+akamaitechnologies.fr
 akamaized.net
 akamdub.fullproduct.download.microsoft.com
 akampr.fullproduct.download.microsoft.com
 akamsin.fullproduct.download.microsoft.com
+akaquill.net
+akasecure.net
+akasripcn.net
 akatsukaorchid.com
 akb.ch
 akbank.com
@@ -3705,6 +3733,7 @@ android-china.l.google.com
 android-market.l.google.com
 android-safebrowsing.googleapis.com
 android.clients.google.com
+android.informer.com
 android.l.google.com
 androidapi.mxplay.com
 androidc.mxplay.com
@@ -3941,6 +3970,7 @@ ansiss.lv
 ansursaddle.com
 answerdesk.support.microsoft.com
 answers.com
+answers.informer.com
 answers.microsoft.com
 answers.unity.com
 antangoshoes.com
@@ -4409,8 +4439,6 @@ applam.com
 applauseformalwear.com
 apple-dns.net
 apple.com
-apple.com.akadns.net
-apple.com.edgekey.net
 apple.facebook.com
 apple.tt.omtrdc.net
 appleappliances.com
@@ -15499,7 +15527,6 @@ data.choice.microsoft.com
 data.cnn.com
 data.g2crowd.com
 data.iana.org
-data.microsoft.com.akadns.net
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
@@ -16003,6 +16030,7 @@ derutaimports.com
 derverber.com
 des-marques-et-vous.com
 des-voiles-et-moi.com
+des.smartclip.net
 desayunandoconvos.com.ar
 desbyrne-jewels.com
 deschutesgallery.com
@@ -17787,6 +17815,7 @@ e.clhs.com.ua
 e.csd.link
 e.customeriomail.com
 e.imguol.com
+e.informer.com
 e.orange.fr
 e.paba.hr
 e.reddit.com
@@ -18425,6 +18454,7 @@ edge.dropboxstatic.com
 edge.experimentation.intuit.com
 edge.quantserve.com
 edge.yunjiasu.com
+edgekey.net
 edgeme.sh
 edger-edger-1bnzgiwi71hrk-784259727.us-east-2.elb.amazonaws.com
 edger-edger-4e3vcwvnek77-1367313377.us-east-2.elb.amazonaws.com
@@ -19552,8 +19582,8 @@ eucproducts.com
 euk-gmbh.de
 eukasa.pl
 euklides.no
-eulatracking-public-service-*.ol.epicgames.com
-eulatracking-svc-*-pub-*.elb.amazonaws.com
+eulatracking*.elb.amazonaws.com
+eulatracking*.epicgames.com
 eulennest.at
 eulenshop.de
 eulenspiegel.de
@@ -20570,6 +20600,7 @@ fedorviolinmethod.com
 fedpubs.com
 feechka.ru
 feecle.jp
+feed.informer.com
 feedback-int.microsoft.com
 feedback.aliexpress.com
 feedback.office.microsoft.com
@@ -21819,6 +21850,7 @@ forgotten-romance.com
 forlady.ru
 forliving.cz
 forloveofthehorse.com
+formac.informer.com
 formaldressshops.com
 formalwear-outlet.com
 formalwearltd.com
@@ -27683,6 +27715,7 @@ idbi.com
 idbibank.co.in
 idbibank.com
 idcdn.de
+idea.informer.com
 ideabank24.by
 idealflorists.net
 idealherbs.com
@@ -27995,6 +28028,7 @@ img.digitaltrends.com
 img.ekstat.com
 img.elephantjournal.com
 img.ihreapotheken.de
+img.informer.com
 img.itop.qq.com
 img.mmtcdn.com
 img.nvidiagrid.net
@@ -28221,6 +28255,7 @@ infoa.biz
 infohealth.co.uk
 infolink.pavv.co.kr
 information.microsoft.com
+informer.com
 informer.yandex.ru
 informz.net
 infotype.jp
@@ -28923,7 +28958,6 @@ itsybitsymini.com
 ittf.com
 ittybittyblessings.com
 ittybittybundles.com
-itunes-cdn.itunes-apple.com.akadns.net
 itunes.apple.com
 itv.ard.de
 ity.im
@@ -32438,6 +32472,7 @@ macarthurwatergardens.com
 macbirdie.com
 maccessories.co.uk
 maccorkscrew.com
+macdownload.informer.com
 macecanada.com
 macgaiters.co.uk
 mach-mit-spar-sprit.de
@@ -36528,6 +36563,7 @@ netbank.takarekbank.hu
 netbanking.erstebank.hr
 netbanking.erstebank.me
 netbanking.erstebank.rs
+netbeans-ide.informer.com
 netbk.co.jp
 netbokhandeln.se
 netbsd.org
@@ -36752,7 +36788,6 @@ nexus.live.com
 nexus.passport.com
 nexusamerica.com
 nexusflorist.com
-nexusrules.live.com.akadns.net
 nexusrules.officeapps.live.com
 nexxia.co.uk
 nfbc.us
@@ -37288,6 +37323,7 @@ nuancegifts.com
 nubank.com.br
 nubi.com
 nubsnob.com
+nudi.software.informer.com
 nuerburgring.de
 nuernberg.de
 nufc.com
@@ -46260,6 +46296,7 @@ sharepoint2010.microsoft.com
 sharesight.com
 sharetabs.com
 sharethemusic.com
+sharing.kptncook.com
 sharkoon.com
 sharkspage.com
 sharksteeth.com
@@ -46881,6 +46918,8 @@ shuttleshopper.com
 shw.me
 shy.si
 shysiren.com
+si.informer.com
+si5.informer.com
 siab.ru
 siambmx.com
 siamese-dream.com
@@ -47983,6 +48022,7 @@ soflorists.com
 sofoot.com
 sofrano.com
 soft-tips.co.uk
+softadvice.informer.com
 softairwaffen24.de
 softairwelt.de
 softball-bats.org
@@ -48002,6 +48042,7 @@ softrugs.com
 softsculpturedolls.com
 softsurroundings.com
 softtech.m.facebook.com
+software.informer.com
 softwareupdates.amazon.com
 softworld.es
 sog.co.nz
@@ -49011,7 +49052,6 @@ sportznutz.com
 spot-on-sundials.co.uk
 spotfree.net
 spotify.com
-spotify.com.akahost.net
 spotlesspaw.com
 spotlightonkaraoke.com
 spotlitemagic.com
@@ -53636,6 +53676,7 @@ validation.int.windows.microsoft.com
 validation.sls.microsoft.com.nsatc.net
 valimail.actonservice.com
 valle-sparebank.no
+vallettaferryservices.com
 valleynationalbank.com
 valleystatebank.com
 valleyunitedsoccer.com
