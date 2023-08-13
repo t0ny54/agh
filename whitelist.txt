@@ -266,6 +266,7 @@
 *.trustev.com
 *.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
+*.uedas.com.tr
 *.unmineable.com
 *.update.easebar.com
 *.update.intl.miui.com
@@ -5221,6 +5222,7 @@ assets.sentinelone.com
 assets.sitescdn.net
 assets.ubuntu.com
 assets.zendesk.com
+assetscdn*.paytm.com
 assetsuat2.tataunistore.com.edgekey.net
 assimil.es
 assistant.facebook.com
@@ -18947,6 +18949,7 @@ emas.istore.pl
 emattress.com
 emauxdelongwy.com
 emax.lv
+emb-api.com
 embarrassingproblems.co.uk
 embears.com
 embed.dugout.com
@@ -20790,6 +20793,7 @@ fietsenkampioen.nl
 fietsophetnet.nl
 fietspunt.nl
 fifa.com
+fifa.demdex.net
 fifo.dk
 fifthavenuecollection.com
 fifthdaycreations.com
@@ -35325,6 +35329,7 @@ mptoner.cz
 mpva.com
 mql5.com
 mqrx.com
+mqtt*.facebook.com
 mqtt-ig-p4.facebook.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
@@ -50904,6 +50909,7 @@ t.dripemail2.com
 t.email1.samsung.ca
 t.emailing.monoprix.fr
 t.en25.com
+t.indeed.com
 t.ionos.de
 t.lt02.net
 t.ly
@@ -52963,6 +52969,7 @@ tracking.epicgames.com
 tracking.i2w.io
 tracking.magnetmail.net
 tracking.narvar.com
+tracking.pos.com.my
 tracking.post.japanpost.jp
 tracking.publicidees.com
 tracking.rosettastone.com
@@ -53267,6 +53274,7 @@ udrmv3.kaltura.com
 ue.dnb.pl
 ue.flipboard.com
 ueaeduec.m.facebook.com
+uedas.com.tr
 uedata.amazon.com
 uefa.com
 ufa.wifi.domru.ru
@@ -54620,6 +54628,7 @@ warmandtote.com
 warmbiscuit.com
 warringtonbank.com
 wartburg-sparkasse.de
+warthunder.com
 wasatchfencing.org
 washington.cbslocal.com
 washingtonfederalbank.com
