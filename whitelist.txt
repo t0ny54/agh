@@ -20585,6 +20585,7 @@ featherwear.com
 featherwings.com
 feature.fm
 featuredeco.co.uk
+featuregates.org
 featureradiators.co.uk
 fechner-vh.de
 fechtsport-langenkamp.de
@@ -32057,6 +32058,7 @@ lisab.com
 lisecharmel.com
 lisp4.facebook.com
 list-manage.com
+list-unsubscribe.eservice.emarsys.net
 list.research.microsoft.com
 listazureresources.encryption.applicationinsights.microsoft.com
 listible.com
@@ -33594,6 +33596,8 @@ mdmbank.ru
 mdpennysaver.com
 mdquilts.com
 mdsbattery.com.fr
+me-client.eservice.emarsys.net
+me-inbox.eservice.emarsys.net
 me-r.com
 me-to-you.ru
 me2.do
@@ -34716,6 +34720,7 @@ mobile-data.onetrust.io
 mobile-extra.ch
 mobile-gtalk4.google.com
 mobile-phone-batteries-shop.co.uk
+mobile-sdk-config.gservice.emarsys.net
 mobile-solar.com
 mobile-tronics.com
 mobile.beta.facebook.com
@@ -41999,6 +42004,7 @@ purzelbaum-waldmohr.de
 push-scooters.com
 push.chocolatey.org
 push.delivery.facebook.com
+push.eservice.emarsys.net
 push.services.mozilla.com
 push2.eastmoney.com
 pushbullet.com
@@ -43287,6 +43293,7 @@ redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.viglink.com
 redirectingat.com
 redirector-bigcache.googleapis.com
+redirector.eservice.emarsys.net
 redirector.googlevideo.com
 redirector.gvt1.com
 redirects.tradedoubler.com
@@ -54734,6 +54741,7 @@ webball.com
 webbanking.bgl.lu
 webbankir.com
 webbiographies.com
+webchannel-content.eservice.emarsys.net
 webclicks24.com
 webcut.net
 webebank.ebb-bg.com
