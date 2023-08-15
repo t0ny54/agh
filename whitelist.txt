@@ -157,6 +157,7 @@
 *.kajabi-cdn.com
 *.kiwibrowser.com
 *.kwrn.eu
+*.lekane.net
 *.lencr.org
 *.lgtvsdp.com
 *.lighthouselabs.eu
@@ -8439,6 +8440,7 @@ bitfinex.com
 bitget.com
 biti-media.de
 bitly.com
+bitly.ws
 bitnbridletackshop.com
 bitnspurtack.com
 bitofbritain.com
@@ -10361,6 +10363,7 @@ bzbank.ch
 bzh.me
 bzz.se
 c-and-a.com
+c-api-bit.shopeemobile.com
 c-ctrip.com
 c-device.com
 c-dtags.com
@@ -11435,6 +11438,7 @@ ccm.es
 ccm.rzb.at
 ccmodels.com
 ccmp.eu
+ccms.shopee.io
 ccp.microsoft.com
 ccrane.com
 ccrelics.com
@@ -19096,6 +19100,7 @@ endlesspurseabilities.com
 endlesssummerlifestyles.com
 endo.pl
 endofthecommons.com
+endpoint.mms.shopee.co.id
 endurancezone.com
 enell.com
 enemasupply.com
@@ -21644,6 +21649,7 @@ fmbancorp.com
 fmbanknym.com
 fmbankokc.com
 fmconline.net
+fmhy.net
 fmmart.de
 fmnb.com
 fmnscentedgifts.com
@@ -31861,6 +31867,7 @@ leisurelakesbikes.com
 leisureliving.com
 leisurelylivingstore.mywebhome.ca
 leithpetwerks.com
+lekane.net
 lemeilleurdupsg.com
 lencr.org
 lens.com
@@ -32797,6 +32804,7 @@ malaysiaplaza.com
 malcolmmacdonald.co.uk
 malcom.com
 maldenspeedway.com
+maleextra.com
 malemanor.com
 maler-online-shop.de
 malesiana.com
@@ -39372,6 +39380,7 @@ patriotprintshoppe.com
 patro.cz
 patro.it
 patrocle.ro
+patronus.idata.shopeemobile.com
 pats-hats.net
 patsfans.com
 patsypie.com
@@ -39545,6 +39554,7 @@ pd.am
 pd1294.biochemie.med.uni-giessen.de
 pda-bes.amazon.com
 pdajacket.com
+pdamtbwkotasmi.co.id
 pdc.micloud.xiaomi.net
 pdcdn1.top
 pdga.com
