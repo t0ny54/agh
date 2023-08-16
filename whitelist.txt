@@ -255,6 +255,7 @@
 *.storage.googleapis.com
 *.strpst.com
 *.sunwaydigitalwave.com.my
+*.sweet.tv
 *.syn-alias.com
 *.syndication.twitter.com
 *.teams.live.com
@@ -1262,6 +1263,7 @@ a5.ms.a.microsoft.com
 a592.ms.a.microsoft.com
 a790.w16.akamai.net
 a90.g.akamai.net
+aa.online-metrix.net
 aa.tweakers.net
 aa.tweakers.nl
 aaaauto.cz
@@ -11438,6 +11440,7 @@ ccm.es
 ccm.rzb.at
 ccmodels.com
 ccmp.eu
+ccms.shopee.*
 ccms.shopee.io
 ccp.microsoft.com
 ccrane.com
@@ -19100,6 +19103,7 @@ endlesspurseabilities.com
 endlesssummerlifestyles.com
 endo.pl
 endofthecommons.com
+endpoint.mms.shopee.*
 endpoint.mms.shopee.co.id
 endurancezone.com
 enell.com
@@ -20818,6 +20822,7 @@ fightgear.com
 fightingsecrets.com
 fightphotos.com
 figis.com
+figshare.com
 figueroa.de
 figurasanta.de
 figure8.net
@@ -50726,6 +50731,7 @@ swedbank.se
 swedishartglass.com
 sweeleysdesign.com
 sweet-pea-creations.com
+sweet.tv
 sweetandpowerful.com
 sweetanniesrose.com
 sweetbabybowtique.com
@@ -51432,6 +51438,7 @@ teba-kreditbank.de
 tec-hro.de
 tech-shop.ru
 techair.ru
+techbargains.com
 techgsm.com
 techguy.org
 techhome.ru
