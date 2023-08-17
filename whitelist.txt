@@ -3658,6 +3658,7 @@ analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
 analytics.controld.com
+analytics.global.sky.com
 analytics.halkbank.com.tr
 analytics.icis.com
 analytics.shopify.com
@@ -14134,6 +14135,7 @@ cosplaysupplies.com
 costaricaart.com
 costaricanmarket.com
 costavic.com
+costco-tracking.getconvey.com
 costco.com
 coste-du-rhone.com
 costlesscostumes.com
@@ -14871,6 +14873,7 @@ ctbcbank.com
 ctcbonline.com
 ctdollartists.com
 ctdovetaildesigns.com
+ctl.prd.bi.getbux.com
 ctldl.windowsupdate.com
 ctp-kunst.de
 ctpub.com
@@ -22236,6 +22239,7 @@ freezeonline.com
 freibergbooks.com
 freie-waffen.com
 freight.aliexpress.com
+freighttracking.costco.com
 freizeit-gase-steller.de
 freizeit-shop24.de
 freizeitwelt.de
@@ -34098,6 +34102,7 @@ metrics.foxnews.com
 metrics.leaptel.com.au
 metrics.lidl.com
 metrics.plex.tv
+metrics.sky.com
 metrics.torproject.org
 metrics.webapps.microsoft.com
 metrobankonline.co.uk
@@ -49591,6 +49596,7 @@ statistics.bcapps.org
 stats-trafficcop-prod.nba.com
 stats-trafficcop-prod.nba.com.edgekey.net
 stats.appsflyer.com
+stats.controld.com
 stats.espncricinfo.com
 stats.gc.apple.com
 stats.lt
@@ -54763,6 +54769,7 @@ webclicks24.com
 webcut.net
 webebank.ebb-bg.com
 webedia.fr
+webengage.com
 webep1.com
 weberbank.de
 webersports.com
