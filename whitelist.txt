@@ -13095,6 +13095,7 @@ clothingwarehouse.com
 clothpeddler.com
 clothworks.com
 cloud-news.ionos.com
+cloudcache.tencentcs.com
 cloudconfig.clients6.google.com
 cloudconfig.googleapis.com
 cloudconsole-pa.clients6.google.com
@@ -22051,6 +22052,7 @@ foxfirejewelers.com
 foxglovesonline.co.uk
 foxmarks.com
 foxmusichouse.com
+foxo.me
 foxqualityknives.com
 foxsports.com.au
 foxsupplements.com
@@ -47732,6 +47734,7 @@ smartimports.net
 smartlock.google.com
 smartlook.com
 smartmediarep.com
+smartnews.be
 smartpakequine.com
 smartpartnermarketing.microsoft.com
 smartplugin.youbora.com
@@ -55808,7 +55811,6 @@ www.sitepoint.com
 www.sitesell.com
 www.skimresources.com
 www.slack.com
-www.smartnews.be
 www.smashingmagazine.com
 www.snapdeal.com
 www.space.com
