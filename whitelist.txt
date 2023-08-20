@@ -21749,6 +21749,7 @@ fon.gs
 fondazione.com
 fondsdepotbank.de
 foneboutique.co.uk
+fonecta.fi
 fonejunkie.com
 foner.co.uk
 fonolibro.com
@@ -45897,6 +45898,7 @@ securepay.tcsbank.ru
 securepay.ufc.ge
 secureplugins.longtailvideo.com
 securesafe.com
+secureshellfish.app
 secureshop.firstdata.lv
 securetoken.googleapis.com
 securitas.facebook.com
