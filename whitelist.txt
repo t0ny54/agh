@@ -269,6 +269,7 @@
 *.trustev.com
 *.tuyacn.com
 *.twibbonize.com.cdn.ezoic.net
+*.ubiservices.ubi.com
 *.uedas.com.tr
 *.unmineable.com
 *.update.easebar.com
@@ -2877,6 +2878,7 @@ alimama.com
 alimentacion.carrefour.es
 alincocostumes.com
 alincolnbookshop.com
+alinea.com
 alinejewelryandcrafts.com
 alinma.com
 aliorbank.pl
@@ -3271,6 +3273,7 @@ alternate.nl
 alternativepc.com.br
 alternativesurf.com
 alternativeto.net
+alternativi.fr
 alternatorparts.com
 alterscale.com
 altgarden.com
@@ -3364,6 +3367,7 @@ amazon.com.br
 amazon.com.mx
 amazon.com.tr
 amazon.de
+amazon.eg
 amazon.es
 amazon.fr
 amazon.in
@@ -3610,6 +3614,7 @@ amphoracoins.com
 amplechoice.com
 amplehamper.com
 amplitude.com
+ampoulepascher.fr
 ampproject.marfeel.com
 ampproject.marfeelrev.com
 amradios.com
@@ -3881,6 +3886,7 @@ anis.de
 anistop.com
 anita-bijoux.nl
 anitamarks.com
+anja-paris.com
 anjingkucing.com
 anjooriansilks.com
 anjuu.com
@@ -4749,6 +4755,7 @@ arkbooks.com
 arkeolojisanat.com
 arkivmusic.com
 arkmaker.com
+arkose.com
 arktoys.com
 arkus.com.pl
 arlekino.com
@@ -5297,6 +5304,7 @@ atelier-isabelle.com
 atelier1000tuecher.de
 atelierbasketcase.com
 atelierbizarre.com
+ateliergigogne.com
 ateliershopping.com
 atendacelta.com
 atennisoutlet.com
@@ -7336,6 +7344,7 @@ beaukflorist.com
 beaumonts.co.nz
 beaute-et-sante.com
 beaute-test.com
+beauteprivee.fr
 beautiesltd.com
 beautiful-bouquets.com
 beautiful-view-iris.com
@@ -7354,6 +7363,7 @@ beauty-shopping24.com
 beautybase.com
 beautycafe.com
 beautycenter.fr
+beautycircle.com
 beautydeals.net
 beautyfulcats.de
 beautyhabit.com
@@ -7376,8 +7386,10 @@ beaverbrooks.co.uk
 beavercreekflorist.com
 beaverpark.co.uk
 bebe.com
+bebee.com
 bebefield.pl
 bebelusultau.ro
+bebesaurus.com
 bebo.com
 bebold.com
 bebops.net
@@ -8350,6 +8362,7 @@ bioladen.ch
 biolinky.co
 biomaris.com
 biomarkt-karo.de
+biomidi.fr
 biomorphdesk.com
 bion.com.ua
 bionaturalsur.com
@@ -8593,6 +8606,7 @@ blakesofbelgravia.co.uk
 blanchardsliquor.com
 blancheporte.fr
 blancosinks.info
+blandindelloye.com
 blank-wall.com
 blankcaps.com
 blankdvdmedia.com
@@ -8652,6 +8666,7 @@ blissfulbeadwork.com
 blissweddingservices.co.uk
 blissworld.com
 blister.jp
+blitz-bazar.com
 blitzreifen.de
 blitzsport.com
 blitzwatches.co.uk
@@ -8877,6 +8892,7 @@ bnc.nc
 bnccorp.com
 bndes.gov.br
 bnelsonshoes.com
+bnf.tickeasy.com
 bni.co.id
 bnkv.ru
 bnpparibas.com
@@ -9293,6 +9309,8 @@ bootsphoto.com
 bootsteileversand.de
 bootwerker.nl
 bootylandkids.com
+boozt.com
+booztcdn.com
 bop.com.tw
 bopfinger-bank.de
 boprugby.co.nz
@@ -9413,12 +9431,14 @@ boutique-tokiohotel.com
 boutique.aero
 boutique.ez-config.com
 boutique.massagecafe.com
+boutique.mathou.com
 boutique.petitfute.com
 boutique4women.de
 boutiquedellibro.com.ar
 boutiquedeltorero.net
 boutiquehifi.it
 boutiquejewels.com
+boutiqueobdfacile.fr
 boutiques-oceanopolis.com
 bouwmarktconcurrent.nl
 bov.wallet.best
@@ -9895,6 +9915,7 @@ bsm.co.id
 bso.com.sy
 bspb.ru
 bspgallery.com.au
+bsport.io
 bsr-aerotek.com
 bsrproducts.com
 bss.com
@@ -10345,6 +10366,7 @@ bydgoszcz.tvp.pl
 bydom.com
 bygonenews.com
 byjove.net
+bymanet-shop.fr
 bymarisa.com
 bymebel.ru
 bymichelle.com
@@ -11220,6 +11242,7 @@ caseyswood.com
 caseyviator.com
 casfoods.com
 cash-converters.es
+cash-piscines.com
 cashmerehouse.de
 cashmeresocks.com
 cashs.com
@@ -11599,6 +11622,7 @@ cdn.stream.schibsted.media
 cdn.svp.schibsted.io
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
+cdn.tagcommander.com
 cdn.tpdads.com
 cdn.transifex.com
 cdn.trustcommander.net
@@ -11730,6 +11754,7 @@ celestron.ru
 celextel.com
 celga.com
 celiko.de
+celinebeen.fr
 cell-phone-accessories.com
 cell-phone-accessory.org
 cell-phone-repair.com
@@ -11867,6 +11892,8 @@ certifiedcoins.com
 certifiedpartscorp.com
 certpartner.one.microsoft.com
 cervantes.com
+cetelem-paiement.fr
+cetelem.fr
 cetelem.hu
 ceynix.co.uk
 cf-iomeu-cdn.relaxg.com
@@ -11982,6 +12009,7 @@ chans-antique.com
 chantal.com
 chantalpetitclerc.com
 chanti.dk
+chantonseneglise.fr
 chaosbydesign.com
 chaossnowboards.com
 chapelchocolates.com
@@ -13841,6 +13869,7 @@ conservativebookservice.com
 conservatory-cane-furniture.co.uk
 conservatoryheating.com
 consignmentfirst.com
+consobrico.com
 console.cloud.google.com
 console.developers.google.com
 console.firebase.google.com
@@ -16516,6 +16545,7 @@ dionissoap.com
 dior.com
 dir-shop.cz
 direc4u.com
+direct*.*proxy*.byteglb.com
 direct-cutlery.com
 direct-go.com
 direct-golf.co.uk
@@ -16815,6 +16845,7 @@ dkmags.com
 dknits.com
 dl-debug.dropbox.com
 dl-protect.info
+dl-protect.link
 dl-protect.net.com
 dl-ssl.l.google.com
 dl.360safe.com
@@ -17220,6 +17251,7 @@ downeastproducts.com
 downeaststainedglass.com
 downhomegirl.com
 downhomemusic.com
+download-core.sys.truenas.net
 download-lb.utorrent.com
 download-new.utorrent.com
 download.alexa.com
@@ -17747,6 +17779,7 @@ e-guiden.dk
 e-hanaki.com
 e-hobby.com.pl
 e-horyzont.pl
+e-i.com
 e-ichiba.jp
 e-javacom.stores.yahoo.net
 e-js.com
@@ -17831,6 +17864,7 @@ e.csd.link
 e.customeriomail.com
 e.imguol.com
 e.informer.com
+e.leclerc
 e.orange.fr
 e.paba.hr
 e.reddit.com
@@ -18520,6 +18554,9 @@ ediscountshopping.com
 edish.com
 edithsdaylilies.com
 edition.cnn.com
+editions-artemis.com
+editions-grenouille.com
+editions-retz.com
 editorialesargentinas.com
 editrice-esculapio.it
 editurasigma.ro
@@ -18742,6 +18779,7 @@ electrodepot.fr
 electrojunk.com
 electrokits.com
 electroline4u.com
+electromenager-compare.com
 electromust.com
 electron.research.microsoft.com
 electronic-boulevard.com
@@ -19438,9 +19476,11 @@ especiallyyours.com
 espintech.com
 espinthebottle.com
 espion-on-line.com
+espn.co.uk
 espn.com
 espn.com.co
 espn.go.com
+espncdn.com
 espordz.american-data.net
 esporte.ig.com.br
 esporte.uol.com.br
@@ -20024,6 +20064,7 @@ extremeultrarunning.com
 extremists.co.uk
 extremtextil.de
 exult.co.uk
+exultet.net
 exumajewelry.com
 eye-buy.de
 eye-dye.com
@@ -21386,6 +21427,8 @@ flitz.com
 flixster.com
 fljerry.com
 flo.ru
+floabank.fr
+floapay.fr
 float-like-a-butterfly.de
 flobeds.com
 floccos.com
@@ -29930,6 +29973,7 @@ jugs.co.jp
 jugs.com.au
 juguetespedrosa.com
 juice100.jp
+juicer.io
 juicersforless.com
 jujujoint.com
 juka.com
@@ -31675,6 +31719,7 @@ ladyfootlocker.com
 ladypleasure.co.uk
 lafango.com
 lafeenoire.com
+lafermetropicale.com
 lagalaxy.com
 lagbook.com
 laguiole-knife-corkscrew.com
@@ -32028,6 +32073,7 @@ link.mail.beehiiv.com
 link.otkritiefc.ru
 link.safelinkconverter.com
 link.springer.com
+link.storjshare.io
 link.swa.info
 link.sylikes.com
 link.theplatform.com
@@ -32420,6 +32466,7 @@ lyonsstudio.com
 lyonsuniforms.com
 lyonweb.net
 lyreco.com
+lystit.com
 lythastudios.com
 lzflames.org
 lzo.com
@@ -37966,6 +38013,7 @@ omega3-drho.com
 omegacell.com
 omegadarts.com
 omegamusic.co.uk
+omegawatches.com
 omersa.co.uk
 ominfo.com
 omlive.com
@@ -38374,6 +38422,7 @@ operbank.hu
 opinion.latimes.com
 opinions.research-interactive.com
 opisopshop.nl
+opisto.fr
 opitzhess.de
 oplata.beeline.ru
 oplata.lifecell.com.ua
@@ -43312,12 +43361,14 @@ redir.fr
 redir.metaservices.microsoft.com
 redir.tradedoubler.com
 redir.windows.microsoft.com
+redirect*.tagcommander.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.viglink.com
+redirect622.tagcommander.com
 redirectingat.com
 redirector-bigcache.googleapis.com
 redirector.eservice.emarsys.net
@@ -44426,6 +44477,7 @@ rugbystore.co.uk
 rugbystore.com
 rugbywarehouse.co.uk
 rugbywear.com
+rugbyworldcup.com
 ruggedbear-online.com
 ruggedclothing.com
 ruggers.com
@@ -49112,6 +49164,7 @@ spreadsheets6.google.com
 spreadsheets7.google.com
 spreadsheets8.google.com
 spreadsheets9.google.com
+spreadshirt.fr
 spreadshirt.net
 spree-reiter.de
 spree.mylovelyinn.com
@@ -52942,6 +52995,7 @@ tpb.vn
 tpfs.com
 tpmr.com
 tr-netsalesmedia-pl.affex.org
+tr.ee
 tr.facebook.com
 tr.gravatar.com
 tr.im
@@ -53282,6 +53336,8 @@ ubankal.com
 ubdp.com.ua
 uber.m.facebook.com
 uber.space
+ubiservices.data.ubi.com
+ubiservices.ubi.com
 ublock.org
 ubmich.com
 uboc.com
@@ -54654,6 +54710,7 @@ wangbase.com
 wanimo.com
 wannonce.com
 wanproxy.127.net
+wanteeed.com
 wap-04-01-snc1.facebook.com
 wapo.st
 wapurl.co.uk
@@ -54863,6 +54920,7 @@ westernbankwp.com
 westernbedding.com
 westernsaddle.com
 westernsecuritybank.com
+westernunion.com
 westerwaldbank.de
 westfieldfc.org.uk
 westfurnishings.com
