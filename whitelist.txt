@@ -5699,6 +5699,7 @@ autumn-moon.com
 autumngallery.net
 autumnwings.com
 auxmoney.com
+auxsaveursdardennes.com
 av-basesystems.com
 av-connection.dk
 av-land.ru
@@ -7457,6 +7458,7 @@ beehappyquilting.com
 beeimageboutiquegift.com
 beelartembroidery.com
 beelineinc.net
+beemenergy.fr
 beemood.com
 beenmode.nl
 beep-shop.jp
@@ -32978,6 +32980,7 @@ mannsjewelers.com
 mannwoodcare.com
 mannysonline.com
 manofrubber.com
+manomano.fr
 manorcleaners.com
 manorfurniture.co.uk
 manorhouseminis.com
@@ -41666,6 +41669,7 @@ proctorio.com
 proctorjones.com
 procutlery.com
 procyclegear.com
+prod-care-community-cdn.sprinklr.com
 prod-image-fastly-cdn.yana.asideas.de
 prod-rotation-v2.guce.aws.oath.cloud
 prod.amazoncrl.com
@@ -49151,6 +49155,7 @@ spotlightonkaraoke.com
 spotlitemagic.com
 spout.com
 sppilotco1.microsoft.com
+sprcdn-assets.sprinklr.com
 spreadsheet.google.com
 spreadsheets-china.l.google.com
 spreadsheets.google.com
@@ -53033,6 +53038,7 @@ track.redbubble.com
 track.seadform.net
 track.shoparize.com
 track.smtp2go.net
+track.smtpsendemail.com
 track.spe.schoolmessenger.com
 track.talabat.com
 track.ucas.com
