@@ -119,6 +119,10 @@
 *.fbcdn.net
 *.find.api.micloud.xiaomi.net
 *.forms.office.com
+*.fs1.hubspotusercontent-eu1.net
+*.fs1.hubspotusercontent-na1.net
+*.fs2.hubspotusercontent-eu1.net
+*.fs2.hubspotusercontent-na1.net
 *.fundingchoicesmessages.google.com
 *.fwupd.org
 *.game-mode.net
@@ -15571,8 +15575,10 @@ data.alexa.com
 data.bilibili.com
 data.choice.microsoft.com
 data.cnn.com
+data.digital.costco.com
 data.g2crowd.com
 data.iana.org
+data.memurlar.net
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
@@ -22433,6 +22439,10 @@ frys.com
 fs-bank.de
 fs-mineralstoffe.de
 fs.microsoft.com
+fs1.hubspotusercontent-eu1.net
+fs1.hubspotusercontent-na1.net
+fs2.hubspotusercontent-eu1.net
+fs2.hubspotusercontent-na1.net
 fs45.gounlimited.to
 fsbankmctn.com
 fsbdent-perham.com
@@ -43728,6 +43738,7 @@ reurl.cc
 reusablebags.com
 reut.rs
 revampvintage.com
+revanced.app
 revedecime.com
 revelationimports.com
 revelenterprises.com
@@ -50313,6 +50324,7 @@ suissewatchservice.com
 suitability.com
 suitable-u.com
 suitcase.com
+suite*.emarsys.net
 suite15.emarsys.net
 suitesleep.com
 suitstoboot.co.uk
