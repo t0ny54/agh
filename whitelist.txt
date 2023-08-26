@@ -269,6 +269,7 @@
 *.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
+*.track.toggl.com
 *.trackersimulator.org
 *.trustev.com
 *.tuyacn.com
@@ -32107,6 +32108,7 @@ linkinn.com
 linkn.co
 linkr.uk
 linkroll.com
+links*.afterpay.com
 links.*.slickdeals.net
 links.da.slickdeals.net
 links.email.crunchbase.com
@@ -38639,6 +38641,7 @@ oschadbank.ua
 oselectronics.com
 osewpretty.com
 osheasmarketireland.com
+oshi.at
 oshibanaya.com
 oshkoshmagic.com
 oshmans.com
@@ -38894,6 +38897,7 @@ p-pt.com
 p-tamtam.com
 p-ts.de
 p-upload.facebook.com
+p.*.datadoghq.com
 p.brid.tv
 p.d.0emn.com
 p.d.0fmm.com
@@ -44806,6 +44810,7 @@ saddleupshop.com
 saddleworld.co.uk
 saddlezone.com
 saddoboxing.com
+saddog-official.com
 sadiamonds.com
 sadiesilkies.tripod.com
 sadlerfanclub.com
@@ -51667,6 +51672,7 @@ telsell.com
 telwis.pl
 tema-usa.com
 temp-lcs.samsungcloudsolution.net
+temp.sh
 temp2-config.samsungcloudsolution.net
 tempatshopping.com
 temperatureguard.com
@@ -53054,6 +53060,7 @@ track.smtp2go.net
 track.smtpsendemail.com
 track.spe.schoolmessenger.com
 track.talabat.com
+track.toggl.com
 track.ucas.com
 track.webgains.com
 track.yw56.com.cn
