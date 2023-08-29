@@ -98,6 +98,7 @@
 *.dropbox-dns.com
 *.dvsdvsdvsdva.com
 *.eaglecdn.com
+*.edevlet.gov.tr
 *.edge.experimentation.intuit.com
 *.email*.office.com
 *.email.microsoftemail.com
@@ -154,6 +155,7 @@
 *.insideruser.trafficmanager.net
 *.instant.page
 *.intercom.io
+*.internet.apps.samsung.com
 *.iotcplatform.com
 *.itunes-cdn.itunes-apple.com.akadns.net
 *.itunes.apple.com
@@ -255,6 +257,7 @@
 *.spotify.com.edgesuite.net
 *.stat.gov.pl
 *.static-app.klaviyo.com
+*.static-bahn.de
 *.static-forms.klaviyo.com
 *.stats.paypal.com
 *.storage.googleapis.com
@@ -970,6 +973,7 @@
 4windsadventure.com
 4woodblinds.com
 4x4books.com
+4x4brasil.com.br
 4x90.com
 4xl-menswear.co.uk
 4xtremegifts.com
@@ -3664,7 +3668,6 @@ anacondasports.com
 anadolufinans.com.tr
 anaheimpatio.com
 anakmama.com
-analitik.edevlet.gov.tr
 analysis*.chess.com
 analysis*.chess.com.cdn.cloudflare.net
 analytics.barnebys.sh
@@ -11555,6 +11558,7 @@ cdn.arstechnica.net
 cdn.auth0.com
 cdn.betrad.com
 cdn.bitmovin.com
+cdn.bootcdn.net
 cdn.brid.tv
 cdn.chocolatey.org
 cdn.cloudflare.net
@@ -16323,6 +16327,7 @@ dhbbank.de
 dhcampingandfishingsupply.com
 dhgate.com
 dhmi.co.uk
+dht.aelitis.com
 dhz-shop.nl
 di.com.pl
 diabetic-footcare.com
@@ -18293,6 +18298,7 @@ edenshop.cz
 edenwoodcrafts.com
 eders.com
 ederstamps.com
+edevlet.gov.tr
 edex.com.au
 edgarbrown.com
 edgarkellyrugs.com
@@ -49574,6 +49580,7 @@ starturl.com
 staruniforms.com
 starwell.de
 starwest-botanicals.com
+starzplay.com
 stashrugby.com
 stat-dv.mtsbank.ru
 stat.10jqka.com.cn
@@ -49612,6 +49619,7 @@ static-ak.facebook.com
 static-app.klaviyo.com
 static-asm.secure.skypeassets.com
 static-assets.highwebmedia.com
+static-bahn.de
 static-cl.xhcdn.com
 static-forms.klaviyo.com
 static-in-feedback.heytapmobile.com
@@ -53101,6 +53109,7 @@ tracking.s24.com
 tracking.tldrnewsletter.com
 tracking.totalexpress.com.br
 tracking.truthfinder.com
+tracking.urbn.com
 trackingshipment.apple.com
 trade.paritem.com
 trade.webborsam.com
@@ -55001,6 +55010,10 @@ whitepapers.techrepublic.com
 whiterockgymnastics.com
 whitesoxinteractive.com
 who.is
+whois.afrinic.net
+whois.myddns.me
+whois.no-ip.org
+whois.ripe.net
 whoissick.org
 wholelattelove.com
 wholepack.com
