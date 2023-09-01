@@ -222,6 +222,7 @@
 *.rewardsprod.trafficmanager.net
 *.riotpixels.net
 *.rtl-relay.iocnt.net
+*.rudderstack.com
 *.safebrowsing.apple
 *.samsungapps.com
 *.samsungapps.com.wtxcdn.com
@@ -4325,6 +4326,7 @@ api.revenuecat.com.herokudns.com
 api.rewards.brave.com
 api.rlje.net
 api.rollbar.com
+api.rudderlabs.com
 api.safedk.com
 api.samsungcloud.com
 api.sbs.com.au
@@ -5857,6 +5859,7 @@ aworldofplenty.com
 awrytail.com
 aws.amazon.com
 awstrack.me
+awswaf.com
 awswireless.com
 awxcdn.com
 ax.phobos.apple.com.edgesuite.net
@@ -19133,6 +19136,7 @@ en-gb.th-th.fbjs.facebook.com
 en-pointe.com
 en-us.facebook.com
 en.bab.la
+en.financerites.com
 en.gravatar.com
 en.lionelmessi.org
 en.w3schools.com
@@ -44487,6 +44491,7 @@ ruckfield.com
 rucksack.de
 rucksackversand.de
 rucni-naradi.cz
+rudderstack.com
 ruddlecottage.net
 rudrakshagem.com
 rudystoys.com
@@ -50303,6 +50308,7 @@ suburbanop.com
 suburbanwheelcover.com
 subway.prod.sybo.net
 subzero.com
+succeedscene.com
 succeedtogether.facebook.com
 successories.com
 suchfunstuff.com
@@ -56348,6 +56354,8 @@ zaim.com
 zain.m.facebook.com
 zajefajna.com
 zakupki.gov.ru
+zalan.do
+zalando-payments.com
 zalando.com
 zalando.de
 zalando.fr
