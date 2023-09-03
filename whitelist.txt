@@ -142,6 +142,7 @@
 *.googletagmanager.com
 *.googletagservices.com
 *.googlevideo.com
+*.gov.ua
 *.gph.easebar.com
 *.gs-loc.apple.com
 *.ilan.gov.tr
@@ -24494,6 +24495,7 @@ gov.in
 gov.kr
 gov.pl
 gov.tw
+gov.ua
 gov.uk
 govart.com
 govdelivery.com
