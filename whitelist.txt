@@ -13857,6 +13857,7 @@ connect.auone.jp
 connect.facebook.com
 connect.facebook.net
 connect.googleforwork.com
+connect.intl.rom.miui.com
 connect.rom.miui.com
 connect.rtb.ru
 connectbeta.microsoft.com
@@ -31976,6 +31977,7 @@ leisurelylivingstore.mywebhome.ca
 leithpetwerks.com
 lekane.net
 lemeilleurdupsg.com
+lemmynsfw.com
 lencr.org
 lens.com
 lensesbymail.com
@@ -53129,6 +53131,7 @@ tracking-protection.prod.mozaws.net
 tracking-website-prod-674464163.us-east-1.elb.amazonaws.com
 tracking.*.sendcloud.sc
 tracking.agsystems.com
+tracking.airmee.com
 tracking.bol.com
 tracking.dpd.de
 tracking.epicgames.com
