@@ -41,6 +41,7 @@
 *.api.iris.microsoft.com
 *.api.miwifi.com
 *.app.asana.com
+*.app.ringcentral.com
 *.apple-dns.net
 *.apple.com.akadns.net
 *.apple.com.edgekey.net
@@ -6926,6 +6927,7 @@ basketsplusmore.com
 baskettailor.com
 baskettreeflorist.com
 baskettreegiftco.com
+basketusa.com
 basketville.com.au
 basketweaving.com
 basketworksltd.com
