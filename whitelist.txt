@@ -1100,6 +1100,7 @@
 9500rpm.com
 95bellstreet.com
 98.to
+98bvd.com
 99dollartux.com
 99ranch.com
 99xsh.com
@@ -1248,7 +1249,6 @@ a1clockman.com
 a1ebooksonline.com
 a1electronics.net
 a1fabric.com
-a1fitnessdiscount.co.uk
 a1florists.com
 a1gifts.co.uk
 a1mattress.com
@@ -1492,6 +1492,7 @@ able2wear.co.uk
 ablenetinc.com
 abletrophies.com
 ablink.account.quizlet.com
+ablink.email.etsy.com
 ablink.mail.parkmobile.io
 abm.org.mx
 abmargenti.it
@@ -3438,6 +3439,7 @@ amegamall.com
 ameliasaprons.com
 ameliemauresmo.fr
 ameliorezvotreswinglogistique.hautetfort.com
+amenagements-cihb.fr
 amenor.com
 amenwardy.com
 amenwardyhome.com
@@ -3809,6 +3811,7 @@ angelicasattic.com
 angelicimpressions.com
 angeliques.de
 angelkissesmaternity.com
+angellmobility.com
 angelnberkowitz.de
 angelo.it
 angeloni.com.br
@@ -3858,6 +3861,7 @@ angusrobertson.com.au
 anhaenger24.de
 anhaengerteileshop.de
 aniftygift.com
+aniiqa.com
 animadomus.com
 animal-design.de
 animal-slippers.de
@@ -5321,6 +5325,8 @@ atelier-de-france.fr
 atelier-freierfall.de
 atelier-ikeda.com
 atelier-isabelle.com
+atelier-prod-boutique.fr
+atelier-prod.fr
 atelier1000tuecher.de
 atelierbasketcase.com
 atelierbizarre.com
@@ -5713,6 +5719,7 @@ autoteile-shopping.de
 autotoys.com
 autotrader.ca
 autoupdate.microsoft.com
+autourdugateau.fr
 autoweb.com
 autoxpressions.com
 autoxtra.co.uk
@@ -11619,6 +11626,7 @@ cdn.livechat.com.edgekey.net
 cdn.livechatinc.com
 cdn.mediavoice.com
 cdn.medium.com
+cdn.membershipworks.com
 cdn.mwbsys.com
 cdn.mxpnl.com
 cdn.onenote.net
@@ -32520,6 +32528,7 @@ lynchburg-hillcats.com
 lynconline.pinpoint.microsoft.com
 lynescustomcowboyco.com
 lynnrphoto.com
+lynns_postcards.gaulin.com
 lynnvickproducts.com
 lyonsstudio.com
 lyonsuniforms.com
@@ -36036,7 +36045,6 @@ myjeanm.com
 myjewelrysource.com
 myjewelthief.com
 myjewelz.com
-myjoyonline.com
 mykassa.kz
 mykidscloset.com
 mykidsfashion.com
@@ -39597,6 +39605,7 @@ payment.schibsted.com
 payment.schibsted.no
 paymentgate.ru
 payments*.netdirector.co.uk
+payments-tracking.waveapps.com
 payments.braintree-api.com
 payments.chronopay.com
 payments.chronopay.ru
@@ -56111,6 +56120,7 @@ wwwtk2beta6.microsoft.com
 wwwtuk1vip.microsoft.com
 wwwtuk2vip.microsoft.com
 wwww.facebook.com
+wwww.myjoyonline.com
 wwy.me
 wx.qlogo.cn
 wxapp.lvyadx.cn
