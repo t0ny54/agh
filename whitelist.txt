@@ -54753,6 +54753,7 @@ w.apprep.smartscreen.microsoft.com
 w.facebook.com
 w1.buysub.com
 w1.web.whatsapp.com
+w10privacy.de
 w1p.fr
 w2.web.whatsapp.com
 w3.web.whatsapp.com
@@ -54905,6 +54906,7 @@ weathertech.com
 web-assets.stylitics.com
 web-assets.stylitics.com.cdn.cloudflare.net
 web-blinds.com
+web-hp.prod.jimdo.systems
 web-ngram.research.microsoft.com
 web-watch.de
 web.archive.org
@@ -54915,6 +54917,7 @@ web.diagnostic.networking.aws.dev
 web.esd.microsoft.com
 web.facebook.com
 web.hellenicbank.com
+web.jimdo.com
 web.pcbeta.com
 web.snrbox.com
 web.usebutton.com
@@ -55186,6 +55189,7 @@ winhelp2002.mvps.org
 winjutsu.com
 winmedia.microsoft.com
 winonanationalbank.com
+winprivacy.de
 winqual.microsoft.com
 winse.microsoft.com
 winterbacher-bank.de
