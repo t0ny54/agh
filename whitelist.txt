@@ -1,5 +1,4 @@
 *-akamaientrypoint.net
-*-apple.com.akadns.net
 *-boot.tiktok*.com
 *-lb.ultimedia.com
 *-spclient.spotify.com
@@ -45,6 +44,7 @@
 *.apple-dns.net
 *.apple.com.akadns.net
 *.apple.com.edgekey.net
+*.apple.com.edgesuite.net
 *.apps.apple.com
 *.apps.apple.com.edgekey.net
 *.arc.epoq.de
@@ -171,6 +171,7 @@
 *.lencr.org
 *.lgtvsdp.com
 *.lighthouselabs.eu
+*.ls.apple.com
 *.mail.onedrive.com
 *.marinetraffic.com
 *.maxmind.com
@@ -307,6 +308,7 @@
 *.zopim.com
 *api.*.microsoft.com
 *api.facebook.com
+*apple-com.akadns.net
 *events*.trafficmanager.net
 *feedback.heytapmobile.com
 *frontier*.byteoversea.com
@@ -3658,6 +3660,7 @@ amun.com
 amundi-tc.com
 amunez.com
 amuseartstamps.com
+amvb-amiens.fr
 amyart.com
 amychristie.co.uk
 amyfaust.com
@@ -6214,6 +6217,7 @@ backyardstuff.com
 bacn.me
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 baconskateboards.com
+bad-asso.fr
 bad24.com
 badabingvintage.com
 badbellies.com
@@ -10520,6 +10524,7 @@ ca-sudmed.fr
 ca-sudrhonealpes.fr
 ca-toulousain.fr
 ca-tourainepoitou.fr
+ca-valdefrance.fr
 ca.gravatar.com
 ca.pool.ntp.org
 ca24.credit-agricole.pl
@@ -11236,6 +11241,7 @@ cartoonjazz.com
 cartoonstock.com
 cartouche-encre.biz
 cartouche.biz
+cartoucheclub.com
 cartouchecompatible.com
 cartouchejewelry.com
 cartoucheltd.com
@@ -12185,6 +12191,7 @@ check.svyaznoy.ru
 check2.tsb.co.uk
 check4.facebook.com
 check6.facebook.com
+checkappexec.microsoft.com
 checkerberries.com
 checkerberrys.com
 checkout.bambora.com
@@ -16547,6 +16554,7 @@ digitalmall.ro
 digitaloutdoors.com
 digitalplanet.co.za
 digitalpromo.co.uk
+digitalservices.missionfed.com
 digitalshop.ru
 digitalshoppingonline.blogspot.com
 digitalshot.ru
@@ -31834,6 +31842,7 @@ landsdownundercatalog.com
 landsend.com
 lane4swim.com
 lanef.com
+languageacademy.com.au
 languagebooks.com.au
 lankum.com
 lansforsakringar.se
@@ -32339,6 +32348,7 @@ login-11-01-snc1.facebook.com
 login-12-01-snc1.facebook.com
 login-12-01-snc2.facebook.com
 login-12-07-snc1.facebook.com
+login-dhl-de.api.eu.janrain.com
 login-portal.nra.bg
 login.ad.nl
 login.aliorbank.pl
@@ -36725,6 +36735,7 @@ netbokhandeln.se
 netbsd.org
 netc.members.microsoft.com
 netcoresmartech.com
+netcup.net
 netdepo.hu
 netdirector.co.uk
 netdna.bootstrapcdn.com
@@ -48164,6 +48175,7 @@ socialsmokehookah.com
 socialteez.com
 socialvibe.com
 societegenerale.com
+societegenerale.eu
 societegenerale.fr
 society6.com
 societybrides.com
@@ -50545,6 +50557,7 @@ superaction.com
 superama.com.mx
 superbag.ru
 superbcert.com
+superbook.cbn.com
 supercadeaux.fr
 supercarros.com
 supercena.istore.pl
@@ -55832,6 +55845,7 @@ www.kickasstorrents.ee
 www.kopimi.com
 www.kqzyfj.com
 www.labs-mqtt.xda-developers.com
+www.languageacademy.com.au
 www.legal.medium.com
 www.lh3.googleusercontent.com
 www.li.techrepublic.com
