@@ -3769,6 +3769,7 @@ android-safebrowsing.googleapis.com
 android.clients.google.com
 android.informer.com
 android.l.google.com
+android.life360.com
 androidapi.mxplay.com
 androidc.mxplay.com
 androidforums.com
@@ -38962,6 +38963,7 @@ oztrack.com
 ozziesattherusticmarket.com
 p*.meituan.net
 p-a-distributing.com
+p-geo.movetv.com
 p-graph-video.facebook.com
 p-it.co.uk
 p-patch.com
@@ -47446,6 +47448,7 @@ sis.amazon.com
 sisalcarpet.com
 sisas.de
 sissonsflowers.com
+sissyflix.com
 sistathingcards.com
 sistemagorod.ru
 sistemax.cl
@@ -50299,6 +50302,7 @@ stuffedanimalfarm.com
 stufflinker.com
 stumbleupon.com
 stumpsspirit.com
+stun.l.google.com
 stunningsilkflowers.com
 stuntprijzen.net
 stupidcreatures.com
@@ -54932,6 +54936,7 @@ web-ngram.research.microsoft.com
 web-watch.de
 web.archive.org
 web.bancadigitalbod.com
+web.basemark.com
 web.beta.facebook.com
 web.de
 web.diagnostic.networking.aws.dev
@@ -55228,6 +55233,7 @@ wirefan.com
 wirelessemporium.com
 wirelessground.com
 wirelesspro.com
+wirple.com
 wirtualnemedia.pl
 wisbank.com
 wisconsinknitwear.com
