@@ -40,6 +40,7 @@
 *.api.iris.microsoft.com
 *.api.miwifi.com
 *.app.asana.com
+*.app.chat.xiaomi.net
 *.app.ringcentral.com
 *.apple-dns.net
 *.apple.com.akadns.net
@@ -4455,6 +4456,7 @@ app.migc.xiaomi.com
 app.onetrust.com
 app.plex.tv
 app.qq.com
+app.raidrive.com
 app.ringcentral.com
 app.sephora.com
 app.traderepublic.com
@@ -14601,6 +14603,7 @@ created4me.com
 createdwithnature.com
 createforless.com
 creatememories.net
+createsend.com
 createsend1.com
 creationcaptured.com
 creationsasa.homestead.com
@@ -19005,6 +19008,7 @@ eloise.co.uk
 elosito.joguines.com
 eloxite.net
 elpachuco.com
+elpais.es
 elpalaciodehierro.com.mx
 elpasorugs.com
 elpasosaddleblanket.com
@@ -43016,6 +43020,7 @@ rasta-service.de
 ratcityrollergirls.com
 ratcitysports.com
 rateitall.com
+ratemyteachers.com
 rathernice.co.uk
 rathicreations.com
 ratios.rewards.brave.com
@@ -51227,6 +51232,7 @@ tagilbank.ru
 tagm.tchibo.de
 tagme-engraving.com
 tagmee.com
+tags-eu.tiqcdn.com
 tags.adsafety.net
 tags.bkrtx.com
 tags.news.com.au
