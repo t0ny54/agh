@@ -86,6 +86,7 @@
 *.contabostorage.com
 *.content.video.llnw.net
 *.controlup.com
+*.createsend.com
 *.createsend1.com
 *.curve.app
 *.custom-domain.publitas.com
@@ -293,6 +294,7 @@
 *.update.microsoft.com
 *.vercel-dns.com
 *.verisign.net
+*.ves.io
 *.video-api.arcpublishing.com
 *.videoland.com
 *.videorolls.row.aiv-cdn.net
@@ -2635,6 +2637,7 @@ ajauxerrelive.com
 ajax.aspnetcdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
+ajaxgeo.cartrawler.com
 ajflags.com
 ajga.org
 ajgolf.com
@@ -15310,6 +15313,7 @@ d-diamond.com
 d-photo.biz
 d-structure.com
 d-vineflowers.com.au
+d.agkn.com
 d.convertkit.com
 d.delivery.consentmanager.net
 d.facebook.com
@@ -17675,6 +17679,7 @@ dutchshopusa.com
 dutchsweets.com
 dutchtouchcreations.tripod.com
 dutchvalleygrowers.com
+duty-halt-i-253.site
 dutyfree.is
 dutyfree24.com
 dutyfreestores.com.au
@@ -21019,6 +21024,7 @@ finanzcenter.sparkasse-bremen.de
 finanzguru.userecho.com
 finazzle.com
 finches-ski.co.uk
+finchtechie.com
 finchvilledaylily.com
 fincombank.com
 find-ip-address.org
@@ -27414,6 +27420,7 @@ i.office.microsoft.com
 i.onlinehelp.microsoft.com
 i.pcbeta.com
 i.pinimg.com
+i.pixl.li
 i.plug.it
 i.reddit.com
 i.rietumu.lv
@@ -38752,6 +38759,7 @@ osysa.com
 ot-bogenshop.com
 ota-downloads.nvidia.com
 ota-recruit-sg.allawnos.com
+otageo.cartrawler.com
 otaku.com
 otaru-merry-go-round.com
 otaru1.jp
@@ -53204,6 +53212,7 @@ trackingshipment.apple.com
 trade.paritem.com
 trade.webborsam.com
 tradehq.com
+tradera.com
 tradersbank.com
 tradetracker.net
 tradingmusician.com
@@ -54133,6 +54142,7 @@ versatables.com
 vertamedia.com
 vertbaudet.fr
 vertgame.com
+ves.io
 vestfynsbank.dk
 vestiairedecopines.com
 vestjyskbank.dk
@@ -54984,6 +54994,7 @@ webid2.gs.com
 webkinz.com
 webmail.laposte.net
 webmail.orange.fr
+webmasters.stackexchange.com
 webmd.com
 webmhsc.com
 webmoney.ru
