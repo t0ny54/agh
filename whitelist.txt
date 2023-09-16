@@ -973,6 +973,7 @@
 4specialtytennis.com
 4speedtoploaders.com
 4starbooks.com
+4strokemedia.com
 4takt-shop.de
 4thebestpecans.com
 4theloveofdolls.com
@@ -8762,6 +8763,7 @@ blogspot.com
 blogspot.l.googleusercontent.com
 blogster.com
 blogsvine.com
+blogtrottr.com
 blokhut.com
 blombank.com
 blondemonkey.com
@@ -28172,6 +28174,8 @@ imd-japan.com
 imeem.com
 imeipro.info
 imexnet.imexbanka.hr
+img*-tapimg-net-idvk*.qiniudns.com
+img*.tapimg.net
 img*.target.com
 img-cd.mmtcdn.com
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -35121,6 +35125,7 @@ mondosarts.de
 mondotec.it
 moneks1.com.pl
 monergismbooks.com
+monero.how
 monese.com
 moneta.ru
 money.comepay.ru
@@ -38924,6 +38929,7 @@ overlandsheepskinco.com
 overlookconnection.com
 overnightdiamonds.com
 overnightprints.com
+overseacdnweb.qiniu.com.w.kunlunno.com
 oversize-damenschuhe.de
 overstock.com
 overstockjeweler.com
