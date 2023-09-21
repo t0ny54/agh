@@ -186,6 +186,7 @@
 *.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
 *.mkklcdnv6tempv4.com
+*.monitoring.*.amazonaws.com
 *.msdp1.com
 *.msf.3g.qq.com
 *.msftconnecttest.com
@@ -8672,6 +8673,7 @@ blankgenerationshirts.com
 blap.net
 blarney.com
 blastotoys.com
+blau.nonstoppartner.net
 blauk.com
 blazediamond.com
 blazes.co.uk
@@ -13811,6 +13813,7 @@ comprasperu.com.pe
 comprebien.com
 comprehensiveinc.com
 comprevenda.com
+compricer.se
 comptoir-marin.com
 compudabo.com.mx
 compumir.ru
@@ -19657,6 +19660,7 @@ eternaljewels.com
 eternallingerie.com
 eternalrings.com
 eternoamor.net
+eth.limo
 ethaicd.com
 ethermine.org
 ethicalwares.com
@@ -20082,6 +20086,7 @@ exquisltd.com
 exrca-stg.support.microsoft.com
 ext.facebook.com
 ext.jp.chan.kaw.cb3.glbdns.microsoft.com
+ext.nonstoppartner.net
 extension-cdn.evidon.com
 exteradirect.co.uk
 exterior-accents.com
@@ -37651,6 +37656,7 @@ o1.email.cmt.research.microsoft.com
 o1.email.medium.com
 o1.email.plex.tv
 o2.email.medium.com
+o2.nonstoppartner.net
 o2.sg0.plex.tv
 o2bancorp.com
 o2o.api.xiaomi.com
@@ -53168,6 +53174,7 @@ track.effiliation.com
 track.gojek.com
 track.goshippo.com
 track.grove.co
+track.nonstoppartner.net
 track.nzz.ch
 track.production.webgains.team
 track.productsup.com
@@ -55508,6 +55515,7 @@ www-g.facebook.com
 www-j.facebook.com
 www-k.facebook.com
 www-l.facebook.com
+www-linkedin-com.l-0005.l-msedge.net
 www-sf2p-a.facebook.com
 www-tc.pbs.org
 www-wide.l.google.com
