@@ -24031,6 +24031,7 @@ go-cat.com
 go-electrical.co.uk
 go-starline.com
 go-transsexuell.de
+go-updater.brave.com
 go.9nl.com
 go.blokada.org
 go.e2language.com
@@ -24582,6 +24583,7 @@ gpsforless.co.uk
 gpsfront.aliexpress.com
 gpsterrestre.com
 gpstore.co.nz
+gpubandwidthcalculator.totalh.net
 gqtux.com
 gquotskuyva.com
 gr-go.aws.kelkoo.com
@@ -31876,6 +31878,7 @@ lanzouw.com
 laoutback.com
 laposte.net
 laptop-battery.org
+laptop-updates.brave.com
 laptopdesk.net
 laptopworldwide.com
 lara-links.com
@@ -39212,6 +39215,7 @@ panamaart.com
 panamahats.co.uk
 pandanmodelboats.co.uk
 pandantree.com
+pandapush-iad-prod.inscloudgate.net
 pandasgift.com
 pandasweets.co.uk
 pandausa.com
@@ -44638,6 +44642,7 @@ rumble.com
 rumibookstore.com
 rumnwine.com
 run-down.com
+run.mocky.io
 runabergsfroer.se
 runatown.com
 runcim.org
@@ -44857,6 +44862,7 @@ s3.*.scw.cloud
 s3.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
+s3.dualstack.*.amazonaws.com
 s3.lightboxcdn.com
 s3.symcb.com
 s3.us-west-1.wasabisys.com
@@ -49837,6 +49843,7 @@ stealthclubcovers.com
 steambrite.com
 steamcloud-eu-ams.storage.googleapis.com
 steamcloud-finland.storage.googleapis.com
+steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
 steamcommunity.com
 steamwheelers.com
 stearns-bank.com
@@ -51060,6 +51067,7 @@ switchplategallery.com
 switchplates.com
 switsport.com
 swkbank.de
+swll.to
 swoggi.fr
 swopper-shop.de
 swordmart.co.uk
