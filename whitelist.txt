@@ -183,6 +183,7 @@
 *.measurement-lab.org
 *.messengerpeople.com
 *.metric.gstatic.com
+*.metrics.heroku.com
 *.micardapi.micloud.xiaomi.net
 *.microsoftstoreemail.com
 *.mkklcdnv6tempv4.com
@@ -11599,6 +11600,7 @@ cdn-static-1.medium.com
 cdn-thumb.fds.api.xiaomi.com
 cdn-us-ec.yottaa.net
 cdn-yams.schibsted.com
+cdn.*.exponea.com
 cdn.adf.ly
 cdn.adrise.tv
 cdn.agilebits.com
@@ -34265,6 +34267,7 @@ metricmechanic.com
 metricool.com
 metrics-target.siriusxm.com
 metrics.foxnews.com
+metrics.heroku.com
 metrics.leaptel.com.au
 metrics.lidl.com
 metrics.plex.tv
@@ -46210,6 +46213,7 @@ sendacelebration.com
 sendaframe.com
 sendaimeiten.com
 sendflowers.ru
+sendgrid-secure.bluecore.com
 sendgrid.net
 sendit.com
 sendleis.com
@@ -53338,6 +53342,7 @@ tristatecamera.com
 trivago.com
 trivago.com.br
 trk.bcrc.io
+trk.ecomm.lenovo.com
 trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
