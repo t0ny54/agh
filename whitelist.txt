@@ -253,6 +253,7 @@
 *.silknet.com
 *.slgnt.eu.cdn.cloudflare.net
 *.smartscreen-prod.microsoft.com
+*.smartsheet.com
 *.smoot.apple.com
 *.smsapi.micloud.xiaomi.net
 *.snap.com
@@ -3177,6 +3178,7 @@ allyoucanbear.com
 allyourprints.com
 almacendelibros.com
 alman.cz
+almaweb.uni-leipzig.de
 almdorfammertal.de
 almhutte.nl
 almondart.com
@@ -7065,6 +7067,7 @@ bauundlandmaschinenmodelle.de
 bavaria-apotheke-passau.de
 bavender.com
 baviera.it
+bawag.at
 bax-shop.fr
 bax-shop.nl
 baxleystamps.com
@@ -12938,6 +12941,7 @@ cleanlinesurf.com
 cleanreport.com
 cleanstore.co.uk
 cleansweepsupply.com
+cleantalk.org
 clear.com.br
 clearanceshop.com.au
 clearbit.com
@@ -43495,11 +43499,10 @@ redir.metaservices.microsoft.com
 redir.tradedoubler.com
 redir.windows.microsoft.com
 redirect*.tagcommander.com
+redirect.*.routing.cloudfront.aws.a2z.com
 redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redirect.at
-redirect.prod.experiment.routing.cloudfront.aws.a2z.com
-redirect.stripe2.prod.experiment.routing.cloudfront.aws.a2z.com
 redirect.viglink.com
 redirect622.tagcommander.com
 redirectingat.com
@@ -47947,6 +47950,7 @@ smartplugin.youbora.com
 smartredirect.de
 smartscreen-os1p.smartscreen.microsoft.com
 smartscreen.microsoft.com.nsatc.net
+smartsheet.com
 smartshopper.net
 smartsnooker.com
 smarttart.co.uk
@@ -54356,6 +54360,7 @@ view.email.nzz.ch
 view.genial.ly
 view.virt.s7.exacttarget.com
 viewer.content.glympse.com
+vigilantcitizen.com
 viglink.com
 vijayabank.com
 vikings-cc.tripod.com
