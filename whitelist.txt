@@ -5587,6 +5587,7 @@ aus5.mozilla.org
 ausbanc.es
 auscricket.com.au
 ausdemweb.de
+ausha.tsbluebox.com
 ausilium.biz
 auskari.com
 ausopaldirect.com.au
@@ -27365,6 +27366,7 @@ hypediss.com
 hyper-boundary-gate.vip.facebook.com
 hyper-boundary-gate.vvv.facebook.com
 hyperaccents.com
+hyperdx.io
 hyperfur.com
 hyperinzerce.cz
 hyperlinkomatic.com
@@ -51177,6 +51179,7 @@ t.paydaythegame.com
 t.paypal.com
 t.pia.co.jp
 t.purch.com
+t.sidekickopen01-eu1.com
 t.skimresources.com
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -53232,6 +53235,7 @@ tracking.agsystems.com
 tracking.airmee.com
 tracking.bol.com
 tracking.budbee.com
+tracking.cashkaro.com
 tracking.dpd.de
 tracking.epicgames.com
 tracking.i2w.io
