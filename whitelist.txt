@@ -8752,6 +8752,7 @@ blog.hubspot.com
 blog.kakaocdn.net
 blog.medium.com
 blog.nic.ad.jp
+blog.pixelexperience.org
 blog.sessionstack.com
 blog.techrepublic.com
 blog.xuite.net
@@ -12975,6 +12976,7 @@ clevelandstatebank.com
 clever-einkaufen.com
 clevercookie.com
 clevercreationsbyamy.com
+cleverpush.com
 cleversurfboards.com
 cleverwood.com
 clgpro.com
@@ -24143,6 +24145,7 @@ gold4u.ru
 goldajewelry.com
 goldanddiamond.com
 goldaskitchen.com
+goldbach.com
 goldcitycorral.com
 goldcoastblooms.com.au
 goldcoastmarathon.com.au
@@ -32186,6 +32189,7 @@ link.freshmail.mx
 link.mail.beehiiv.com
 link.otkritiefc.ru
 link.safelinkconverter.com
+link.space
 link.springer.com
 link.storjshare.io
 link.swa.info
@@ -49362,6 +49366,7 @@ sputniknews.com
 spybase.com
 spyderco.com
 spydersports.com
+spyfu.com
 spynet.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
@@ -53244,6 +53249,7 @@ tracking.narvar.com
 tracking.packeta.com
 tracking.pos.com.my
 tracking.post.japanpost.jp
+tracking.postnord.com
 tracking.publicidees.com
 tracking.rosettastone.com
 tracking.s24.com
@@ -54465,6 +54471,7 @@ vlscppe.microsoft.com
 vlvb.de
 vms.bluebillywig.com
 vmware.facebook.com
+vmz-ad-cf.video.tidal.com
 vnn-res.vgcloud.vn
 vo.la
 voba-aschaffenburg.de
@@ -55315,6 +55322,7 @@ wl.dlservice.microsoft.com
 wl.jd.com
 wl.spotify.com
 wlinfo.com
+wlo.link
 wmflabs.org
 wmtransfer.com
 wn.nr
