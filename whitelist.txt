@@ -4345,6 +4345,7 @@ api.pluto.tv
 api.privacy.schibsted.com
 api.pushbullet.com
 api.quantcast.mgr.consensu.org
+api.radar.io
 api.revenuecat.com
 api.revenuecat.com.herokudns.com
 api.rewards.brave.com
@@ -13935,6 +13936,7 @@ consent.faz.net
 consent.google.com
 consent.trustarc.com
 consent.truste.com
+consent.unilad.com
 consent.yahoo.com
 consentag.eu
 consentcdn.cookiebot.eu
@@ -17566,6 +17568,7 @@ drysdales.com
 drysuit.net
 drysuitsplus.com
 drywallbook.com
+ds-s7.addthis.com.edgekey.net
 ds.emdl.ws.microsoft.com
 ds.msdn.microsoft.com
 ds.tagppe.microsoft.com
@@ -32622,6 +32625,7 @@ m.gitee.com
 m.gizmodo.com
 m.gravatar.com
 m.hotmail.com
+m.icares.app
 m.intern.facebook.com
 m.internmc.facebook.com
 m.media-amazon.com
@@ -34599,6 +34603,7 @@ minds.com
 mindstormphotos.com
 mindvalley.com
 minebilder.no
+minecraft.wiki
 minelinser.no
 mineralien-aerolithe.de
 mineraliengrosshandel.com
@@ -35129,7 +35134,10 @@ momslinenchest.com
 momsteam.com
 momthoughts.com
 momwitch.com
-mon*-*.tiktok*.com
+mon*-checkout*.tiktok*.com
+mon*-normal*.tiktok*.com
+mon*-platform*.tiktok*.com
+mon*-tmp*.tiktok*.com
 mon-joujou.com
 monaco-f1grandprix.com
 monaco-privatebanking.com
@@ -44887,8 +44895,10 @@ s4.symcb.com
 s42089924.einsundeinsshop.de
 s5.symcb.com
 s50.device.marketingcloudapis.com
+s7.addthis.com
 s7d2.scene7.com
 s7y.us
+s8.addthis.com
 s88570519.t.en25.com
 sa-east-1.console.aws.amazon.com
 sa-east-1.target.aws.amazon.com
@@ -51186,6 +51196,7 @@ t.pia.co.jp
 t.purch.com
 t.sidekickopen01-eu1.com
 t.skimresources.com
+t.stripe.com
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
