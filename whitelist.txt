@@ -4233,6 +4233,7 @@ apfelsina.de
 apflowers.com
 aphrodisiacs.com.au
 api*.amazonalexa.com
+api*.hubapi.com
 api*.intercom.io
 api*.pushbullet.com
 api*.sony.tv
