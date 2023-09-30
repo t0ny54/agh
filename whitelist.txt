@@ -304,6 +304,7 @@
 *.vortex*.data.microsoft.com
 *.vortex.data.trafficmanager.net
 *.wdtinc.com
+*.wg.spotify.com
 *.widget.cloud.opta.net
 *.wishpond.com
 *.wpnrtnmrewunrtok.xyz
@@ -15930,6 +15931,7 @@ decentcoffee.com
 decenturl.com
 decibelchicago.stores.yahoo.net
 decibelhifi.com.au
+decision-rbc.taplytics.com
 decitre.fr
 deckmaster.com
 decks.co.uk
@@ -32641,6 +32643,7 @@ m.techrepublic.com
 m.uczzd.cn
 m.w.ms
 m.weeklyad.target.com
+m.yap.yahoo.com
 m1-daum-apcajdmm.kgslb.com
 m1.com
 m1.daumcdn.net
@@ -51494,6 +51497,8 @@ tapetender70er.de
 tapetenmarkt.de
 tapeworkstexas.com
 tapeworld.com
+taplytics.royalbank.com
+taplytics.steroyalbank.com
 tappedin.org
 tapsshop.co.uk
 tapstore.com
@@ -55026,6 +55031,7 @@ web.facebook.com
 web.hellenicbank.com
 web.jimdo.com
 web.pcbeta.com
+web.smgus.com
 web.snrbox.com
 web.usebutton.com
 web.whatsapp.com
