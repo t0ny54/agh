@@ -161,7 +161,6 @@
 *.insideruser.trafficmanager.net
 *.instant.page
 *.intercom.io
-*.internet.apps.samsung.com
 *.iotcplatform.com
 *.itunes-cdn.itunes-apple.com.akadns.net
 *.itunes.apple.com
@@ -220,7 +219,6 @@
 *.pushmessage.samsung.com
 *.pv-cdn.net
 *.quicns.com
-*.rackcdn.com
 *.rbc.online-metrix.net
 *.recommend.lgtvcommon.com
 *.registerdisney.go.com
@@ -1270,6 +1268,7 @@ a1trophies.com
 a1vans.com
 a2.ms.a.microsoft.com
 a2000.ms.a.microsoft.com
+a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 a23.ms.a.microsoft.com
 a24m.a-bank.com.ua
 a2a.me
@@ -12711,6 +12710,7 @@ cis.schibsted.com
 ciscaraudio.com
 cisco-imc.iad3.facebook.com
 cisco.facebook.com
+ciscobinary.openh264.org
 cisport.ca
 cissburyleathers.com
 cissports.com
@@ -42616,7 +42616,6 @@ racingusa.com
 racingwest.com
 racinphoto.com
 rack.com.sg
-rackcdn.com
 racket-service.de
 racketbag.com
 racketman.com
@@ -46832,6 +46831,7 @@ shop.net
 shop.npr.org
 shop.pentax.jp
 shop.prokitchen.co.jp
+shop.qrp-labs.com
 shop.rescuenow.net
 shop.samsung.com
 shop.sanrio.jp
@@ -51906,6 +51906,7 @@ terminal.ecommpay.com
 terminal.ucs.su
 termly.io
 terms.facebook.com
+terms.internet.apps.samsung.com
 termwiki.com
 ternart.com
 terra-cotta-pendants.com
