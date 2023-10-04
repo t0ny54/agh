@@ -59,6 +59,7 @@
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
+*.campaign.aliexpress.com
 *.carx-online.com
 *.cas.ms
 *.cbox.im
@@ -276,6 +277,7 @@
 *.sweet.tv
 *.syn-alias.com
 *.syndication.twitter.com
+*.t.en25.com
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
@@ -314,6 +316,7 @@
 *api.*.microsoft.com
 *api.facebook.com
 *apple-com.akadns.net
+*cdn*.exponea.com
 *events*.trafficmanager.net
 *feedback.heytapmobile.com
 *frontier*.byteoversea.com
@@ -2707,6 +2710,7 @@ akcessories.com
 akearmory.com
 akf.de
 akf24.de
+akibe.fr
 akidsbeddingline.com
 akirastudios.com
 akizz.com
@@ -2812,6 +2816,7 @@ albinpreissler.de
 albionantiques.com
 albnatur.de
 albumframes.com
+albumprinter.com
 albumsinc.com
 albumsource.com
 albumsunlimited.com
@@ -2888,6 +2893,7 @@ alibaba.com
 aliblabla.it
 alibris.com
 alicdn.com
+alicebroderie.com
 alicesgarden.fr
 aliceshop.com
 alicesstainedglass.com
@@ -3933,6 +3939,7 @@ anklet.com
 anmex.facebook.com
 anna-fans.com
 anna-lisaonline.com
+annabac.com
 annabank.com
 annabean.com
 annabelchaffer.co.uk
@@ -4468,6 +4475,7 @@ app.onetrust.com
 app.plex.tv
 app.qq.com
 app.raidrive.com
+app.response.oracle-mail.com
 app.ringcentral.com
 app.sephora.com
 app.traderepublic.com
@@ -5241,6 +5249,7 @@ aspinningwheel.com
 asplendidtable.com
 aspnetcdn.com
 asport.pl
+assasferronnerie.fr
 asse-actu.com
 asse-live.com
 asse-stats.com
@@ -9043,6 +9052,7 @@ boc.cn
 boc.ru
 boc123.com
 boc24.de
+bocage.fr
 bocagiftbaskets.com
 bocajava.com
 bochk.com
@@ -9194,6 +9204,7 @@ bonaparte.se
 bonboniera.co.uk
 bonbonmaman.com
 bonbonniere.tripod.com
+bonchicboncoeur.fr
 bond-america.com
 bondel.com
 bondfaro.com.br
@@ -11639,6 +11650,7 @@ cdn.elev.io
 cdn.embedly.com
 cdn.engagement.ai
 cdn.epg.tvdownload.microsoft.com
+cdn.eu1.exponea.com
 cdn.exponea.com
 cdn.fbsbx.com
 cdn.firebase.com
@@ -11703,7 +11715,9 @@ cdn.transifex.com
 cdn.trustcommander.net
 cdn.ttgtmedia.com
 cdn.turner.com
+cdn.uk.exponea.com
 cdn.unpkg.com
+cdn.us1.exponea.com
 cdn.viblast.com
 cdn.video.meredithcorp.io
 cdn.vidible.tv
@@ -14228,6 +14242,7 @@ cosmetics.com
 cosmeticsfairy.co.uk
 cosmeticsforall.com
 cosmetictimes.com
+cosmetologieclimatique.com
 cosmic-creations.com
 cosmiccloset.com
 cosmicflamingo.com
@@ -26100,6 +26115,7 @@ helmetsetc.com
 helmutshobbies.com
 help.apple.com.edgekey.net
 help.appsumo.com
+help.batch.com
 help.medium.com
 help.servicedeskplus.com
 help.ui.xboxlive.com
@@ -40763,6 +40779,7 @@ pl2-play.adtonos.com
 pl8source.com
 pla-dio.com
 place-cards.co.uk
+placedestendances.com
 placehold.it
 placeholdit.imgix.net
 placergolddesign.com
@@ -44869,6 +44886,7 @@ s0.wp.com
 s1.symcb.com
 s1.wp.com
 s11.cn
+s1973398186.t.en25.com
 s2.static.cfgr3.com
 s2.symcb.com
 s2.wp.com
@@ -50316,6 +50334,7 @@ stringthis.com
 stripe.com
 stripe.network
 stripesplus.com
+strm.yandex.net
 stroeerdigitalpublishing.de
 strokemaster.com
 strolche.ch
@@ -53530,6 +53549,7 @@ tylertrends.com
 tysnes-sparebank.no
 tysonchandler.com
 u-boxit.com
+u.cubeupload.com
 u.mavrev.com
 u.nu
 u.to
@@ -53720,6 +53740,7 @@ unsere-raiba.de
 unserevolksbank.de
 unsplash.com
 unsubscribe.convertkit.com
+unsubscribe.prod.leanplum.com
 untiny.me
 uob.co.th
 uob.com.sg
