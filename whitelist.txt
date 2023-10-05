@@ -42109,6 +42109,7 @@ ptsbank.com
 pttbank.ptt.gov.tr
 ptuning.com
 ptwoody.com
+pub.s7.exacttarget.com
 pubcenter.microsoft.com
 pubeco.fr
 pubinyour.facebook.com
@@ -55494,6 +55495,7 @@ ws-mt1.pusher.com
 ws-zeplin.pusher.com
 ws.amazon.com
 ws.audioscrobbler.com
+ws.batch.com
 ws.coinbase.com
 ws.grant.ua
 ws.meethue.com
