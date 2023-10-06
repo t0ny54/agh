@@ -20705,6 +20705,7 @@ fbx-firmware.proxad.net
 fc-fever.com
 fc-resources.fastcompany.com
 fc.eulerian.net
+fc.vodafone.de
 fcbanktn.com
 fcbinc.com
 fcbmilton.com
@@ -27287,6 +27288,7 @@ hulpverleningswinkel.nl
 hulu.com
 huluxia.com
 humanitarianbowl.org
+humansecurity.com
 humbleabode.com
 humbleheartdresden.com
 humblevoice.com
@@ -54573,6 +54575,7 @@ vod.detik.com
 vod.pl
 vod.tvp.pl
 vod2.kaltura.com
+vodafone.de.ssl.d2.sc.omtrdc.net
 vodafone.facebook.com
 vodafoneindia.tt.omtrdc.net
 voddownload.ndtv.com.edgekey.net
@@ -54966,6 +54969,7 @@ warmbiscuit.com
 warringtonbank.com
 wartburg-sparkasse.de
 warthunder.com
+was.vodafone.de
 wasatchfencing.org
 washington.cbslocal.com
 washingtonfederalbank.com
