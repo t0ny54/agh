@@ -339,7 +339,6 @@
 *mssdk*.snssdk.com
 *mssdk*.tiktok*.com
 *ocsp.microsoft.com
-*paypal*.siteintercept.qualtrics.com
 *pitaya*.byteoversea.com
 *pitaya*.snssdk.com
 *pitaya*.tiktok*.com
@@ -1686,6 +1685,7 @@ acehotline.com
 acekaraoke.com
 acelerame.com
 acemitchell.com
+acemlnb.com
 acemysteryshopping.com
 aceprogolfshop.com
 aceroymagia.com
@@ -16376,6 +16376,7 @@ devlinboat.com
 devonaire.com
 devonbank.com
 devrind.nl
+devtunnels.ms
 devvm1958.ftw3.facebook.com
 dewey-lfs.vip.facebook.com
 dewey.vip.facebook.com
@@ -24385,6 +24386,7 @@ gongawareandparry.net
 goo-gl.me
 goo.gl
 goo.lu
+goo.su
 good-chairs.com
 good-night-irene.com
 good-shop.com
@@ -40755,6 +40757,7 @@ pixum.de
 pixxass.de
 pixyworld.net
 piyocosmo.jp
+pizza7.jelastic.dogado.eu
 pizzaandads.com
 pj-house.com
 pjatr.com
@@ -41855,7 +41858,6 @@ prodejher.cz
 prodesigned.com
 prodirect.com.au
 prodjcase.com
-prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 prodorutti-supply.com
 prodreg.microsoft.com
 productactivation.one.microsoft.com
@@ -47559,8 +47561,6 @@ sitecheck4.opera.com
 sitecheck5.opera.com
 sitecheck6.opera.com
 sitecheck7.opera.com
-siteintercept.qprod2.net
-siteintercept.qualtrics.com
 sitejot.com
 sitel.m.facebook.com
 sitepoint.com
@@ -53155,6 +53155,7 @@ top.n.shifen.com
 top4office.com
 topachat.com
 topbuydeals.com
+topclassactions.acemlnb.com
 topdjgear.com
 topekaselect.com
 topiaryartworks.com
@@ -53474,6 +53475,7 @@ tunein.com
 tuneinn.co.uk
 tuner-api.hdhomerun.com
 tungstenrings.com
+tunnels.api.visualstudio.com
 tupperware.com
 tupperware.eu
 turanbank.az
