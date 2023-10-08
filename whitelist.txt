@@ -15672,6 +15672,7 @@ data.cnn.com
 data.digital.costco.com
 data.g2crowd.com
 data.iana.org
+data.meethue.com
 data.memurlar.net
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
@@ -23522,6 +23523,7 @@ getnutri.com
 getofficial.com
 getoggz.com
 getoily.com
+getpagespeed.com
 getpharma.com
 getpocket.com
 getpointe.com
@@ -27851,6 +27853,7 @@ iceskatingintnl.com
 icestory.narod.ru
 icevest.com
 icewear.com
+icfcollege.thinkific.com
 icgcoin.com
 icha.org
 ichimonji.co.jp
