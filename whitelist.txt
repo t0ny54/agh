@@ -5271,6 +5271,7 @@ assets.coinbase.com
 assets.convertkit.com
 assets.dealabs.com
 assets.dwell.com
+assets.flightservicesv2.datasavannah.com
 assets.gadgets360cdn.com
 assets.getpocket.com
 assets.gumroad.com
@@ -23924,6 +23925,7 @@ glima.com
 glimmer.hearstapps.com
 glimra.com
 glisseo.com
+glitchtip.jgeek00.com
 glitteraccessory.com
 glitterati.shop-pro.jp
 glitterbox.com
@@ -32309,6 +32311,7 @@ liurl.cn
 live-trace.bilibili.com
 live.adyen.com
 live.com
+live.flightservicesv2.datasavannah.com
 live.github.com
 live.simcitybuildit.com
 live800.com
@@ -55048,6 +55051,7 @@ wearbuy.com
 weather*.allawnos.com
 weather.com
 weatherapi.market.xiaomi.com
+weatherservices.datasavannah.com
 weathertech.com
 web-assets.stylitics.com
 web-assets.stylitics.com.cdn.cloudflare.net
