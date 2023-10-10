@@ -4376,6 +4376,7 @@ api.st-av.net
 api.storyly.io
 api.stripe.com
 api.sunrise-sunset.org
+api.superwall.me
 api.surfeasy.com
 api.t-mobile.com
 api.target.com
@@ -6397,8 +6398,6 @@ baltimore.cbslocal.com
 baltimoreblast.com
 baltimoregiftbaskets.com
 baluchrugs.com
-bam-eu01.cell.eu.nr-data.net
-bam.eu01.nr-data.net
 bamabots.com
 bamafever.com
 bamason.com
@@ -8166,6 +8165,7 @@ bigbangcannons.com
 bigbank.ee
 bigbeaksbirdtoys.com
 bigbenclocks.com
+bigberthaoriginal.cz
 bigbit.ru
 bigblackbear.com
 bigbluhammer.com
@@ -11707,6 +11707,7 @@ cdn.sstatic.net
 cdn.statically.io
 cdn.staticaly.com
 cdn.stream.schibsted.media
+cdn.superwall.me
 cdn.svp.schibsted.io
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
@@ -20635,7 +20636,6 @@ fastival.fr
 fastkayak.com
 fastlane.tools
 fastly-analytics.com
-fastly-tls12-bam.eu01.nr-data.net
 fastnfab.org
 fastpitchnetworking.com
 fasturnjunction.com
@@ -23172,6 +23172,8 @@ gate.io
 gate.vseplatezhi.ru
 gateway.dots-services.com
 gateway.fe.apple-dns.net
+gateway.ipfs.io
+gateway.pinata.cloud
 gatewaybank.com
 gatewayflorist.us
 gatewayfootball.org
@@ -35965,6 +35967,7 @@ mwf.com
 mx-go.aws.kelkoo.com
 mx-go.kelkoogroup.net
 mx-out.facebook.com
+mx.technolutions.net
 mx.yandex.ru
 mx01.facebook.com
 mx02.facebook.com
@@ -53078,7 +53081,6 @@ tlc.com
 tld-list.com
 tldr.sk
 tllg.net
-tls12.eu01.nr-data.net.cdn.cloudflare.net
 tls13.facebook.com
 tlu.dl.delivery.mp.microsoft.com
 tm.facebook.com
