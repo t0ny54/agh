@@ -331,6 +331,7 @@
 *graph.facebook.com
 *graph.fbpigeon.com
 *graph.instagram.com
+*kinesis*.amazonaws.com
 *logfiles.zoom.us
 *mcs*.byteoversea.com
 *mcs*.snssdk.com
@@ -30428,10 +30429,8 @@ kallisshoekloset.com
 kalmar-multisport.se
 kaltenkirchener-bank.de
 kalunga.com.br
-kalupurbank.com
 kalustofurniture.co.uk
 kalustyans.com
-kalyanjanata.in
 kalynka.ru
 kalyx.com
 kamakurapens.com
@@ -39369,6 +39368,7 @@ paralympic.ca
 paralympic.org
 paralympic.org.au
 param.com.tr
+paramountplus.qflm.net
 paramountzone.com
 paranabanco.com.br
 parapenteshop.com
@@ -53042,6 +53042,7 @@ tinyurl.hu
 tinyvid.io
 tip.office.microsoft.com
 tipd.com
+tipico.com
 tipico.de
 tipstrs.com
 tirings.com
