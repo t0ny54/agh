@@ -11642,6 +11642,7 @@ cdn.conversant.mgr.consensu.org
 cdn.convertkit.com
 cdn.cpnscdn.com
 cdn.datatables.net
+cdn.debugbear.com
 cdn.digitaltrends.com
 cdn.directory.google.com
 cdn.discordapp.com
@@ -15672,6 +15673,7 @@ data.alexa.com
 data.bilibili.com
 data.choice.microsoft.com
 data.cnn.com
+data.debugbear.com
 data.digital.costco.com
 data.g2crowd.com
 data.iana.org
@@ -15934,6 +15936,7 @@ debrapyeatt.com
 debscardsncrafts.co.uk
 debspecs.com
 debsrugs.com
+debugbear.com
 dec.fazenda.df.gov.br
 decadesvintage.com
 decalboy.com
