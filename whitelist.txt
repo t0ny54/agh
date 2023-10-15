@@ -28163,6 +28163,7 @@ image.crisp.chat
 image.elephantjournal.com
 image.email.microsoftemail.com
 image.ibb.co
+image.invitation.cantonfair.org.cn
 image.jeuxvideo.com
 image.jimcdn.com
 image.mail.disneyplus.com
@@ -28812,6 +28813,7 @@ investor.vps.no
 investorplace.com
 investpay.ru
 invitatia.ro
+invitation.cantonfair.org.cn
 invitation.groove.microsoft.com
 invitations4less.com
 invitationsbyalecia.com
@@ -32665,6 +32667,7 @@ m.hotmail.com
 m.icares.app
 m.intern.facebook.com
 m.internmc.facebook.com
+m.invitation.cantonfair.org.cn
 m.media-amazon.com
 m.pcbeta.com
 m.prod.facebook.com
