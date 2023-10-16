@@ -185,8 +185,10 @@
 *.metric.gstatic.com
 *.metrics.heroku.com
 *.micardapi.micloud.xiaomi.net
+*.microsoftstart.com
 *.microsoftstoreemail.com
 *.mkklcdnv6tempv4.com
+*.mo.baidu.com
 *.monitoring.*.amazonaws.com
 *.msdp1.com
 *.msf.3g.qq.com
@@ -1736,6 +1738,7 @@ acornplanet.com
 acorns.com
 acornuniforms.com
 acorofloristas.com
+acortar.link
 acousticmusicworks.com
 acquaingros.it
 acquamar.com.br
@@ -16359,7 +16362,6 @@ developers.prod.facebook.com
 developersniche.com
 development.facebook.com
 deviantart.com
-device-api.urbanairship.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us-ud.amazon.com
@@ -32255,7 +32257,6 @@ linkr.uk
 linkroll.com
 links*.afterpay.com
 links.*.slickdeals.net
-links.da.slickdeals.net
 links.email.crunchbase.com
 links.getblueshift.com
 links.getblueshift.com.cdn.cloudflare.net
@@ -34452,6 +34453,7 @@ microsoft.m.facebook.com
 microsoftedgewelcome.microsoft.com
 microsoftmscompoc.tt.omtrdc.net
 microsoftonline.com
+microsoftstart.com
 microsoftstoreemail.com
 microsoftupdate.microsoft.com
 microsoftwindowsupdate.net
@@ -34945,6 +34947,7 @@ mnretail.org
 mnswarm.com
 mntzrlt.net
 mnworkwear.com
+mo.baidu.com
 mo.res.wpscdn.cn
 moananuidesigns.com
 moanui.co.nz
@@ -43500,6 +43503,7 @@ red-carparts.de
 red-maple.jp
 red21boys.com
 red5audio.com
+redalert.nshc.net
 redandwhitestore.de
 redbarn.jp
 redbarninc.com
@@ -53639,6 +53643,7 @@ uim.tifbs.net
 uimetadata.samsungiotcloud.com
 uk-go.aws.kelkoo.com
 uk-go.kelkoogroup.net
+uk-qhs2.reedbusiness.net
 uk-ua.facebook.com
 uk.gravatar.com
 uk.pool.ntp.org
