@@ -335,12 +335,6 @@
 *graph.instagram.com
 *kinesis*.amazonaws.com
 *logfiles.zoom.us
-*mcs*.byteoversea.com
-*mcs*.snssdk.com
-*mcs*.tiktok*.com
-*mssdk*.byteoversea.com
-*mssdk*.snssdk.com
-*mssdk*.tiktok*.com
 *ocsp.microsoft.com
 *pitaya*.byteoversea.com
 *pitaya*.snssdk.com
@@ -5331,6 +5325,7 @@ astucesdefilles.com
 astuteadvance.com
 asurion.m.facebook.com
 asus.facebook.com
+asusiran.com
 asviobank.ua
 aswebsales.com
 aswexpress.com
@@ -14516,6 +14511,7 @@ cpotools.com
 cpperformance.com
 cppostmarks.com
 cpr-savers.com
+cprapid.com
 cpro.baidu.cn
 cps.kaola.com
 cpslitetest-qna-part.community.services.support.microsoft.com
@@ -55239,6 +55235,7 @@ whirlpool.net.au
 whistlerblackcomb.com
 whitebarngifts.com
 whiteclaybicycleclub.org
+whitecoatinvestor.com
 whitefishtoys.com
 whitepapers.techrepublic.com
 whiterockgymnastics.com
