@@ -11670,6 +11670,7 @@ cdn.kaltura.com
 cdn.listrakbi.com
 cdn.livechat.com.edgekey.net
 cdn.livechatinc.com
+cdn.mcauto-images-production.sendgrid.net
 cdn.mediavoice.com
 cdn.medium.com
 cdn.membershipworks.com
@@ -38410,6 +38411,7 @@ online.tkbbank.ru
 online.transstroybank.ru
 online.tskb.com.tr
 online.unicombank.com.ua
+online.unionbankph.com
 online.virginmoney.com
 online.vostbank.ru
 online.vtb-bank.kz
@@ -39744,6 +39746,7 @@ paytm.com
 paytr.com
 payture.com
 payu.in
+payusatax.com
 pazaraktif.com
 pazzles.com
 pb-naturprodukte.de
