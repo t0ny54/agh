@@ -41537,6 +41537,7 @@ ppe.wercms.microsoft.com
 ppfr.it
 pphu-motor.pl
 ppmracingproducts.com
+ppp.contentdef.com
 pppatch.com
 pps.fuib.com
 pps.whatsapp.net
@@ -47585,6 +47586,7 @@ sitejot.com
 sitel.m.facebook.com
 sitepoint.com
 sitercl.com
+sitereview.symantec.com
 sites.google.com
 sites.hscoscdn10.net
 sites.hscoscdn20.net
@@ -53577,6 +53579,7 @@ tysnes-sparebank.no
 tysonchandler.com
 u-boxit.com
 u.cubeupload.com
+u.fastly-analytics.com
 u.mavrev.com
 u.nu
 u.to
