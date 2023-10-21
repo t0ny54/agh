@@ -313,6 +313,7 @@
 *.wsj.net
 *.www-googletagmanager.l.google.com
 *.xp.apple.com
+*.xp.itunes-apple.com.akadns.net
 *.ytimg.com
 *.zopim.com
 *api.*.microsoft.com
@@ -1832,7 +1833,6 @@ ad-api.band.us
 ad-cycle.com
 ad-elektro.cz
 ad-im-cmg.streamguys1.com
-ad-ipd.sxp.smartclip.net
 ad-magazin.de
 ad-mats.com
 ad-med.cz
@@ -4265,6 +4265,7 @@ api-video-sf2p.facebook.com
 api.account.xiaomi.com
 api.accuweather.com
 api.ad.xiaomi.com
+api.addressy.com
 api.adguard.com
 api.adguard.org
 api.agoda.com.edgekey.net
@@ -16185,7 +16186,6 @@ derutaimports.com
 derverber.com
 des-marques-et-vous.com
 des-voiles-et-moi.com
-des.smartclip.net
 desayunandoconvos.com.ar
 desbyrne-jewels.com
 deschutesgallery.com
@@ -42258,6 +42258,7 @@ purplekittyyarns.com
 purplemountains.com
 purplepride.org
 purplepuffin.co.uk
+purr.nytimes.com
 purrfectengravers.com
 purrfectfence.com
 purrfectplay.com
@@ -53257,6 +53258,7 @@ tracemyip.org
 traceurl.com
 track*.effiliation.com
 track-eu.adformnet.akadns.net
+track.4px.com
 track.adform.net
 track.adtraction.com
 track.aliexpress.com
