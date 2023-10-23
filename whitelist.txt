@@ -21027,10 +21027,12 @@ files.alicdn.com
 files.brightcove.com
 files.catbox.moe
 files.cloud.orange.fr
+files.freedownloadmanager.org
 files.im
 files.msal.ru
 files.overclock.net
 files.slack.com
+files2.freedownloadmanager.org
 filesmonster.com
 filetransfer.microsoft.com
 filetransfer.support.microsoft.com
@@ -37526,6 +37528,7 @@ npe.facebook.com
 npmjs.com
 npr-news.streaming.adswizz.com
 npr.org
+npttech.com
 nq.st
 nqdesigns.com
 nrarities.com
@@ -56069,7 +56072,6 @@ www.noteworthy.medium.com
 www.notifications-pa.googleapis.com
 www.notifications.googleapis.com
 www.npmjs.com
-www.npttech.com
 www.ns-cdn.neustar.biz
 www.ns1.com
 www.nsfw.reddit.com
