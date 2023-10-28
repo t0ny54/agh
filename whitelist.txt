@@ -184,6 +184,7 @@
 *.messengerpeople.com
 *.metric.gstatic.com
 *.metrics.heroku.com
+*.mgln.ai
 *.micardapi.micloud.xiaomi.net
 *.microsoftstart.com
 *.microsoftstoreemail.com
@@ -5224,6 +5225,7 @@ asmfc.com
 asmfca.com
 asmfoot.fr
 asmuenzen.de
+asn.com
 asnbank.nl
 asnl.net
 asnpub.com
@@ -13010,6 +13012,7 @@ cleverwood.com
 clgpro.com
 clhs.kiev.ua
 cli.gs
+clica.ai
 click-n-order.net
 click-sap.sfmc-marketing.com
 click.account.miro.com
@@ -32366,6 +32369,7 @@ lk.platon.ru
 lk.promtransbank.ru
 lk.sab-ekb.ru
 lk.sesb.ru
+lk.tc
 lkk-ekb.esplus.ru
 lkv02.ru
 lkwww.facebook.com
@@ -32569,6 +32573,7 @@ luggagepoint.com
 luggageuniverse.com
 luggageworksonline.com
 luggagezone.com
+lulky.club
 luluguinness.com
 luluusa.com
 lumberjackdays.com
@@ -34392,6 +34397,7 @@ mg-gravuren.de
 mg-usa.com
 mgcpuzzles.com
 mgjshop.co.jp
+mgln.ai
 mgs4u.com
 mgz.com.ua
 mhc-*.myhomescreen.tv
@@ -42423,8 +42429,10 @@ qpinteriors.co.uk
 qproquo.com
 qptv.ru
 qqc.co
+qr-code-generator.com
 qr.net
 qray.com
+qrco.de
 qrfy.com
 qrtag.fr
 qssupplies.co.uk
@@ -45532,6 +45540,7 @@ sbtonline.in
 sbtontheweb.com
 sbweavingdesigns.com
 sc.com
+sc.link
 sca-albi.fr
 scache.microsoft.com
 scalable.capital
@@ -47165,6 +47174,7 @@ short.pe
 short.pk
 short.to
 shortbooks.de
+shortcut.ac
 shortlinks.co.uk
 shortna.me
 shortstroke.com
@@ -49860,6 +49870,7 @@ static.cloud.coveo.com
 static.coinbase.com
 static.datadoghq.com
 static.dingtalk.com
+static.efukt.com
 static.facebook.com
 static.fastpic.org
 static.flashx.pw
@@ -53902,6 +53913,7 @@ urlkiss.com
 urlot.com
 urlpire.com
 urlq.com
+urlr.me
 urlreputation-ch1p.smartscreen.microsoft.com
 urlreputation-sn3p.smartscreen.microsoft.com
 urls.fr
@@ -54474,6 +54486,7 @@ view.genial.ly
 view.virt.s7.exacttarget.com
 viewer.content.glympse.com
 vigilantcitizen.com
+vigilink.com
 viglink.com
 vijayabank.com
 vikings-cc.tripod.com
@@ -56481,6 +56494,7 @@ yahoo.com
 yakarouler.com
 yale.facebook.com
 yalebankiowa.com
+yalink.ru
 yamaha-occasion.com
 yammer.com
 yandex.ocsp-responder.com
