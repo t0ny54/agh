@@ -1118,6 +1118,7 @@
 9m.no
 9monthsandmore.co.uk
 9rules.com
+9sh.re
 9to5google.com
 a*.d*.akamai.net
 a-1beerprints.com
@@ -9194,6 +9195,7 @@ bolt.dropbox.com
 boltsmag.com
 boltz-usa.com
 boltz.com
+bom.so
 bom.to
 bombayaircraft.com
 bombaybedspread.com
