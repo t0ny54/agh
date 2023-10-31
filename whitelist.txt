@@ -288,6 +288,7 @@
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
 *.track.toggl.com
+*.tracker.dragontail.com
 *.trackersimulator.org
 *.trustev.com
 *.tuyacn.com
@@ -4403,6 +4404,7 @@ api.vizio.com
 api.yep.com
 api.zaloapp.com
 api.zepto.co.in
+api.zynga.com
 api2.facebook.com
 api3.siftscience.com
 apicache.vudu.com
@@ -23827,7 +23829,6 @@ git.teknik.io
 gitabike.com
 gitastore.com
 gitcdn.link
-gitcdn.xyz
 gitee.com
 github.com
 github.hubspot.com
@@ -53339,6 +53340,7 @@ tracker-g.aiscore.com
 tracker.bitturk.net
 tracker.debian.org
 tracker.dominos.com
+tracker.dragontail.com
 tracker.gpcdn.pl
 tracker.leechers-paradise.org
 tracker.marinsm.com
