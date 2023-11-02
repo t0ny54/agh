@@ -26811,6 +26811,7 @@ homedecodirect.com
 homedecorhardware.com
 homedepot.cdn.findly.com
 homedepot.com
+homedepot.sjv.io
 homedesignersoftware.com
 homedj.co.uk
 homefarmcrafts.com
@@ -32423,6 +32424,7 @@ locale.roblox.com
 localethereum.com
 localiq.com
 localsports.com
+locate.pricespider.com
 location-api.hdhomerun.com
 location-inference-westus.cloudapp.net
 location.services.mozilla.com
