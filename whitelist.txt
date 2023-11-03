@@ -32959,6 +32959,7 @@ maileast.facebook.com
 mailemea.facebook.com
 maileofthedreamseeker.com
 mailerlite.com
+mailing.serviceclients.leclerc
 mailjust4me.com
 maillotsdesport.fr
 mailman-vip.facebook.com
@@ -46166,6 +46167,7 @@ secure.lcl.fr
 secure.livechatinc.com
 secure.lloydsbank.co.uk
 secure.meetup.com
+secure.mydialoginsight.com
 secure.netflix.com
 secure.ogone.com
 secure.okpay.com
