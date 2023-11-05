@@ -46157,6 +46157,7 @@ secure.c10r.facebook.com
 secure.commercegate.com
 secure.creditwestbank.com
 secure.dev.facebook.com
+secure.dhgate.com
 secure.dshield.org
 secure.ecopayz.com
 secure.espncdn.com
@@ -53384,6 +53385,7 @@ tracking.post.japanpost.jp
 tracking.postnord.com
 tracking.publicidees.com
 tracking.rosettastone.com
+tracking.route.com
 tracking.s24.com
 tracking.tldrnewsletter.com
 tracking.totalexpress.com.br
