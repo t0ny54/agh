@@ -91,7 +91,6 @@
 *.createsend1.com
 *.curve.app
 *.custom-domain.publitas.com
-*.custom.plausible.io
 *.damoh.*.de
 *.data-*.rtl.de
 *.data.microsoft.com.akadns.net
@@ -325,12 +324,6 @@
 *cdn*.exponea.com
 *events*.trafficmanager.net
 *feedback.heytapmobile.com
-*frontier*.byteoversea.com
-*frontier*.snssdk.com
-*frontier*.tiktokv.com
-*gecko*.byteoversea.com
-*gecko*.snssdk.com
-*gecko*.tiktok*.com
 *graph-fallback.facebook.com
 *graph-fallback.instagram.com
 *graph-video.facebook.com
@@ -340,9 +333,6 @@
 *kinesis*.amazonaws.com
 *logfiles.zoom.us
 *ocsp.microsoft.com
-*pitaya*.byteoversea.com
-*pitaya*.snssdk.com
-*pitaya*.tiktok*.com
 *spotify-com.akamaized.net
 *star.*.facebook.com
 *telemetry.*oraclecloud.com
@@ -13102,6 +13092,7 @@ clickhouse.com
 clickmeter.com
 clicks.aweber.com
 clicks.mlsend.com
+clicks.monzo.com
 clicks.trx-hub.com
 clickserve.cc-dt.com
 clickserve.dartsearch.net
@@ -35219,6 +35210,7 @@ momslinenchest.com
 momsteam.com
 momthoughts.com
 momwitch.com
+mon*-applog*.tiktok*.com
 mon*-checkout*.tiktok*.com
 mon*-normal*.tiktok*.com
 mon*-platform*.tiktok*.com
@@ -35774,6 +35766,11 @@ msrbeta.research.microsoft.com
 msrcmt.research.microsoft.com
 msrcorp.com
 msrn.research.microsoft.com
+mssdk*-applog*.tiktok*.com
+mssdk*-checkout*.tiktok*.com
+mssdk*-normal*.tiktok*.com
+mssdk*-platform*.tiktok*.com
+mssdk*-tmp*.tiktok*.com
 mssdk-va.tiktok*.com
 mssg.me
 mssl.fwmrm.net
@@ -53387,6 +53384,7 @@ tracking.publicidees.com
 tracking.rosettastone.com
 tracking.route.com
 tracking.s24.com
+tracking.sundarbancourierltd.com
 tracking.tldrnewsletter.com
 tracking.totalexpress.com.br
 tracking.truthfinder.com
@@ -53740,7 +53738,6 @@ ultradiamonds.com
 ultraiso.net
 ultrunr.com
 umaiclothing.com
-umami.is
 umbank.ru
 umbrellabank.com
 umbrellastand.com
