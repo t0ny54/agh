@@ -246,6 +246,7 @@
 *.searchnode.net
 *.securenetsystems.net
 *.seeyoufarm.com
+*.service.lgtvcommon.com
 *.services.microsoft.com
 *.seu*.cleverreach.com
 *.share.microsoft.com
@@ -16866,6 +16867,7 @@ displaycatalog.md.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 displaycostume.com
 displayitcases.com
+disq.us
 disqus.com
 distagage.com
 distinctive-urns.com
@@ -30742,6 +30744,7 @@ keep-alive.facebook.com
 keeperstop.com
 keepfitwithyoga.com
 keepo.bio
+keepo.io
 keepsafecollar.com
 keepsake-video.com
 keepsakefavors.com
@@ -46650,6 +46653,7 @@ shareasale-analytics.com
 shareasale.com
 shareboard.com
 sharecipe.com
+shared.cdn.smp.schibsted.com
 sharedconfession.com
 sharedearth.co.uk
 sharehisstory.com
