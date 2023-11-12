@@ -56,6 +56,7 @@
 *.aylanetworks.com
 *.beaute-test.com
 *.blackfire.io
+*.bnbchain.org
 *.boldchat.com
 *.bonialconnect.com
 *.buymeacoffee.com
@@ -1189,6 +1190,7 @@ a1.adformnet.akadns.net
 a1.ms.a.microsoft.com
 a100.ms.a.microsoft.com
 a101.ms.a.microsoft.com
+a101.wawlabs.com
 a1014.g.akamai.net
 a102.ms.a.microsoft.com
 a103.ms.a.microsoft.com
@@ -8969,6 +8971,7 @@ bn.aliorbank.pl
 bn.gravatar.com
 bnamic.com
 bnb.gov.br
+bnbchain.org
 bnc.ca
 bnc.lt
 bnc.nc
@@ -37118,6 +37121,8 @@ ngenix.net
 ngfts.lge.com
 ngll.org
 ngrcomputers.co.za
+ngrok.com
+ngrok.io
 nhada.org
 nhantiquealley.com
 nhbankers.com
@@ -46440,6 +46445,7 @@ server-it.imrworldwide.com
 serverfault.com
 service.biv.sony.tv
 service.fuib.com
+service.lgtvcommon.com
 service.santanderconsumer.at
 service.signalr.net
 service.weather.microsoft.com
@@ -55014,6 +55020,7 @@ w7.web.whatsapp.com
 w8.com.cn
 w8.web.whatsapp.com
 w88.espn.com
+wa.wawlabs.com
 waa.ai
 wabankers.com
 wabetainfo.com
