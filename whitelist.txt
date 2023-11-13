@@ -1187,6 +1187,7 @@ a000000000000000003.ms.a.microsoft.com
 a000001.ms.a.microsoft.com
 a1.adform.net
 a1.adformnet.akadns.net
+a1.api.bbc.co.uk
 a1.ms.a.microsoft.com
 a100.ms.a.microsoft.com
 a101.ms.a.microsoft.com
