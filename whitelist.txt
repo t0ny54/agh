@@ -14043,6 +14043,7 @@ content-people.googleapis.com
 content-storage-download.googleapis.com
 content-storage.googleapis.com
 content.aimatch.com
+content.covantagecu.org
 content.cptrack.de
 content.ctfs.com
 content.ibanking-services.com
@@ -15858,6 +15859,7 @@ dbulls.com
 dc-battery.co.uk
 dc-ppe.trafficmanager.net
 dc.applicationinsights.microsoft.com
+dc.railgun.works
 dc.tmtest.glbdns.microsoft.com
 dcape-*.amazon.com
 dcape-na.amazon.com
