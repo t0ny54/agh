@@ -4374,6 +4374,7 @@ api.smartify.org
 api.snapkit.com
 api.speedspot.org
 api.st-av.net
+api.statsig.com
 api.storyly.io
 api.stripe.com
 api.sunrise-sunset.org
@@ -32196,6 +32197,7 @@ lic.apps.microsoft.com
 licdn.com
 licence-web-fftda.logoss-consulting.com
 licenders.com
+license.adrise.tv
 license.piriform.com
 licensebuttons.net
 licensecode.one.microsoft.com
@@ -55661,6 +55663,7 @@ wuestenrot.de
 wuestenrotdirect.de
 wum97myjdw.ent-cdn.com
 wup.imtt.qq.com
+wurkkos.com
 wushu.com
 wustats.microsoft.com
 wut.smartscreen.microsoft.com
