@@ -194,6 +194,7 @@
 *.msdp1.com
 *.msf.3g.qq.com
 *.msftconnecttest.com
+*.naver.net.nheos.com
 *.netline.com
 *.nextdns.io
 *.nexus.ensighten.com
@@ -36679,6 +36680,7 @@ navajoworld.com
 navalchicolino.com
 navarro-shmalo.com
 navel-rings.net
+naver.net.nheos.com
 navika.com
 naviport.de
 navisys.de
