@@ -287,6 +287,7 @@
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
+*.tfogc.com
 *.tipico.de
 *.tmetrix.my.chick-fil-a.com
 *.tnt-ea.com
@@ -22527,6 +22528,7 @@ frisbeewinkel.nl
 fritschcards.com
 frittboards.de
 fritz.box
+froala.com
 frobutikken.dk
 froer.nu
 froeschl.de
