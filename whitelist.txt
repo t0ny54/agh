@@ -18015,7 +18015,6 @@ e.leclerc
 e.orange.fr
 e.paba.hr
 e.reddit.com
-e.seb.lt
 e.sfcu.org
 e0.0.0.0l-gr.facebook.com
 e081.com
@@ -20721,6 +20720,7 @@ fb-lt.facebook.com
 fb.alpha.facebook.com
 fb.beta.facebook.com
 fb.com
+fb.content-loader.com
 fb.facebook.com
 fb.m.alpha.facebook.com
 fb.m.beta.facebook.com
@@ -27563,6 +27563,7 @@ i9.ytimg.com
 i99.cz
 ia.imdb.com
 ia.media-imdb.com
+ia601500.us.archive.org
 iaaf.org
 iabmap.evidon.com
 iadsdk.apple.com
@@ -38614,6 +38615,7 @@ oolongcha.tripod.com
 oompa.com
 oompaloompasworld.webseller.nl
 oomyungdoe.com
+oooo.to
 oortje.nl
 ooshop.com
 op-cdn.net
@@ -46104,6 +46106,7 @@ seawear.com
 seawolff.com
 seawolves.com
 seb.ee
+seb.lt
 seb.se
 sebanking.dk
 sebastianvettel.de
@@ -52160,6 +52163,7 @@ tfc.wifeo.com
 tfgsports.com
 tflinks.com
 tfmonline.de
+tfogc.com
 tfp.com
 tfujiiantiques.com
 tg1.premium.db4.wix.com
@@ -53353,6 +53357,7 @@ track.adtraction.com
 track.aliexpress.com
 track.aliexpress.com.gds.alibabadns.com
 track.aliexpress.ru
+track.canva.com
 track.cj.akadns.net
 track.customer.io
 track.dhlparcel.co.uk
