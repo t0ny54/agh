@@ -2,6 +2,7 @@
 *-boot.tiktok*.com
 *-lb.ultimedia.com
 *-spclient.spotify.com
+*.a.klaviyo.com
 *.a2hosted.com
 *.aadrm.cn
 *.aadrm.com
@@ -326,6 +327,8 @@
 *api.facebook.com
 *apple-com.akadns.net
 *cdn*.exponea.com
+*clientstream*.launchdarkly.com
+*event*.launchdarkly.com
 *events*.trafficmanager.net
 *feedback.heytapmobile.com
 *graph-fallback.facebook.com
@@ -336,6 +339,7 @@
 *graph.instagram.com
 *kinesis*.amazonaws.com
 *logfiles.zoom.us
+*mobile*.launchdarkly.com
 *ocsp.microsoft.com
 *spotify-com.akamaized.net
 *star.*.facebook.com
@@ -13153,7 +13157,6 @@ clients9.google.com
 clientsc.alipay.com
 clientservices.googleapis.com
 clientsidetesticici.facebook.com
-clientstream.launchdarkly.com
 cliff-harvey-angling.co.uk
 cliff-s.com
 clifford-james.co.uk
@@ -40016,6 +40019,7 @@ pencraft.co.uk
 pendemonium.com
 penderys.com
 pendleton-usa.com
+pendo.io
 pendude.com
 pendulumgolf.net
 penelopeshilling.com
@@ -55077,6 +55081,7 @@ wallpapercave.com
 wallpaperdirect.co.uk
 wallpapers.com
 wallpaperwholesaler.com
+wallstreetjournal-ny-app.newsmemory.com
 walmart.com
 walpolebank.com
 walshbrothers.co.uk
