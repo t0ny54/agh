@@ -46012,6 +46012,7 @@ sdk-02.moengage.com
 sdk-bockum-hoevel.de
 sdk-stockhausen.de
 sdk.accountkit.com
+sdk.asapp.com
 sdk.privacy-center.org
 sdk.pulse.schibsted.com
 sdk.qikify.com
