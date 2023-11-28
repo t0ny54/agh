@@ -7258,6 +7258,7 @@ bdnet.com
 bdo.com.ph
 bdscrystalandgifts.com
 bdsfa.com
+bdshop.com
 bdsklep.pl
 bdvenlinea.banvenez.com
 be-go.aws.kelkoo.com
@@ -15424,6 +15425,7 @@ d2football.com
 d2gatte9o95jao.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
+d2u3dcdbebyaiu.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
@@ -49598,6 +49600,7 @@ srt.m.facebook.com
 srtb.msn.com
 srucouf.fr
 sruniforms.com
+srv.sec.intl.miui.com
 srv.tunefindforfans.com
 srv1.xbext.com
 srv2.xbext.com
