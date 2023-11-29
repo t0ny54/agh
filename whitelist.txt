@@ -37657,6 +37657,7 @@ ntalker.com
 ntjsa.org.au
 ntp-fireos.com
 ntp.facebook.com
+ntp.jst.mfeed.ad.jp
 ntp.org
 ntra.com
 ntservicepack.microsoft.com
@@ -39168,6 +39169,7 @@ p.imgur.com
 p.jwpcdn.com
 p.nfltags.com
 p.pw
+p.qlogo.cn
 p.shure.com
 p.skimresources.com
 p.typekit.net
