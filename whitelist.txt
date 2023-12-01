@@ -290,6 +290,7 @@
 *.syn-alias.com
 *.syndication.twitter.com
 *.t.en25.com
+*.tags.tiqcdn.com
 *.teams.live.com
 *.teams.microsoft.com
 *.termly.io
@@ -15053,6 +15054,10 @@ ctp-kunst.de
 ctpub.com
 ctrade.ch
 ctrip.com
+ctrk.klclick.com
+ctrk.klclick1.com
+ctrk.klclick2.com
+ctrk.klclick3.com
 ctrottier.tripod.com
 cts.businesswire.com
 cts.businesswire.com.edgekey.net
@@ -39269,6 +39274,7 @@ paganocostantino.it
 pagbilhan.com
 pagbrasil.com
 page.gitlab.com
+page.link
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
@@ -53383,6 +53389,7 @@ track.cj.akadns.net
 track.customer.io
 track.dhlparcel.co.uk
 track.doordash.com
+track.earlybird.se
 track.effiliation.com
 track.glovoapp.com
 track.gojek.com
