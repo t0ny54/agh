@@ -13154,6 +13154,7 @@ clientconfig.passport.net
 clientis.ch
 clientmetrics-pa.googleapis.com
 clients-cctld.l.google.com
+clients.fft.fr
 clients.l.google.com
 clients1.google.com
 clients2.google.com
@@ -28533,6 +28534,7 @@ info.evidon.com
 info.internet.org
 info.izatcloud.net
 info.lgsmartad.com
+info.mediapart.fr
 info.metib.ru
 info.ms
 infoa.biz
@@ -33045,7 +33047,6 @@ mainstreet-audio.com
 mainstreetcottonshop.com
 mainstreetflorists.com
 mainstreetkidsboutique.com
-mainunilink.page.link
 mairuan.cn
 mairuan.com
 mairuan.com.cn
@@ -50440,6 +50441,7 @@ strawberrynet.com
 strawberrypot.com
 straycats.pages.jp
 stream*.pushbullet.com
+stream.proxad.net
 streamail.pro
 streamback.ns1.ff.avast.com
 streamers.com
@@ -56851,6 +56853,8 @@ zoughaib.com
 zoultier.com
 zozzz.com
 zpag.es
+zpns-byoip-va.zoom.us
+zpns.zoom.us
 zpr.io
 zprint.cc
 zre.com
