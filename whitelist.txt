@@ -28968,6 +28968,7 @@ ipsf.com
 ipso-facto.com
 ipsopresto.com
 ipstack.com
+iptools.su
 ipv4.icanhazip.com
 ipv4.l.google.com
 ipv4only.arpa
@@ -32934,6 +32935,7 @@ magicwondertags.com
 magicworld.co.uk
 magiefabrik.de
 maginfo.ru
+magiskcn.com
 magmall.com
 magmypic.com
 magnamagic.com
