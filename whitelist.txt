@@ -30126,7 +30126,6 @@ js.klevu.com
 js.maxmind.com
 js.media-lab.ai
 js.mmtcdn.com
-js.monitor.azure.com
 js.pusher.com
 js.sentry-cdn.com
 js.stripe.com
@@ -51892,6 +51891,7 @@ technomarine.com
 technoshock.ru
 technozone.ru
 techoni.com.au
+techpatterns.com
 techradar.com
 techrc.com
 techrepublic.com
