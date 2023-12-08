@@ -14069,6 +14069,7 @@ content.ctfs.com
 content.ibanking-services.com
 content.incapsula.com
 content.jwplatform.com
+content.markitcdn.com
 content.swrve.com
 content.video.llnw.net
 contentpop.com
@@ -52026,6 +52027,7 @@ templechecks.com
 templeforkflyrods.com
 templesflorist.com
 tempo-sport.ch
+tempr.email
 temptationalley.com
 temptats.net
 temptatts4u.com
@@ -55367,6 +55369,7 @@ wfonts.googleapis.com
 wfp.microsoft.com
 wfp.vistatechbeta.microsoft.com
 wgz-bank.de
+wh-sh59.csloxinfo.com
 whaller.com
 whatifsports.com
 whatisfencing.com
