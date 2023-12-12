@@ -32493,6 +32493,7 @@ log-upload-os.mihoyo.com
 log-upload.mihoyo.com
 log.tresorit.com
 log.uniconsent.mgr.consensu.org
+log16-normal-*.tiktokv.com
 log2shop.com
 logcabinarts.com
 logdogbed.com
@@ -43808,6 +43809,7 @@ register.one.microsoft.com
 register.xmpush.xiaomi.com
 registerdisney.go.com
 registermsdn.one.microsoft.com
+registry.api.cnn.io
 regton.com
 rehaboutlet.com
 rehabthecrab.com
@@ -56792,6 +56794,7 @@ ziffdavis.com
 ziggs.com
 zimuku.la
 zinspilot.de
+zion.api.cnn.io
 zionsbank.com
 zip.net
 zipmyurl.com
