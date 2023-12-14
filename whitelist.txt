@@ -92,6 +92,7 @@
 *.controlup.com
 *.createsend.com
 *.createsend1.com
+*.cts.vresp.com
 *.curve.app
 *.custom-domain.publitas.com
 *.damoh.*.de
@@ -401,7 +402,6 @@
 05.facebook.com
 06830gifts.com
 07.facebook.com
-07c225f3.online
 0800-blossoms.co.uk
 0bs.de
 0cents.com
@@ -11687,6 +11687,7 @@ cdn.elev.io
 cdn.embedly.com
 cdn.engagement.ai
 cdn.epg.tvdownload.microsoft.com
+cdn.epoq.de
 cdn.eu1.exponea.com
 cdn.exponea.com
 cdn.fbsbx.com
