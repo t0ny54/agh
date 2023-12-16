@@ -176,6 +176,7 @@
 *.lencr.org
 *.lgtvsdp.com
 *.lighthouselabs.eu
+*.live.mmcdn.com
 *.ls.apple.com
 *.mail.onedrive.com
 *.marinetraffic.com
@@ -184,7 +185,6 @@
 *.mcsvc.samsung.com
 *.mdhcdn.com
 *.measurement-lab.org
-*.mediatek.com
 *.messengerpeople.com
 *.metric.gstatic.com
 *.metrics.heroku.com
@@ -20605,6 +20605,7 @@ fanwear.com
 fanzam.com
 faoschwarz.com
 fapcat.com
+faptor.com
 faq.whatsapp.com
 faqqly.com
 farale.com
@@ -34078,7 +34079,6 @@ mediamarkt.nl
 mediamarkt.pl
 mediametrics.ru
 mediashelves.com
-mediatek.com
 mediatheque-coral.fr
 mediaweaver.jp
 mediaworld.it
@@ -37673,6 +37673,7 @@ nsm.tr.netsalesmedia.pl
 nsrfc.com
 nss.facebook.com
 nstarbank.com
+nsw2u.com
 nswga.com.au
 nt3.ggpht.com
 ntalker.com
