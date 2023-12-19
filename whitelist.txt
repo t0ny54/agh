@@ -32751,6 +32751,7 @@ m.cricbuzz.com
 m.digitaltrends.com
 m.directory.google.com
 m.do.co
+m.dq.com
 m.drive.google.com
 m.exactag.com
 m.facebook.com
@@ -53742,6 +53743,7 @@ u.cubeupload.com
 u.fastly-analytics.com
 u.mavrev.com
 u.nu
+u.pcloud.com
 u.to
 u6e.de
 uabonline.org
