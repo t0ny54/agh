@@ -71,6 +71,7 @@
 *.cdn-apple.com
 *.cdn-noc.net
 *.cdn.office.net
+*.cdn.optimizely.com
 *.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
@@ -36783,6 +36784,7 @@ ncaa.org
 ncbankers.org
 ncbaseball.com
 ncbcayman.com
+ncc.avast.com
 nccc.com.tw
 ncfurniturestores.com
 nchu.org
@@ -38707,6 +38709,7 @@ opensourceprojects-pa.googleapis.com
 openstuff.net
 opensubtitles.org
 opentelemetry.io
+opentext.com
 opentip.com
 openuserjs.org
 openwall.com
@@ -46826,6 +46829,7 @@ shellsbyemily.com
 shellysbuttonsandmore.com
 shelving-direct.com
 shemaroo.com
+shepherd.ff.avast.com
 shepherdhillfarm.com
 shepherdminiatures.co.uk
 sheplayssports.com
