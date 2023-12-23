@@ -222,6 +222,7 @@
 *.playstation.com-v2.edgekey.net
 *.playstation.com.*.omtrdc.net
 *.playstation.com.edgekey.net
+*.podscribe.com
 *.poki-gdn.com
 *.postup.com
 *.pressablecdn.com
@@ -13402,6 +13403,7 @@ cnnic.cn
 cnnic.net
 cnnic.net.cn
 cnsdirect.com
+cnstrc.com
 cnyroadrace.com
 co-flasche.de
 co-opbank.co.ke
