@@ -92,6 +92,7 @@
 *.contabostorage.com
 *.content.video.llnw.net
 *.controlup.com
+*.cpx-research.com
 *.createsend.com
 *.createsend1.com
 *.cts.vresp.com
@@ -155,8 +156,6 @@
 *.gov.ua
 *.gph.easebar.com
 *.gs-loc.apple.com
-*.gvt1.com
-*.gvt3.com
 *.ilan.gov.tr
 *.images-amazon.com
 *.images.core.optasports.com
@@ -14575,6 +14574,7 @@ cprapid.com
 cpro.baidu.cn
 cps.kaola.com
 cpslitetest-qna-part.community.services.support.microsoft.com
+cpx-research.com
 cqhua.com
 cr-tools.clients.google.com
 cr.portainer.io
@@ -48520,6 +48520,7 @@ softsculpturedolls.com
 softsurroundings.com
 softtech.m.facebook.com
 software.informer.com
+softwareadvice.com
 softwareupdates.amazon.com
 softworld.es
 sog.co.nz
