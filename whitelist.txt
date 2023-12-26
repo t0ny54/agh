@@ -44,7 +44,7 @@
 *.app.asana.com
 *.app.chat.xiaomi.net
 *.app.ringcentral.com
-*.apple-dns.net
+*.apphud.com
 *.apple.com.akadns.net
 *.apple.com.edgekey.net
 *.apple.com.edgesuite.net
@@ -71,7 +71,6 @@
 *.cdn-apple.com
 *.cdn-noc.net
 *.cdn.office.net
-*.cdn.optimizely.com
 *.cdn.turner.com
 *.cdnhwc1.com
 *.cdninstagram.com
@@ -350,7 +349,6 @@
 *graph.facebook.com
 *graph.fbpigeon.com
 *graph.instagram.com
-*kinesis*.amazonaws.com
 *logfiles.zoom.us
 *mobile*.launchdarkly.com
 *ocsp.microsoft.com
@@ -4520,11 +4518,11 @@ appelts.ca
 appengine.clients6.google.com
 appengine.google.com
 appex-services.weather.microsoft.com
+apphud.com
 appinfo.microsoft.com
 applab-sdk.amazon.com
 applam.com
 applauseformalwear.com
-apple-dns.net
 apple.com
 apple.facebook.com
 apple.tt.omtrdc.net
@@ -23296,6 +23294,7 @@ gbp.ma
 gbposters.com
 gbtackle.com
 gbtcalhoun.com
+gc.fe.apple-dns.net
 gc.zgo.at
 gc3d.georgiancard.ge
 gcaconf.com
