@@ -291,6 +291,7 @@
 *.stats.paypal.com
 *.storage.googleapis.com
 *.strpst.com
+*.ststat.net
 *.sunwaydigitalwave.com.my
 *.sweet.tv
 *.syn-alias.com
@@ -4308,6 +4309,7 @@ api.chip-secured-download.de
 api.choice.microsoft.com
 api.cleverpush.com
 api.cloudflareapps.com
+api.cmp.inmobi.com
 api.coinbase.com
 api.comm.miui.com
 api.connect.facebook.com
@@ -13354,6 +13356,7 @@ cmokcmok.pl
 cmp-cdn.cookielaw.org
 cmp-consent-tool.privacymanager.io
 cmp.dmgmediaprivacy.co.uk
+cmp.inmobi.com
 cmp.osano.com
 cmp.sky.it
 cmp.tvspielfilm.de
@@ -50542,6 +50545,7 @@ strumentieservizi.it
 strumhollow.com
 strumpfwaren-boutique-barbara.de
 strumpfwolle.de
+ststat.net
 stuartbenjamin.com
 stuartkingston.com
 stuartnye.com
