@@ -3621,6 +3621,7 @@ app.alipay.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 app.convertkit.com
+app.deel.com
 app.dharma.io
 app.engage.jio.com
 app.facebook.com
@@ -28562,6 +28563,7 @@ k-beeleos.com
 k-fitshop.de
 k-style.on.arena.ne.jp
 k-wind.net
+k2.midasplayer.com
 k2rf.com
 k2skates.com
 k4u.co.uk
@@ -33293,6 +33295,7 @@ monkeytoys.de
 monmitic.com
 monnaiesdantan.com
 mono-style.net
+monobank.com.ua
 monobank.ua
 monodor.ch
 monogramsofdistinction.com
@@ -52033,6 +52036,7 @@ vortex.data.glbdns2.microsoft.com
 vortex.data.microsoft.com
 vortex.microsoft.com
 vostbank.ru
+vostok.bank
 votre-plancha.com
 vov.li
 vowsa.bc.ca
