@@ -10662,6 +10662,7 @@ cdn.directory.google.com
 cdn.discordapp.com
 cdn.drive.google.com
 cdn.edgesuite.net
+cdn.embed.ly
 cdn.embedly.com
 cdn.epg.tvdownload.microsoft.com
 cdn.fbsbx.com
