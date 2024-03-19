@@ -52329,6 +52329,7 @@ wdcp.microsoft.com
 wdcpalt.microsoft.com
 wdig.vo.llnwd.net
 we-stats.com
+we.tl
 wealthbar.com
 wealthfront.com
 wealthsimple.com
