@@ -42678,6 +42678,7 @@ s.pinimg.com
 s.reddit.com
 s.shopify.com
 s.skimresources.com
+s.ubyt.es
 s.w-x.co
 s.w.org
 s.windows.microsoft.com
