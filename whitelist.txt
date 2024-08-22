@@ -25582,6 +25582,7 @@ hsbc.com.tr
 hsbc.com.tw
 hsbc.com.vn
 hsbc.fr
+hsbc.lk
 hsbcnet.com
 hsbcprivatebank.com
 hsbcprivatebankfrance.com
@@ -40416,6 +40417,8 @@ quins.com
 quintanaroousa.com
 quiosque.pl
 quip-art.com
+quirinprivatbank.de
+quirion.de
 quirkygift.com
 quironediciones.com
 quitandinha.com
