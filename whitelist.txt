@@ -15590,6 +15590,7 @@ discussions.connect.microsoft.com
 dishnchips.com
 disk-group.com
 diskbooks.org
+diskstation.me
 disky.com
 dislink.de
 disney.my.sentry.io
@@ -16327,11 +16328,16 @@ dsa.instadapp.io
 dsbbank.nl
 dsborden.com
 dsc.hk
+dscloud.biz
+dscloud.me
+dscloud.mobi
 dse.com.au
 dsforless.com
 dslbank.de
 dsmiller.com
 dsms0mj1bbhn4.cloudfront.net
+dsmynas.com
+dsmynas.org
 dsn.io
 dso.pl
 dsp.brand.sogou.com
@@ -19045,6 +19051,9 @@ familyclothes.com
 familycrests.stores.yahoo.net
 familyden.com
 familydollar.com
+familyds.com
+familyds.net
+familyds.org
 familyfirstonline.com
 familygiftsnu.com
 familylabels.com
@@ -25896,6 +25905,7 @@ i2.msdn.microsoft.com
 i2.paste.pics
 i2.services.social.microsoft.com
 i2.services.social.microsoft.com.nsatc.net
+i234.me
 i3.connect.microsoft.com
 i3.services.social.microsoft.com
 i3.services.social.microsoft.com.nsatc.net
@@ -34197,6 +34207,7 @@ mydocomo.com
 mydogspace.com
 mydollyandme.com.au
 mydollydearest.com
+myds.me
 myelegantbaskets.com
 myembroideredgifts.com
 myenchantedgarden.com
@@ -40371,6 +40382,7 @@ quetzalarte.com
 quezdeportes.com
 quick.bankvl.ru
 quickcar.net
+quickconnect.to
 quickdumbells.com
 quickfishcreations.com
 quickmarket.ru
@@ -48797,6 +48809,7 @@ syndication.twimg.com
 syndication.twitter.com
 syndonline.in
 synergystreet.com
+synology.me
 synspunkt.com
 synthes.vo.llnwd.net
 synthesisers.co.uk
@@ -50726,6 +50739,7 @@ torontorock.com
 torrentfreak.com
 toshibadirect.com
 toss.im
+tossbank.com
 tossinvest.com
 totaladblock.com
 totallythomas.com
