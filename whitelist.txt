@@ -52284,6 +52284,7 @@ vthumb-ak-sf2p.facebook.com
 vthumb-ll-sf2p.facebook.com
 vtkbank.ru
 vtsamples.commondatastorage.googleapis.com
+vu.fr
 vuat.answers.microsoft.com
 vuat.expression.microsoft.com
 vuat.onlinehelp.microsoft.com
