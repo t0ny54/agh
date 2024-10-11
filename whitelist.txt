@@ -3439,6 +3439,7 @@ ap-southeast-2.console.aws.amazon.com
 ap-southeast-2.target.aws.amazon.com
 ap.ebs.bankofchina.com
 ap.facebook.com
+ap.lc
 ap.org
 ap.orgdict.leo.org
 apachetents.com
