@@ -3546,6 +3546,7 @@ api.office.microsoft.com
 api.onedrive.com
 api.oplata.com
 api.peer5.com
+api.picsart.com
 api.pluto.tv
 api.privacy.schibsted.com
 api.pushbullet.com
@@ -43490,6 +43491,7 @@ schoene-umstaende.de
 schoener-reiten.de
 schoenes-zum-liebhaben.de
 schoenhofs.com
+scholar.google.com
 scholar.l.google.com
 scholastic.ca
 scholl-zelte.de
