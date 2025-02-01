@@ -3630,6 +3630,7 @@ app.alipay.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 app.convertkit.com
+app.data-di.com
 app.deel.com
 app.dharma.io
 app.engage.jio.com
@@ -32057,6 +32058,7 @@ mdmbank.ru
 mdpennysaver.com
 mdquilts.com
 mdsbattery.com.fr
+me-qr.com
 me-r.com
 me-to-you.ru
 me2.do
