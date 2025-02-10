@@ -21,6 +21,7 @@
 0.fedora.pool.ntp.org
 0.fr.pool.ntp.org
 0.freebsd.pool.ntp.org
+0.gp
 0.gravatar.com
 0.hk.pool.ntp.org
 0.jp.pool.ntp.org
@@ -42,6 +43,8 @@
 0035.co.kr
 007radardetectors.com
 007spyshop.de
+00oo.lol
+010.at
 0120-417283.com
 0141831.com
 01darts.com
@@ -408,6 +411,7 @@
 24s.com
 24smi.info
 25.ajax.googleapis.com
+256.so
 26.ajax.googleapis.com
 27.ajax.googleapis.com
 28.ajax.googleapis.com
@@ -18958,6 +18962,7 @@ facebook.com.br
 facebook.fr
 facebook.net
 facebook.ro
+facebookmarketplace.live
 facechange.com
 facemakersincorporated.com
 faceparty.com
@@ -19368,6 +19373,7 @@ fcstream.net
 fcsurplus.ca
 fcsutler.net
 fdantiques.com
+fdmlm.sbs
 fds.com
 fdsports.co.uk
 fe1.ws.microsoft.com
@@ -20484,6 +20490,7 @@ focus2k.com
 focuscamera.com
 focusmaster.com
 foe.hn
+foee.top
 foehr-amrumer-bank.de
 foerde-sparkasse.de
 fofyalecole.fr
@@ -21784,6 +21791,7 @@ gbba.net
 gbinteriors.co.uk
 gbkreativ.ch
 gbnametapes.co.uk
+gbnbm.top
 gboutwell.com
 gbp.ma
 gbposters.com
@@ -23099,6 +23107,7 @@ goudsite.nl
 goudurix.com
 gould.com.au
 gounlimited.to
+gourl.gr
 gourmac.com
 gourmand-club.com
 gourmet-meat.com
