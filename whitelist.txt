@@ -3593,6 +3593,7 @@ apis.google.com
 apis.mail.yahoo.com
 apiv2.bricknet.com
 apiwz.midukanshu.com
+apkaward.com
 apkpure.com
 aplaidwool.com
 aplcreations.com
@@ -12019,7 +12020,6 @@ client-event-reporter.twitch.tv
 client-s.gateway.messenger.live.com
 client.cdn77.com
 client.crisp.chat
-client.dropbox.com
 client.hip.live.com
 client.mdmbank.ru
 client.nb-bank.ru
