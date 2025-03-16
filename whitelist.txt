@@ -12029,6 +12029,8 @@ client.mdmbank.ru
 client.nb-bank.ru
 client.paritetbank.by
 client.pik-comfort.ru
+client.px-cdn.net
+client.px-cloud.net
 client.reactrjs.com
 client.relay.crisp.chat
 client.rfabank.ru
