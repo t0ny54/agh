@@ -51397,6 +51397,7 @@ urlr.me
 urlreputation-ch1p.smartscreen.microsoft.com
 urlreputation-sn3p.smartscreen.microsoft.com
 urls.fr
+urlsshares.cc
 urlth.me
 urlx.ie
 urlx.org
