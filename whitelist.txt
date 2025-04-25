@@ -21,7 +21,6 @@
 0.fedora.pool.ntp.org
 0.fr.pool.ntp.org
 0.freebsd.pool.ntp.org
-0.gp
 0.gravatar.com
 0.hk.pool.ntp.org
 0.jp.pool.ntp.org
@@ -43,8 +42,6 @@
 0035.co.kr
 007radardetectors.com
 007spyshop.de
-00oo.lol
-010.at
 0120-417283.com
 0141831.com
 01darts.com
@@ -288,7 +285,6 @@
 1pencil.com
 1percent.com
 1poolcue.com
-1pt.co
 1retroplace.com
 1safe.link
 1sapp.com
@@ -411,7 +407,6 @@
 24s.com
 24smi.info
 25.ajax.googleapis.com
-256.so
 26.ajax.googleapis.com
 27.ajax.googleapis.com
 28.ajax.googleapis.com
@@ -423,7 +418,6 @@
 2call.nl
 2catchfish.com
 2checkout.com
-2cm.es
 2collectcola.com
 2cvchassis.co.uk
 2dehands.be
@@ -464,7 +458,6 @@
 2tu.us
 2ty.in
 2u.lv
-2u.pw
 2u.xf.cz
 2waygadgets.com
 2x2.lv
@@ -499,7 +492,6 @@
 321sprzedane.pl
 32above.gr
 338av.com
-360.yahoo.com
 360bc.com
 360degree.com.my
 360soccer.com
@@ -545,11 +537,8 @@
 3riversarchery.com
 3sisterschocolate.com
 3suisses.be
-3suisses.com
 3suisses.de
 3suisses.fr
-3suisses.net
-3suisses.org
 3wisemonkeys.co.uk
 3x.si
 4-act.channel.facebook.com
@@ -683,7 +672,6 @@
 5way.ru
 5xl.pl
 5z8.info
-6-4-2.blogspot.com
 6-act.channel.facebook.com
 6-edge-chat.facebook.com
 6.docs.google.com
@@ -1028,7 +1016,6 @@ abc-annons.se
 abc-awards.com
 abc-embroidery-designs.com
 abc-hanko.jp
-abc-signaletique.fr
 abc-toner-cartridges.co.uk
 abc.com
 abc.facebook.com
@@ -1483,7 +1470,6 @@ addel.hu
 addictedtopaintball.com
 addictedtorubberstamps.com
 addictedtoscrapbooking.com
-addictique.multiply.com
 addie.pl
 addisonsteele.com
 addlestonearmysurplus.co.uk
@@ -2090,7 +2076,6 @@ aldenshop.com
 aldentrading.com
 alderamin.shop.by
 aldershotgreenhouses.com
-aldi.fr
 aldi.nl
 alefajne.pl
 alegria-naturkosmetik.de
@@ -2374,7 +2359,6 @@ allobebe.fr
 alloccasionflowers.com
 alloccasionsflowers.com
 alloddballaquatics.com
-allofenetre.com
 allogram.com
 alloilpaint.com
 allola.com
@@ -3286,7 +3270,6 @@ antiek-zilver.nl
 antiekclaes.com
 antigravitygear.com
 antik-globus.cz
-antikeo.com
 antikperle.de
 antikschmuck-kaufen.de
 antikschmuck.de
@@ -3448,7 +3431,6 @@ ap-southeast-2.console.aws.amazon.com
 ap-southeast-2.target.aws.amazon.com
 ap.ebs.bankofchina.com
 ap.facebook.com
-ap.lc
 ap.org
 ap.orgdict.leo.org
 apachetents.com
@@ -3605,7 +3587,6 @@ apluspetgoods.com
 apm3.music.163.com
 apmebf.com
 apmf.fr
-apnabank.co.in
 apne.ws
 apnea.co.uk
 apo.ag
@@ -4525,7 +4506,6 @@ atkins.vo.llnwd.net
 atkinsondesigns.com
 atkinsonsofvancouver.com
 atl-scca.org
-atlanta.braves.mlb.com
 atlantafalcons.com
 atlantahobby.com
 atlantamotorspeedway.com
@@ -5588,7 +5568,6 @@ bancogallego.es
 bancointer.com.br
 bancointernacional.cl
 bancoldex.com
-bancolombia.com
 bancomer.com
 bancomer.com.mx
 bancon.bancor.com.ar
@@ -5654,7 +5633,6 @@ bankaudi.com.lb
 bankaudiusa.com
 bankavrasiya.az
 bankbac.com
-bankbii.co.in
 bankbsi.co.id
 bankcalumet.com
 bankcb.com
@@ -5746,7 +5724,6 @@ bankofhazlehurst.com
 bankofhollysprings.com
 bankofhwfs.com
 bankofillinois.com
-bankofindia.co.in
 bankofindia.com
 bankofireland.com
 bankofireland.ie
@@ -5811,33 +5788,20 @@ banpara.b.br
 banplusonline.com
 banque-accord.fr
 banque-casino.fr
-banque-centrale.mg
 banque-courtois.fr
 banque-france.fr
-banque-info.com
 banque.com
 banque.fr
 banqueagf.fr
-banquealimentaire.org
-banqueatlantique.net
 banquecentrale.gov.sy
-banquecramer.ch
-banquedeluxembourg.com
 banquedesterritoires.fr
-banqueducanada.ca
 banqueentreprise.bnpparibas
 banquefinama.fr
 banquelaurentienne.ca
-banquemisr.com
-banquemondiale.org
 banquepopulaire.fr
 banqueroyale.ca
 banqueroyale.com
-banquesalimentaires.org
-banquet.com
-banqueterachile.com
 banquetransatlantique.com
-banquetrecords.com
 banrisul.com.br
 bant-shirts.com
 banzaiboards.com
@@ -6024,7 +5988,6 @@ baseballsavvy.com
 baseballsingles.com
 baseballteamuniforms.com
 baseballwarehouse.com
-baseballzeitgeist.blogspot.com
 basecap.de
 basegear.com
 basehit.net
@@ -6051,7 +6014,6 @@ basketball.mb.ca
 basketball.on.ca
 basketball.sportsline.com
 basketballgoals.com
-basketballnotesbyalex.blogspot.com
 basketballsale.com
 basketballshootinginstruction.com
 basketballteamuniforms.com
@@ -6320,7 +6282,6 @@ bcb.gov.br
 bcblbd.com
 bcc-msk.ru
 bcc.kz
-bccb.co.in
 bccbuccino.it
 bcccarate.it
 bcccascia.it
@@ -7370,8 +7331,6 @@ bigworldwholesale.com
 bigy.com
 bijenkorf.nl
 bijoubook.com
-bijourama.com
-bijourama.fr
 bijouteria.ch
 bijoux-guenita.com
 bijoux4u.jp
@@ -7667,7 +7626,6 @@ bitwala.com
 bitwarden.com
 bitwarden.eu
 bity.com
-bityl.co
 biuronet.com
 biuroonline.pl
 bivea.com
@@ -7734,7 +7692,6 @@ blackberryden.com
 blackbetsy.com
 blackbooksdirect.com
 blackburneds.com
-blackcaiden27.multiply.com
 blackcatcollectables.com
 blackcatcustom.com
 blackdogcompany.com
@@ -8548,7 +8505,6 @@ bostonwood.com
 bostroms.nu
 bosworthtools.com
 bot.com.tw
-bot.fi
 botachtactical.com
 botanic-art.com.au
 botanicalaccent.com
@@ -8607,9 +8563,7 @@ boursorama.com
 bousi.com
 boutchou.com
 bouticartes.com
-boutik-prive.fr
 boutique-birkenstock.de
-boutique-dalloz.fr
 boutique-du-pilote.com
 boutique-hospitalityjapan.com
 boutique-massage.com
@@ -10070,11 +10024,9 @@ capfactory.com
 capfed.com
 capfriendly.com
 capiot.m.facebook.com
-capitaine-banque.com
 capitainedabord.com
 capital-tickets.com
 capitalbank-nc.com
-capitalbank.co.in
 capitalcigarsource.com
 capitalcomics.com
 capitalcommunications.net
@@ -10561,7 +10513,6 @@ cbaaonline.com
 cbai.org
 cbak.com
 cbankandtrust.com
-cbanque.com
 cbao.com
 cbaofga.com
 cbar.az
@@ -10619,7 +10570,6 @@ ccbank.ru
 ccblv.com
 ccc.sys.miui.com
 ccevents.net
-ccf.fr
 ccgwarehouse.com
 ccicards.com
 ccj.im
@@ -10889,7 +10839,6 @@ cellularaccessory.com
 cellularfactory.com
 cellularoutlet.com
 celluloco.com
-celluloses-broceliande.fr
 celsius.network
 celtarts.com
 celtic-art.ltd.uk
@@ -10950,7 +10899,6 @@ centralbank.net
 centralbank.net.in
 centralbank.org.bb
 centralbankbahamas.com
-centralbankofindia.co.in
 centralbanksavannah.com
 centralbk.com
 centralbnk.com
@@ -11356,7 +11304,6 @@ chiasso.com
 chicago-fire.com
 chicago-vintage-clothing.com
 chicago.cbslocal.com
-chicago.cubs.mlb.com
 chicagoantiquemarket.com
 chicagobears.com
 chicagoclock.com
@@ -11473,7 +11420,6 @@ chiradesigns.com
 chiropharma.com
 chitosan.de
 chiwawagaga.com
-chk.me
 chkaja.com
 chobi-glass.com
 chocizza.com
@@ -11672,7 +11618,6 @@ cikas.com
 cileather.com
 cimaco.com.mx
 cimbanque.ch
-cimbanque.com
 cimbclicks.co.id
 cimbclicks.com.my
 cimoney.com.ky
@@ -11704,7 +11649,6 @@ cint.com
 cinyour.facebook.com
 cinyourrc.facebook.com
 cir-kitconcepts.com
-cir.blogspot.com
 circa.vip.facebook.com
 circa.vvv.facebook.com
 circa1930s.com
@@ -11848,9 +11792,7 @@ clasohlson.no
 classacttutu.com
 classb.com
 classementligue2.com
-classeurdecole.files.wordpress.com
 classeurdecole.fr
-classeurdecole.wordpress.com
 classic-cameras.com
 classic-collection-dolls.co.uk
 classic-crackers.co.uk
@@ -11913,7 +11855,6 @@ classificados-brasil.com
 classificanet.com.br
 classifieds.forthefarm.com
 classifieds.pl
-classifieds.yahoo.com
 classiques-design.com
 classmates.com
 classyannouncements.com
@@ -12704,7 +12645,6 @@ companyflowers.com
 companyfolders.com
 companyloop.com
 companyonline.ch
-comparabanques.fr
 compareindia.com
 comparelivros.com.br
 compartes.com
@@ -12754,8 +12694,6 @@ comprebien.com
 comprehensiveinc.com
 comprevenda.com
 comptoir-marin.com
-comptoirdelhomme.com
-comptoirdelhomme.fr
 compudabo.com.mx
 compumir.ru
 compumundo.com.ar
@@ -12831,7 +12769,6 @@ connect.facebook.net
 connect.googleforwork.com
 connect.rom.miui.com
 connect.rtb.ru
-connectbanque.com
 connectbeta.microsoft.com
 connected-4-less.co.uk
 connectedtokyo.com
@@ -14054,7 +13991,6 @@ cutebee.com
 cutencrafty.co.uk
 cutepcs.com
 cutetowear.com
-cuteurl.co
 cutie123.com
 cutlerscove.com
 cutlerslighting.com
@@ -14064,7 +14000,6 @@ cutleryandmore.com
 cutleryshoppe.com
 cutoutz.com
 cutratediamonds.com
-cuts.kr
 cutscreativeflorist.com
 cutt.eu
 cutt.ly
@@ -14199,7 +14134,6 @@ d-photo.biz
 d-structure.com
 d-vineflowers.com.au
 d.facebook.com
-d.pr
 d.skimresources.com
 d.vvv.facebook.com
 d1.com.cn
@@ -14765,8 +14699,6 @@ decks.co.uk
 decksusa.com
 declarks.com
 declic.fr
-declikdeco.com
-declikdeco.fr
 deco-direct.de
 deco-s.com
 decoarttile.com
@@ -15116,7 +15048,6 @@ detailsclothing.com
 detailsdirect.com
 detallesenbandeja.com.ar
 detecnicks.co.uk
-detective-banque.fr
 detective-fiction.com
 detectorcenter.de
 detectorsandalarms.com
@@ -15402,7 +15333,6 @@ digitaloutdoors.com
 digitalplanet.co.za
 digitalpromo.co.uk
 digitalshop.ru
-digitalshoppingonline.blogspot.com
 digitalshot.ru
 digitalsk8boards.tripod.com
 digitalsounddirect.co.uk
@@ -16336,7 +16266,6 @@ droomboeket.nl
 drop.ndtv.com.edgekey.net
 dropacar.com
 dropbox.com
-droplr.net
 dropsweb.com
 dropzonearmynavy.com
 drostes.com
@@ -17627,7 +17556,6 @@ electronickits.com
 electronicproductonline.com
 electronics-depot.com
 electronics-online.co.uk
-electronics-onlineshopping.blogspot.com
 electronics-pluz.com
 electronics-world.net
 electronicsbonanza.com
@@ -18226,7 +18154,6 @@ es.shoomo.com
 esarts.com
 esatna.cz
 esbank.no
-esbanque.fr
 esbeauty.com
 esbuys.com
 escapemag.pl
@@ -18286,7 +18213,6 @@ espn.go.com
 espncdn.com
 espordz.american-data.net
 esporte.ig.com.br
-esporte.uol.com.br
 esportshound.com
 esportsonline.com
 esportsproducts.co.uk
@@ -18978,7 +18904,6 @@ facebook.com.br
 facebook.fr
 facebook.net
 facebook.ro
-facebookmarketplace.live
 facechange.com
 facemakersincorporated.com
 faceparty.com
@@ -19183,7 +19108,6 @@ fantasyorchids.com
 fantasyrugby.com
 fantasyshopchimera.com
 fantasysports.com
-fantasysports.yahoo.com
 fantasysportscentral.com
 fantasysportsman.com
 fantasytoyland.com
@@ -19321,7 +19245,6 @@ fauxpawfurs.com
 faves.com
 favorcopia.com
 favorfavor.com
-favorites.live.com
 favoritoo.com
 favors-to-treasure.com
 favorsandflowers.com
@@ -19390,7 +19313,6 @@ fcstream.net
 fcsurplus.ca
 fcsutler.net
 fdantiques.com
-fdmlm.sbs
 fds.com
 fdsports.co.uk
 fe1.ws.microsoft.com
@@ -19424,7 +19346,6 @@ federalflags.com
 federalstereo.com
 federaltrust.com
 federatedml-pa.googleapis.com
-federermagic.blogspot.com
 federseebank.de
 fednetbank.com
 fedorviolinmethod.com
@@ -19590,7 +19511,6 @@ fibi-online.co.il
 fibinc.com
 fibreglast.com
 fibreworks.com
-fichesdeprep.jimdo.com
 fichtenhof.de
 ficlets.com
 fiction-addiction.com
@@ -19891,7 +19811,6 @@ firstnavybank.com
 firstnebraskabank.com
 firstpagebear.com
 firstpeoplesbank.net
-firstrand.co.in
 firstreliance.com
 firstrepublic.com
 firstscotia.com
@@ -19965,9 +19884,6 @@ fistsport.com
 fiszka.pl
 fit4sale.com
 fitanalytics.com
-fitancy.com
-fitancy.it
-fitancy.nl
 fitbuy.com
 fitcentric.com
 fitd.it
@@ -20507,7 +20423,6 @@ focus2k.com
 focuscamera.com
 focusmaster.com
 foe.hn
-foee.top
 foehr-amrumer-bank.de
 foerde-sparkasse.de
 fofyalecole.fr
@@ -20756,7 +20671,6 @@ fotobanka.cz
 fotoboom.com
 fotobrenner.de
 fotobu.ch
-fotocenter.spb.ru
 fotocoleccionista.com
 fotodirekt.de
 fotoexpert.cz
@@ -20896,7 +20810,6 @@ framingedge.ca
 framinghamcoop.com
 framinghamwarehouse.com
 framirrors.com
-francachelabanqueteria.cl
 france-modelisme.com
 francefootball.fr
 francesc-fabregas.com
@@ -21808,7 +21721,6 @@ gbba.net
 gbinteriors.co.uk
 gbkreativ.ch
 gbnametapes.co.uk
-gbnbm.top
 gboutwell.com
 gbp.ma
 gbposters.com
@@ -21876,7 +21788,6 @@ geegeesquilting.com
 geesales.com
 geeseclothes.com
 gefa-bank.de
-geg.li
 geierflorist.com
 geisslers.com
 gelaskins.com
@@ -23080,7 +22991,6 @@ gosslerfarms.com
 gostrings.com
 gosuslugi.ru
 gotags.com
-gotaobaoshopping.blogspot.com
 gotbatteries.com
 gotcamos.com
 gotchathis.com
@@ -23124,7 +23034,6 @@ goudsite.nl
 goudurix.com
 gould.com.au
 gounlimited.to
-gourl.gr
 gourmac.com
 gourmand-club.com
 gourmet-meat.com
@@ -23555,7 +23464,6 @@ gs.statcounter.com
 gsacsports.org
 gsb.or.th
 gsc.de
-gscbank.co.in
 gschenkle.de
 gscorpo.co.jp
 gsdecornmore.com
@@ -24150,7 +24058,6 @@ happypaw.com
 happypawsdaycare.com
 happyplanet.lv
 happyscraps.com
-happyshoppingcloset.blogspot.com
 happyslings.com
 happystamper.com
 happytailsspa.com
@@ -25228,7 +25135,6 @@ home.bt.com
 home.diagnostics.support.microsoft.com
 home.membercenter.office.microsoft.com
 home.mijngezondheid.net
-home.services.spaces.live.com
 home4style.co.uk
 homeandawaygallery.com
 homeandgardenart.com
@@ -25653,7 +25559,6 @@ hsamuel.co.uk
 hsbank.no
 hsbaseballweb.com
 hsbc.ca
-hsbc.co.in
 hsbc.co.uk
 hsbc.com
 hsbc.com.au
@@ -26502,7 +26407,6 @@ iictt.m.facebook.com
 iifl.facebook.com
 iihf.com
 iiiii.in
-iiil.io
 iis-sports.com
 ijasvideo.com
 ijgt.com
@@ -27466,7 +27370,6 @@ isube.tbank.com.tr
 isube.turkishyatirim.com
 isube.vakifkatilim.com.tr
 isukeshopping.com
-isvelle.multiply.com
 isvmex.team.partners.extranet.microsoft.com
 iswright.com.au
 isymbolz.com
@@ -28203,7 +28106,6 @@ jncb.com
 jnjtools.biz
 jnn-pa.googleapis.com
 jnutra.com
-jo.my
 joa-toa.com
 joanallen.co.uk
 joandixon.net
@@ -28344,7 +28246,6 @@ joshuasjewelry.com
 josiekatstrunk.com
 jost-gold-jewelry.com
 jotjelunge.de
-joturl.com
 joueclub.com
 joueclub.fr
 jouets-cadeaux.com
@@ -28449,7 +28350,6 @@ jtecrc.com
 jtl-skiwear.co.uk
 jtphotogifts.com
 jtsports.co.uk
-ju.mp
 jual-beli.com
 juanjonas.com
 jubiler.com.pl
@@ -29039,7 +28939,6 @@ kcb.co.uk
 kcenter.partners.extranet.microsoft.com
 kching.com
 kckidsfurniture.com
-kcminorleaguebaseball.blogspot.com
 kcpublications.com
 kcrollerwarriors.com
 kcs.dircon.co.uk
@@ -29358,7 +29257,6 @@ killeenmall.com
 killerdanasurfshop.com
 killerstartups.com
 killington.com
-kiloutou.fr
 kilowatt.ru
 kilt-shop-scotland.com
 kiltrental.com
@@ -29841,7 +29739,6 @@ kopalniaprezentow.pl
 kopimi.com
 koraliki.pl
 korallenkeller.ch
-koreaexim.go.kr
 korean-arts.com
 korean.bookstore21.net
 koreni.cz
@@ -30005,7 +29902,6 @@ krungsribizonline.com
 krungsrionline.com
 krusefashion-xxl.de
 kruumpiepoppenmode.nl
-krystelbanqueting.co.uk
 krzesla-sklep.pl
 ks-bank.ru
 ks-versand.de
@@ -30171,7 +30067,6 @@ kv408-prod.do.dsp.mp.microsoft.com
 kv409-prod.do.dsp.mp.microsoft.com
 kv701-prod.do.dsp.mp.microsoft.com.edgekey.net
 kvartplata.ru
-kvb.co.in
 kvgbank.com
 kvinesdalsparebank.no
 kvvet.com
@@ -30185,13 +30080,11 @@ l-s-lowry.co.uk
 l.betrad.com
 l.facebook.com
 l.qq.com
-l.wl.co
 l24.im
 l3.facebook.com
 l9.fr
 lab.msdn.microsoft.com
 lab.technet.microsoft.com
-labanquepostale.com
 labanquepostale.fr
 labcheck.msllab.microsoft.com
 labcheckppe.msllab.microsoft.com
@@ -30423,8 +30316,6 @@ leisureliving.com
 leisurelylivingstore.mywebhome.ca
 leithpetwerks.com
 lemeilleurdupsg.com
-lemoncurve.com
-lemoncurve.fr
 lens.com
 lensesbymail.com
 lensois.com
@@ -30440,7 +30331,6 @@ leroymerlin.fr
 les-coccinelles.fr
 les-pantheres.com
 les-transferts.com
-lesclesdelabanque.com
 lescoccinelles.free.fr
 lescomparateurs.com
 leslivresple.over-blog.com
@@ -30581,7 +30471,6 @@ linksnappy.com
 linksynergy.com
 linktoallsports.com
 linktr.ee
-linkzar.fly.dev
 linode.com
 linolakesstatebank.com
 linray.com
@@ -30678,7 +30567,6 @@ lmlicenses.wip4.adobe.com
 lmy.de
 ln-s.net
 ln-s.ru
-ln.run
 lnal.com
 lnb.fr
 lnk.co
@@ -30774,8 +30662,6 @@ longhorns.org
 longitudebooks.com
 longscycle.com
 lookaside.facebook.com
-lookeor.com
-lookeor.fr
 lookintheattic.com
 lookup.smp.schibsted.com
 loopt.com
@@ -30931,7 +30817,6 @@ m-gruetzner.de
 m-i-u.com
 m-i.li
 m-ocha.co.jp
-m-r.pw
 m-relax.co.jp
 m-web.be
 m-ys.co.jp
@@ -31007,7 +30892,6 @@ macklems.com
 mackmattressoutlet.com
 mackslure.com
 mackspw.com
-maclasseamoa.wordpress.com
 macmanusandson.com
 macmidimusic.com
 maconbank.com
@@ -32086,7 +31970,6 @@ mdmbank.ru
 mdpennysaver.com
 mdquilts.com
 mdsbattery.com.fr
-me-qr.com
 me-r.com
 me-to-you.ru
 me2.do
@@ -32401,8 +32284,6 @@ memyshelfandi.com
 men-in-kilts.com
 menaijewellery.co.uk
 mencik.com
-mencorner.com
-mencorner.fr
 menda.com.au
 mendes.co.uk
 mendhambooks.com
@@ -32542,7 +32423,6 @@ metalldesignshop.de
 metalliferous.com
 metallocators.com
 metalmart.co.jp
-metalprojects.no-ip.com
 metalsunglasses.com
 metamark.net
 metamorphose.gr.jp
@@ -32930,7 +32810,6 @@ miniplanes.fr
 miniprice.com
 minitots.com
 minitp.com
-miniurl.be
 miniurl.com
 miniwrappers4you.com
 minkcenter.com
@@ -33584,7 +33463,6 @@ morrelyons.com
 morrisandsons.com
 morrisdesigns.com
 morrison-sporrans.co.uk
-morrisons.com
 morrisrugby.com
 morrisseymagic.com
 morrissports.com
@@ -34514,7 +34392,6 @@ nailiteinc.com
 nailjazz.com
 nailsandthings.co.uk
 nailsbymail.co.uk
-nainitalbank.co.in
 naismithawards.com
 nakagawa-mfg.co.jp
 nakamuraken.co.jp
@@ -35386,7 +35263,6 @@ nmhorsebreeders.com
 nmobi.kuwo.cn
 nn-no.facebook.com
 nn.nf
-nnsbank.co.in
 no-cache.hubspot.com
 no-ip.com
 no1balloons.co.uk
@@ -36243,7 +36119,6 @@ olfactorysoaps.com
 olgabe.com
 olhausenbilliards.com
 oliebollen.com
-olii.me
 olin.ru
 olisan.dk
 olive-branch.co.uk
@@ -36455,7 +36330,6 @@ online.cetelem.ru
 online.citadele.lv
 online.citi.com
 online.citi.eu
-online.citibank.co.in
 online.cosmosbank.in
 online.credit-agricole.ua
 online.cutx.org
@@ -37366,7 +37240,6 @@ panjea.com
 pankration.homestead.com
 panna.pl
 pano-store.de
-panorabanques.com
 panpipes.com
 pantipmarket.com
 pantoffeleck.de
@@ -37583,7 +37456,6 @@ partywraps.com
 paruamodel.it
 pasaraya.com
 pasatiempo.com
-pasaz.onet.pl
 pascoeandcompany.com
 pasha-grishuk.de
 pashabank.az
@@ -37904,7 +37776,6 @@ pearlparadise.com
 pearlshopper.com
 pearlsonly.com
 pearlsplace.com
-pearly-gates.blogspot.com
 pearlypacifier.com
 pearsonatschool.com
 pearsoncycles.co.uk
@@ -37939,7 +37810,6 @@ peedeetoys.com.au
 peekaboobaby.com
 peekaboopumpkin.com
 peekaboostores.com
-peeks.com
 peekskillnurseries.com
 peenyweeny.co.uk
 peeout.com
@@ -39087,7 +38957,6 @@ plushpod.com
 plushsentiments.com
 plusic.jp
 plusmaternity.com
-plusone.google.com
 pluspostsfrontend-pa.googleapis.com
 plusshop.com
 pluswoman.com
@@ -40374,7 +40243,6 @@ qr-code-generator.com
 qr.net
 qray.com
 qrco.de
-qrcodedynamic.com
 qrfy.com
 qrtag.fr
 qssupplies.co.uk
@@ -41087,7 +40955,6 @@ ratcitysports.com
 rateitall.com
 rathernice.co.uk
 rathicreations.com
-ratnakarbank.co.in
 ratskeller.de
 ratsound.com
 rattan.nvline.com
@@ -41297,7 +41164,6 @@ rbbissingen.de
 rbbn.de
 rbborken.de
 rbbutjadingenabbehausen.de
-rbcbanqueroyale.com
 rbcroyalbank.com
 rbdepot.com
 rbe.co.uk
@@ -41364,7 +41230,6 @@ rcsaucer.com
 rcsiden.dk
 rctoys.com
 rcwilley.com
-rdar.li
 rdavidadams.com
 rdbike.com
 rdca.microsoft.com
@@ -41533,7 +41398,6 @@ rednersmarkets.com
 redoute.co.uk
 redplanet.se
 redplanettoys.com
-redr.me
 redreporter.com
 redrhinosports.com
 redriderleglamps.com
@@ -41883,7 +41747,6 @@ revolutionmodels.co.uk
 revolutiontea.com
 revolutum.com
 revolveclothing.com
-revue-banque.fr
 rewci.com
 rexart.com
 rexcraft.com
@@ -42034,7 +41897,6 @@ risingsunwholesale.com
 risris.net
 rista.co.uk
 ristenbatt.com
-risu.io
 rita-itf.org
 ritabarber.com
 ritaflora.com
@@ -42810,7 +42672,6 @@ s.pinimg.com
 s.reddit.com
 s.shopify.com
 s.skimresources.com
-s.ubyt.es
 s.w-x.co
 s.w.org
 s.windows.microsoft.com
@@ -43378,7 +43239,6 @@ sbi.com
 sbicard.com
 sbiepay.com
 sbijapan.com
-sbp.co.in
 sbp.org.pk
 sbr.com
 sbrf.ru
@@ -44512,7 +44372,6 @@ shelbyhq.com
 shele-shop.ru
 shelfari.com
 shelfexpressions.com
-shelffactory.com.futuresite.register.com
 shelfstore.net
 shelias.com
 shelldave.net
@@ -44702,10 +44561,8 @@ shop.ilnarratore.com
 shop.independent-store.com
 shop.kitsland.com
 shop.lego.com
-shop.mlb.com
 shop.motv.co.jp
 shop.net
-shop.npr.org
 shop.pentax.jp
 shop.prokitchen.co.jp
 shop.rescuenow.net
@@ -44881,7 +44738,6 @@ shopping.guardian.co.uk
 shopping.hamradioindia.com
 shopping.indiatimes.com
 shopping.lycos.fr
-shopping.msn.com
 shopping.multiplayer.it
 shopping.nosoc.com
 shopping.pchome.com.tw
@@ -44961,7 +44817,6 @@ shorecommunitybank.com
 shoredog.com
 shorelinesurf.com
 shorl.com
-shorrtener.herokuapp.com
 short-video.kakamobi.cn
 short.cc
 short.gy
@@ -44975,11 +44830,8 @@ shortcut.ac
 shortlinks.co.uk
 shortna.me
 shortstroke.com
-shortuel.asia
-shorturl.asia
 shorturl.at
 shorturl.com
-shorturl.re
 shortwave.facebook.com
 shortwavestore.com
 shosen.co.jp
@@ -45796,7 +45648,6 @@ smallshoe.co.uk
 smalltalk.co.uk
 smalltownthreads.com
 smalltoys.com
-smallurl.nl
 smart-ipod-ideas.com
 smart-tees.biz
 smart21.com
@@ -46123,8 +45974,6 @@ sofa.com
 sofabed.co.uk
 sofabedgallery.co.uk
 sofabedgallery.com
-sofactory.com
-sofactory.fr
 sofagarden.com
 sofasandfurniture.co.uk
 sofausa.com
@@ -46976,7 +46825,6 @@ spokesetc.com
 spondilus.com
 spongywonder.com
 sponser.ch
-spoo.me
 spooktech.com
 spooners.com
 spormalzemem.com
@@ -47074,7 +46922,6 @@ sports-rennes.com
 sports-scheduling-software.com
 sports.fr
 sports.latimes.com
-sports.yahoo.com
 sports4kids.com
 sports4u.co.uk
 sportsaccessories.com
@@ -47247,7 +47094,6 @@ squidoo.com
 squireschoice.com
 squirrel-feeder.com
 squirreltracks.com
-sqzr.cz
 sr-rs.facebook.com
 sr.gravatar.com
 srbank.ru
@@ -47943,7 +47789,6 @@ store.aetv.com
 store.amigofoods.com
 store.animearigato.com
 store.anniescharmcloset.net
-store.apple.com
 store.babycenter.com
 store.batteryspecialists.com
 store.battledressuniform.com
@@ -47965,7 +47810,6 @@ store.greenpearle.com
 store.holtraditions.com
 store.honeyvillegrain.com
 store.indianfoodsco.com
-store.nascar.com
 store.nl
 store.nobleknits.com
 store.pastpresent.com
@@ -48970,7 +48814,6 @@ t8.baidu.com
 t9.baidu.com
 ta-in.facebook.com
 ta.gd
-taap.it
 tabakado.nl
 tabakwaren-brucker.de
 tabbank.com
@@ -49670,7 +49513,6 @@ teteas.com
 tetenal.co.uk
 tetenlair.com
 tetra-fish.com
-tetrapolis.spb.ru
 teufelskueche.de
 teuscherboston.com
 teutenberg-werl.de
@@ -49758,7 +49600,6 @@ thanachartbank.co.th
 thane.com
 thanebharatbank.com
 thanedistrictbank.com
-thanejanata.co.in
 thankscompany.com
 thanksdarling.com
 thanksmama.com
@@ -50636,7 +50477,6 @@ tide76.microsoft.com
 tidygarage.com
 tie.microsoft.com
 tiedomi.com
-tiendaenlineaph.multiply.com
 tigerdirect.com
 tigerfans.com
 tigergps.com
@@ -50696,7 +50536,6 @@ tiny.tw
 tiny123.com
 tinyarro.ws
 tinydogshop.com
-tinylink.onl
 tinypic.com
 tinytw.it
 tinyuri.ca
@@ -50762,7 +50601,6 @@ tnbankers.org
 tnbonline.com
 tncommercebank.com
 tnij.org
-tnlnk.fr
 tnmba.org
 tnmbonline.com
 tns-sifo.se
@@ -50856,7 +50694,6 @@ tourqualityclubmaking.com
 toursupply.com
 touslesprix.com
 touslesstades.fr
-toutatice.fr
 townebank.com
 toy-choice.co.uk
 toy-stores-discounted.com
@@ -50978,7 +50815,6 @@ triggers.wfxtriggers.com
 trilbytropicals.com
 trillmusic.com
 trimmer.to
-trimurl.co
 trinitybank.com
 trioba.com
 triodos.be
@@ -51127,7 +50963,6 @@ twurl.cc
 twurl.nl
 twwc.org
 tylertrends.com
-tyny.to
 tysnes-sparebank.no
 tysonchandler.com
 u-boxit.com
@@ -51262,7 +51097,6 @@ unionbank.com
 unionbank.de
 unionbankjo.com
 unionbankofblair.com
-unionbankofindia.co.in
 unionbankofindia.com
 unionbankonline.co.in
 unionbankph.com
@@ -51387,13 +51221,11 @@ urlbrief.com
 urlcover.com
 urlcut.com
 urldefense.com
-urle.me
 urlenco.de
 urlf.ly
 urlgo.fr
 urlhaus.abuse.ch
 urlhawk.com
-urlik.pl
 urlin.it
 urlkiss.com
 urlot.com
@@ -51403,7 +51235,6 @@ urlr.me
 urlreputation-ch1p.smartscreen.microsoft.com
 urlreputation-sn3p.smartscreen.microsoft.com
 urls.fr
-urlsshares.cc
 urlth.me
 urlx.ie
 urlx.org
@@ -51777,7 +51608,6 @@ vertamedia.com
 vertbaudet.fr
 vertgame.com
 vestfynsbank.dk
-vestiairecollective.com
 vestiairedecopines.com
 vestjyskbank.dk
 vetamerica.com
@@ -51965,7 +51795,6 @@ vintagevending.com
 vintagevixen.com
 vintagevogue.com
 vintagewoodworks.com
-vinted.com
 vinted.fr
 vinted.pl
 vinyltap.co.uk
@@ -52019,7 +51848,6 @@ vivuso.ru
 vixens.00sports.com
 vjdesigns.com
 vjs.zencdn.net
-vk.cc
 vk.com
 vk.ru
 vka.asn.au
@@ -52374,7 +52202,6 @@ vthumb-ak-sf2p.facebook.com
 vthumb-ll-sf2p.facebook.com
 vtkbank.ru
 vtsamples.commondatastorage.googleapis.com
-vu.fr
 vuat.answers.microsoft.com
 vuat.expression.microsoft.com
 vuat.onlinehelp.microsoft.com
@@ -52535,7 +52362,6 @@ wdcp.microsoft.com
 wdcpalt.microsoft.com
 wdig.vo.llnwd.net
 we-stats.com
-we.tl
 wealthbar.com
 wealthfront.com
 wealthsimple.com
@@ -52855,7 +52681,6 @@ wolvpb.com
 womens-sports.com
 womensbasketballmuseum.com
 womensbasketballonline.com
-womenshoops.blogspot.com
 womensnit.com
 womensoccer.com
 wonderbox.fr
@@ -52907,7 +52732,6 @@ worldarena.com
 worldbadminton.com
 worldclassink.com
 worldcricketstore.com
-worldcup.blogs.nytimes.com
 worldcupblog.org
 worldcupyears.com
 worlddelights.com
@@ -53831,7 +53655,6 @@ wyomingmetalworks.com
 wyspagier.pl
 x-kom.pl
 x.co
-x.com
 x.facebook.com
 x.kinja-static.com
 x.nu
@@ -53985,7 +53808,6 @@ yogh.me
 yogiberra.com
 yomi11.com
 yon.ir
-yotpoclicks.com
 youbora.com
 youdoitsecurity.com
 youfap.me
@@ -54113,7 +53935,6 @@ zh-cn.facebook.com
 zh-hk.facebook.com
 zh-tw.facebook.com
 zh-tw.gravatar.com
-zhort.link
 zht.alipay.com
 zhuti.xiaomi.com
 zi.ma
