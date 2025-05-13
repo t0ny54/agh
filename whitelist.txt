@@ -9852,6 +9852,7 @@ bugs.ntp.org
 bugsandbuggies.com
 bugsaway.com
 bugsnag.com
+buhl.de
 buho.link
 bui.st
 buickinvitational.com
@@ -9988,6 +9989,7 @@ bushmans-oil.ch
 busiboutique.com
 business-supply.com
 business.faktura.ru
+business.revolut.com
 businessbump.co.uk
 businesscards.com
 businesschairs.com
@@ -16757,6 +16759,7 @@ docksideradio.com
 docksquareclothiers.com
 docmar.de
 docodoco.jp
+docomo.ne.jp
 docremedio.xyz
 docs.bugsnag.com
 docs.google.com
@@ -29432,6 +29435,7 @@ jbsdollhousesminiatures.com
 jbsmusic.co.uk
 jbswildwyoming.com
 jc-creations.com
+jcb.co.jp
 jcbank.com
 jccowboyworks.com
 jcjbi.com
@@ -36189,6 +36193,7 @@ muenzauktion.info
 muenze.haili.de
 mueritz-sparkasse.de
 muffy-bears.com
+mufg.jp
 mufv.info
 mug-shop.co.uk
 muganbank.az
@@ -40271,6 +40276,7 @@ paypal.com.edgekey.net
 paypal.de
 paypalobjects.com
 paypalobjects.com-a.edgekey.net
+paypay-card.co.jp
 payproglobal.com
 payps.ru
 paysecure.ru
@@ -48970,6 +48976,7 @@ smartyknickers.com
 smashbox.com
 smashgal.com
 smashingmagazine.com
+smbc-card.com
 smbc.co.jp
 smbonline.com
 smcaen.com
@@ -56145,6 +56152,7 @@ vw-bankdirect.de
 vwbankdirect.pl
 vwfl.org.au
 vwfpx.com
+vwfs.de
 vxcash.net
 vxqst.sbs
 vyqqr.com
