@@ -25068,6 +25068,7 @@ gvt1.com
 gvt2.com
 gw.alicdn.com
 gw.alipayobjects.com
+gw.buaa.edu.cn
 gw.line.naver.jp
 gwapi.zee5.com-v2.edgekey.net
 gwbs-tnba.org
