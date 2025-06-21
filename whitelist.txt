@@ -16528,6 +16528,9 @@ discountyarnsale.com
 discover.com
 discovermagazine.com
 discoverthis.com
+discovery-announce-v4.syncthing.net
+discovery-announce-v6.syncthing.net
+discovery-lookup.syncthing.net
 discovery.facebook.com
 discoworlduk.com
 discraft.com
@@ -44435,6 +44438,7 @@ relaxandrecline.com
 relaxetc.com
 relaxetc.stores.yahoo.net
 relaxtheback.com
+relays.syncthing.net
 release.theplatform.com
 releases.flowplayer.org
 relhh.com
