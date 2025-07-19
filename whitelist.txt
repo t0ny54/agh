@@ -15526,6 +15526,7 @@ dc.applicationinsights.microsoft.com
 dc.tmtest.glbdns.microsoft.com
 dcape-na.amazon.com
 dcapsproxy-na.amazon.com
+dcard.docomo.ne.jp
 dcbl.com
 dcbspage.org
 dcc.ng
@@ -16764,7 +16765,6 @@ docksideradio.com
 docksquareclothiers.com
 docmar.de
 docodoco.jp
-docomo.ne.jp
 docremedio.xyz
 docs.bugsnag.com
 docs.google.com
@@ -29444,7 +29444,6 @@ jbsdollhousesminiatures.com
 jbsmusic.co.uk
 jbswildwyoming.com
 jc-creations.com
-jcb.co.jp
 jcbank.com
 jccowboyworks.com
 jcjbi.com
@@ -36205,7 +36204,6 @@ muenzauktion.info
 muenze.haili.de
 mueritz-sparkasse.de
 muffy-bears.com
-mufg.jp
 mufv.info
 mug-shop.co.uk
 muganbank.az
@@ -36428,6 +36426,7 @@ my.europlanbank.ru
 my.facebook.com
 my.helaba.bank
 my.incapsula.com
+my.jcb.co.jp
 my.k-bnk.ru
 my.letobank.ru
 my.matterport.com
