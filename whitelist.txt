@@ -753,6 +753,7 @@
 4uid.com
 4url.cc
 4urphone.com
+4user.yeskey.or.kr
 4view.me
 4wheelerssupply.com
 4windsadventure.com
@@ -11689,6 +11690,8 @@ cert-test.sandbox.google.com
 cert.learningservices.microsoft.com
 cert.mgt.xboxlive.com
 certaintystores.com
+certapi.yeskey.or.kr
+certcld.yeskey.or.kr
 certificateborderpapers.com
 certification.drm.microsoft.com
 certification.isv.drm.microsoft.com
@@ -46691,6 +46694,7 @@ sdk-stockhausen.de
 sdk.accountkit.com
 sdk.privacy-center.org
 sdk.pulse.schibsted.com
+sdk.yeskey.or.kr
 sdkconfig.pulse.schibsted.com
 sdkinlamstedt.de
 sdksupplies.netfirms.com
