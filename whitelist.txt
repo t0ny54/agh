@@ -3941,6 +3941,7 @@ api.vip.miui.com
 api.zaloapp.com
 api2.facebook.com
 api3.siftscience.com
+apigw.tosspayments.com
 apihockey.com
 apikeys.clients6.google.com
 apiman.fr
@@ -22306,6 +22307,7 @@ fromform.jp
 fromne.com
 fromsport.in
 frontdoorfinefoods.com
+frontend-storage.tosspayments.com
 frontera.com
 frontgate.com
 frontier-leisure.co.uk
@@ -35975,6 +35977,7 @@ mpan.microsoft.com
 mpanbeta.microsoft.com
 mparticle.com
 mpartworks.com
+mpay.samsung.com
 mpaycard.ru
 mpex.com
 mpexperts.com
@@ -38857,6 +38860,7 @@ online-geschenk.de
 online-kinderwelt.de
 online-mc.no
 online-metrix.net
+online-payment.kakaopay.com
 online-proshop.com
 online-shop.de
 online-trader.ch
@@ -40237,6 +40241,7 @@ pawsitivelygourmet.com
 pawsox.com
 pax-bank.de
 paxtonhardware.com
+pay-api-gw.kakaopay.com
 pay.aeroflot.ru
 pay.alfabank.ua
 pay.amazon.in
@@ -40258,9 +40263,11 @@ pay.rambler.ru
 pay.sampo.ru
 pay.skrill.com
 pay.smartbank.ua
+pay.toss.im
 pay.vostbank.ru
 pay24.co.il
 payanyway.ru
+payapi-public.toss.im
 payb2b.domru.ru
 paycard.beeline.ru
 payco.com
@@ -40276,6 +40283,7 @@ paylessrugs.com
 paylesssaddles.com
 paylesswigs.com
 paymaster.ru
+payment-gateway.tosspayments.com
 payment.ru
 paymentgate.ru
 payments.braintree-api.com
@@ -54298,7 +54306,6 @@ toshibadirect.com
 toss.im
 tossbank.com
 tossinvest.com
-tosspayments.com
 totaladblock.com
 totallythomas.com
 totalvac.com
