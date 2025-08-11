@@ -11690,6 +11690,7 @@ cerrone.com.au
 cert-test.sandbox.google.com
 cert.learningservices.microsoft.com
 cert.mgt.xboxlive.com
+cert.vno.co.kr
 certaintystores.com
 certapi.yeskey.or.kr
 certcld.yeskey.or.kr
