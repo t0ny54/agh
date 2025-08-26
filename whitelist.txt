@@ -3878,6 +3878,7 @@ api.flexpool.io
 api.geetest.com
 api.getpocket.com
 api.giphy.com
+api.github.com$app=discord.exe
 api.glympse.com
 api.gravatar.com
 api.hh.ru
