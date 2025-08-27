@@ -3281,6 +3281,7 @@ anacapiaestevezortiz.life
 anacon.org
 anacondasports.com
 anadolufinans.com.tr
+anaf.ro
 anaheimpatio.com
 anakmama.com
 analidiaestevezortizs.life
@@ -4016,6 +4017,7 @@ apparelcandy.com
 appareldeals.com
 appbitly.com
 appboot.netflix.com
+appcfg.v.qq.com
 appcloud.ironbeast.io
 appealinglingerie.com
 appelts.ca
@@ -11367,6 +11369,7 @@ cdn-audio-1.medium.com
 cdn-content.ampproject.org
 cdn-eb.syndication.twitter.com
 cdn-gl.imrworldwide.com
+cdn-go.cn
 cdn-images-1.medium.com
 cdn-images-2.medium.com
 cdn-images.mailchimp.com
@@ -11701,6 +11704,7 @@ certification.isv.drm.microsoft.com
 certifiedcoins.com
 certifiedpartscorp.com
 certpartner.one.microsoft.com
+certsign.ro
 cervantes.com
 cesinthi.com
 cetelem-paiement.fr
@@ -16283,6 +16287,7 @@ digipix.de
 digiposter.de
 digiprintuk.com
 digishoping.com
+digisign.ro
 digispotpro.com
 digistore.fr
 digital-camera-online.com
@@ -28536,6 +28541,7 @@ insomniaclothing.co.uk
 insomniagamingfestival.com
 insouth.com
 insparation.com
+inspectiamuncii.ro
 inspirasiancreations.com
 inspiratie.info
 inspirationcreations.com
@@ -40904,6 +40910,7 @@ pg.eazy2pay.com
 pga.com
 pgatour.com
 pgatour.com.au
+pgdt.gtimg.cn
 pggms.sbs
 pghcamex.com
 pgi.billdesk.com
@@ -43045,6 +43052,7 @@ qpcc.com
 qpinteriors.co.uk
 qproquo.com
 qptv.ru
+qq-web.cdn-go.cn
 qqc.co
 qr-code-generator.com
 qr-in.com
@@ -50819,6 +50827,7 @@ static-asm.secure.skypeassets.com
 static-cl.xhcdn.com
 static-ite.paytmbank.com
 static-pepper.dealabs.com
+static-res.qq.com
 static-xl9-ssl.xunlei.com
 static.127777.com
 static.3001.net
@@ -52481,6 +52490,7 @@ tangletoys.com
 tangochocolat.com
 tangocommunications.co.uk
 tangomarket.ru
+tangram-config.gdt.qq.com
 tangygifts.co.uk
 tanicpacks.com
 taniegsm.com.pl
@@ -56424,6 +56434,7 @@ webscores.com
 webseoexpert.life
 webshort.org
 webshortner.com
+websign.ro
 websitespark.microsoft.com
 websterbank.com
 webtrading.onvista-bank.de
