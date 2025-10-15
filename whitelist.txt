@@ -54378,6 +54378,7 @@ tpmr.com
 tprurl.at
 tr.facebook.com
 tr.gravatar.com
+tr.iadsdk.apple.com
 tr.im
 tr.link
 tr.my
