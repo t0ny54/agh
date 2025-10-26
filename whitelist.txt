@@ -1646,6 +1646,7 @@ ad.cr
 ad.dep.no
 ad.doubleclick.net
 ad.hem.no
+ad.mallingeiendommer.no
 ad.nwi.jp
 ad5.eu
 ad7.biz
