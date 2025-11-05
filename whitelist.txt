@@ -10403,6 +10403,8 @@ cabinplace.com
 cabirdnerds.com
 cable-descramblers-unmodified.com
 cable-shop.co.uk
+cable.auth.com
+cable.ua5v.com
 cablecarstore.com
 cableclub.com
 cacart.com
@@ -19108,6 +19110,7 @@ enchereclic.com
 encherevip.com
 encherevip.fr
 encinoll.com
+enclave.ua5v.com
 encorelpmbqs.com
 encoretickets.com
 encre-hermane.fr
