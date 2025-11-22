@@ -54539,6 +54539,7 @@ tracker.opentrackr.org
 tracking.epicgames.com
 tracking.i2w.io
 tracking.magnetmail.net
+trackingservice.monday.com
 trackpw.xyz
 trackurl.link
 trade.paritem.com
