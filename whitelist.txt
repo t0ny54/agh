@@ -8207,6 +8207,7 @@ bitbucket-marketing-cdn.atlassian.com
 bitbucket.io
 bitbucket.org
 bitcoinshortener.top
+bitded.com
 bitebuzzer.com
 bitfinex.com
 bitfly.me
