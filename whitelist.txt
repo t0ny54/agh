@@ -5226,6 +5226,7 @@ auth-relay-pqj6ndd4jq-uc.a.run.app
 auth.be.sec.miui.com
 auth.firebase.google.com
 auth.gfx.ms
+auth.openai.com$app=com.openai.atlas
 authbe.sec.intl.miui.com
 authenticafrica.com
 authenticdesigns.net
@@ -9716,6 +9717,7 @@ brownsbooks.ca
 brownsfashion.com
 brownsflowershop.com
 browntrout.com
+browser-intake-datadoghq.com$app=com.openai.atlas
 browser.events.data.microsoft.com
 browser.mi-img.com
 browser.pipe.aria.microsoft.com
@@ -11997,8 +11999,10 @@ chasseur.co.uk
 chassisshop.com
 chassoprix.com
 chat.cdn.whatsapp.net
+chat.openai.com$app=com.openai.atlas
 chateau-de-fleurs.com
 chaters.co.uk
+chatgpt.com$app=com.openai.atlas
 chatmely.com
 chatswoodshopping.com.au
 chattanoogagifts.com
@@ -20646,6 +20650,7 @@ featherpillow.com
 featherplace.com
 featherwear.com
 featherwings.com
+featureassets.org$app=com.openai.atlas
 featuredeco.co.uk
 featureradiators.co.uk
 fechner-vh.de
@@ -38368,6 +38373,7 @@ o2o.api.xiaomi.com
 o3factor.com
 oa-online.com
 oaglyfoa.com
+oaistatic.com$app=com.openai.atlas
 oak-barrel.com
 oakandivory.com
 oakbarn.biz
@@ -42609,6 +42615,7 @@ prodirect.com.au
 prodjcase.com
 prodorutti-supply.com
 prodreg.microsoft.com
+prodregistryv2.org$app=com.openai.atlas
 productactivation.one.microsoft.com
 productclash.com
 productengr.com
@@ -47243,6 +47250,7 @@ sensualsalts.com
 sentencja.com.pl
 sentiments.com
 sentimentsflowers.com
+sentinel.openai.com$app=com.openai.atlas
 sentire-one.com
 sentry.hotjar.com
 sentry.io
@@ -58353,6 +58361,7 @@ zi.pe
 ziamond.com
 ziffdavis.com
 ziggs.com
+zight-shortner.replit.app
 zik.link
 zimuku.la
 zimy.pw
