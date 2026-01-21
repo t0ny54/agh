@@ -22192,6 +22192,7 @@ firstcu.coop
 firstcu.net
 firstdakota.com
 firstdata.com
+firstdata.com.ar
 firstdaycover.com
 firsteconnect.com
 firstedfcu.com
@@ -27513,6 +27514,7 @@ hb.aibank.co.il
 hb.unionbank.co.il
 hb2.bankleumi.co.il
 hbar.com
+hbc.com
 hbcprotocols.com
 hbdirect.com
 hbdzx.sbs
