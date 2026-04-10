@@ -15507,6 +15507,7 @@ cut.live
 cut.ovh
 cut.pe
 cut.sk
+cut2.eu
 cut2.ir
 cut2link.com
 cutarts.com
@@ -22623,6 +22624,7 @@ flitemate.com
 flitz.com
 flixster.com
 fljerry.com
+flnk.fr
 flo.ru
 floabank.fr
 floapay.fr
